@@ -13,6 +13,9 @@
 
 **We are organising a 3 day "bootcamp" to get people started or become better with Python, Numpy, Astropy, Gammapy, ctapipe, ... as a user or contributor.**
 
+**This will be mostly an MPIK-internal workshop, but everyone is welcome to join!**
+If you come visit, let us know if you need a recommendation for a hotel or want to stay in the MPIK guest house.
+
 There's a wide range of existing skill levels ("never used Python" to "Gammapy
 or ctapipe developer"). We'll have to compromise a bit. We'll start with
 absolute basics on day 1, and go all the way to use Gammapy and ctapipe for some
@@ -23,18 +26,82 @@ https://github.com/gammapy/gammapy-extra/raw/master/presentations/2017-01-13_Gam
 but level and content will be adjusted to make it useful for most people based
 an your replies below.
 
-**This will be mostly an MPIK-internal workshop, but everyone is welcome to join!**
-If you come visit, let us know if you need a recommendation for a hotel or want to stay in the MPIK guest house.
-
 There will be larger Gammapy meeting (at APC Paris the week before, see [2017-02_Paris.md](2017-02_Paris.md)) and ctapipe
 meetings (at MPIK) in the coming months. We also plan to have this be a kick-off
 bootcamp, and then start regular bi-weekly "code café" or "analysis café" where
 we meet for a few hours. More about that later.
 
+# Agenda
+
+We will develop a detailed agenda and post tutorial materials before the workshop. For now, this is a rough outline of what is planned.
+
+The workshop will be very hands-on, basically a series of short explanations /
+demos followed by a small exercise.
+
+## Monday
+
+* Make sure everyone is set up
+    * Install Anaconda: https://www.continuum.io/downloads
+    * This should work: `python -c 'import astropy'`
+    * Download the tutorial materials (mostly IPython notebooks) for day 1.
+* Python:
+    * Python scripts, modules, packages
+    * Python functions in detail
+    * Basics of Python classes
+    * See https://github.com/jakevdp/WhirlwindTourOfPython
+* Scientific Python
+    * IPython terminal and notebook
+    * Numpy and array-oriented cmputing
+    * A few small examples using scipy, matplotlib and pandas
+    * See https://github.com/jakevdp/PythonDataScienceHandbook
+
+## Tuesday
+
+Morning:
+
+* Astropy
+    * FITS and other I/O
+    * Working with images and WCS
+    * Working with tables
+    * Sky coordinates and times
+    * Let us know what you're interested in
+    * See http://www.astropy.org/astropy-tutorials/
+
+Afternoon:
+
+* Short introduction to Gammapy:
+    * See [notebooks](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb) and [docs](http://docs.gammapy.org/en/latest/)
+* Short introduction to ctapipe:
+    * See [notebooks](https://github.com/cta-observatory/ctapipe/tree/master/examples/notebooks) and [docs](https://cta-observatory.github.io/ctapipe/)
+
+## Wednesday
+
+Morning:
+
+* Questions, extras, exercises on topics from last two days,
+  depending on feedback from participants
+* Series of short demos of more advanced packages / topics, e.g.
+    * pytest
+    * Sphinx
+    * Plotting with bokeh
+    * Timing and profiling code
+
+Afternoon:
+
+* From Gammapy / ctapipe user to developer:
+    * Coding with PyCharm, running tests
+    * Conda and pip in more detail (how does install and import work?)
+    * Git and Github - https://guides.github.com/
+    * Everyone makes their first pull request
+
+## Thursday and Friday
+
 If there is interest, we can use Thursday and Friday to split up and into groups
 of 2-3 people and do some detailed discussions or pair coding. E.g. to help you
 to script your H.E.S.S. or CTA science analysis, or to work on a pull request
 for ctapipe or Gammapy to add some feature you want.
+
+Thursday afternoon is a celebration for Heinz Völk.
 
 # Participants
 
@@ -43,20 +110,3 @@ for ctapipe or Gammapy to add some feature you want.
 * [Johannes King](https://github.com/joleroi)
 * [Axel Donath](https://github.com/adonath)
 * [Roberta Zanin](https://github.com/robertazanin)
-
-# Agenda
-
-Will be posted before the meeting.
-
-# Materials
-
-We will develop and post tutorial materials before the workshop. They aren't
-available yet. If you'd like to get started before, you could:
-
-* Install Anaconda: https://www.continuum.io/downloads
-* Learn to use Git and Github: https://guides.github.com/
-* Learn Python: https://github.com/jakevdp/WhirlwindTourOfPython
-* Learn IPython, Numpy, Scipy, ...:https://github.com/jakevdp/PythonDataScienceHandbook
-* Learn Astropy: http://www.astropy.org/astropy-tutorials/
-* Learn about Gammapy (use the development version): [notebooks](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb) and [docs](http://docs.gammapy.org/en/latest/)
-* Learn about ctpipe (use the development version): [notebooks](https://github.com/cta-observatory/ctapipe/tree/master/examples/notebooks) and [docs](https://cta-observatory.github.io/ctapipe/)
