@@ -26,7 +26,7 @@ an your replies below.
 **This will be mostly an MPIK-internal workshop, but everyone is welcome to join!**
 If you come visit, let us know if you need a recommendation for a hotel or want to stay in the MPIK guest house.
 
-There will be larger Gammapy meeting (at APC Paris the week after) and ctapipe
+There will be larger Gammapy meeting (at APC Paris the week before, see [2017-02_Paris.md](2017-02_Paris.md)) and ctapipe
 meetings (at MPIK) in the coming months. We also plan to have this be a kick-off
 bootcamp, and then start regular bi-weekly "code café" or "analysis café" where
 we meet for a few hours. More about that later.
@@ -42,6 +42,7 @@ for ctapipe or Gammapy to add some feature you want.
 * [Jason Watson](https://github.com/watsonjj)
 * [Johannes King](https://github.com/joleroi)
 * [Axel Donath](https://github.com/adonath)
+* [Roberta Zanin](https://github.com/robertazanin)
 
 # Agenda
 
