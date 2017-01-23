@@ -5,8 +5,10 @@
 * End: **Wednesday, March 1, 2017 at 4 pm**
 * Tutorial sessions end on Wednesday. On Thursday and Friday, rooms and offices
   as well as Gammapy and ctapipe experts are available though (see below).
-* Room: Conference room in the library building #12
+* Room:
+    * Monday to Wednesday: Conference room in the library building #12
   (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+    * Thursday / Friday: "Glaskasten" on the second floor of the Bothe lab.
 * Contact: If you have a questions, or would like to join, please email [Christoph Deil](https://github.com/cdeil) and [Jason Watson](https://github.com/watsonjj).
 
 # About
@@ -46,8 +48,10 @@ demos followed by a small exercise.
     * Download the tutorial materials (mostly IPython notebooks) for day 1.
 * Python:
     * Python scripts, modules, packages
+    * Numbers, strings, tuples, lists, dictionaries
     * Python functions in detail
     * Basics of Python classes
+    * Understanding Python errors / exceptions / tracebacks
     * See https://github.com/jakevdp/WhirlwindTourOfPython
 * Scientific Python
     * IPython terminal and notebook
@@ -81,8 +85,8 @@ Morning:
 * Questions, extras, exercises on topics from last two days,
   depending on feedback from participants
 * Series of short demos of more advanced packages / topics, e.g.
-    * pytest
-    * Sphinx
+    * pytest (a [tutorial](https://github.com/jiffyclub/pytest-features))
+    * Sphinx (a [tutorial](https://github.com/cdeil/sphinx-tutorial))
     * Plotting with bokeh
     * Timing and profiling code
 
