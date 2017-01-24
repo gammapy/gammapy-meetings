@@ -6,9 +6,8 @@
 * Tutorial sessions end on Wednesday. On Thursday and Friday, rooms and offices
   as well as Gammapy and ctapipe experts are available though (see below).
 * Room:
-    * Monday to Wednesday: Conference room in the library building #12
-  (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
-    * Thursday / Friday: "Glaskasten" on the second floor of the Bothe lab.
+  * Monday to Wednesday: Conference room in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+  * Thursday / Friday: "Glaskasten" on the second floor of the Bothe lab and offices.
 * Contact: If you have a questions, or would like to join, please email [Christoph Deil](https://github.com/cdeil) and [Jason Watson](https://github.com/watsonjj).
 
 # About
@@ -47,11 +46,14 @@ demos followed by a small exercise.
     * This should work: `python -c 'import astropy'`
     * Download the tutorial materials (mostly IPython notebooks) for day 1.
 * Python:
-    * Python scripts, modules, packages
+    * Develop a mental model how Python variables and code execution works (not like C at all) using http://pythontutor.com/ 
+    * Executing Python scripts and interactive terminal use
     * Numbers, strings, tuples, lists, dictionaries
     * Python functions in detail
     * Basics of Python classes
+    * Python modules, packages, import
     * Understanding Python errors / exceptions / tracebacks
+    * Reading and writing data to files (text, CSV, JSON, YAML)
     * See https://github.com/jakevdp/WhirlwindTourOfPython
 * Scientific Python
     * IPython terminal and notebook
