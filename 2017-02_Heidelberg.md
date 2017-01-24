@@ -116,3 +116,4 @@ Thursday afternoon is a celebration for Heinz Völk.
 * [Johannes King](https://github.com/joleroi)
 * [Axel Donath](https://github.com/adonath)
 * [Roberta Zanin](https://github.com/robertazanin)
+* Sabrina Casanova
