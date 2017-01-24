@@ -117,3 +117,4 @@ Thursday afternoon is a celebration for Heinz Völk.
 * [Axel Donath](https://github.com/adonath)
 * [Roberta Zanin](https://github.com/robertazanin)
 * Sabrina Casanova
+* German Hermann (day 1)
