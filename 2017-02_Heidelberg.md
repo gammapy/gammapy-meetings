@@ -118,3 +118,5 @@ Thursday afternoon is a celebration for Heinz Völk.
 * [Roberta Zanin](https://github.com/robertazanin)
 * Sabrina Casanova
 * German Hermann (day 1)
+* Justus Zorn
+* Daniel Galindo
