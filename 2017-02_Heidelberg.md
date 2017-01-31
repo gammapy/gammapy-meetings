@@ -41,11 +41,17 @@ demos followed by a small exercise.
 
 ## Monday
 
+* We will start the Python class at 9:30 am.
+* If you need to install Python, please come already at 9:00 am.
+* Conference room in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+
+Morning (Christoph Deil):
+
 * Make sure everyone is set up
     * Install Anaconda: https://www.continuum.io/downloads
     * This should work: `python -c 'import astropy'`
     * Download the tutorial materials (mostly IPython notebooks) for day 1.
-* Python:
+* Python
     * Develop a mental model how Python variables and code execution works (not like C at all) using http://pythontutor.com/ 
     * Executing Python scripts and interactive terminal use
     * Numbers, strings, tuples, lists, dictionaries
@@ -55,7 +61,10 @@ demos followed by a small exercise.
     * Understanding Python errors / exceptions / tracebacks
     * Reading and writing data to files (text, CSV, JSON, YAML)
     * See https://github.com/jakevdp/WhirlwindTourOfPython
-* Scientific Python
+
+Afternoon (Daniel Parsons):
+
+* Scientific Python (Daniel Parsons)
     * IPython terminal and notebook
     * Numpy and array-oriented cmputing
     * A few small examples using scipy, matplotlib and pandas
@@ -63,7 +72,7 @@ demos followed by a small exercise.
 
 ## Tuesday
 
-Morning:
+Morning (Axel Donath):
 
 * Astropy
     * FITS and other I/O
@@ -75,9 +84,9 @@ Morning:
 
 Afternoon:
 
-* Short introduction to Gammapy:
+* Short introduction to Gammapy (Axel Donath and Johannes King)
     * See [notebooks](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb) and [docs](http://docs.gammapy.org/en/latest/)
-* Short introduction to ctapipe:
+* Short introduction to ctapipe (Jason Watson)
     * See [notebooks](https://github.com/cta-observatory/ctapipe/tree/master/examples/notebooks) and [docs](https://cta-observatory.github.io/ctapipe/)
 
 ## Wednesday
@@ -89,7 +98,7 @@ Morning:
 * Series of short demos of more advanced packages / topics, e.g.
     * pytest (a [tutorial](https://github.com/jiffyclub/pytest-features))
     * Sphinx (a [tutorial](https://github.com/cdeil/sphinx-tutorial))
-    * Plotting with bokeh
+    * Plotting with bokeh (Jason Watson)
     * Timing and profiling code
 
 Afternoon:
