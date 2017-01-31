@@ -1,4 +1,6 @@
-# Summary
+# Python for gamma-ray astronomy bootcamp (Feb 2017, MPIK, Heidelberg)
+
+## Summary
 
 * Location: [MPIK Heidelberg](https://www.mpi-hd.mpg.de/mpi/en/start/).
 * Start: **Monday, Feb 27, 2017 at 9 am**
@@ -10,7 +12,7 @@
   * Thursday / Friday: "Glaskasten" on the second floor of the Bothe lab and offices.
 * Contact: If you have a questions, or would like to join, please email [Christoph Deil](https://github.com/cdeil) and [Jason Watson](https://github.com/watsonjj).
 
-# About
+## About
 
 **We are organising a 3 day "bootcamp" to get people started or become better with Python, Numpy, Astropy, Gammapy, ctapipe, ... as a user or contributor.**
 
@@ -32,14 +34,14 @@ meetings (at MPIK) in the coming months. We also plan to have this be a kick-off
 bootcamp, and then start regular bi-weekly "code café" or "analysis café" where
 we meet for a few hours. More about that later.
 
-# Agenda
+## Agenda
 
 We will develop a detailed agenda and post tutorial materials before the workshop. For now, this is a rough outline of what is planned.
 
 The workshop will be very hands-on, basically a series of short explanations /
 demos followed by a small exercise.
 
-## Monday
+### Monday
 
 * We will start the Python class at 9:30 am.
 * If you need to install Python, please come already at 9:00 am.
@@ -70,7 +72,7 @@ Afternoon (Daniel Parsons):
     * A few small examples using scipy, matplotlib and pandas
     * See https://github.com/jakevdp/PythonDataScienceHandbook
 
-## Tuesday
+### Tuesday
 
 Morning (Axel Donath):
 
@@ -89,7 +91,7 @@ Afternoon:
 * Short introduction to ctapipe (Jason Watson)
     * See [notebooks](https://github.com/cta-observatory/ctapipe/tree/master/examples/notebooks) and [docs](https://cta-observatory.github.io/ctapipe/)
 
-## Wednesday
+### Wednesday
 
 Morning:
 
@@ -109,7 +111,7 @@ Afternoon:
     * Git and Github - https://guides.github.com/
     * Everyone makes their first pull request
 
-## Thursday and Friday
+### Thursday and Friday
 
 If there is interest, we can use Thursday and Friday to split up and into groups
 of 2-3 people and do some detailed discussions or pair coding. E.g. to help you
@@ -118,7 +120,7 @@ for ctapipe or Gammapy to add some feature you want.
 
 Thursday afternoon is a celebration for Heinz Völk.
 
-# Participants
+## Participants
 
 All MPIK except where noted.
 
