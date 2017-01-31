@@ -111,12 +111,14 @@ Thursday afternoon is a celebration for Heinz Völk.
 
 # Participants
 
+All MPIK except where noted.
+
 * [Christoph Deil](https://github.com/cdeil)
 * [Jason Watson](https://github.com/watsonjj)
 * [Johannes King](https://github.com/joleroi)
 * [Axel Donath](https://github.com/adonath)
 * [Roberta Zanin](https://github.com/robertazanin)
 * Sabrina Casanova
-* German Hermann (day 1)
+* German Hermann (day 1 only)
 * Justus Zorn
-* Daniel Galindo
+* Daniel Galindo (Universitat de Barcelona)
