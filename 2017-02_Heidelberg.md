@@ -37,6 +37,7 @@ we meet for a few hours. More about that later.
 ## Prepare
 
 To prepare for day 1, please do the following two steps:
+
 1. Install software
 2. Download materials
 
