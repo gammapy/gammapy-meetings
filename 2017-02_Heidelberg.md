@@ -34,6 +34,65 @@ meetings (at MPIK) in the coming months. We also plan to have this be a kick-off
 bootcamp, and then start regular bi-weekly "code café" or "analysis café" where
 we meet for a few hours. More about that later.
 
+## Prepare
+
+To prepare for day 1, please do the following two steps:
+1. Install software
+2. Download materials
+
+### 1. Install software
+
+Please come with your laptop and software already installed. We recommend you
+install Anaconda from https://www.continuum.io/downloads . Feel free to ask for
+help with installation in person or via email before the workshop. Or come early
+on day one and we'll help you get set up.
+
+*(Using a Python installation on a server (e.g. lfs1 at MPIK) is possible, but
+probably won't work well, because we will use Jupyter notebooks a lot, and
+experience shows that using them via a remote server is difficult to set up and
+often slow and unpleasant to use, i.e. not a good solution to get started.)*
+
+To check that your installation and setup is OK, try to exectue the following Python code:
+* `print('hello world!')`
+* `import numpy`
+* `import scipy`
+* `import matplotlib`
+* `import astropy`
+
+If you get an `ImportError` you don't have all the software we will use.
+
+Try to execute `print('hello world')` from three places:
+1. Python terminal (type `python` to start)
+2. IPython terminal (type `ipython` to start)
+3. IPython notebook (= Jupyter notebook) (type `ipython notebook` or `jupyter notebook` to start)
+
+You can find instructions how to do the installation and how to start Python and IPython and execute your first Python code here:
+
+* Section 1 ("Introduction", install section at the bottom) and 2 ("How to run Python code") from ["A Whirlwind Tour of Python"](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
+* More information for IPython (how to start and execute notebooks) is available in Chapter 1 of the ["Python Data Science Handbook"](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+
+### 2. Download materials
+
+* Make a directory on your computer where you'll put everything, e.g.:
+    * `mkdir python-tutorials`
+    * `cd python-tutorials`
+* Get the tutorial materials, i.e. the Jupyter notebooks from Jake's courses:
+   * https://github.com/jakevdp/WhirlwindTourOfPython
+   * https://github.com/jakevdp/PythonDataScienceHandbook
+* As for any Github repo, you can get it via `git clone`:
+  * `git clone https://github.com/jakevdp/WhirlwindTourOfPython.git`
+  * `git clone https://github.com/jakevdp/PythonDataScienceHandbook.git`
+* Or you can get the current version of the files as a zip file:
+  * ` wget https://github.com/jakevdp/WhirlwindTourOfPython/archive/master.zip`
+  * `unzip master.zip`
+
+This is all you will need for day 1.
+
+For day 2 and 3 there will be other Python packages for you to install
+(Gammapy, ctapipe, ...) and tutorial materials and example datasets to download.
+Instructions for those will follow.
+
+
 ## Agenda
 
 We will develop a detailed agenda and post tutorial materials before the workshop. For now, this is a rough outline of what is planned.
@@ -43,34 +102,30 @@ demos followed by a small exercise.
 
 ### Monday
 
-* We will start the Python class at 9:30 am.
-* If you need to install Python, please come already at 9:00 am.
+* We will start the Python class at **9:30 am**.
 * Conference room in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+* If you need with setup, please come already at **9:00 am**.
+* See the instructions for software installation and how to download materials above in the "Prepare" section.
 
-Morning (Christoph Deil):
+Morning session on "Python" (Christoph Deil):
 
-* Make sure everyone is set up
-    * Install Anaconda: https://www.continuum.io/downloads
-    * This should work: `python -c 'import astropy'`
-    * Download the tutorial materials (mostly IPython notebooks) for day 1.
-* Python
-    * Develop a mental model how Python variables and code execution works (not like C at all) using http://pythontutor.com/ 
-    * Executing Python scripts and interactive terminal use
-    * Numbers, strings, tuples, lists, dictionaries
-    * Python functions in detail
-    * Basics of Python classes
-    * Python modules, packages, import
-    * Understanding Python errors / exceptions / tracebacks
-    * Reading and writing data to files (text, CSV, JSON, YAML)
-    * See https://github.com/jakevdp/WhirlwindTourOfPython
+* Basically the plan is that we go through part of the material from ["A Whirlwind Tour of Python"](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) and do a combination of presentation, demos and exercises. Questions are welcome at any time! Let me know if I should go faster, slower or move on to something else.
+* Make sure everyone is set up (see section "Prepare" above)
+* Executing Python scripts and interactive terminal use
+* Numbers, strings, tuples, lists, dictionaries
+* Develop a mental model how Python variables and code execution works (not like C at all) using http://pythontutor.com/ 
+* Python functions (in some detail)
+* Python classes (basics)
+* Python modules, packages, import
+* Understanding Python errors / exceptions / tracebacks
+* Maybe: Reading and writing data to files (text, CSV, JSON, YAML)
 
-Afternoon (Daniel Parsons):
+Afternoon session on "Scientific Python" (Daniel Parsons):
 
-* Scientific Python (Daniel Parsons)
-    * IPython terminal and notebook
-    * Numpy and array-oriented cmputing
-    * A few small examples using scipy, matplotlib and pandas
-    * See https://github.com/jakevdp/PythonDataScienceHandbook
+* IPython terminal and notebook
+* Numpy and array-oriented cmputing
+* A few examples using scipy, matplotlib and pandas
+* See https://github.com/jakevdp/PythonDataScienceHandbook
 
 ### Tuesday
 
