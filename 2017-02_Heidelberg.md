@@ -114,12 +114,24 @@ Morning session on "Python" (Christoph Deil):
 * Make sure everyone is set up (see section "Prepare" above)
 * Executing Python scripts and interactive terminal use
 * Numbers, strings, tuples, lists, dictionaries
-* Develop a mental model how Python variables and code execution works (not like C at all) using http://pythontutor.com/ 
 * Python functions (in some detail)
 * Python classes (basics)
 * Python modules, packages, import
 * Understanding Python errors / exceptions / tracebacks
 * Maybe: Reading and writing data to files (text, CSV, JSON, YAML)
+
+Usually Python code is very intuitive and easy to understand. But we haven't
+really explained how Python works today. If you come from a C / C++ background,
+or if you take a step back and think about how Python code execution really
+works, some things (especially how "variables" work) might blow your mind.
+
+If you'd like to develop a mental model of how Python works, or learn a bit how
+it's wired together in the background to make it work the way it does, I
+recommend you study the following resources:
+
+* http://foobarnbaz.com/2012/07/08/understanding-python-variables/
+* Code execution visualisations at http://pythontutor.com/
+* [Python epiphanies notebook](http://nbviewer.jupyter.org/github/oreillymedia/python_epiphanies/blob/master/Python-Epiphanies-All.ipynb)
 
 Afternoon session on "Scientific Python" (Daniel Parsons):
 
