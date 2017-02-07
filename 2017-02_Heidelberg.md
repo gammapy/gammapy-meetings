@@ -8,7 +8,7 @@
 * Tutorial sessions end on Wednesday. On Thursday and Friday, rooms and offices
   as well as Gammapy and ctapipe experts are available though (see below).
 * Room:
-  * Monday to Wednesday: Conference room in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), up the stairs, to the right)
+  * Monday to Wednesday: Central seminar room in the library building #12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), ground floor, to the right)
   * Thursday / Friday: "Glaskasten" on the second floor of the Bothe lab and offices.
 * Contact: If you have a questions, or would like to join, please email [Christoph Deil](https://github.com/cdeil) and [Jason Watson](https://github.com/watsonjj).
 
@@ -200,6 +200,8 @@ All MPIK except where noted.
 * Sabrina Casanova
 * German Hermann (day 1 only)
 * Justus Zorn
-* Daniel Galindo (Universitat de Barcelona)
 * [Ruben Lopez-Coto](https://github.com/rlopezcoto)
 * Alba Fernandez-Barral
+
+* Kester Smith (MPIA)
+* Daniel Galindo (Universitat de Barcelona)
