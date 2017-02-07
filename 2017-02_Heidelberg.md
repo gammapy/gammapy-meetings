@@ -201,3 +201,5 @@ All MPIK except where noted.
 * German Hermann (day 1 only)
 * Justus Zorn
 * Daniel Galindo (Universitat de Barcelona)
+* [Ruben Lopez-Coto](https://github.com/rlopezcoto)
+* Alba Fernandez-Barral
