@@ -190,7 +190,7 @@ Thursday afternoon is a celebration for Heinz Völk.
 
 ## Participants
 
-All MPIK except where noted.
+MPIK:
 
 * [Christoph Deil](https://github.com/cdeil)
 * [Jason Watson](https://github.com/watsonjj)
@@ -203,5 +203,8 @@ All MPIK except where noted.
 * [Ruben Lopez-Coto](https://github.com/rlopezcoto)
 * Alba Fernandez-Barral
 
-* Kester Smith (MPIA)
+Extern:
+
+* Kester Smith (MPIA, Heidelberg)
 * Daniel Galindo (Universitat de Barcelona)
+* Stefan Eschbach (University of Erlangen)
