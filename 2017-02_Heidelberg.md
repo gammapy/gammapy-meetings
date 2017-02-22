@@ -65,7 +65,7 @@ If you get an `ImportError` you don't have all the software we will use.
 Try to execute `print('hello world')` from three places:
 1. Python terminal (type `python` to start)
 2. IPython terminal (type `ipython` to start)
-3. IPython notebook (= Jupyter notebook) (type `ipython notebook` or `jupyter notebook` to start)
+3. IPython notebook (= Jupyter notebook) (type `jupyter-notebook` to start)
 
 You can find instructions how to do the installation and how to start Python and IPython and execute your first Python code here:
 
@@ -83,18 +83,16 @@ You can find instructions how to do the installation and how to start Python and
 * As for any Github repo, you can get it via `git clone`:
   * `git clone https://github.com/jakevdp/WhirlwindTourOfPython.git`
   * `git clone https://github.com/jakevdp/PythonDataScienceHandbook.git`
-* Or you can get the current version of the files as a zip file:
-  * ` wget https://github.com/jakevdp/WhirlwindTourOfPython/archive/master.zip`
-  * `unzip master.zip`
 
 This is all you will need for day 1.
 
-For day 2 and 3 there will be other Python packages for you to install
-(Astropy, Gammapy, ctapipe, ...) and tutorial materials and example datasets to download.
+For day 2 and 3 there will be other Python packages for you to install (Astropy,
+Gammapy, ctapipe, ...) and tutorial materials and example datasets to download.
 
-For Gammapy, you will have to get the development version of Gammapy (clone from Github, as well as the `gammapy-extra` repository, which contains the
-example datasets and Jupyter notebooks.
-Instructions how to do this are given in the `setup` section here:
+For Gammapy, you will have to get the development version of Gammapy (clone from
+Github, as well as the `gammapy-extra` repository, which contains the example
+datasets and Jupyter notebooks. Instructions how to do this are given in the
+`setup` section here:
 http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb
 
 
