@@ -190,21 +190,17 @@ Thursday afternoon is a celebration for Heinz Völk.
 
 ## Participants
 
-MPIK:
-
+* Alba Fernandez-Barral
+* [Axel Donath](https://github.com/adonath)
 * [Christoph Deil](https://github.com/cdeil)
+* German Hermann (day 1 only)
 * [Jason Watson](https://github.com/watsonjj)
 * [Johannes King](https://github.com/joleroi)
-* [Axel Donath](https://github.com/adonath)
-* [Roberta Zanin](https://github.com/robertazanin)
-* Sabrina Casanova
-* German Hermann (day 1 only)
 * Justus Zorn
+* Pooja Surajbali
+* [Roberta Zanin](https://github.com/robertazanin)
 * [Ruben Lopez-Coto](https://github.com/rlopezcoto)
-* Alba Fernandez-Barral
-
-Extern:
-
+* Sabrina Casanova
 * Kester Smith (MPIA, Heidelberg)
 * Daniel Galindo (Universitat de Barcelona)
 * Stefan Eschbach (University of Erlangen)
