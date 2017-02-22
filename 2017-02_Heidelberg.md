@@ -90,8 +90,12 @@ You can find instructions how to do the installation and how to start Python and
 This is all you will need for day 1.
 
 For day 2 and 3 there will be other Python packages for you to install
-(Gammapy, ctapipe, ...) and tutorial materials and example datasets to download.
-Instructions for those will follow.
+(Astropy, Gammapy, ctapipe, ...) and tutorial materials and example datasets to download.
+
+For Gammapy, you will have to get the development version of Gammapy (clone from Github, as well as the `gammapy-extra` repository, which contains the
+example datasets and Jupyter notebooks.
+Instructions how to do this are given in the `setup` section here:
+http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb
 
 
 ## Agenda
