@@ -197,6 +197,7 @@ Thursday afternoon is a celebration for Heinz Völk.
 * [Christoph Deil](https://github.com/cdeil)
 * Daniel Galindo (Universitat de Barcelona)
 * German Hermann (day 1 only)
+* Giada Peron
 * Harm Schoorlemmer
 * [Jason Watson](https://github.com/watsonjj)
 * [Johannes King](https://github.com/joleroi)
