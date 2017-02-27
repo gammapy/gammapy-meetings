@@ -8,6 +8,10 @@ table = Table.read(url)
 table.sort('Signif_Avg')
 
 cols = ['Source_Name', 'CLASS', 'ASSOC1', 'GLON', 'GLAT', 'Signif_Avg', 'Flux']
-table2 = table[cols][:10]
+# The following three indexing operations `[...]` do this:
+# - select subset of columns
+# - select last 10 rows
+# - reverse table row order
+table2 = table[cols][-10:][::-1]
 
-table2.write('fermi_3fhl.csv', format='ascii.csv')
+table2.write('fermi_3fhl.csv', format='ascii.csv', overwrite=True)
