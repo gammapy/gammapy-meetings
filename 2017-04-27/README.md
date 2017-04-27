@@ -1,7 +1,7 @@
 # Gammapy Telcon
 
 * Thursday, April 27, 2017 at 11 am
-* CTA eZuce, no password, guests allowed -> anyone interested welcome to join!
+* CTA eZuce, password "dcgammapy" -> anyone interested welcome to join!
 
 ## Bruno: introduction
 
@@ -32,6 +32,7 @@ Updates:
   Next release 0.7 very soon (before 1DC data release), in the coming weeks.
 * A lot has happened in the past few months in Gammapy:
   https://gammapy.readthedocs.io/en/latest/changelog.html
+  (will add PRs from the past weeks today before making the release).
 * There has also been some work on the data format specs: 
   https://gamma-astro-data-formats.readthedocs.io/en/latest/
     * Tarek Hassan added HDUCLASS header keys and support for energy-dependent
