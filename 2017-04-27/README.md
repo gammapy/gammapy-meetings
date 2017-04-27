@@ -10,7 +10,7 @@
 * Sign up on the Gammapy mailing list for announcements:
   https://groups.google.com/forum/#!forum/gammapy
 
-## Roberta: infos on CTA 1DC 
+## Roberta: infos on CTA 1DC slides: gammapy-meetings/2017-04-27/20170427_Gammapy_DC.pdf
 
 * CTA 1DC wiki page: https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki
 
