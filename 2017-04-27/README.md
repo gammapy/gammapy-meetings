@@ -13,6 +13,7 @@
 ## Roberta: infos on CTA 1DC 
 
 * Slides: [20170427_Gammapy_DC.pdf](20170427_Gammapy_DC.pdf)
+  (removed for now, because CTA-DC is a CTA-internal affair. Contact Roberta if you're interested)
 * CTA 1DC wiki page: https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki
 
 
