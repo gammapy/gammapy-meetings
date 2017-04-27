@@ -11,7 +11,7 @@
   https://groups.google.com/forum/#!forum/gammapy
 
 ## Roberta: infos on CTA 1DC 
-* slides:  https://github.com/gammapy/gammapy-meetings/2017-04-27/20170427_Gammapy_DC.pdf
+* slides:  https://github.com/gammapy/gammapy-meetings/blob/master/2017-04-27/20170427_Gammapy_DC.pdf
 
 * CTA 1DC wiki page: https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki
 
