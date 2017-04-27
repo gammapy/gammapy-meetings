@@ -20,14 +20,14 @@
 Basic info:
 * Docs: https://gammapy.readthedocs.io/en/latest/
 * Tutorials: https://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/index.ipynb
- 
+
 
 Updates:
 
 * Will make Gammapy 0.6 release later today:
   https://github.com/gammapy/gammapy/milestones/0.6
 * Plan to make releases more often now.
-  Next release 0.7 very soon (before 1DC release), in the coming weeks.
+  Next release 0.7 very soon (before 1DC data release), in the coming weeks.
 * A lot has happened in the past few months in Gammapy:
   https://gammapy.readthedocs.io/en/latest/changelog.html
 * There has also been some work on the data format specs: 
@@ -41,7 +41,7 @@ Updates:
 
 High priority (for 1DC):
 
-* Rewrite 3D Background models (current class is broken)
+* Rewrite 3D Background models (current class is broken) ([GH 947](https://github.com/gammapy/gammapy/issues/947))
 * Write documentation examples how to analyse the data.
     * For now all we have is this one tutorial: https://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/notebooks/cta_data_analysis.ipynb 
     * It uses some preliminary test data (in a very similar format that will be used for 1DC)
@@ -57,12 +57,12 @@ High priority (for 1DC):
 
 For the coming months:
 
-* Support energy-dependenty on region in spectral analysis (for MAGIC, CTA)
+* Support energy-dependency on region in spectral analysis (for MAGIC, CTA)
 * Matthew Wood and I are working on merging maps classes
   (WCS and HEALPIX based)
 * A lot of small and medium issues and features and cleanup
   https://github.com/gammapy/gammapy/milestones/0.7
-* Write Gammapy paper before the summer break
+* Another f2f meeting before the summer break? Gammapy paper also. 
 
 ## Discussion
 
