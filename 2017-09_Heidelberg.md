@@ -24,9 +24,10 @@ a good way during this sprint.
 
 ## Participants
 
-If you'd like to join, email Christoph or add yourself to the list directly:
+If you'd like to join, email [Christoph Deil](https://github.com/cdeil) or add yourself to the list directly:
 
-* [Christoph Deil](https://github.com/cdeil)
-* [Johannes King](https://github.com/joleroi)
 * [Roberta Zanin](https://github.com/robertazanin)
+* Sabrina Casanova
+* [Johannes King](https://github.com/joleroi)
 * [Bruno Khelifi](https://github.com/bkhelifi)
+* [Christoph Deil](https://github.com/cdeil)
