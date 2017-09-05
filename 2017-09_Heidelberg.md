@@ -31,3 +31,5 @@ If you'd like to join, email [Christoph Deil](https://github.com/cdeil) or add y
 * [Johannes King](https://github.com/joleroi)
 * [Bruno Khelifi](https://github.com/bkhelifi)
 * [Christoph Deil](https://github.com/cdeil)
+* [Julien Lefaucheur](https://github.com/jjlk)
+* [Enrique Mestre Guillén](https://github.com/emestregui)
