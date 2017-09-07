@@ -3,9 +3,10 @@
 ## Summary
 
 * We'll do a 2-day Gammapy coding sprint at MPIK Heidelberg.
+    * Start: **Thursday, September 21, 2017 at 9 am**
+    * End: **Friday, September 22, 2017 at 4 pm**
+    * Remote connection info: see below
 * Location: [MPIK Heidelberg](https://www.mpi-hd.mpg.de/mpi/en/start/).
-* Start: **Thursday, September 21, 2017 at 9 am**
-* End: **Friday, September 22, 2017 at 4 pm**
 * Of course you can come or leave earlier that week to make it fit in your schedule. Note that Monday - Wednesday that week there will be the [CTA PHYS working group meeting at MPIK](https://indico.cta-observatory.org/event/1471/).
 * Room: Central seminar room in the library building number 12 (see [MPIK site map](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/), ground floor, to the right)
 * Lunch: we'll go to the EMBL cantine together.
@@ -33,3 +34,17 @@ If you'd like to join, email [Christoph Deil](https://github.com/cdeil) or add y
 * [Christoph Deil](https://github.com/cdeil)
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Enrique Mestre Guillén](https://github.com/emestregui)
+
+## Remote connection
+
+For all of Thursday, we have a remote connection booked on eZuce.
+It's on the CTA account, but open guest access, connection info here:
+https://gist.github.com/cdeil/f52193828ea108ff697cf708ba7eb5a6
+
+So far, we don't plan to use it much though, but if you can't
+come but would like to discuss something, please let us know and we'll connect.
+
+Planned discusions on eZuce:
+
+* Thursday, Sep 21 at 6 pm CEST: [Matthew Wood](https://github.com/woodmd) - Introducing [gammapy.maps](http://docs.gammapy.org/en/latest/maps/index.html)
+  * Discussion on features, API, and how to use it in Gammapy and Fermipy
