@@ -34,6 +34,7 @@ If you'd like to join, email [Christoph Deil](https://github.com/cdeil) or add y
 * [Christoph Deil](https://github.com/cdeil)
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Enrique Mestre Guillén](https://github.com/emestregui)
+* Yves Gallant
 
 ## Remote connection
 
