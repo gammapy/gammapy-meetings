@@ -16,10 +16,12 @@
   * http://gammapy.org/goto/#gammapy-cta-1dc-docs
   * Started to write a new notebook: [cta_1dc_introduction.ipynb](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/notebooks/cta_1dc_introduction.ipynb)
   * Plan is to have (at least) two notebooks for next week: introducation & analysis. Help / more notebooks welcome!
+  * Started to do a few checks / all-sky maps here: https://github.com/gammasky/cta-dc/tree/master/data
 * Sensitivity computation (Bruno)
   * `from gammapy.scripts import SensitivityEstimator`
   * Slides: [Meeting_DC_20180911.pdf](Meeting_DC_20180911.pdf)
 * Next steps (All)
+  * High-priority developments needed: Background3D class & Model classes with XML
   * CTA PHYS meeting next week (Sep 18-20):
     * https://indico.cta-observatory.org/event/1471/?ovw=True
     * Anyone have time to run a Gammapy analysis and present first impressions?
