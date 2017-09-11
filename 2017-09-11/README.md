@@ -14,11 +14,11 @@
   * Released August 30 via email to all CTA members
   * https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki
   * http://gammapy.org/goto/#gammapy-cta-1dc-docs
-* HESS test data release update (Christoph)
-  * TODO: link to new FITS files and status of tests / remaining tasks.
-* TBC: energy dispersion and safe energy threshold (Cosimo, Julien, Johannes)
-* TBC: sensitivity computation (Bruno)
-* You: issues, feature requests, analysis results, ...!???
+  * Started to write a new notebook: [cta_1dc_introduction.ipynb](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/notebooks/cta_1dc_introduction.ipynb)
+  * Plan is to have (at least) two notebooks for next week: introducation & analysis. Help / more notebooks welcome!
+* Sensitivity computation (Bruno)
+  * `from gammapy.scripts import SensitivityEstimator`
+  * Slides: [Meeting_DC_20180911.pdf](Meeting_DC_20180911.pdf)
 * Next steps (All)
   * CTA PHYS meeting next week (Sep 18-20):
     * https://indico.cta-observatory.org/event/1471/?ovw=True
