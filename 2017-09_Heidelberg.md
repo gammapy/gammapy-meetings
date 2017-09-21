@@ -49,3 +49,4 @@ Planned discusions on eZuce:
 
 * Thursday, Sep 21 at 6 pm CEST: [Matthew Wood](https://github.com/woodmd) - Introducing [gammapy.maps](http://docs.gammapy.org/en/latest/maps/index.html)
   * Discussion on features, API, and how to use it in Gammapy and Fermipy
+  * Slides: [2017-09-21/gammapy_maps_overview.pdf](2017-09-21/gammapy_maps_overview.pdf)
