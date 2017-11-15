@@ -7,9 +7,9 @@
 
 * Installation of a Coordination Committee: Bruno
 * Gammapy update: Christoph
-* Data Challenge: Stefan Funk
 * 1DC User feedbacks:
-    * 
+    * AGN: Julien Lefaucheur
+    * PeVatron: Cyril Trichard 
     * AoB?
 * AoB (questions and discussion)
 
