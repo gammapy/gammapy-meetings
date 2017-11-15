@@ -6,6 +6,7 @@ Not all of those meetings are strongly focused on Gammapy, there's a range of
 activities from "Python bootcamps" where Gammapy was one topic to full "Gammapy
 coding sprints".
 
+* [2017-11-17](2017-11-17/README.md) - Gammapy telcon
 * [2017-11-03](2017-11-03/README.md) - Gammapy telcon (the 1st of the regular calls)
 * [2017-09_Heidelberg](2017-09_Heidelberg.md) -- Gammapy coding sprint (Sep 21-22, Heidelberg)
 * [2017-09-11](2017-09-11/README.md) - Gammapy telcon
