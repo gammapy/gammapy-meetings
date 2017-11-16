@@ -10,6 +10,7 @@
 * 1DC User feedbacks:
     * AGN: Julien Lefaucheur
     * PeVatron: Cyril Trichard 
+    * DC1 & RXJ : Fabio Acero
     * AoB?
 * AoB (questions and discussion)
 
