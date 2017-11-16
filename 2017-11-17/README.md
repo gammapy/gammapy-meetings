@@ -22,3 +22,5 @@
   If you're interested but not signed up yet, do it now!
 * You can also join the (non-public) Gammapy Slack if you want
   to chat about your questions / analysis or join Gammapy development.
+*  gammasky/cta-analyses: A private repo where CTA analyses can be shared.
+    https://github.com/gammasky/cta-analyses
