@@ -8,9 +8,9 @@
 * Installation of a Coordination Committee: Bruno
 * Gammapy update: Christoph
 * 1DC User feedbacks:
-    * AGN: Julien Lefaucheur
     * PeVatron: Cyril Trichard 
     * DC1 & RXJ : Fabio Acero
+    * GPS: Yves Gallant
     * AoB?
 * AoB (questions and discussion)
 
