@@ -9,6 +9,22 @@
 * Gammapy update: Christoph
   * See info in the "reminder" section below about docs, tutorials, communication channels and private repositories.
     Note that we aim to improve and document our setup in the coming weeks (see comments by Bruno).
+  * No v0.7 release yet. Bug report for "classical analysis" (1-dim spectra & 2-dim maps) from CTA analyses
+    keep coming in, and are being fixed one by one. These remain: https://github.com/gammapy/gammapy/milestone/10
+  * Recent developments:
+    * Several PRs with fixes and improvements to `gammapy.maps`
+    * Fix for ring background estimation merged 4 days ago: [GH 1204](https://github.com/gammapy/gammapy/pull/1204)
+      More work going on to understand background estimation for CTA (see presentation by Fabio)
+    * First PR started in the direction of collaboration between Gammapy and ctapipe yesterday: [GH 1211](https://github.com/gammapy/gammapy/pull/1211)
+    * Some work re-started on point-like IRFs from CTA by Julien and Tarek:
+      * https://github.com/gammapy/gammapy-extra/pull/83
+      * https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/88
+    * Astropy paper 2 is well-advanced: https://groups.google.com/forum/#!topic/astropy-dev/JNWdWfp2YcU
+    * New Astropy APE on shared WCS that Matthew and I should look and see if it's relevant for the `WCSGeom`
+      class in `gammapy.maps`: https://github.com/astropy/astropy-APEs/pull/34
+  * Generally: there's a lot of work to be done. If you have time, please get in touch.
+    If you're already a Gammapy contributor, please focus on https://github.com/gammapy/gammapy/milestone/10
+    and on finishing up pull requests if you have any open.
 * 1DC User feedbacks:
     * PeVatron: Cyril Trichard 
     * DC1 & RXJ : Fabio Acero
