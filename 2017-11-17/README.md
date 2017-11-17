@@ -13,6 +13,7 @@
     * DC1 & RXJ : Fabio Acero
     * AoB?
 * AoB (questions and discussion)
+    * PSF for use with Sherpa
 
 ## Reminder
 
