@@ -12,7 +12,6 @@
 * 1DC User feedbacks:
     * PeVatron: Cyril Trichard 
     * DC1 & RXJ : Fabio Acero
-    * GPS: Yves Gallant
     * AoB?
 * AoB (questions and discussion)
     * PSF for use with Sherpa (Yves Gallant)
