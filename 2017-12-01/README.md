@@ -12,7 +12,7 @@
 * CTA DC1 analysis coordination : Roberta
 * Users Contributions:
     * Analysis of LS I 61 + 303 from the CTA DC1 : Lab
-    * Binder : Enrique (TBC)
+    * Binder : Jose Enrique
     * AoB?
 
 ## Reminder
