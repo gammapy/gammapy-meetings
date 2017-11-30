@@ -8,6 +8,8 @@
 * Report of the CC: Bruno
     * Organisation
     * Coding Sprint
+        * February 5th, 14h to the 9th, 12h, 2018, and hosted in FACe, Paris.
+        * Infos see [here](../2018-02-05).
 * Gammapy update: Christoph
     * A few issues that came up from CTA DC-1 analyses have been fixed:
         * GH 1195 - Change IRF extrapolation behaviour
