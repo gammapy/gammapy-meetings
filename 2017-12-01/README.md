@@ -38,16 +38,19 @@
               https://github.com/gammapy/gammapy/milestone/10
             * We have several pull requests open, but I think these are some we should try to get in ASAP:
                 * Christoph: [GH 93](https://github.com/gammapy/gammapy-extra/pull/93) - Add conda env file for gammapy-tutorial; use it from Dockerfile
+                * Bruno: [GH 1140](https://github.com/gammapy/gammapy/pull/1140) - Improve spectral point upper limit options
                 * Julien: [GH 1214](https://github.com/gammapy/gammapy/pull/1214) - Add e_reco user binning for point-like simulation
         * There's many things small and large to do in Gammapy.
           If anyone has time to help, but you're not sure where to start, please get in contact
           and we'll team you up with a "mentor" that will help you make a contribution/pull request
           and get it reviewed / merged promptly!
 * CTA DC1 analysis coordination : Roberta
-* Users Contributions:
-    * Analysis of LS I 61 + 303 from the CTA DC1 : Lab
-    * Binder : Jose Enrique
-    * AoB?
+    * See https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/Current_capabilities_and_limitations_of_the_analysis_tools
+* Analysis of LS I 61 + 303 from the CTA DC1 : Lab
+    * See https://github.com/gammasky/cta-analyses/tree/master/folded_light_curve
+* Binder : Jose Enrique
+    * See https://github.com/gammapy/gammapy-extra#binder
+* AoB?
 
 ## Reminder
 
