@@ -1,10 +1,14 @@
 # Gammapy Coding Sprint, APC, Paris
 
 The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, and hosted in **FACe, Paris**.
- 
-You can find the access details [here](http://www.apc.univ-paris7.fr/FACe/en/directions). The FACe is in the third floor of the building, a signage will be installed.
+
+**Everyone is welcome**, whether you're new or experienced with Python. But note that this is not a school or user workshop. We will start with a few overview and status presentations for Gammapy and maybe do some tutorials on software development, but most of the week will be free time for discussions and coding in small groups.
+
+You can find many information (address, public transportation, etc) for your venue[here](http://www.apc.univ-paris7.fr/FACe/en/directions). The FACe is in the third floor of the building, a signage will be installed. For the subway, do not hesitate to buy a week ticket!
 
 Coffee breaks will be prepared and many restaurants are available around for the lunches. Wifi connections will be present, Eduroam but also a local connection _**`under request`**_ (please contact us).
+
+For the accommodation, we advice you to search for promotions on your favorite Hotel Booker.
 
 ## Contact persons
   * Bruno Khelifi: [khelifi@in2p3.fr](mailto:khelifi@in2p3.fr)
