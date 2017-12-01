@@ -51,7 +51,10 @@
 * Analysis of LS I 61 + 303 from the CTA DC1 : Lab
     * See https://github.com/gammasky/cta-analyses/tree/master/folded_light_curve
 * Binder : Jose Enrique
-    * See https://github.com/gammapy/gammapy-extra#binder
+    * Service Homepage: https://mybinder.org
+    * Documentation: https://mybinder.readthedocs.io/en/latest/
+    * Badged Gammapy Tutorials: http://www.iaa.es/~jer/gammapydocs/tutorials.html
+    * Gammapy-extra Github repo: https://github.com/gammapy/gammapy-extra#binder
 * AoB?
 
 ## Reminder
