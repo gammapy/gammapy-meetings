@@ -49,7 +49,9 @@
 * CTA DC1 analysis coordination : Roberta
     * See https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/Current_capabilities_and_limitations_of_the_analysis_tools
 * Analysis of LS I 61 + 303 from the CTA DC1 : Lab
-    * See https://github.com/gammasky/cta-analyses/tree/master/folded_light_curve
+    * Slides: https://github.com/gammasky/cta-analyses/blob/master/folded_light_curve/LSI_gammapy.pdf
+    * Notebook and files: https://github.com/gammasky/cta-analyses/tree/master/folded_light_curve
+    * If you don't have access to the `cta-analyses` repo: type your Github username in the chat window, and we'll give you access.
 * Binder : Jose Enrique
     * Service Homepage: https://mybinder.org
     * Documentation: https://mybinder.readthedocs.io/en/latest/
