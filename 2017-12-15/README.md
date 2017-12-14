@@ -5,7 +5,7 @@
 
 # Agenda
 
-* To be defined
+* News from the Coordination Committee
 
 ## Reminder
 
