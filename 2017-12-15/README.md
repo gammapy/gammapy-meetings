@@ -6,6 +6,7 @@
 # Agenda
 
 * News from the Coordination Committee
+* Ecut spectral reconstruction for RXJ1713 with MC_ID selection (Fabio, [link](https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/rx_j1713)) 
 
 ## Reminder
 
