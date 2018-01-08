@@ -28,6 +28,11 @@ Please contact us to make proposals of discussions, studies and common developme
  * Régis Terrier, APC, IN2P3/CNRS, France
  * Christoph Deil, MPIK Heidelberg, Germany 
  * Roberta Zanin, MPIK Heidelberg, Germany
+ * Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
+ * Karl Kosack, SAP, CEA, France (@kosack)
+ * Michael Punch, APC, IN2P3/CNRS, France (@mdpunch)
+ * Atreyee Sinha, APC, IN2P3/CNRS (@AtreyeeS)
+ * Marion Jacob, APC, IN2P3/CNRS (@msjacob)
  * etc
 
 
