@@ -37,4 +37,5 @@ Please contact us to make proposals of discussions, studies and common developme
  * Atreyee Sinha, APC, IN2P3/CNRS, France (@AtreyeeS)
  * Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
  * Oscar Blanch, IFAE, Barcelona, Spain (@)
+ * Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
  * etc
