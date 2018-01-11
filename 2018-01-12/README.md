@@ -49,6 +49,12 @@
     [click intro](https://dbader.org/blog/python-commandline-tools-with-click),
     [click advanced](https://dbader.org/blog/mastering-click-advanced-python-command-line-apps)
     (refresh the page or click the grey "X" in the top right to get rid of the email sign-up notification)
+  * Click was written by [Arnim Ronacher](https://en.wikipedia.org/wiki/Armin_Ronacher) (the creator of Flask) in 2014.
+    It has been stable since, is pure Python (just a dozen `.py` files we could copy to `gammapy.extern`
+    if we want to avoid an external dependency) and is now maintained at https://github.com/pallets/click/.
+    The docs at http://click.pocoo.org/ are pretty extensive and good,
+    the [screencast](http://click.pocoo.org/5/quickstart/#screencast-and-examples]
+    by Armin is also a nice introduction to click (but starts with `setup.py`, i.e. is not for beginners).
   * Before choosing click for Gammapy, Axel and I did look at argparse and cliff as well.
     Let's look at the simple examples at [python-cli-examples](https://github.com/cdeil/python-cli-examples/)
   * To briefly explain what we have in Gammapy, see [here](http://docs.gammapy.org/dev/scripts/index.html#implementation).
