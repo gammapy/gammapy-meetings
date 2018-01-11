@@ -23,7 +23,7 @@
     Done in [GH 1240](https://github.com/gammapy/gammapy/pull/1240).
     See [gammapy.scripts docs page](http://docs.gammapy.org/dev/scripts/index.html) for information what
     we have, as well as some thoughts on what we could do for CLI or high-level interface in Gammapy in
-    the future. See the sections on [liminations](http://docs.gammapy.org/dev/scripts/index.html#limitations)
+    the future. See the sections on [limitations](http://docs.gammapy.org/dev/scripts/index.html#limitations)
     and [plan](http://docs.gammapy.org/dev/scripts/index.html#plan). What do we want?
     Feel free to give feedback today in the call, or any time later. Probably we should spend quite some
     time to discuss overall code organisation and this question of high-level interface extensively at the
@@ -40,9 +40,24 @@
   * Gammapy coding sprint in Paris Feb 5-9, see [here](../2018-02-05).
     If you can come, please sign up!
 * Short tutorial: Python command line interfaces (CLIs) with click (Christoph)
-  * tbd
+  * In Gammapy, we now have a single multi-command "gammapy" with sub-commands like "gammapy info",
+    implemented using Click in ``gammapy.scripts`` (see [here](http://docs.gammapy.org/dev/scripts/index.html))
+  * I thought I'd talk for 5 minutes about this, in case some of you are interested to write their
+    own CLIs in Python, or even contribute to the Gammapy CLI (by wrapping more functionality).
+  * If you've never written a CLI in Python, here's a nice series of tutorials:
+    [sys.argv](https://dbader.org/blog/how-to-make-command-line-commands-with-python),
+    [click intro](https://dbader.org/blog/python-commandline-tools-with-click),
+    [click advanced](https://dbader.org/blog/mastering-click-advanced-python-command-line-apps)
+    (refresh the page or click the grey "X" in the top right to get rid of the email sign-up notification)
+  * Before choosing click for Gammapy, Axel and I did look at argparse and cliff as well.
+    Let's look at the simple examples at [python-cli-examples](https://github.com/cdeil/python-cli-examples/)
+  * To briefly explain what we have in Gammapy, see [here](http://docs.gammapy.org/dev/scripts/index.html#implementation).
+  * Any questions about Python CLIs generally or click specifically?
+  * Any comments on what you'd like to have as high-level user interface for Gammapy?
+    Would you use a Gammapy CLI or are you happy to write Python scripts and think implementing it is a waste of time?
 * Discussion (all)
-  * tbd
+  * Anyone wants to present next week?
+  * Anything else?
 
 ## Reminder
 
