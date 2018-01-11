@@ -13,27 +13,28 @@ For the accommodation, we advice you to search for promotions on your favorite H
 The regular gammapy call before this meeting will be dedicated to discuss and prepare the meeting (topics on which you wish to focus your main contribution).
 
 ## Contact persons
-  * Bruno Khelifi: [khelifi@in2p3.fr](mailto:khelifi@in2p3.fr)
-  * Régis Terrier: [rterrier@apc.in2p3.fr](mailto:rterrier@apc.in2p3.fr)
-  * Delphine Failly-Leyrit (Secretary): [dfailly@apc.in2p3.fr](mailto:dfailly@apc.in2p3.fr) 
+
+* Bruno Khelifi: [khelifi@in2p3.fr](mailto:khelifi@in2p3.fr)
+* Régis Terrier: [rterrier@apc.in2p3.fr](mailto:rterrier@apc.in2p3.fr)
+* Delphine Failly-Leyrit (Secretary): [dfailly@apc.in2p3.fr](mailto:dfailly@apc.in2p3.fr)
 
 ## Topics to study
+
 Please contact us to make proposals of discussions, studies and common development.
-  * Exemple: make_cube.py
+
+* Exemple: make_cube.py
     * B. Khelifi, ...
-  * AoB
+* AoB
 
 ## Registered Participants
- * Bruno Khelifi, APC, IN2P3/CNRS, France
- * Régis Terrier, APC, IN2P3/CNRS, France
- * Christoph Deil, MPIK Heidelberg, Germany 
- * Roberta Zanin, MPIK Heidelberg, Germany
- * Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
- * Karl Kosack, SAP, CEA, France (@kosack)
- * Michael Punch, APC, IN2P3/CNRS, France (@mdpunch)
- * Atreyee Sinha, APC, IN2P3/CNRS (@AtreyeeS)
- * Marion Jacob, APC, IN2P3/CNRS (@msjacob)
- * etc
 
-
-
+* Bruno Khelifi, APC, IN2P3/CNRS, France
+* Régis Terrier, APC, IN2P3/CNRS, France
+* Christoph Deil, MPIK Heidelberg, Germany
+* Roberta Zanin, MPIK Heidelberg, Germany
+* Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
+* Karl Kosack, SAP, CEA, France (@kosack)
+* Michael Punch, APC, IN2P3/CNRS, France (@mdpunch)
+* Atreyee Sinha, APC, IN2P3/CNRS (@AtreyeeS)
+* Marion Jacob, APC, IN2P3/CNRS (@msjacob)
+* etc
