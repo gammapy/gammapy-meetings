@@ -61,8 +61,9 @@ The coordinators will contact interested people to organise the work before and 
  * Michael Punch, APC, IN2P3/CNRS, France (@mdpunch)
  * Atreyee Sinha, APC, IN2P3/CNRS, France (@AtreyeeS)
  * Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
- * Oscar Blanch, IFAE, Barcelona, Spain (@)
+ * Oscar Blanch, IFAE, Barcelona, Spain (@oscarblanchbigas)
  * Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
  * Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
  * Julien Lefaucheur, SAP, CEA, France (@jjlk)
+ * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
  * etc
