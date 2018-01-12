@@ -6,11 +6,13 @@ The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, 
 
 You can find many information (address, public transportation, etc) for your venue [here](http://www.apc.univ-paris7.fr/FACe/en/directions). The FACe is in the third floor of the building, a signage will be installed. For the subway, do not hesitate to buy a week ticket!
 
-Coffee breaks will be prepared and many restaurants are available around for the lunches. Wifi connections will be present, Eduroam but also a local connection _**`under request`**_ (please contact us).
+Coffee breaks will be prepared and many restaurants are available around for the lunches. Wifi connections will be present, Eduroam but also a local connection _**`under request`**_ (please contact us). If you need an invitation letter, please ask us.
 
 For the accommodation, we advice you to search for promotions on your favorite Hotel Booker.
 
 The regular gammapy call before this meeting will be dedicated to discuss and prepare the meeting (topics on which you wish to focus your main contribution).
+
+Several rooms will be available, allowing parallel work for different groups.
 
 ## Contact persons
 
@@ -19,12 +21,35 @@ The regular gammapy call before this meeting will be dedicated to discuss and pr
 * Delphine Failly-Leyrit (Secretary): [dfailly@apc.in2p3.fr](mailto:dfailly@apc.in2p3.fr)
 
 ## Topics to study
-
 Please contact us to make proposals of discussions, studies and common development.
 
-* Exemple: make_cube.py
-    * B. Khelifi, ...
-* AoB
+Current list of topics, contact names and interested persons:
+* Sensitivity scripts: B. Khelifi
+  * M. Punch
+* High Level Interface: C. Deil
+  * R. Terrier, B. Khelifi, ...
+* Light Curves: J. Lefaucheur
+  * Z. Bosnjak
+* Modelling: C. Deil
+  * R. Terrier
+* Sky Maps: R. Terrier
+  * B. Khelifi, A. Lemiere, E. Sinha
+* Spectrum:
+* Documentation: R. Zanin
+
+The coordinators will contact interested people to organise the work before and during the meeting. They will list also the GitHub OpenIssues related to their topics in order to close them.
+
+## Preliminary Agenda
+* Monday afternoon
+  * Round table discussion about individual/labs contributions (all)
+  * Description of the PIGs (C. Deil)
+* Tuesday morning:
+  * Tutorial by C. Deil for beginners to medium level developers: “how to contribute to Gammapy”  (including Python coding/testing/docs/git/Github)
+* Wednesday morning
+  * Tutorial by C. Deil for medium-level dev.: "Python and testing (code structure), application to Gammapy"
+* Wednesday evening: social diner
+* Thursday morning: 
+  * Tutorial by C. Deil for medium-level dev.: "git/github/code review" (including tools, github branches, pull requests)
 
 ## Registered Participants
  * Bruno Khelifi, APC, IN2P3/CNRS, France
@@ -38,4 +63,6 @@ Please contact us to make proposals of discussions, studies and common developme
  * Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
  * Oscar Blanch, IFAE, Barcelona, Spain (@)
  * Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
+ * Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
+ * Julien Lefaucheur, SAP, CEA, France (@jjlk)
  * etc
