@@ -66,4 +66,6 @@ The coordinators will contact interested people to organise the work before and 
  * Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
  * Julien Lefaucheur, SAP, CEA, France (@jjlk)
  * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
+ * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
+ * Gabriel Emery, LPNHE, IN2P3/CNRS, France ()
  * etc
