@@ -70,4 +70,6 @@ Several rooms will be available, allowing parallel work for different groups.
  * Gabriel Emery, LPNHE, IN2P3/CNRS, France ()
  * Andreas Zech, LUTh, INSU/CNRS, France ()
  * Fabio Acero, SAP, CEA, France (@facero)
+ * Anne Lemière, APC, IN2P3/CNRS, France ()
+ * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
  * etc
