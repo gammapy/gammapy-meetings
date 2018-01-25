@@ -20,37 +20,30 @@ Several rooms will be available, allowing parallel work for different groups.
 * Régis Terrier: [rterrier@apc.in2p3.fr](mailto:rterrier@apc.in2p3.fr)
 * Delphine Failly-Leyrit (Secretary): [dfailly@apc.in2p3.fr](mailto:dfailly@apc.in2p3.fr)
 
-## Topics to study
-Please contact us to make proposals of discussions, studies and common development.
-
-Current list of topics, contact names and interested persons:
-* Sensitivity scripts: B. Khelifi
-  * M. Punch
-* High Level Interface: C. Deil
-  * R. Terrier, B. Khelifi, ...
-* Light Curves: J. Lefaucheur
-  * Z. Bosnjak
-* Modelling: C. Deil
-  * R. Terrier
-* Sky Maps: R. Terrier
-  * B. Khelifi, A. Lemiere, E. Sinha
-* Spectrum:
-* Documentation: R. Zanin
-
-The coordinators will contact interested people to organise the work before and during the meeting. They will list also the GitHub OpenIssues related to their topics in order to close them.
-
 ## Preliminary Agenda
 * Monday afternoon
+  * Description of the PIGs: C. Deil
+  * Topics to study
+    * High Level Interface: C. Deil
+    * Sky Maps: R. Terrier
+    * Modelling: C. Deil
+    * Spectrum: R. Terrier
+    * Light Curves: J. Lefaucheur
+    * Sensitivity scripts: B. Khelifi
+    * Documentation: R. Zanin
+    * AoB
   * Round table discussion about individual/labs contributions (all)
-  * Description of the PIGs (C. Deil)
-* Tuesday morning:
-  * Tutorial by C. Deil for beginners to medium level developers: “how to contribute to Gammapy”  (including Python coding/testing/docs/git/Github)
+  * DC Analysis: R. Zanin
+* Tuesday morning
+  * Tutorial by C. Deil for beginners to medium level developers
 * Wednesday morning
-  * Tutorial by C. Deil for medium-level dev.: "Python and testing (code structure), application to Gammapy"
+  * Tutorial by C. Deil for medium-level dev.
 * Wednesday evening: social diner
-* Thursday morning: 
-  * Tutorial by C. Deil for medium-level dev.: "git/github/code review" (including tools, github branches, pull requests)
-
+* Thursday morning 
+  * Tutorial by C. Deil for medium-level dev.
+* Thursday afternoon 
+  * Development plan
+  
 ## Registered Participants
  * Bruno Khelifi, APC, IN2P3/CNRS, France
  * Régis Terrier, APC, IN2P3/CNRS, France
@@ -68,4 +61,5 @@ The coordinators will contact interested people to organise the work before and 
  * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
  * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
  * Gabriel Emery, LPNHE, IN2P3/CNRS, France ()
+ * Andreas Zech, LUTh, INSU/CNRS, France ()
  * etc

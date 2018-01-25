@@ -5,7 +5,10 @@
 
 # Agenda
 
-* To be defined
+* CC composition: BK
+* Dev. news: CD
+* Coding Sprint: CD, BK
+* Meetings dates: BK
 
 ## Reminder
 
