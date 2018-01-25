@@ -9,6 +9,7 @@
 * Dev. news: CD
 * Coding Sprint: CD, BK
 * Meetings dates: BK
+* 3D analysis of the Crab: Enrique Mestre
 
 ## Reminder
 
