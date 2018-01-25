@@ -62,4 +62,5 @@ Several rooms will be available, allowing parallel work for different groups.
  * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
  * Gabriel Emery, LPNHE, IN2P3/CNRS, France ()
  * Andreas Zech, LUTh, INSU/CNRS, France ()
+ * Fabio Acero, SAP, CEA, France (@facero)
  * etc
