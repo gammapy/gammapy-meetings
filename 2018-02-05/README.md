@@ -22,27 +22,35 @@ Several rooms will be available, allowing parallel work for different groups.
 
 ## Preliminary Agenda
 * Monday afternoon
-  * Description of the PIGs: C. Deil
-  * Topics to study
-    * High Level Interface: C. Deil
-    * Sky Maps: R. Terrier
-    * Modelling: C. Deil
+  * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
+    * General Gammapy status update (C. Deil)
+    * Gammapy in CTA; 1DC R. Zanin
+    * Gammapy in HESS; test data release and joint Crab paper (C. Deil)
+    * Sky Maps (TODO: add link to PIG): R. Terrier
+    * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
     * Light Curves: J. Lefaucheur
     * Sensitivity scripts: B. Khelifi
+    * High Level Interface: C. Deil
     * Documentation: R. Zanin
-    * AoB
+    * AoB, email Bruno if you want to discuss or present something!
   * Round table discussion about individual/labs contributions (all)
-  * DC Analysis: R. Zanin
-* Tuesday morning
-  * Tutorial by C. Deil for beginners to medium level developers
-* Wednesday morning
-  * Tutorial by C. Deil for medium-level dev.
-* Wednesday evening: social diner
-* Thursday morning 
-  * Tutorial by C. Deil for medium-level dev.
-* Thursday afternoon 
-  * Development plan
+* Tuesday
+  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Afternoon: work in small groups
+* Wednesday
+  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Afternoon: work in small groups
+  * Social diner
+* Thursday 
+  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Afternoon:
+    * Overview upcoming meetings / activities for Gammapy (CTA, HESS, next coding sprint): R.Zanin
+    * Group discussion and planning for the next months
+    * Decide date for next Gammapy coding sprint
+    * Then continue work in small groups
+* Friday
+  * Work in small groups
   
 ## Registered Participants
  * Bruno Khelifi, APC, IN2P3/CNRS, France
