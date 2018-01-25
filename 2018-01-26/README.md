@@ -23,12 +23,13 @@
   * No activity / progress on the [cross-check analyses](https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/Current_capabilities_and_limitations_of_the_analysis_tools#Test-casestargets)
     Please analyse 1DC data with Gammapy and report what works and doesn't work!
 * Coding Sprint: CD, BK
+  * Please visit this link: https://github.com/gammapy/gammapy-meetings/tree/master/2018-02-05
 * Meetings dates: BK
+  * Next regular meeting: the 16th of February
   * We'd like to make good progress with Gammapy development in 2018,
     and do a second coding sprint before the summer break, in June or July,
     probably at MPIK Heidelberg.
     If you might be interested, please fill this form: https://goo.gl/forms/493orc8xrkg1QQYK2
-* 3D analysis of the Crab: Enrique Mestre
 
 ## Reminder
 
