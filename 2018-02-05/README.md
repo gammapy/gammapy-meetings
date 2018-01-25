@@ -25,7 +25,6 @@ Several rooms will be available, allowing parallel work for different groups.
   * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
     * General Gammapy status update (C. Deil)
     * Gammapy in CTA; 1DC R. Zanin
-    * Gammapy in HESS; test data release and joint Crab paper (C. Deil)
     * Sky Maps (TODO: add link to PIG): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
@@ -45,7 +44,7 @@ Several rooms will be available, allowing parallel work for different groups.
 * Thursday 
   * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
   * Afternoon:
-    * Overview upcoming meetings / activities for Gammapy (CTA, HESS, next coding sprint): R.Zanin
+    * Overview upcoming meetings / activities for Gammapy (CTA, next coding sprint): R.Zanin
     * Group discussion and planning for the next months
     * Decide date for next Gammapy coding sprint
     * Then continue work in small groups
