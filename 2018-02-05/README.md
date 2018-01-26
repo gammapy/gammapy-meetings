@@ -31,6 +31,7 @@ Several rooms will be available, allowing parallel work for different groups.
     * Light Curves: J. Lefaucheur
     * Sensitivity scripts: B. Khelifi
     * High Level Interface: C. Deil
+    * IRFs: K. Kosack
     * Documentation: R. Zanin
     * AoB, email Bruno if you want to discuss or present something!
   * Round table discussion about individual/labs contributions (all)
@@ -71,5 +72,6 @@ Several rooms will be available, allowing parallel work for different groups.
  * Andreas Zech, LUTh, INSU/CNRS, France ()
  * Fabio Acero, SAP, CEA, France (@facero)
  * Anne Lemière, APC, IN2P3/CNRS, France ()
- * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
+ * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ()
+ * Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
  * etc
