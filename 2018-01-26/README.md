@@ -35,7 +35,7 @@
 
 * Gammapy docs: http://docs.gammapy.org
 * Gammapy webpage: http://gammapy.org/
-* Gammapy development: github.com/gammapy/gammapy
+* Gammapy development: https://github.com/gammapy/gammapy
 
 Next Gammapy meetings: http://gammapy.org/news.html
 
