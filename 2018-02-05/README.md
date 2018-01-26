@@ -72,4 +72,5 @@ Several rooms will be available, allowing parallel work for different groups.
  * Fabio Acero, SAP, CEA, France (@facero)
  * Anne Lemière, APC, IN2P3/CNRS, France ()
  * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
+ * Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
  * etc
