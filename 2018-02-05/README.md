@@ -74,7 +74,6 @@ Several rooms will be available, allowing parallel work for different groups.
  * Anne Lemière, APC, IN2P3/CNRS, France ()
  * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ()
  * Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
- * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
  * Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
  * Matteo Cerruti, LPNHE, IN2P3/CNRS, France (@mcerruti)
  * Yves Gallant, LUPM, IN2P3/CNRS, France ()
