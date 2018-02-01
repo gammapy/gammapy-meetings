@@ -54,28 +54,27 @@ Several rooms will be available, allowing parallel work for different groups.
   * Work in small groups
   
 ## Registered Participants
- * Bruno Khelifi, APC, IN2P3/CNRS, France
- * Régis Terrier, APC, IN2P3/CNRS, France
- * Christoph Deil, MPIK Heidelberg, Germany 
- * Roberta Zanin, MPIK Heidelberg, Germany
- * Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
- * Karl Kosack, SAP, CEA, France (@kosack)
- * Atreyee Sinha, APC, IN2P3/CNRS, France (@AtreyeeS)
- * Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
- * Oscar Blanch, IFAE, Barcelona, Spain (@oscarblanchbigas)
- * Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
- * Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
- * Julien Lefaucheur, SAP, CEA, France (@jjlk)
- * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
- * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
- * Gabriel Emery, LPNHE, IN2P3/CNRS, France (@gabemery)
- * Andreas Zech, LUTh, INSU/CNRS, France ()
- * Fabio Acero, SAP, CEA, France (@facero)
- * Anne Lemière, APC, IN2P3/CNRS, France ()
- * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ()
- * Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
- * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
- * Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
- * Matteo Cerruti, LPNHE, IN2P3/CNRS, France (@mcerruti)
- * Yves Gallant, LUPM, IN2P3/CNRS, France ()
- * etc
+
+1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
+1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
+1. Christoph Deil, MPIK Heidelberg, Germany ([cdeil](https://github.com/cdeil))
+1. Roberta Zanin, MPIK Heidelberg, Germany ([robertazanin](https://github.com/robertazanin))
+1. Zeljka Bosnjak, Zagreb Univ., Croatia ([bosnjak](https://github.com/bosnjak))
+1. Karl Kosack, SAP, CEA, France ([kosack](https://github.com/kosack))
+1. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
+1. Marion Jacob, APC, IN2P3/CNRS, France ([msjacob](https://github.com/msjacob))
+1. Oscar Blanch, IFAE, Barcelona, Spain ([oscarblanchbigas](https://github.com/oscarblanchbigas))
+1. Catherine Boisson, LUTh, INSU/CNRS, France ([cboisson](https://github.com/cboisson))
+1. Kai Bruegge, Dortmund Univ., Germany ([mackaiver](https://github.com/mackaiver))
+1. Julien Lefaucheur, SAP, CEA, France ([jjlk](https://github.com/jjlk))
+1. Léa Jouvin, IFAE, Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
+1. Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France ([jlenain](https://github.com/jlenain))
+1. Gabriel Emery, LPNHE, IN2P3/CNRS, France ([gabemery](https://github.com/gabemery))
+1. Andreas Zech, LUTh, INSU/CNRS, France (???)
+1. Fabio Acero, SAP, CEA, France ([facero](https://github.com/facero))
+1. Anne Lemière, APC, IN2P3/CNRS, France (???)
+1. Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ([Bultako](https://github.com/Bultako))
+1. Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
+1. Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden ([mdpunch](https://github.com/mdpunch))
+1. Matteo Cerruti, LPNHE, IN2P3/CNRS, France ([mcerruti](https://github.com/mcerruti))
+1. Yves Gallant, LUPM, IN2P3/CNRS, France ([gallanty](https://github.com/gallanty))
