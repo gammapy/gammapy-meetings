@@ -68,7 +68,7 @@ Several rooms will be available, allowing parallel work for different groups.
  * Julien Lefaucheur, SAP, CEA, France (@jjlk)
  * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
  * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
- * Gabriel Emery, LPNHE, IN2P3/CNRS, France ()
+ * Gabriel Emery, LPNHE, IN2P3/CNRS, France (@gabemery)
  * Andreas Zech, LUTh, INSU/CNRS, France ()
  * Fabio Acero, SAP, CEA, France (@facero)
  * Anne Lemière, APC, IN2P3/CNRS, France ()
@@ -76,6 +76,6 @@ Several rooms will be available, allowing parallel work for different groups.
  * Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
  * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain () 
  * Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
- * Matteo Cerruti, LPNHE, IN2P3/CNRS, France ()
+ * Matteo Cerruti, LPNHE, IN2P3/CNRS, France (@mcerruti)
  * Yves Gallant, LUPM, IN2P3/CNRS, France ()
  * etc
