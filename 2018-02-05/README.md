@@ -54,27 +54,27 @@ Several rooms will be available, allowing parallel work for different groups.
   * Work in small groups
   
 ## Registered Participants
- * Bruno Khelifi, APC, IN2P3/CNRS, France
- * Régis Terrier, APC, IN2P3/CNRS, France
- * Christoph Deil, MPIK Heidelberg, Germany 
- * Roberta Zanin, MPIK Heidelberg, Germany
- * Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
- * Karl Kosack, SAP, CEA, France (@kosack)
- * Atreyee Sinha, APC, IN2P3/CNRS, France (@AtreyeeS)
- * Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
- * Oscar Blanch, IFAE, Barcelona, Spain (@oscarblanchbigas)
- * Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
- * Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
- * Julien Lefaucheur, SAP, CEA, France (@jjlk)
- * Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
- * Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
- * Gabriel Emery, LPNHE, IN2P3/CNRS, France (@gabemery)
- * Andreas Zech, LUTh, INSU/CNRS, France ()
- * Fabio Acero, SAP, CEA, France (@facero)
- * Anne Lemière, APC, IN2P3/CNRS, France ()
- * Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ()
- * Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
- * Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
- * Matteo Cerruti, LPNHE, IN2P3/CNRS, France (@mcerruti)
- * Yves Gallant, LUPM, IN2P3/CNRS, France ()
- * etc
+
+1. Bruno Khelifi, APC, IN2P3/CNRS, France
+1. Régis Terrier, APC, IN2P3/CNRS, France
+1. Christoph Deil, MPIK Heidelberg, Germany 
+1. Roberta Zanin, MPIK Heidelberg, Germany
+1. Zeljka Bosnjak, Zagreb Univ., Croatia (@bosnjak)
+1. Karl Kosack, SAP, CEA, France (@kosack)
+1. Atreyee Sinha, APC, IN2P3/CNRS, France (@AtreyeeS)
+1. Marion Jacob, APC, IN2P3/CNRS, France (@msjacob)
+1. Oscar Blanch, IFAE, Barcelona, Spain (@oscarblanchbigas)
+1. Catherine Boisson, LUTh, INSU/CNRS, France (@cboisson)
+1. Kai Bruegge, Dortmund Univ., Germany (@mackaiver)
+1. Julien Lefaucheur, SAP, CEA, France (@jjlk)
+1. Léa Jouvin, IFAE, Barcelona, Spain (@JouvinLea)
+1. Jean-Philippe Lenain, LPNHE, IN2P3/CNRS, France (@jlenain)
+1. Gabriel Emery, LPNHE, IN2P3/CNRS, France (@gabemery)
+1. Andreas Zech, LUTh, INSU/CNRS, France ()
+1. Fabio Acero, SAP, CEA, France (@facero)
+1. Anne Lemière, APC, IN2P3/CNRS, France ()
+1. Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ()
+1. Arache Djannati-Atai, APC, IN2P3/CNRS, France ()
+1. Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden (@mdpunch)
+1. Matteo Cerruti, LPNHE, IN2P3/CNRS, France (@mcerruti)
+1. Yves Gallant, LUPM, IN2P3/CNRS, France ()
