@@ -22,20 +22,20 @@ Several rooms will be available, allowing parallel work for different groups.
 
 ## Preliminary Agenda
 * Monday afternoon
+  * Round table discussion about 1-min participant introduction and contributions (all)
   * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
     * General Gammapy status update (C. Deil)
     * Gammapy in CTA; 1DC R. Zanin
     * Gammapy in HESS; test data release and joint Crab paper (C. Deil)
+    * IRFs: K. Kosack
     * Sky Maps (TODO: add link to PIG): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
     * Light Curves: J. Lefaucheur
     * Sensitivity scripts: B. Khelifi
     * High Level Interface: C. Deil
-    * IRFs: K. Kosack
     * Documentation: R. Zanin
     * AoB, email Bruno if you want to discuss or present something!
-  * Round table discussion about individual/labs contributions (all)
 * Tuesday
   * Morning: [Gammapy developer tutorial (C. Deil)](https://github.com/gammapy/gammapy-dev-tutorial); or work in small groups
   * Afternoon: work in small groups
