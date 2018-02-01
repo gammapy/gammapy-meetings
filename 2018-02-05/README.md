@@ -37,14 +37,14 @@ Several rooms will be available, allowing parallel work for different groups.
     * AoB, email Bruno if you want to discuss or present something!
   * Round table discussion about individual/labs contributions (all)
 * Tuesday
-  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Morning: [Gammapy developer tutorial (C. Deil)](https://github.com/gammapy/gammapy-dev-tutorial); or work in small groups
   * Afternoon: work in small groups
 * Wednesday
-  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Morning: [Gammapy developer tutorial (C. Deil)](https://github.com/gammapy/gammapy-dev-tutorial); or work in small groups
   * Afternoon: work in small groups
   * Social diner
 * Thursday 
-  * Morning: Gammapy contributor tutorial (C. Deil); or work in small groups
+  * Morning: [Gammapy developer tutorial (C. Deil)](https://github.com/gammapy/gammapy-dev-tutorial); or work in small groups
   * Afternoon:
     * Overview upcoming meetings / activities for Gammapy (CTA, next coding sprint): R.Zanin
     * Group discussion and planning for the next months
