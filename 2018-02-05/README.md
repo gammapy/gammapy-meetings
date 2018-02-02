@@ -27,7 +27,7 @@ Several rooms will be available, allowing parallel work for different groups.
     * General Gammapy status update (C. Deil)
     * Gammapy in CTA; 1DC R. Zanin
     * Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT (C. Deil)
-    * IRFs: K. Kosack
+    * [IRFs: K. Kosack](./kosack_IRFs.pdf)
     * Sky Maps (TODO: add link to PIG): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
