@@ -1,6 +1,6 @@
 # Gammapy Coding Sprint, APC, Paris
 
-The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, and hosted in **FACe, Paris**.
+The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, and hosted in **FACe, Paris**, 13 rue Watt 75013 Paris.
 
 **Everyone is welcome**, whether you're new or experienced with Python. But note that this is not a school or user workshop. We will start with a few overview and status presentations for Gammapy and maybe do some tutorials on software development, but most of the week will be free time for discussions and coding in small groups.
 
