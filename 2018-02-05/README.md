@@ -26,7 +26,7 @@ Several rooms will be available, allowing parallel work for different groups.
   * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
     * General Gammapy status update (C. Deil)
     * Gammapy in CTA; 1DC R. Zanin
-    * Gammapy in HESS; test data release and joint Crab paper (C. Deil)
+    * Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT (C. Deil)
     * IRFs: K. Kosack
     * Sky Maps (TODO: add link to PIG): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
