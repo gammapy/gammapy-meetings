@@ -28,7 +28,7 @@ Several rooms will be available, allowing parallel work for different groups.
     * Gammapy in CTA; 1DC R. Zanin
     * Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT (C. Deil)
     * [IRFs: K. Kosack](./kosack_IRFs.pdf)
-    * Sky Maps (TODO: add link to PIG): R. Terrier
+    * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
     * Light Curves: J. Lefaucheur
@@ -48,7 +48,7 @@ Several rooms will be available, allowing parallel work for different groups.
   * Afternoon:
     * Overview upcoming meetings / activities for Gammapy (CTA, next coding sprint): R.Zanin
     * Group discussion and planning for the next months
-    * Decide date for next Gammapy coding sprint
+    * Decide date for next Gammapy coding sprint - see [options](https://goo.gl/forms/493orc8xrkg1QQYK2)
     * Then continue work in small groups
 * Friday
   * Work in small groups
