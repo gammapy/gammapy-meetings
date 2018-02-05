@@ -2,6 +2,9 @@
 
 The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, and hosted in **FACe, Paris**, 13 rue Watt 75013 Paris.
 
+**eZuce connection**: passwork='gammapycs' , [details](ConnectionDetails.txt)
+
+
 **Everyone is welcome**, whether you're new or experienced with Python. But note that this is not a school or user workshop. We will start with a few overview and status presentations for Gammapy and maybe do some tutorials on software development, but most of the week will be free time for discussions and coding in small groups.
 
 You can find many information (address, public transportation, etc) for your venue [here](http://www.apc.univ-paris7.fr/FACe/en/directions). The FACe is in the third floor of the building, a signage will be installed. For the subway, do not hesitate to buy a week ticket!
