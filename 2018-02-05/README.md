@@ -81,3 +81,4 @@ Several rooms will be available, allowing parallel work for different groups.
 1. Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden ([mdpunch](https://github.com/mdpunch))
 1. Matteo Cerruti, LPNHE, IN2P3/CNRS, France ([mcerruti](https://github.com/mcerruti))
 1. Yves Gallant, LUPM, IN2P3/CNRS, France ([gallanty](https://github.com/gallanty))
+1. Santiago Pita, APC, IN2P3/CNRS, France ([santiagopita](https://github.com/santiagopita))
