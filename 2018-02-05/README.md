@@ -27,13 +27,13 @@ Several rooms will be available, allowing parallel work for different groups.
     * General Gammapy status update (C. Deil)
     * Gammapy in CTA; 1DC R. Zanin
     * Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT (C. Deil)
-    * [IRFs: K. Kosack](./kosack_IRFs.pdf)
+    * [IRFs: K. Kosack](kosack_IRFs.pdf)
     * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277): R. Terrier
     * Modeling (TODO: add link to PIG): C. Deil
     * Spectrum: R. Terrier
     * Light Curves: J. Lefaucheur
     * Sensitivity scripts: B. Khelifi
-    * High Level Interface: C. Deil
+    * [High Level Interface: C. Deil](2018-02-05_Gammapy_Interface.pdf)
     * Documentation: R. Zanin
     * AoB, email Bruno if you want to discuss or present something!
 * Tuesday
