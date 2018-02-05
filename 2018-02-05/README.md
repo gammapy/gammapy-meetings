@@ -32,7 +32,7 @@ Several rooms will be available, allowing parallel work for different groups.
     * [Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT](2018-02-05_Gammapy_HESS.pdf) (C. Deil)
     * [IRFs](kosack_IRFs.pdf) (K. Kosack) - [Status](IRFs_Status_20180205.pdf)
     * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277) (R. Terrier)
-    * Modeling (TODO: add link to PIG): C. Deil
+    * [Gammapy modeling](2018-02-05_Gammapy_Modeling.pdf) (C. Deil)
     * [Spectrum](spectrum_status.pdf): R. Terrier
     * Light Curves: J. Lefaucheur/B. Khelifi - [Status](LC_Status_20180205.pdf)
     * [Sensitivity scripts](Sensi_Status_20180205.pdf) (B. Khelifi)
