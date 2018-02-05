@@ -28,7 +28,7 @@ Several rooms will be available, allowing parallel work for different groups.
   * Round table discussion about 1-min participant introduction and contributions (all)
   * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
     * [Gammapy coding sprint introduction](2018-02-05_Gammapy_Coding_Sprint_Intro.pdf) (C.Deil)
-    * Gammapy in CTA; 1DC (R. Zanin)
+    * [Gammapy in CTA; 1DC](20180205_gammapy_CTA.pdf) (R. Zanin)
     * [Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT](2018-02-05_Gammapy_HESS.pdf) (C. Deil)
     * [IRFs](kosack_IRFs.pdf) (K. Kosack) - [Status](IRFs_Status_20180205.pdf)
     * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277) (R. Terrier)
