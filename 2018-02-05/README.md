@@ -75,7 +75,7 @@ Several rooms will be available, allowing parallel work for different groups.
 1. Gabriel Emery, LPNHE, IN2P3/CNRS, France ([gabemery](https://github.com/gabemery))
 1. Andreas Zech, LUTh, INSU/CNRS, France ([andizech](https://github.com/andizech))
 1. Fabio Acero, SAP, CEA, France ([facero](https://github.com/facero))
-1. Anne Lemière, APC, IN2P3/CNRS, France (???)
+1. Anne Lemière, APC, IN2P3/CNRS, France ([AnneLemiere](https://github.com/AnneLemiere))
 1. Jose Enrique Ruiz, IAA - CSIC Grenada, Spain ([Bultako](https://github.com/Bultako))
 1. Arache Djannati-Atai, APC, IN2P3/CNRS, France ([djannati](https://github.com/djannati))
 1. Michael Punch, APC IN2P3/CNRS and LnU, France/Sweden ([mdpunch](https://github.com/mdpunch))
