@@ -20,6 +20,7 @@ The call will be focused on gammapy.maps, and how to use it from analysis code (
     Ideally we would share map and IRF coordinate handling, or if not feasible we should implement them in a similar way.
     See https://github.com/gammapy/gammapy/issues/1308#issuecomment-365885058 for what we have for IRF,
     and links to what others have implemented (xarray, name based, allows arbitrary order of data dimensions) and think (Astropy generic WCS API, tuple index based, not implemented).
+  * Example notebook of current and expected usages  : https://github.com/gammapy-meetings/2018-02-15/nddata_interpolation.ipynb 
   * Take a decision on special coordinate and axis names in Gammapy: https://github.com/gammapy/gammapy/pull/1295
 * Maps Serialisation (multiple maps in one FITS file?, HDF5?)
   * HDF5 support could be added via `to_h5group` methods.  Initially this could call through to `to_hdulist` and some method to automatically convert FITS to HDF5 but eventually these could be rewritten to take greater advantage of the HDF5 feature set.  The hierarchical stucture of HDF5 would be convenient in many ways e.g. it would provide a more natural mechansism for grouping the map and BANDS HDUs together.  We'd also need to think carefully about how this changes the format specs. 
