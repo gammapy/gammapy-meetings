@@ -20,6 +20,7 @@ The call will be focused on gammapy.maps, and how to use it from analysis code (
     Ideally we would share map and IRF coordinate handling, or if not feasible we should implement them in a similar way.
     See https://github.com/gammapy/gammapy/issues/1308#issuecomment-365885058 for what we have for IRF,
     and links to what others have implemented (xarray, name based, allows arbitrary order of data dimensions) and think (Astropy generic WCS API, tuple index based, not implemented).
+  * Take a decision on special coordinate and axis names in Gammapy: https://github.com/gammapy/gammapy/pull/1295
 * Maps Serialisation (multiple maps in one FITS file?, HDF5?)
 * Docs (need more on map creation and read / write; change all examples to data files that users have)
 * Features (anything missing?)
