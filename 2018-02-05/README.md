@@ -28,12 +28,12 @@ Several rooms will be available, allowing parallel work for different groups.
   * Round table discussion about 1-min participant introduction and contributions (all)
   * Short presentations to see where we are and kick of discussion what to do this week and the coming months:
     * [Gammapy coding sprint introduction](2018-02-05_Gammapy_Coding_Sprint_Intro.pdf) (C.Deil)
-    * Gammapy in CTA; 1DC (R. Zanin)
-    * Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT (C. Deil)
+    * [Gammapy in CTA; 1DC](20180205_gammapy_CTA.pdf) (R. Zanin)
+    * [Gammapy in HESS, and joint Crab paper with MAGIC and Fermi-LAT](2018-02-05_Gammapy_HESS.pdf) (C. Deil)
     * [IRFs](kosack_IRFs.pdf) (K. Kosack) - [Status](IRFs_Status_20180205.pdf)
-    * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277) (R. Terrier)
-    * Modeling (TODO: add link to PIG): C. Deil
-    * Spectrum: R. Terrier
+    * [PIG 2 - New low-level analysis code](https://github.com/gammapy/gammapy/pull/1277) (R. Terrier) - [Slides](pig-002.pdf)
+    * [Gammapy modeling](2018-02-05_Gammapy_Modeling.pdf) (C. Deil)
+    * [Spectrum](spectrum_status.pdf): R. Terrier
     * Light Curves: J. Lefaucheur/B. Khelifi - [Status](LC_Status_20180205.pdf)
     * [Sensitivity scripts](Sensi_Status_20180205.pdf) (B. Khelifi)
     * [High Level Interface](2018-02-05_Gammapy_Interface.pdf) (C.Deil)
