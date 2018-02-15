@@ -7,12 +7,12 @@
 
 * DC1 analysis results
   * Emma
-	* Giovanni
-	* Fabio
-	* Roberta
+  * Giovanni
+  * Fabio
+  * Roberta
 * non-DC1 developments
   * Enrique
-	* Lab
+  * Lab
 
 ## Reminder
 
