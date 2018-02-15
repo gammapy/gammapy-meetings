@@ -8,6 +8,18 @@ Agenda:
 
 The call will be focused on gammapy.maps, and how to use it from analysis code (see [PIG 2](https://github.com/gammapy/gammapy/pull/1277))
 
+* Map dimensions and coordinates
+  * Currently gammapy.maps has a tuple-based interface for coordinates.
+    How does the special support for Quantity / Angle / SkyCoord work?
+    Is there special broadcasting behaviour for sky coordinates?
+    Change to or add name-based coordinates like xarray, that avoid `axis[2]` and `np.newaxis` in a lot of code using maps,
+    i.e. more generic analysis code that can really deal with arbitrary new axes?
+    What about FOV coordinates and time?
+    Re-usable for IRFs that don't have sky coordinate axes?
+  * Currently IRF coordinates are separate and badly implemented in Gammapy
+    Ideally we would share map and IRF coordinate handling, or if not feasible we should implement them in a similar way.
+    See https://github.com/gammapy/gammapy/issues/1308#issuecomment-365885058 for what we have for IRF,
+    and links to what others have implemented (xarray, name based, allows arbitrary order of data dimensions) and think (Astropy generic WCS API, tuple index based, not implemented).
 * Maps Serialisation (multiple maps in one FITS file?, HDF5?)
 * Docs (need more on map creation and read / write; change all examples to data files that users have)
 * Features (anything missing?)
