@@ -5,9 +5,14 @@
 
 # Agenda
 
-* Dev. news: CD
-* Coding Sprint: CD, BK
-* 3D analysis of the Crab: Enrique Mestre
+* DC1 analysis results
+  * Emma
+	* Giovanni
+	* Fabio
+	* Roberta
+* non-DC1 developments
+  * Enrique
+	* Lab
 
 ## Reminder
 

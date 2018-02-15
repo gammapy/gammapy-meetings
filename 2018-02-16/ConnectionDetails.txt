@@ -1,0 +1,77 @@
+Title:		Gammapy
+Description:	Regular call
+Community:	CTA
+Password:	gammapyregular
+ Meeting type: Open Meeting (Round Table)
+
+ Meeting Access Information:
+ 	SeeVoghRN Application       http://srn.ezuce.com/joinSRN?meeting=MsMiMI2l2nDiDl9u92Dt9s
+ 	Mobile App :  Meeting ID: 784 8230   or  Link: http://srn.ezuce.com/join?meeting=MsMiMI2l2nDiDl9u92Dt9s
+
+
+ - Phone Bridge
+ 	 ID: 784 8230
+ 	 Password: 6999
+
+Central European Time (+0100)
+	Start	2018-02-16  10:30
+	End  	2018-02-16  12:30
+
+Japan Standard Time (+0900)
+	Start	2018-02-16  18:30
+	End  	2018-02-16  20:30
+
+India Standard Time (+0530)
+	Start	2018-02-16  15:00
+	End  	2018-02-16  17:00
+
+Eastern Standard Time (-0500)
+	Start	2018-02-16  04:30
+	End  	2018-02-16  06:30
+
+Pacific Standard Time (-0800)
+	Start	2018-02-16  01:30
+	End  	2018-02-16  03:30
+
+
+SeeVogh Research Network Phone Bridge Telephone Numbers:
+---------------
+- USA (Caltech, Pasadena, CA)
+	+1 626 395 2112
+
+- Slovakia (UPJS, Kosice)
+	+421 55 234 2420
+
+- Italy (INFN, several cities)
+	http://server10.infn.it/video/index.php?page=telephone_numbers 
+	Enter '4000' to access the EVO bridge
+
+- Germany (DESY, Hamburg)
+	+49 40 8998 1340
+
+- USA (BNL, Upton, NY)
+	+1 631 344 6100
+
+- Australia (ARCS)
+	+61
+	Adelaide  08 8463 1011
+	Brisbane  07 3139 0705
+	Canberra  02 6112 8742
+	Hobart    03 623 70281
+	Melbourne 03 8685 8362
+	Perth     08 6461 6718
+	Sydney    02 8212 4591
+
+- Netherlands (Nikhef, Amsterdam)
+	+31 20 7165293
+	Dial '2' at the prompt
+
+- Canada (TRIUMF, Vancouver)
+	+1 604 222 7700
+
+- Czech Republic (CESNET, Prague)
+	+420 95 007 2386
+
+- France (RAP, Paris)
+	+33 144 27 81 50
+	
