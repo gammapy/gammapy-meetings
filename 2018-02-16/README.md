@@ -6,13 +6,12 @@
 # Agenda
 
 * DC1 analysis results
-  * Emma
-  * Giovanni
-  * Fabio
-  * Roberta
+  * Emma: CasA analysis (DC1)
+  * Giovanni: GC analysis (DC1) 
+  * Fabio: status report on RXJ1713 Dc1 analysis
 * non-DC1 developments
-  * Enrique
-  * Lab
+  * Enrique: CRab 3D analysis
+
 
 ## Reminder
 
