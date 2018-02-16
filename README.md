@@ -1,5 +1,9 @@
 # gammapy-meetings
 
+This is an open repository. If you want to post some CTA-related results please use the following private ropsitory
+https://github.com/gammasky/cta-analyses
+
+
 This is a collection of Gammapy-related meetings in reverse chronological order.
 
 Not all of those meetings are strongly focused on Gammapy, there's a range of
