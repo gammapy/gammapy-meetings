@@ -4,12 +4,19 @@ This is an open repository. If you want to post some CTA-related results please 
 https://github.com/gammasky/cta-analyses
 
 
-This is a collection of Gammapy-related meetings in reverse chronological order.
+This is a collection of Gammapy-related meetings in reverse chronological order. The regular calls happen all the two week.s
 
 Not all of those meetings are strongly focused on Gammapy, there's a range of
 activities from "Python bootcamps" where Gammapy was one topic to full "Gammapy
 coding sprints".
 
+[Latest meetings:](#meeting)
+* [2018-03-16](2018-03-16/README.md) - Gammapy telcon
+* [2018-03-02](2018-03-02/README.md) - Gammapy telcon
+
+
+[Previous meetings:](#oldmeeting)
+* [2018-02-16](2018-02-16/README.md) - Gammapy telcon
 * [2018-02](2018-02-05/README.md) - Gammapy Coding Sprint (Feb 5-9, APC, Paris)
 * [2018-01-26](2018-01-26/README.md) - Gammapy telcon
 * [2018-01-12](2018-01-12/README.md) - Gammapy telcon
