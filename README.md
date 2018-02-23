@@ -1,6 +1,10 @@
 # gammapy-meetings
 
-This is a collection of Gammapy-related meetings in reverse chronological order. They happen all two weeks.
+This is an open repository. If you want to post some CTA-related results please use the following private ropsitory
+https://github.com/gammasky/cta-analyses
+
+
+This is a collection of Gammapy-related meetings in reverse chronological order. The regular calls happen all the two week.s
 
 Not all of those meetings are strongly focused on Gammapy, there's a range of
 activities from "Python bootcamps" where Gammapy was one topic to full "Gammapy
