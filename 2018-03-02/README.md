@@ -10,7 +10,6 @@
   * Giovanni: GC analysis
   * Fabio: status report on RXJ1713 Dc1 analysis
 * non-DC1 developments
-  * Enrique: Crab 3D analysis
   * Lab: gamma-ray binairies ?
 
 
