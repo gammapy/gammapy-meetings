@@ -8,7 +8,6 @@
 * DC1 analysis results
   * Emma: [CasA analysis](https://github.com/gammasky/cta-analyses/blob/master/dc-1-checks/cas_a/GammaPY_CasA.pdf)
   * Giovanni: [GC analysis](https://github.com/gammasky/cta-dc1-gps-analysis/blob/master/presentations/DC-1_assesment_GC_with_gammapy.pdf)
-  * Fabio: status report on RXJ1713 Dc1 analysis
 * non-DC1 developments
   * Enrique: [Crab 3D analysis](https://github.com/gammasky/cta-analyses/tree/master/3d-analysis)
 
