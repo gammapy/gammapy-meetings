@@ -41,20 +41,22 @@
   * Dedicated call on pulsar analysis with Gammapy & PINT soon.
     If you're interested, please contact Marion Spir-Jacob and fill your availability here now:
     https://framadate.org/w5mnzvPCIMKgBvOD
+  * Dedicated call on binary analysis with Gammapy soon.
+    See info by Lab below.
   * Next Gammapy coding sprint will be July 9-13.
     Location will be Heidelberg or Madrid.
     Please fill https://goo.gl/forms/J7lTzY0oN15lt2xf2 now if you want to join, we will decide soon.
 * CTA DC-1 check analysis: Galactic center source (Giovanni De Cesare)
+  * [Slides](https://github.com/gammasky/cta-analyses/blob/master/dc-1-checks/gc/presentations/GC_gammapy_call_March_2_2018.pdf)
   * https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/DC-1_tool_assessment_-_GC
   * https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/gc
-  * TODO: link to slides
 * CTA DC-1 check analysis: RX J1713 (Fabio Acero)
+  * Slides?
   * https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/DC-1_tool_assessment_-_RX_J1713
   * https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/rx_j1713
-  * Slides?
 * Gamma-ray binary analysis with Gammapy (Lab Saha)
-  * Dedicated call soon. If you're interested, please fill https://doodle.com/poll/skay6hd94uvmqaz now.
-  * TODO: add infos
+  * Dedicated call soon. If you're interested, please fill https://doodle.com/poll/skay6hd94uvmqazv now.
+  * Short status report today: [slides](https://github.com/gammasky/cta-analyses/blob/master/folded_light_curve/1DC_analysis_gammapy.pdf)
 
 
 ## Reminder
