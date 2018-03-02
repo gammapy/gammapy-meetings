@@ -5,6 +5,23 @@
 
 # Agenda
 
+* Roberta: updates
+  * Next Gammapy regular call will be Friday, March 16, at 11 am
+    Will again focus on DC-1 checks, since we need to produce good results for CTA within the next month.
+    Need first presentation of classical analysis results on HESS J1702-420 (Roberta) and TeV J1224+212 (Julien? Catherine?).
+  * Very optimistically, we will have first 3D analysis results in two weeks;
+    if not, then 3D analyses for the DC-1 checks
+    will be the focus of the regular Gammapy call in four weeks, on March 30.
+  * Next CTA meetings are Barcelona (April 16-20) and Orsay/Paris (May 14-18)
+    We asked for a tutorial session for Gammapy.
+  * Dedicated call on pulsar analysis with Gammapy & PINT soon.
+    If you're interested, please contact Marion Spir-Jacob and fill your availability here now:
+    https://framadate.org/w5mnzvPCIMKgBvOD
+  * Dedicated call on binary analysis with Gammapy soon.
+    See info by Lab below.
+  * Next Gammapy coding sprint will be July 9-13.
+    Location will be Heidelberg or Madrid.
+    Please fill https://goo.gl/forms/J7lTzY0oN15lt2xf2 now if you want to join, we will decide soon.
 * Christoph: Gammapy updates
   * Gammapy 0.7 released two days ago
     * See http://docs.gammapy.org/0.7/ and http://docs.gammapy.org/0.7/changelog.html#gammapy-0p7-release
@@ -29,29 +46,11 @@
     In Gammapy, we always have to wait some time before we can use new features,
     e.g. at the moment everything should work identically for any Astropy >= 1.3.
     But of course, in your scripts, you can just choose to use the latest Python, Numpy, Astropy, Gammapy.
-* Roberta: updates
-  * Next Gammapy regular call will be Friday, March 16, at 11 am
-    Will again focus on DC-1 checks, since we need to produce good results for CTA within the next month.
-    Need first presentation of classical analysis results on HESS J1702-420 (Roberta) and TeV J1224+212 (Julien? Catherine?).
-  * Very optimistically, we will have first 3D analysis results in two weeks;
-    if not, then 3D analyses for the DC-1 checks
-    will be the focus of the regular Gammapy call in four weeks, on March 30.
-  * Next CTA meetings are Barcelona (April 16-20) and Orsay/Paris (May 14-18)
-    We asked for a tutorial session for Gammapy.
-  * Dedicated call on pulsar analysis with Gammapy & PINT soon.
-    If you're interested, please contact Marion Spir-Jacob and fill your availability here now:
-    https://framadate.org/w5mnzvPCIMKgBvOD
-  * Dedicated call on binary analysis with Gammapy soon.
-    See info by Lab below.
-  * Next Gammapy coding sprint will be July 9-13.
-    Location will be Heidelberg or Madrid.
-    Please fill https://goo.gl/forms/J7lTzY0oN15lt2xf2 now if you want to join, we will decide soon.
 * CTA DC-1 check analysis: Galactic center source (Giovanni De Cesare)
   * [Slides](https://github.com/gammasky/cta-analyses/blob/master/dc-1-checks/gc/presentations/GC_gammapy_call_March_2_2018.pdf)
   * https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/DC-1_tool_assessment_-_GC
   * https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/gc
 * CTA DC-1 check analysis: RX J1713 (Fabio Acero)
-  * Slides?
   * https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki/DC-1_tool_assessment_-_RX_J1713
   * https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/rx_j1713
 * Gamma-ray binary analysis with Gammapy (Lab Saha)
