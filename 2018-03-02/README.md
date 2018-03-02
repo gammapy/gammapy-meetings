@@ -22,10 +22,13 @@
     Many other developments going on, I think the splitting in small development teams (pulsars, binaries, 3D, 1D, ...)
     of one to a few people will work; they can do dedicated calls if needed, and report 5-min summaries in future
     bi-weekly Gammapy calls to give everyone a chance to see what is going on and join where they are interested.
-  * From now on, we will do stable releases (0.8, 0.9) much more frequently,
-    probably roughly one per month.
-    This will help with usage of Gammapy in CTA and everywhere, if you can have stable version numbers
-    when reporting results.
+  * From now on, we will do stable releases (0.8, 0.9) much more frequently, probably roughly one per month.
+    This will help with usage of Gammapy in CTA and everywhere, if you can have stable version numbers when reporting results.
+  * Astropy 3.0 released recently: http://docs.astropy.org/en/stable/whatsnew/3.0.html
+    Some nice new features, e.g. improved time FITS I/O (see [here](http://docs.astropy.org/en/stable/whatsnew/3.0.html#whatsnew-3-0-fits-time-support))
+    In Gammapy, we always have to wait some time before we can use new features,
+    e.g. at the moment everything should work identically for any Astropy >= 1.3.
+    But of course, in your scripts, you can just choose to use the latest Python, Numpy, Astropy, Gammapy.
 * Roberta: updates
   * Next Gammapy regular call will be Friday, March 16, at 11 am
     Will again focus on DC-1 checks, since we need to produce good results for CTA within the next month.
