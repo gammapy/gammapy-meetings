@@ -9,7 +9,7 @@
 * Recent devlopment on Binary Analysis with Gammapy
 * Discussion on further devlopment
 
-# Some thougts/proposal
+# Some thoughts/proposal
    * Methodology
     
          * Assign phase to each of the events following ephemeris
