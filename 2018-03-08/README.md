@@ -14,7 +14,7 @@
 * Issues on Binary analysis 
 * Recent devlopment on Binary Analysis with Gammapy
 * Discussion on further devlopment
-* Presenation by Lab [here](Gammapy_binar_call.pdf)
+* Presenation by Lab [here](Gammapy_binary_call.pdf)
 # Some thoughts/proposal
 
 * Methodology
