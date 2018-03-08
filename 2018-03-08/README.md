@@ -5,12 +5,16 @@
 * CTA eZuce, no password required -> anyone interested welcome to join!
 * Connection details are [here](ConnectionDetails.txt)
 
+## Participants
+
+* Christoph, Regis, Emma, Marion, Arache, David, Jean-Philippe & Lab
+
 # Agenda
 
 * Issues on Binary analysis 
 * Recent devlopment on Binary Analysis with Gammapy
 * Discussion on further devlopment
-
+* Presenation by Lab [here](Gammapy_binar_call.pdf)
 # Some thoughts/proposal
 
 * Methodology
