@@ -1,7 +1,7 @@
 # Gammapy and PINT pulsar analysis
 
 * Friday, March 16, 2018 at 2pm
-* CTA eZuce, password "gammapypulsar".  The connection details are [here](ConnectionDetails.txt)
+* CTA eZuce, password "gammapypulsar".  The connection details are [here](ConnectionsDetails.txt)
 
 # Agenda
 
