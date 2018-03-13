@@ -7,6 +7,7 @@
 
 * DC1 pulsars
 * Phasing the time column in the DC1
+* Status on PINT
 * Pulsar spectra
 
 
