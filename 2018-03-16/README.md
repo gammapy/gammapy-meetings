@@ -5,8 +5,18 @@
 
 # Agenda
 
-* Software Status (CD)
-* DC1 analysis results
+* CC News: Bruno Khelifi
+  * Next Gammapy regular call will be Friday, March 30, at 11 am
+	* Next CTA meetings are Barcelona (April 16-20) and Orsay/Paris (May 14-18) with a tutorial session
+	* Next Gammapy coding sprints
+	  * Will be July 9-13 in Heidelberg
+		* The next one will be after the summer in Madrid (date to be determined)
+* Software Status: Christoph Deil
+* User Contributions
+  * Pulsar Analysis: Marion Jacob.  [slides](https://github.com/gammasky/cta-analyses/blob/master/)
+	* Progress on Light Curves: Bruno Khelifi
+  * Progress on Binary Analysis : Lab Saha
+	* Progress on the Crab analysis: Christoph Deil
 
 
 ## Reminder
