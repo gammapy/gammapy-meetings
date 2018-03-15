@@ -1,4 +1,4 @@
-# Gammapy Coding Sprint, Heidelbed, Paris
+# Gammapy Coding Sprint, Heidelberg, Paris
 
 The coding sprint will happen from **July 9th (14h) to the 13th (12h) 2018**, and hosted in **MPIK of Heidelberg, Germany**.
 
