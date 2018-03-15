@@ -14,7 +14,7 @@
 * Software Status: Christoph Deil
 * User Contributions
   * Pulsar Analysis: Marion Jacob.  [slides](gammapy_pulsar.pdf)
-	* Progress on Light Curves: Bruno Khelifi
+  * Progress on Light Curves: Bruno Khelifi
   * Progress on Binary Analysis : Lab Saha
 
 
