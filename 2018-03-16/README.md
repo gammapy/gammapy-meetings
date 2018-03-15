@@ -13,7 +13,7 @@
 		* The next one will be after the summer in Madrid (date to be determined)
 * Software Status: Christoph Deil
 * User Contributions
-  * Pulsar Analysis: Marion Jacob.  [slides](https://github.com/gammasky/cta-analyses/blob/master/)
+  * Pulsar Analysis: Marion Jacob.  [slides](gammapy_pulsar.pdf)
 	* Progress on Light Curves: Bruno Khelifi
   * Progress on Binary Analysis : Lab Saha
 	* Progress on the Crab analysis: Christoph Deil
