@@ -7,10 +7,11 @@
 
 * CC News: Bruno Khelifi
   * Next Gammapy regular call will be Friday, March 30, at 11 am
-	* Next CTA meetings are Barcelona (April 16-20) and Orsay/Paris (May 14-18) with a tutorial session
-	* Next Gammapy coding sprints
-	  * Will be July 9-13 in Heidelberg
-		* The next one will be after the summer in Madrid (date to be determined)
+  * Next CTA meetings are Barcelona (April 16-20) and Orsay/Paris (May 14-18) with a tutorial session
+  * Next Gammapy coding sprints
+      * Will be July 9-13 in Heidelberg, see infos [here](../2018-07-09).
+      * If you can join or have any questions, please email Christoph & Roberta.
+      * The next one will be in the fall in Madrid (date to be determined)
 * Software Status: Christoph Deil
 * User Contributions
   * Pulsar Analysis: Marion Jacob.  [slides](gammapy_pulsar.pdf)
