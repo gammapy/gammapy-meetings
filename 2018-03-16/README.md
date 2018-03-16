@@ -14,10 +14,15 @@
       * Will be July 9-13 in Heidelberg, see infos [here](../2018-07-09).
       * If you can join or have any questions, please email Christoph & Roberta.
       * The next one will be in the fall in Madrid (date to be determined)
-* Software Status: Christoph Deil
-  * a few developments / pull requests ongoing for 3D analysis, spectrum simulation, light curves, ...
-  * ... nothing specifically to report here yet though.
-  * If you want to discuss something, please mention it now, or let's talk any time.
+* Software developments: Christoph Deil
+  * Most activity on analyses and checks for CTA & HESS. A lot of progress and nice results there.
+  * But very few software developments in the past weeks, activity we had at and after the coding sprint did not continue.
+  * Most discussions currently on time analysis (pulsars, binaries, AGN) - see presentations by Marion, Bruno & Lab below
+  * We didn't manage to talk about spectrum simulations this week. Maybe early next week?
+  * Regis and I will talk today at 3 pm to try and organise developments (especially 3D, 1D, modeling, time)
+    a bit, see what is needed / possible within the next weeks, but also months, and then contact some of you
+    asking to take charge or or contribute to one of those topics.
+  * If you want to discuss something, please mention it now, or let's talk any time over email or Github or Skype!
 * User Contributions
   * Pulsar Analysis: Marion Jacob.  [slides](gammapy_pulsar.pdf)
   * Progress on Light Curves: Bruno Khelifi
