@@ -18,6 +18,8 @@
 
 * 12 pulsars have been selected but it doesn't mean that they are all featured in the simulations, depending on the portion of the sky in which they are
 
+* New pulsar folder [here](https://github.com/gammapy/gammapy-meetings/tree/master/2018-03-16_pulsar)
+
 
 ## Reminder
 
