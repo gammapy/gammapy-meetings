@@ -28,6 +28,7 @@ But really, Heidelberg is small and there are no "bad neighborhoods", you can st
 
 There is the option to stay at the MPIK guest house. It's cheap, 35 Euro / night, see [price list](https://www.mpi-hd.mpg.de/mpi/fileadmin/files-mpi/2015_price_list_MPIK_guest_houses.pdf), good WIFI and easy to book by filling out [this form](https://www.mpi-hd.mpg.de/mpi/en/information-for/reservation/#2899). But most people prefer to stay in downtown Heidelberg to see a bit from the city and to have a shorter way home in the evening after dinner. There is no canteen at MPIK, only at nearby EMBL where we also go for lunch, and it closes at 7 pm.
 
+Let us know if you have any questions!
 
 ## Agenda
 
@@ -43,6 +44,18 @@ If there is demand, we can do some developer tutorials, but we don't plan to spe
 Instead we will do pair coding, i.e. learning by doing.
 If you aren't familiar much yet with Python, pytest, git and Github, please use the information and resources
 linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit before the meeting.
+
+## Rooms
+
+We're still working on sorting out room availability. For now, we have the following rooms booked in the library building:
+
+* Mo : central seminar room
+* Tue : central seminar room
+* We : video conference room
+* Th : central seminar room
+* Fr : video conference room
+
+In addition, we'll have a few office rooms available for people to pair-code or discuss (typically in groups of 2-3 people)
 
 ## Registered Participants
 
