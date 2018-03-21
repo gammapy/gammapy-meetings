@@ -39,5 +39,4 @@ linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit befo
 * Roberta Zanin
 * Bruno Khélifi
 * Régis Terrier (first half of the week?)
-
 * You !?
