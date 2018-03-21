@@ -18,6 +18,17 @@ If you'd like to join or have any questions:
 * Christoph Deil: [christoph.deil@mpi-hd.mpg.de](mailto:christoph.deil@mpi-hd.mpg.de)
 * Roberta Zanin: [Roberta.Zanin@mpi-hd.mpg.de](mailto:Roberta.Zanin@mpi-hd.mpg.de)
 
+## Travel and hotel
+
+If you haven't been to Heidelberg or MPIK, you can find some information [here](https://www.mpi-hd.mpg.de/mpi/en/contact/access-and-site-map/). MPIK is located a bit up the hill outside of Heidelberg, a 10 min ride with bus 39 will get you there.
+
+To book a hotel or Airbnb, please do it yourself.
+Good areas are downtown or Weststadt or Südstadt, i.e. near the bus line 39 that you will want to take to go to MPIK.
+But really, Heidelberg is small and there are no "bad neighborhoods", you can stay anywhere you like.
+
+There is the option to stay at the MPIK guest house. It's cheap, 35 Euro / night, see [price list](https://www.mpi-hd.mpg.de/mpi/fileadmin/files-mpi/2015_price_list_MPIK_guest_houses.pdf), good WIFI and easy to book by filling out [this form](https://www.mpi-hd.mpg.de/mpi/en/information-for/reservation/#2899). But most people prefer to stay in downtown Heidelberg to see a bit from the city and to have a shorter way home in the evening after dinner. There is no canteen at MPIK, only at nearby EMBL where we also go for lunch, and it closes at 7 pm.
+
+
 ## Agenda
 
 We will define the agenda before the meeting.
