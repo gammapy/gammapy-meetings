@@ -59,8 +59,8 @@ In addition, we'll have a few office rooms available for people to pair-code or 
 
 ## Registered Participants
 
-* Christoph Deil
-* Roberta Zanin
-* Bruno Khélifi
-* Régis Terrier (first half of the week?)
+1. Roberta Zanin, MPIK Heidelberg, Germany ([robertazanin](https://github.com/robertazanin))
+1. Christoph Deil, MPIK Heidelberg, Germany ([cdeil](https://github.com/cdeil))
+1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
+1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
 * You !?
