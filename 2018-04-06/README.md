@@ -8,7 +8,7 @@
 * DC1 analysis:
   * TeV J1224+212: BK and Catherine Boisson [link](https://github.com/gammasky/cta-analyses/blob/master/agn_light_curve/TeV_J1224p212.ipynb)
 * Planned presentations
-
+* Next regular call: April 27th
 
 ## Reminder
 
