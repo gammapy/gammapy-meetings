@@ -17,6 +17,12 @@
     and Johannes and I will work on the "fit" step intensely next week.
   * Contributing to Gammapy development is of course possible, there are many small tasks.
     If you have time, please stay on after the call to talk to Regis and me, or email us.
+  * E.g. some developments we need ASAP that are fairly well-defined and can be done in one pull request
+    are adding a unit attribute to maps (see [GH 1206](https://github.com/gammapy/gammapy/issues/1206)),
+    or map slicing / cutout (see [GH 1329](https://github.com/gammapy/gammapy/issues/1329));
+    those are the main missing features for `gammapy.maps` for new 3D analysis code.
+    Another development that's fairly well-defined and limited in scope is to add
+    a first version of PSF kernel classes, as described in [GH 1048](https://github.com/gammapy/gammapy/issues/1048) and also in [GH 1216](https://github.com/gammapy/gammapy/issues/1216). These are just some examples, there are many other tasks, see https://github.com/gammapy/gammapy/issues and https://github.com/gammapy/gammapy/pulls .
   * One point I'd like to discuss today (probably best at the end, in a smaller group)
     is where exactly PSF and EDISP normalisation should be applied.
     See [GH 1359](https://github.com/gammapy/gammapy/pull/1359) for some comments on where
