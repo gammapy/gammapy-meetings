@@ -4,7 +4,8 @@
 * CTA eZuce, password "gammapyregular".  The connection details are [here](ConnectionDetails.txt)
 
 # Agenda
-* General News about the software (CD)
+* How to run the 3D analysis with gammapy (CD)
+* How to document gammapy analysis for the DC1 (RZ)
 
 ## Reminder
 
