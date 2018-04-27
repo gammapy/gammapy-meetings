@@ -22,6 +22,9 @@
     * Reflected regions issue - from Cyril CTA PeVatron analyses - see [GH 1336](https://github.com/gammapy/gammapy/issues/1336)
 * How to document gammapy analysis for the DC1 (Roberta)
 
+https://github.com/gammasky/cta-analyses/blob/master/dc-1-checks/hess_j1702/README.md
+
+
 ## Reminder
 
 * Gammapy docs: http://docs.gammapy.org
