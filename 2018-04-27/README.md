@@ -22,6 +22,8 @@
     * Reflected regions issue - from Cyril CTA PeVatron analyses - see [GH 1336](https://github.com/gammapy/gammapy/issues/1336)
 * How to document gammapy analysis for the DC1 (Roberta)
 
+# DC-1 check analyses documentation
+
 For each analysis we should deliver only one file, i.e. a tarball mandatorily including:
 
 1. code used to produce the results, either a python script or a notebook. At the very beginning the notebook should show the version of the python packages used.
