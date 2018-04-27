@@ -6,21 +6,22 @@
 # Agenda
 
 * Gammapy updates (Christoph)
-  * A lot of work on 3D analysis in the past weeks by Johannes, Régis and me.
-  * Still very much work in progress, but to see where we are in gammapy master:
-    * http://docs.gammapy.org/dev/notebooks/analysis_3d.html
-    * http://docs.gammapy.org/dev/notebooks/simulate_3d.html
-    * Model XML I/O coming later today: https://github.com/gammapy/gammapy/pull/1397
-  * We will is to release Gammapy v0.8 on Monday, May 7
-  * If you present Gammapy results at the Orsay CTA meeting May 14-18,
-    please re-run with Gammapy v0.8
-  * Next week we will continue development on 3D as well as fixes for 1D analysis
-    and do as much as possible. If you have time to help, please get in touch with me.
-  * We are aware of the following two high-priority issues, those will be fixed next week.
-    If there are other important things for v0.8, please let us know!
-    * LC estimator issue - from Catherine DC-1 AGN check - see [GH 1385](https://github.com/gammapy/gammapy/pull/1385)
-    * Reflected regions issue - from Cyril CTA PeVatron analyses - see [GH 1336](https://github.com/gammapy/gammapy/issues/1336)
+    * A lot of work on 3D analysis in the past weeks by Johannes, Regis and me.
+    * Still very much work in progress, but to see where we are in gammapy master:
+        * http://docs.gammapy.org/dev/notebooks/analysis_3d.html
+        * http://docs.gammapy.org/dev/notebooks/simulate_3d.html
+        * Model XML I/O coming later today: https://github.com/gammapy/gammapy/pull/1397
+    * We will is to release Gammapy v0.8 on Monday, May 7
+    * If you present Gammapy results at the Orsay CTA meeting May 14-18,
+      please re-run with Gammapy v0.8
+    * Next week we will continue development on 3D as well as fixes for 1D analysis
+      and do as much as possible. If you have time to help, please get in touch with me.
+    * We are aware of the following two high-priority issues, those will be fixed next week.
+      If there are other important things for v0.8, please let us know!
+        * LC estimator issue - from Catherine DC-1 AGN check - see [GH 1385](https://github.com/gammapy/gammapy/pull/1385)
+        * Reflected regions issue - from Cyril CTA PeVatron analyses - see [GH 1336](https://github.com/gammapy/gammapy/issues/1336)
 * How to document gammapy analysis for the DC1 (Roberta)
+    * See below
 
 # DC-1 check analyses documentation
 
