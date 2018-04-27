@@ -18,8 +18,8 @@
     and do as much as possible. If you have time to help, please get in touch with me.
   * We are aware of the following two high-priority issues, those will be fixed next week.
     If there are other important things for v0.8, please let us know!
-    * LC estimator issue - from Catherine DC-1 AGN check - see [1385](https://github.com/gammapy/gammapy/pull/1385)
-    * Reflected regions issue - from Cyril CTA PeVatron analyses - see [](https://github.com/gammapy/gammapy/issues/1336)
+    * LC estimator issue - from Catherine DC-1 AGN check - see [GH 1385](https://github.com/gammapy/gammapy/pull/1385)
+    * Reflected regions issue - from Cyril CTA PeVatron analyses - see [GH 1336](https://github.com/gammapy/gammapy/issues/1336)
 * How to document gammapy analysis for the DC1 (Roberta)
 
 ## Reminder
