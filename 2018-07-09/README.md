@@ -64,4 +64,5 @@ In addition, we'll have a few office rooms available for people to pair-code or 
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
 1. Léa Jouvin, IFAE, Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
+1. Fabio Acero, CEA/Saclay, France ([facero](https://github.com/facero))
 * You !?
