@@ -67,4 +67,5 @@ In addition, we'll have a few office rooms available for people to pair-code or 
 1. Fabio Acero, CEA/Saclay, France ([facero](https://github.com/facero))
 1. Hubert Siejkowski, ACC Cyfronet AGH, Poland ([hsiejkowski](https://github.com/hsiejkowski))
 1. Cosimo Nigro, DESY Zeuthen, Germany ([cosimonigro](https://github.com/cosimonigro))
+1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 * You !?
