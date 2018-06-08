@@ -69,4 +69,4 @@ In addition, we'll have a few office rooms available for people to pair-code or 
 1. Cosimo Nigro, DESY Zeuthen, Germany ([cosimonigro](https://github.com/cosimonigro))
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. Johannes King, MPIK Heidelberg, Germany ([joleroi](https://github.com/joleroi))
-* You !?
+1. Kai Brügge, Uni Dortmund, Germany ([mackaiver](https://github.com/mackaiver))
