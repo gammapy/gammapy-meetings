@@ -43,7 +43,7 @@ At previous meetings we did extensive Gammapy developer tutorials.
 If there is demand, we can do some developer tutorials, but we don't plan to spend too much time on this.
 Instead we will do pair coding, i.e. learning by doing.
 If you aren't familiar much yet with Python, pytest, git and Github, please use the information and resources
-linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit before the meeting.
+linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit before the meeting. There are also some good resources here: https://github.com/Asterics2020-Obelics/School2018
 
 ## Rooms
 
