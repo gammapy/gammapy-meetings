@@ -65,15 +65,15 @@ The meeting will take place in the following rooms:
 * Tue : central seminar room
 * We : video conference room
 * Th : video conference room
-* Fr : video conference room
+* Fr : central seminar room
 
 In addition, the following places are available for discussions or coding in small groups (usually 2-3 people):
 
+* Video conference room is available all week for us, also on Mo, Tue, Fr
 * Library building red sofas upstairs
 * Bothe lab coffee tables
 * Office Christoph (Bothe lab, room 241, phone 268)
 * Office Roberta (Genter lab, room 303, phone 590)
-* Guest office Bothe lab
 
 ## Registered Participants
 
