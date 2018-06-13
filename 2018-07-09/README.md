@@ -45,17 +45,35 @@ Instead we will do pair coding, i.e. learning by doing.
 If you aren't familiar much yet with Python, pytest, git and Github, please use the information and resources
 linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit before the meeting. There are also some good resources here: https://github.com/Asterics2020-Obelics/School2018
 
+## Times
+
+* Monday: 2 pm - 6 pm
+* Tuesday: 9 am - 6 pm
+* Wednesday: 9 am - 6 pm
+* Thursday: 9 am - 6 pm
+* Friday: 9 am - 1 pm
+
+Every day:
+* Lunch break is 12:30 - 2 pm.
+* Coffee breaks are 10:30 - 11 am in the morning and 3:30 - 4 pm in the afternoon.
+
 ## Rooms
 
-We're still working on sorting out room availability. For now, we have the following rooms booked in the library building:
+The meeting will take place in the following rooms:
 
 * Mo : central seminar room
 * Tue : central seminar room
 * We : video conference room
-* Th : central seminar room
+* Th : video conference room
 * Fr : video conference room
 
-In addition, we'll have a few office rooms available for people to pair-code or discuss (typically in groups of 2-3 people)
+In addition, the following places are available for discussions or coding in small groups (usually 2-3 people):
+
+* Library building red sofas upstairs
+* Bothe lab coffee tables
+* Office Christoph (Bothe lab, room 241, phone 268)
+* Office Roberta (Genter lab, room 303, phone 590)
+* Guest office Bothe lab
 
 ## Registered Participants
 
