@@ -90,3 +90,4 @@ In addition, the following places are available for discussions or coding in sma
 1. Kai Brügge, Uni Dortmund, Germany ([mackaiver](https://github.com/mackaiver))
 1. Laura Vega Garcia, MPIfR Bonn, Germany ([lauvegar](https://github.com/lauvegar))
 1. Andrew Chen, Wits University, South Africa ([mealworm](https://github.com/mealworm))
+1. David Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
