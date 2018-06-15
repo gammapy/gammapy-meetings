@@ -91,3 +91,4 @@ In addition, the following places are available for discussions or coding in sma
 1. Laura Vega Garcia, MPIfR Bonn, Germany ([lauvegar](https://github.com/lauvegar))
 1. Andrew Chen, Wits University, South Africa ([mealworm](https://github.com/mealworm))
 1. David Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
+1. Marion Spir-Jacob, APC, IN2P3/CNRS, France ([msjacob](https://github.com/msjacob))
