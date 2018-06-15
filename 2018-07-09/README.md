@@ -88,4 +88,5 @@ In addition, the following places are available for discussions or coding in sma
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. Johannes King, MPIK Heidelberg, Germany ([joleroi](https://github.com/joleroi))
 1. Kai Brügge, Uni Dortmund, Germany ([mackaiver](https://github.com/mackaiver))
-1. Laura Vega Garcia, MPIfR, Bonn ([lauvegar](https://github.com/lauvegar))
+1. Laura Vega Garcia, MPIfR Bonn, Germany ([lauvegar](https://github.com/lauvegar))
+1. Andrew Chen, Wits University, South Africa ([mealworm](https://github.com/mealworm))
