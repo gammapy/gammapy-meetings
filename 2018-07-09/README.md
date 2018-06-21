@@ -42,26 +42,32 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
 
 * Jim Hinton (10 min): Welcome address
 * Everyone (1 min each max): say hi
-* TBD (10 min): Organisational infos (rooms, wifi, ...)
+* TBD (5 min): Organisational infos (rooms, wifi, ...)
 * TBD (10 min): Brief global overview (Gammapy, Astropy, regions, healpix, CTA, DC1, HESS, ...)?
-* Quick tutorials for the new stuff that most people haven't seen or used:
-  * TBD (15? min): What's new in maps?
-  * TBD (15? min): What's new in modeling?
-* Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
-  * TBD (15? min): [data](https://github.com/gammapy/gammapy/projects/6)
-  * TBD (10? min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
-  * Regis (15? min): [maps](https://github.com/gammapy/gammapy/projects/2)
-  * TBD (15? min): [modeling](https://github.com/gammapy/gammapy/projects/7)
-  * TBD (15? min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
-  * David (15? min): [time](https://github.com/gammapy/gammapy/projects/4)
-  * Roberta (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
 * Roberta Zanin (10 min): CTA DC1 check analyses
 * Lars Mohrmann (15 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
 * Cosimo Nigro (15 min): Joint Crab paper
+* Quick tutorials for the new stuff that most people haven't seen or used:
+  * TBD (15? min): What's new in maps?
+  * TBD (15? min): What's new in modeling?
+* Coffee break
+* Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
+  * TBD (15? min): [data](https://github.com/gammapy/gammapy/projects/6)
+  * TBD (10? min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
+  * TBD (15? min): [maps](https://github.com/gammapy/gammapy/projects/2)
+  * TBD (15? min): [modeling](https://github.com/gammapy/gammapy/projects/7)
+  * TBD (15? min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
+  * David (15? min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurves
+  * Marion (10 min): pulsars
+  * Roberta (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
 * All: discussion
 * 6 or 7 pm: walk downtown and go for dinner together. TBD: where?
 
 ### Tuesday
+
+The rest of the week is for pair coding and discussions in small groups.
+We'll bring everyone together in the morning, after lunch, and at the
+end of the day for 10 min, and list what goes on where on a whiteboard.
 
 * 9 am - 6 pm: pair coding
 * 6 pm: barbecue at the "open air theatre" behind the library building
