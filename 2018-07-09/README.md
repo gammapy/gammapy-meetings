@@ -3,20 +3,18 @@
 * Start: Monday, July 9, 2018 at 2 pm
 * End: Friday, July 13, 2018 at noon
 * Location: MPIK Heidelberg, Germany (https://www.mpi-hd.mpg.de/)
-
-This is a "coding sprint" for people that want to work on Gammapy (http://gammapy.org/)
-You're very welcome if you're new to coding or haven't contributed to Gammapy yet.
-But note that this is not a workshop how to use Gammapy.
+* Contacts (local organisers):
+[Christoph Deil](mailto:christoph.deil@mpi-hd.mpg.de),
+[Roberta Zanin](mailto:Roberta.Zanin@mpi-hd.mpg.de),
+[Axel Donath](mailto:Axel.@mpi-hd.mpg.de)
+[Johannes King](mailto:Johannes.King@mpi-hd.mpg.de).
 
 So far Gammapy has been mostly developed and used by people working on CTA and H.E.S.S.
 But of course anyone is welcome! If you're from MAGIC, VERITAS, HAWC, KM3Net, ... and have time to come and talk to us, please do!
 
-## Contacts
-
-If you'd like to join or have any questions:
-
-* Christoph Deil: [christoph.deil@mpi-hd.mpg.de](mailto:christoph.deil@mpi-hd.mpg.de)
-* Roberta Zanin: [Roberta.Zanin@mpi-hd.mpg.de](mailto:Roberta.Zanin@mpi-hd.mpg.de)
+This is a "coding sprint" for people that want to work on Gammapy (http://gammapy.org/)
+You're very welcome if you're new to coding or haven't contributed to Gammapy yet.
+But note that this is not a workshop how to use Gammapy. We will also not do any tutorials how to hack on Gammapy, i.e. teach git, Github, Python, pytest and Sphinx. Instead we will pair experienced and new people and learn hands-on. If you want to prepare a bit, have a look at [gammapy-dev-tutorial](https://github.com/gammapy/gammapy-dev-tutorial) and learn a bit on your own before the coding sprint. Join the Gammapy Slack and feel free to ask anything there.
 
 ## Travel and hotel
 
@@ -32,33 +30,55 @@ Let us know if you have any questions!
 
 ## Agenda
 
-We will define the agenda before the meeting.
-
-Probably we will do overview presentations (status, proposals) on Monday afternoon
-and then leave the rest of the week free for people to work in small groups.
-See [here](https://github.com/gammapy/gammapy-meetings/tree/master/2018-02-05#preliminary-agenda)
-for the agenda we had at the last Gammapy coding sprint as an example.
-
-At previous meetings we did extensive Gammapy developer tutorials.
-If there is demand, we can do some developer tutorials, but we don't plan to spend too much time on this.
-Instead we will do pair coding, i.e. learning by doing.
-If you aren't familiar much yet with Python, pytest, git and Github, please use the information and resources
-linked to at https://github.com/gammapy/gammapy-dev-tutorial to learn a bit before the meeting. There are also some good resources here: https://github.com/Asterics2020-Obelics/School2018
-
-## Times
-
-* Monday: 2 pm - 6 pm
-* Tuesday: 9 am - 6 pm
-* Wednesday: 9 am - 6 pm
-* Thursday: 9 am - 6 pm
-* Friday: 9 am - 1 pm
-
 Every day:
 * Lunch break is 12:30 - 2 pm.
 * Coffee breaks are 10:30 - 11 am in the morning and 3:30 - 4 pm in the afternoon.
 
-Barbecue:
-* We'll have a Gammapy barbecue on Tuesday 10.July, 6 pm at the "open air theatre" behind the library building. 
+### Monday
+
+Monday afternoon is for presentations and discussions.
+
+We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce.txt](ezuce.txt))
+
+* Jim Hinton (10 min): Welcome address
+* Everyone (1 min each max): say hi
+* TBD (10 min): Organisational infos (rooms, wifi, ...)
+* TBD (10 min): Brief global overview (Gammapy, Astropy, regions, healpix, CTA, DC1, HESS, ...)?
+* Quick tutorials for the new stuff that most people haven't seen or used:
+  * TBD (15? min): What's new in maps?
+  * TBD (15? min): What's new in modeling?
+* Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
+  * TBD (15? min): [data](https://github.com/gammapy/gammapy/projects/6)
+  * TBD (10? min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
+  * Regis (15? min): [maps](https://github.com/gammapy/gammapy/projects/2)
+  * TBD (15? min): [modeling](https://github.com/gammapy/gammapy/projects/7)
+  * TBD (15? min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
+  * David (15? min): [time](https://github.com/gammapy/gammapy/projects/4)
+  * Roberta (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
+* Roberta Zanin (10 min): CTA DC1 check analyses
+* Lars Mohrmann (15 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
+* Cosimo Nigro (15 min): Joint Crab paper
+* All: discussion
+* 6 or 7 pm: walk downtown and go for dinner together. TBD: where?
+
+### Tuesday
+
+* 9 am - 6 pm: pair coding
+* 6 pm: barbecue at the "open air theatre" behind the library building
+
+### Wednesday
+
+* 9 am - 6 pm: pair coding
+
+### Thursday
+
+* 9 am - 6 pm: pair coding
+
+### Friday
+
+* 9 am - 1 pm: pair coding
+* Discuss work for the coming weeks / months? In what form does it make sense?
+* End with lunch together, leave any time you like
 
 ## Rooms
 
