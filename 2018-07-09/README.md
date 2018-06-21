@@ -77,7 +77,6 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
 ### Friday
 
 * 9 am - 1 pm: pair coding
-* Discuss work for the coming weeks / months? In what form does it make sense?
 * End with lunch together, leave any time you like
 
 ## Rooms
