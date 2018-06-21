@@ -85,7 +85,7 @@ In addition, the following places are available for discussions or coding in sma
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. Johannes King, MPIK Heidelberg, Germany ([joleroi](https://github.com/joleroi))
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
-1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier)), July 9-11
+1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier)) (Monday-Wednesday)
 1. Marion Spir-Jacob, APC, IN2P3/CNRS, France ([msjacob](https://github.com/msjacob))
 1. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
 1. David Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
@@ -96,3 +96,4 @@ In addition, the following places are available for discussions or coding in sma
 1. Laura Vega Garcia, MPIfR Bonn, Germany ([lauvegar](https://github.com/lauvegar))
 1. Hubert Siejkowski, ACC Cyfronet AGH, Poland ([hsiejkowski](https://github.com/hsiejkowski))
 1. Andrew Chen, Wits University, South Africa ([mealworm](https://github.com/mealworm))
+1. Lars Mohrmann, ECAP, Erlangen, Germany ([lmohrmann](https://github.com/lmohrmann)) (Monday-Tuesday)
