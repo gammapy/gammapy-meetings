@@ -57,6 +57,9 @@ Every day:
 * Lunch break is 12:30 - 2 pm.
 * Coffee breaks are 10:30 - 11 am in the morning and 3:30 - 4 pm in the afternoon.
 
+Barbecue:
+* We'll have a Gammapy barbecue on Tuesday 10.July, 6 pm at the "open air theatre" behind the library building. 
+
 ## Rooms
 
 The meeting will take place in the following rooms:
