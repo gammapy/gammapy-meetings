@@ -57,7 +57,7 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
   * Christoph Deil (5 min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
   * Régis Terrier (15 min): [maps](https://github.com/gammapy/gammapy/projects/2)
   * Johannes King (15 min): [modeling](https://github.com/gammapy/gammapy/projects/7)
-  * TBD (10 min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
+  * Christoph Deil (10 min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
   * David Fidalgo (10 min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurve analysis
   * Marion Spir-Jacob (10 min): pulsar analysis
   * Roberta Zanin (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
