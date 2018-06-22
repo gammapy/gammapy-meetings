@@ -48,9 +48,9 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
 * Lars Mohrmann (15 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
 * Cosimo Nigro (15 min): Joint Crab paper
 * Quick tutorials for the new stuff that most people haven't seen or used:
-  * TBD (15? min): What's new in maps?
-  * TBD (15? min): What's new in modeling?
-  * Hans Dembinski (15? min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
+  * Atreyee Sinha (10+5 min): What's new in maps?
+  * Johannes King (10+5 min): What's new in modeling?
+  * Hans Dembinski (10+5 min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
 * Coffee break
 * Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
   * Johannes King (15 min): [data](https://github.com/gammapy/gammapy/projects/6)
