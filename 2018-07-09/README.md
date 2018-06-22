@@ -52,12 +52,12 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
   * TBD (15? min): What's new in modeling?
 * Coffee break
 * Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
-  * TBD (15? min): [data](https://github.com/gammapy/gammapy/projects/6)
+  * Johannes King (15 min): [data](https://github.com/gammapy/gammapy/projects/6)
   * TBD (10? min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
   * TBD (15? min): [maps](https://github.com/gammapy/gammapy/projects/2)
-  * TBD (15? min): [modeling](https://github.com/gammapy/gammapy/projects/7)
+  * Christoph Deil (15 min): [modeling](https://github.com/gammapy/gammapy/projects/7)
   * TBD (15? min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
-  * David (15? min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurves
+  * David Fidalgo (10 min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurves
   * Marion (10 min): pulsars
   * Roberta (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
 * All: discussion
