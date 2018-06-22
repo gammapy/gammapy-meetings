@@ -42,26 +42,27 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
 
 * Jim Hinton (10 min): Welcome address
 * Everyone (1 min each max): say hi
-* TBD (5 min): Organisational infos (rooms, wifi, ...)
-* TBD (10 min): Brief global overview (Gammapy, Astropy, regions, healpix, CTA, DC1, HESS, ...)?
+* Christoph Deil (5 min): Organisational infos (rooms, wifi, ...)
+* Christoph Deil (10 min): Brief global overview (Gammapy, Astropy, regions, healpix, CTA, DC1, HESS, ...)?
 * Roberta Zanin (10 min): CTA DC1 check analyses
 * Lars Mohrmann (15 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
 * Cosimo Nigro (15 min): Joint Crab paper
 * Quick tutorials for the new stuff that most people haven't seen or used:
   * TBD (15? min): What's new in maps?
   * TBD (15? min): What's new in modeling?
+  * Hans Dembinski (15? min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
 * Coffee break
 * Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
   * Johannes King (15 min): [data](https://github.com/gammapy/gammapy/projects/6)
-  * TBD (10? min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
-  * TBD (15? min): [maps](https://github.com/gammapy/gammapy/projects/2)
-  * Christoph Deil (15 min): [modeling](https://github.com/gammapy/gammapy/projects/7)
-  * TBD (15? min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
-  * David Fidalgo (10 min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurves
-  * Marion (10 min): pulsars
-  * Roberta (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
+  * Christoph Deil (5 min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
+  * Régis Terrier (15 min): [maps](https://github.com/gammapy/gammapy/projects/2)
+  * Johannes King (15 min): [modeling](https://github.com/gammapy/gammapy/projects/7)
+  * TBD (10 min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
+  * David Fidalgo (10 min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurve analysis
+  * Marion Spir-Jacob (10 min): pulsar analysis
+  * Roberta Zanin (15? min): [documentation](https://github.com/gammapy/gammapy/projects/1)
 * All: discussion
-* 6 or 7 pm: walk downtown and go for dinner together. TBD: where?
+* 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta Zanin)
 
 ### Tuesday
 
@@ -70,15 +71,17 @@ We'll bring everyone together in the morning, after lunch, and at the
 end of the day for 10 min, and list what goes on where on a whiteboard.
 
 * 9 am - 6 pm: pair coding
-* 6 pm: barbecue at the "open air theatre" behind the library building
+* 6 pm: barbecue at the "open air theatre" behind the library building (organised by Axel Donath)
 
 ### Wednesday
 
 * 9 am - 6 pm: pair coding
+* Dinner together in Altstadt (organised by tbd)
 
 ### Thursday
 
 * 9 am - 6 pm: pair coding
+* Dinner together in Altstadt (organised by tbd)
 
 ### Friday
 
