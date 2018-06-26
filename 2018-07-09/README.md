@@ -78,7 +78,7 @@ end of the day for 10 min, and list what goes on where on a whiteboard.
 ### Wednesday
 
 * 9 am - 6 pm: pair coding
-* Dinner together in Altstadt (organised by tbd)
+* Dinner together in Altstadt (organised by Johannes)
 
 ### Thursday
 
