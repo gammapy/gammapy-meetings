@@ -30,10 +30,6 @@ Let us know if you have any questions!
 
 ## Agenda
 
-Every day:
-* Lunch break is 12:30 - 2 pm.
-* Coffee breaks are 10:30 - 11 am in the morning and 3:30 - 4 pm in the afternoon.
-
 ### Monday
 
 Monday afternoon is for presentations and discussions.
@@ -64,30 +60,50 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Marion Spir-Jacob (5+5 min): pulsar analysis
   * Roberta Zanin (10+5 min): [GH project: documentation](https://github.com/gammapy/gammapy/projects/1), [slides]()
 * All: discussion
-* 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta Zanin)
+* 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta)
 
 ### Tuesday
 
-The rest of the week is for pair coding and discussions in small groups.
-We'll bring everyone together in the morning, after lunch, and at the
-end of the day for 10 min, and list what goes on where on a whiteboard.
-
-* 9 am - 6 pm: pair coding
-* 6 pm: barbecue at the "open air theatre" behind the library building (organised by Axel Donath)
+* 9 am : start - all meet in central seminar room (same as Monday)
+* 9 - 10.30 coding session 1
+* 10.30 - 11 coffee
+* 11 - 12.30 coding session 2
+* 12.30 - 2 lunch
+* 2 - 3.30 coding session 3
+* 3.30 - 4 coffee 
+* 4.30 - 6 coding session 4
+* 6 : barbecue at the "open air theatre" behind the library building (organised by Axel)
 
 ### Wednesday
 
-* 9 am - 6 pm: pair coding
-* Dinner together in Altstadt (organised by Johannes)
+* 9 am : start - all meet in central seminar room (same as Monday)
+* 9 - 10.30 coding session 1
+* 10.30 - 11 coffee
+* 11 - 12.30 coding session 2
+* 12.30 - 2 lunch
+* 2 - 3.30 coding session 3
+* 3.30 - 4 coffee 
+* 4.30 - 6 coding session 4
+* 6 : Walk together to Landessternwarte, then dinner in Altstadt (organised by Johannes)
 
 ### Thursday
 
-* 9 am - 6 pm: pair coding
+* 9 am : start - all meet in central seminar room (same as Monday)
+* 9 - 10.30 coding session 1
+* 10.30 - 11 coffee
+* 11 - 12.30 coding session 2
+* 12.30 - 2 lunch
+* 2 - 3.30 coding session 3
+* 3.30 - 4 coffee 
+* 4.30 - 6 coding session 4
 * Dinner together in Altstadt (organised by tbd)
 
 ### Friday
 
-* 9 am - 1 pm: pair coding
+* 9 am : start - all meet in central seminar room (same as Monday)
+* 9 - 10.30 coding session 1
+* 10.30 - 11 coffee
+* 11 - 12.30 coding session 2
 * End with lunch together, leave any time you like
 
 ## Rooms
