@@ -44,8 +44,8 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 
 * Jim Hinton (10 min): Welcome address
 * Everyone (1 min each max): say hi
-* Christoph Deil (5 min): Organisational infos (rooms, wifi, ...)
-* Christoph Deil (5+5 min): Gammapy project overview
+* Christoph Deil (5 min): [Meeting infos]()
+* Christoph Deil (5+5 min): [Gammapy project overview]()
 * Roberta Zanin (5+5 min): CTA DC1 check analyses
 * Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
 * Cosimo Nigro (10+5 min): Joint Crab paper
@@ -55,14 +55,14 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Hans Dembinski (10+5 min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
 * Coffee break
 * Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
-  * Johannes King (10+5 min): [data](https://github.com/gammapy/gammapy/projects/6)
-  * Christoph Deil (3+2 min): [IRFs](https://github.com/gammapy/gammapy/projects/5)
-  * Régis Terrier (10+5 min): [maps](https://github.com/gammapy/gammapy/projects/2)
-  * Johannes King (10+5 min): [modeling](https://github.com/gammapy/gammapy/projects/7)
-  * Christoph Deil (5+5 min): [spectrum](https://github.com/gammapy/gammapy/projects/3)
-  * David Fidalgo (5+5 min): [time](https://github.com/gammapy/gammapy/projects/4), lightcurve analysis
+  * Johannes King (10+5 min): [GH project: data](https://github.com/gammapy/gammapy/projects/6), [slides]()
+  * Christoph Deil (3+2 min): [GH project: IRFs](https://github.com/gammapy/gammapy/projects/5), [slides]()
+  * Régis Terrier (10+5 min): [GH project: maps](https://github.com/gammapy/gammapy/projects/2), [slides]()
+  * Johannes King (10+5 min): [GH project: modeling](https://github.com/gammapy/gammapy/projects/7), [slides]()
+  * Christoph Deil (5+5 min): [GH project: spectrum](https://github.com/gammapy/gammapy/projects/3), [slides]()
+  * David Fidalgo (5+5 min): [GH project: time](https://github.com/gammapy/gammapy/projects/4), lightcurve analysis, [slides]()
   * Marion Spir-Jacob (5+5 min): pulsar analysis
-  * Roberta Zanin (10+5 min): [documentation](https://github.com/gammapy/gammapy/projects/1)
+  * Roberta Zanin (10+5 min): [GH project: documentation](https://github.com/gammapy/gammapy/projects/1), [slides]()
 * All: discussion
 * 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta Zanin)
 
