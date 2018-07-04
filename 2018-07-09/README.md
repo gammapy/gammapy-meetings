@@ -43,8 +43,8 @@ We start at **2 pm** and if you can't come, you can connect remotely (see [ezuce
 With the given times, X + Y minutes means present for X minutes and leave Y minutes for discussion. Please be brief and focus on the issues and technical points only that are relevant for our work on Gammapy this week and in the near future.
 
 * Jim Hinton (10 min): Welcome address
-* Everyone (1 min each max): say hi
-* Christoph Deil (5 min): [Meeting infos]()
+* Everyone (1 min each max): round table flash introductions (who you are, interest in Gammapy)
+* Christoph Deil (5 min): [Workshop orientation]()
 * Christoph Deil (5+5 min): [Gammapy project overview]()
 * Roberta Zanin (5+5 min): CTA DC1 check analyses
 * Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
