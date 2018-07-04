@@ -1,4 +1,4 @@
-# Gammapy July 2018 Coding Sprint, Heidelberg
+# Gammapy Coding Sprint, July 2018, Heidelberg
 
 * Start: Monday, July 9, 2018 at 2 pm
 * End: Friday, July 13, 2018 at noon
@@ -40,7 +40,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 
 * Jim Hinton (10 min): Welcome address
 * Everyone (1 min each max): round table flash introductions (who you are, interest in Gammapy)
-* Christoph Deil (5 min): [Workshop orientation]()
+* Christoph Deil (5 min): [Workshop orientation](https://goo.gl/k3HSkf)
 * Christoph Deil (5+5 min): [Gammapy project overview]()
 * Roberta Zanin (5+5 min): CTA DC1 check analyses
 * Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
