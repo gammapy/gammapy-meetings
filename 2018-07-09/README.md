@@ -42,9 +42,9 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Everyone (1 min each max): round table flash introductions (who you are, interest in Gammapy)
 * Christoph Deil (5 min): [Workshop introduction](https://goo.gl/k3HSkf)
 * Christoph Deil (5+5 min): [Gammapy introduction](https://goo.gl/mPdw4d)
-* Roberta Zanin (5+5 min): [CTA DC1 check analyses](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/Talks/20180709_gammapy_DC1.pdf)
+* Roberta Zanin (5+5 min): [CTA DC1 check analyses](Talks/20180709_gammapy_DC1.pdf)
 * Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
-* Cosimo Nigro (10+5 min): Joint Crab paper
+* Cosimo Nigro (10+5 min): [Joint Crab paper](Talks/joint_crab_cosimo.pdf)
 * Quick tutorials for the new stuff that most people haven't seen or used:
   * Atreyee Sinha (10+5 min): What's new in maps?
   * Johannes King (10+5 min): What's new in modeling (notebook](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/simulate_3d.ipynb)?
@@ -53,12 +53,12 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Status reports and open tasks for this week:
   * Johannes King (10+5 min): data
   * Christoph Deil (3+2 min): [irf](https://goo.gl/VnYX9u)
-  * Régis Terrier (10+5 min): [maps](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/map_status_future.pdf)
+  * Régis Terrier (10+5 min): [maps](Talks/map_status_future.pdf)
   * Johannes King (10+5 min): modeling
   * Christoph Deil (5+5 min): [spectrum](https://goo.gl/4jYsZy)
   * David Fidalgo (5+5 min): lightcurves
   * Marion Spir-Jacob (5+5 min): pulsar analysis
-  * Roberta Zanin (5+5 min): [documentation](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/Talks/20180709_gammapy_docs.pdf)
+  * Roberta Zanin (5+5 min): [documentation](Talks/20180709_gammapy_docs.pdf)
 * All: discussion
 * 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Weststadt (Römerstraße 24-26, 69115 Heidelberg)
 
