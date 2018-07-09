@@ -60,7 +60,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Marion Spir-Jacob (5+5 min): pulsar analysis
   * Roberta Zanin (5+5 min): documentation
 * All: discussion
-* 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta)
+* 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Weststadt (Römerstraße 24-26, 69115 Heidelberg)
 
 ### Tuesday
 
