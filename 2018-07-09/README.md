@@ -52,7 +52,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Coffee break
 * Status reports and open tasks for this week:
   * Johannes King (10+5 min): data
-  * Christoph Deil (3+2 min): irf
+  * Christoph Deil (3+2 min): [irf](https://goo.gl/VnYX9u)
   * Régis Terrier (10+5 min): maps
   * Johannes King (10+5 min): modeling
   * Christoph Deil (5+5 min): spectrum
