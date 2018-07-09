@@ -58,7 +58,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Christoph Deil (5+5 min): spectrum
   * David Fidalgo (5+5 min): lightcurves
   * Marion Spir-Jacob (5+5 min): pulsar analysis
-  * Roberta Zanin (5+5 min): documentation
+  * Roberta Zanin (5+5 min): [documentation](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/Talks/20180709_gammapy_docs.pdf)
 * All: discussion
 * 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Weststadt (Römerstraße 24-26, 69115 Heidelberg)
 
