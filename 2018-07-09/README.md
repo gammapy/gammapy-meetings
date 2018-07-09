@@ -43,7 +43,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Christoph Deil (5 min): [Workshop introduction](https://goo.gl/k3HSkf)
 * Christoph Deil (5+5 min): [Gammapy introduction](https://goo.gl/mPdw4d)
 * Roberta Zanin (5+5 min): [CTA DC1 check analyses](Talks/20180709_gammapy_DC1.pdf)
-* Lars Mohrmann (10+5 min): HESS FITS analysis validation
+* Lars Mohrmann (10+5 min): [HESS data analysis with open source tools](Talks//hess_fits_lars.pdf)
 * Cosimo Nigro (10+5 min): [Joint Crab paper](Talks/joint_crab_cosimo.pdf)
 * Quick tutorials for the new stuff that most people haven't seen or used:
   * Atreyee Sinha (10+5 min): What's new in maps? See [intro_maps.ipynb](http://docs.gammapy.org/dev/notebooks/intro_maps.html)
@@ -72,7 +72,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * 2 - 3.30 coding session 3
 * 3.30 - 4 coffee 
 * 4.30 - 6 coding session 4
-* 6 : barbecue at the "open air theatre" behind the library building (organised by Axel)
+* 6 : barbecue at the "open air theatre" behind the library building (organised by Axel), Soccer France-Belgium
 
 ### Wednesday
 
@@ -84,7 +84,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * 2 - 3.30 coding session 3
 * 3.30 - 4 coffee 
 * 4.30 - 6 coding session 4
-* 6 : Walk together to Landessternwarte, then dinner in Altstadt (organised by Johannes)
+* 6 : Walk together to Landessternwarte, then dinner in Altstadt (organised by Johannes), Soccer England-Croatia?
 
 ### Thursday
 
