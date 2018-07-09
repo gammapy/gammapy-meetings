@@ -42,7 +42,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Everyone (1 min each max): round table flash introductions (who you are, interest in Gammapy)
 * Christoph Deil (5 min): [Workshop introduction](https://goo.gl/k3HSkf)
 * Christoph Deil (5+5 min): [Gammapy introduction](https://goo.gl/mPdw4d)
-* Roberta Zanin (5+5 min): CTA DC1 check analyses
+* Roberta Zanin (5+5 min): [CTA DC1 check analyses](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/Talks/20180709_gammapy_DC1.pdf)
 * Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
 * Cosimo Nigro (10+5 min): Joint Crab paper
 * Quick tutorials for the new stuff that most people haven't seen or used:
