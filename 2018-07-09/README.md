@@ -57,7 +57,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Johannes King (10+5 min): [modeling]((Talks/modeling.pdf))
   * Christoph Deil (5+5 min): [spectrum](https://goo.gl/4jYsZy)
   * David Fidalgo (5+5 min): lightcurves
-  * Marion Spir-Jacob (5+5 min): pulsar analysis
+  * Marion Spir-Jacob (5+5 min): [pulsar analysis](Talks/codingsprint_gammapy_pulsars_jui2018.pdf)
   * Roberta Zanin (5+5 min): [documentation](Talks/20180709_gammapy_docs.pdf)
 * All: discussion
 * 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Weststadt (Römerstraße 24-26, 69115 Heidelberg)
