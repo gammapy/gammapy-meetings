@@ -48,7 +48,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Quick tutorials for the new stuff that most people haven't seen or used:
   * Atreyee Sinha (10+5 min): What's new in maps? See [intro_maps.ipynb](http://docs.gammapy.org/dev/notebooks/intro_maps.html)
   * Johannes King (10+5 min): What's new in modeling? See [simulate_3d.ipynb](http://docs.gammapy.org/dev/notebooks/simulate_3d.html)
-  * Hans Dembinski (10+5 min): Introducing iminuit (now used in Gammapy). See tutorials in [docs](http://iminuit.readthedocs.io/).
+  * Hans Dembinski (10+5 min): Introducing iminuit (now used in Gammapy). See [slides](Talks/iminuit_tutorial_hans.pdf) and tutorials in [docs](http://iminuit.readthedocs.io/).
 * Coffee break
 * Status reports and open tasks for this week:
   * Johannes King (5+5 min): [data](Talks/data.pdf)
