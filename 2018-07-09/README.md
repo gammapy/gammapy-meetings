@@ -56,11 +56,11 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Régis Terrier (10+5 min): [maps](Talks/map_status_future.pdf)
   * Johannes King (10+5 min): [modeling]((Talks/modeling.pdf))
   * Christoph Deil (5+5 min): [spectrum](https://goo.gl/4jYsZy)
-  * David Fidalgo (5+5 min): lightcurves
+  * David Fidalgo (5+5 min): lightcurves ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/1451))
   * Marion Spir-Jacob (5+5 min): [pulsar analysis](Talks/codingsprint_gammapy_pulsars_jui2018.pdf)
   * Roberta Zanin (5+5 min): [documentation](Talks/20180709_gammapy_docs.pdf)
 * All: discussion
-* 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Weststadt (Römerstraße 24-26, 69115 Heidelberg)
+* 7:30 pm: walk down and go for dinner together in Da Baggio (Italian restaurant) / Römerstraße 24 in Weststadt, see [map](https://goo.gl/maps/hvD5StC43CJ2)
 
 ### Tuesday
 
