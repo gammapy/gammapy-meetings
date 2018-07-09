@@ -43,11 +43,11 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
 * Christoph Deil (5 min): [Workshop introduction](https://goo.gl/k3HSkf)
 * Christoph Deil (5+5 min): [Gammapy introduction](https://goo.gl/mPdw4d)
 * Roberta Zanin (5+5 min): [CTA DC1 check analyses](Talks/20180709_gammapy_DC1.pdf)
-* Lars Mohrmann (10+5 min): HESS FITS analysis validation (including [HESS test data release](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/))
+* Lars Mohrmann (10+5 min): HESS FITS analysis validation
 * Cosimo Nigro (10+5 min): [Joint Crab paper](Talks/joint_crab_cosimo.pdf)
 * Quick tutorials for the new stuff that most people haven't seen or used:
-  * Atreyee Sinha (10+5 min): What's new in maps?
-  * Johannes King (10+5 min): What's new in modeling (notebook](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/simulate_3d.ipynb)?
+  * Atreyee Sinha (10+5 min): What's new in maps? [intro_maps.ipynb](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/intro_maps.ipynb)?
+  * Johannes King (10+5 min): What's new in modeling? [simulate_3d.ipynb](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/simulate_3d.ipynb)?
   * Hans Dembinski (10+5 min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
 * Coffee break
 * Status reports and open tasks for this week:
