@@ -55,7 +55,7 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Christoph Deil (3+2 min): [irf](https://goo.gl/VnYX9u)
   * Régis Terrier (10+5 min): [maps](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/map_status_future.pdf)
   * Johannes King (10+5 min): modeling
-  * Christoph Deil (5+5 min): spectrum
+  * Christoph Deil (5+5 min): [spectrum](https://goo.gl/4jYsZy)
   * David Fidalgo (5+5 min): lightcurves
   * Marion Spir-Jacob (5+5 min): pulsar analysis
   * Roberta Zanin (5+5 min): [documentation](https://github.com/gammapy/gammapy-meetings/blob/master/2018-07-09/Talks/20180709_gammapy_docs.pdf)
