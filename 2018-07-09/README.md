@@ -50,15 +50,15 @@ With the given times, X + Y minutes means present for X minutes and leave Y minu
   * Johannes King (10+5 min): What's new in modeling?
   * Hans Dembinski (10+5 min): [iminuit](http://iminuit.readthedocs.io/) (now used in Gammapy)
 * Coffee break
-* Status reports and open tasks for this week, using [Github projects](https://github.com/gammapy/gammapy/projects):
-  * Johannes King (10+5 min): [GH project: data](https://github.com/gammapy/gammapy/projects/6), [slides]()
-  * Christoph Deil (3+2 min): [GH project: IRFs](https://github.com/gammapy/gammapy/projects/5), [slides]()
-  * Régis Terrier (10+5 min): [GH project: maps](https://github.com/gammapy/gammapy/projects/2), [slides]()
-  * Johannes King (10+5 min): [GH project: modeling](https://github.com/gammapy/gammapy/projects/7), [slides]()
-  * Christoph Deil (5+5 min): [GH project: spectrum](https://github.com/gammapy/gammapy/projects/3), [slides]()
-  * David Fidalgo (5+5 min): [GH project: time](https://github.com/gammapy/gammapy/projects/4), lightcurve analysis, [slides]()
+* Status reports and open tasks for this week:
+  * Johannes King (10+5 min): data
+  * Christoph Deil (3+2 min): irf
+  * Régis Terrier (10+5 min): maps
+  * Johannes King (10+5 min): modeling
+  * Christoph Deil (5+5 min): spectrum
+  * David Fidalgo (5+5 min): lightcurves
   * Marion Spir-Jacob (5+5 min): pulsar analysis
-  * Roberta Zanin (10+5 min): [GH project: documentation](https://github.com/gammapy/gammapy/projects/1), [slides]()
+  * Roberta Zanin (5+5 min): documentation
 * All: discussion
 * 6 or 7 pm: walk down and go for dinner together in Schwarzer Peter / Weststadt (organised by Roberta)
 
