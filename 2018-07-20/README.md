@@ -2,7 +2,7 @@
 
 * Friday, July, 2018 at 10 am
 * CTA eZuce, no password.  The connection details are [here](ezuce.txt)
-* 
+* Collective minute taking [here](https://goo.gl/LzjFCF). Please help fill it during the call!
 
 # Agenda
 
