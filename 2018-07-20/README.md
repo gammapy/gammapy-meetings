@@ -35,7 +35,8 @@
 
 * Intro: see [analysis_3d.ipynb](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/analysis_3d.ipynb) and [simulate_3d.ipynb](https://github.com/gammapy/gammapy-extra/blob/master/notebooks/simulate_3d.ipynb)
 * Fabio: [CTA DC1 - RX J1713](https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/rx_j1713)
-
+  PSF issues [here](https://github.com/gammapy/gammapy/issues/1533)
+  
 ## Developer hangout
 
 * See [v0.8 milestone](https://github.com/gammapy/gammapy/milestone/11)
