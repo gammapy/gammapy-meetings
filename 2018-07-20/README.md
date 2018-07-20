@@ -18,12 +18,12 @@
   * We have to clean up and improve. So last week I deleted 10,000 lines of code / tests / docs, the parts that I thought were uncontroversial.
   * Today we should discuss what changes go in v0.8 (hopefully in ~ 1 week) and which we postpone to v0.9 or even later.
   * Note that v0.7 will always be as-is, you can use that. But of course, if you need to upgrade to v0.8 for an analysis, we want to support you. Either keep something or help you rewrite your script to the new code.
-    * What to do about the stuff in [gammapy.scripts](http://docs.gammapy.org/0.7/scripts/index.html#module-gammapy.scripts)?
+  * What to do about the stuff in [gammapy.scripts](http://docs.gammapy.org/0.7/scripts/index.html#module-gammapy.scripts)?
     All added there with "not sure how to do this properly, not much time now, let's just put it there".
     It was always clear that this has to be rewritten / relocated / merged with existing code.
     Removal of `CTASpectrumObservation` and `CTAIrf` ([GH 1517](https://github.com/gammapy/gammapy/pull/1517)) for v0.8 or v.9?
     Should we move `SensitivityEstimator` and `SpectrumAnalysisIACT` to gammapy.spectrum?
-    * What about the SkyImage / SkyCube transition? A lot of the rewrite using gammapy.maps is done!
+  * What about the SkyImage / SkyCube transition? A lot of the rewrite using gammapy.maps is done!
     The main remaining part are the IACT and Fermi-LAT image estimators.
     And the rewrite of the ring background estimation using maps is blocked by the presence of the IACTBasicImageEstimator.
     My suggestion would be to remove the FermiLATBasicImageEstimator now (see [GH 1545](https://github.com/gammapy/gammapy/issues/1545)). Then we update high-level docs and do v0.8 in ~a week.
