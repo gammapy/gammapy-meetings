@@ -1,3 +1,8 @@
+![coding ...](20180207_150924.jpg)
+![more coding ...](20180208_103349.jpg)
+
+(we forgot to take a group photo; here some impressions of Gammapy coding)
+
 # Gammapy Coding Sprint, APC, Paris
 
 The coding sprint will happen from **February 5th, 14h to the 9th, 12h, 2018**, and hosted in **FACe, Paris**, 13 rue Watt 75013 Paris.
