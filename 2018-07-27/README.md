@@ -21,7 +21,7 @@
 * Status of https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks
   * Ideally each analysis has make.py to produce results in machine-readable format,
   in addition to plots and summary in the README.
-  
+* Discussion on the cleaning of Gammapy, in particular for the background modelling that was remove in this PR https://github.com/gammapy/gammapy/pull/1515/files
 ## Developer hangout
 
 * See [v0.8 milestone](https://github.com/gammapy/gammapy/milestone/11)
