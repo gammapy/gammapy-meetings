@@ -16,8 +16,8 @@
   Remove SkyImage, SkyImageList and SkyCube on Monday, before v0.8.
   Most of the work is done, some remains for today & Monday.
 * Discuss: code removed for background modeling [GH 1515](https://github.com/gammapy/gammapy/pull/1515).
-  Plan is to bring it back [GH 1516](https://github.com/gammapy/gammapy/pull/1515).
-  Is this a priority for next week for v0.8, or can it be done in the next months for v0.9?
+  Note that apart from general cleanup, another reason why I removed it was because it was using the obs grouping classes, which I also would like to remove now (see [here](https://github.com/gammapy/gammapy/issues/626#issuecomment-408218270)).
+  Plan is to bring background model building functionality back ([GH 1516](https://github.com/gammapy/gammapy/pull/1515)). OK to do this for v0.9, or should it be a priority for v0.8, i.e. be done next week?
 * Discuss: new data / observation classes, see [GH 1546](https://github.com/gammapy/gammapy/pull/1546)
 * Discuss [open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Discuss [v0.8 milestone](https://github.com/gammapy/gammapy/milestone/11)
