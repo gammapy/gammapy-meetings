@@ -1,3 +1,8 @@
+
+![group photo](gammapy-meeting-july-2018-mpik.JPG)
+
+(we forgot to take a photo on Monday, unfortunately Régis, Axel, Lars missing from the picture)
+
 # Gammapy Coding Sprint, July 2018, Heidelberg
 
 * Start: Monday, July 9, 2018 at 2 pm
