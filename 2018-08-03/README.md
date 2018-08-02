@@ -5,6 +5,14 @@
 
 # Agenda
 
+## You: fill it now!
+
+* In preparation for the DC-1 close-out, the ctools and gammapy developer teams have prepared a questionary asking for DC-1 user feedback on the Science Tools. Please respond to this questionary, even if you have not used ctools and gammapy, no later than 26 August. [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdwgYyRpMzmcqcQcHTD-3Um-oybdyZlNfXJOe6iX9t05ufSbg/viewform?c=0&w=1)
+
+* Gammapy fall coding sprint will be at UCM Madrid, Spain.
+  Last chance to fill the [Doodle](https://doodle.com/poll/5rqmp9sz7xdatsvt) is now.
+  (Filling the Doodle is not registering; fill it if you might come)
+
 ## Christoph: Introduction
 
 * Again, a ton of activity in the past week.
