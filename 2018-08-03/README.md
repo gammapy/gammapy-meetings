@@ -36,6 +36,7 @@
 ## Sabina: simulating and fitting small sources
 
 * Using Gammapy to evaluate CTA PSFs
+* See [SizeStudyGammapy.pdf](SizeStudyGammapy.pdf)
 
 ## 3D analyses from CTA DC-1
 
