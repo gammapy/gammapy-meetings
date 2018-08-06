@@ -17,7 +17,7 @@ coding sprints".
 [Previous meetings:](#oldmeeting)
 * [2018-07-27](2018-07-27/README.md) - Gammapy telcon
 * [2018-07-20](2018-07-20/README.md) - Gammapy telcon
-* [2018-07-09](2018-07-09/README.md) - Gammapy telcon
+* [2018-07-09](2018-07-09/README.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
 * [2018-05-11](2018-05-11/README.md) - Gammapy telcon
 * [2018-04-27](2018-04-27/README.md) - Gammapy telcon
 * [2018-04-06](2018-04-06/README.md) - Gammapy telcon
