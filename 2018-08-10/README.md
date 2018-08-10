@@ -15,7 +15,8 @@
 * Did you fill the [CTA DC1 questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdwgYyRpMzmcqcQcHTD-3Um-oybdyZlNfXJOe6iX9t05ufSbg/viewform?c=0&w=1)?
 * Who will take care of getting a good slot for a Gammapy hands-on at the [Berlin CTA consortium meeting](https://indico.cta-observatory.org/event/1711/timetable/#20180924)?
   See email from Tiziana yesterday to request parallel sessions ASAP.
-  
+* Next Gammapy call when?
+
 ## DC1 analyses and close-out
 
 * Goal is to have good results and `make.py all` for all analyses
