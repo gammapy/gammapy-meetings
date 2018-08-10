@@ -8,7 +8,7 @@
 ## Logistics
 
 * Next Gammapy coding sprint will be October 1-5 in Madrid.
-  Infos will go [here](..2018-10-01/README.md).
+  Infos will go [here](../2018-10-01/README.md).
   If you can join, please add yourself to the participant list directly
   (click the "edit" pencil symbol) or email Jose-Luis Contreras.
   Will be advertised widely next week.
