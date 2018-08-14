@@ -18,7 +18,10 @@ feel free to ask anything there.
 
 ## Travel and hotel
 
-coming soon ...
+You can find our location and directions of hotels at the High Energy Physics group page
+(https://www.gae.ucm.es), right hand side, under the **Useful information** section.
+The university can be reached from the city or the airport by metro, station *Ciudad Universitaria*
+(line 6, grey), from there it is just a ten minutes walk to the faculty. 
 
 ## Agenda
 
@@ -34,3 +37,5 @@ The rest of the week is for work in small groups, mostly pair coding.
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
+1. David Carreto-Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
+1. Lab Saha,UCM, Spain ([labsaha](https://github.com/labsaha))
