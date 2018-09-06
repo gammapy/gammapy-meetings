@@ -7,4 +7,5 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
+* Analysis issues in DC1 [(RXJ1713 notebook)](https://github.com/gammasky/cta-analyses/blob/master/dc-1-checks/rx_j1713/RXJ_gammapy_data_analysis3D.ipynb)
 * tbd
