@@ -7,4 +7,4 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
-* tbd
+* Discuss [#1790](https://github.com/gammapy/gammapy/issues/1790)
