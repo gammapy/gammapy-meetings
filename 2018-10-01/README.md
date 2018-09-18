@@ -38,8 +38,8 @@ The rest of the week is for work in small groups, mostly pair coding.
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
 1. David Carreto-Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
-1. Lab Saha,UCM, Spain ([labsaha](https://github.com/labsaha))
-1. Léa Jouvin,IFAE, Spain ([JouvinLea](https://github.com/JouvinLea))
+1. Lab Saha, UCM, Spain ([labsaha](https://github.com/labsaha))
+1. Léa Jouvin, IFAE, Spain ([JouvinLea](https://github.com/JouvinLea))
 1. José Enrique Ruiz, IAA-CSIC, Spain ([bultako](https://github.com/bultako))
 1. Judith Perez, UAM, Spain
 1. Catherine Boisson, OBSPM, France 
