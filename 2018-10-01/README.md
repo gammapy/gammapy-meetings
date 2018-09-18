@@ -41,7 +41,7 @@ The rest of the week is for work in small groups, mostly pair coding.
 1. Lab Saha, UCM, Spain ([labsaha](https://github.com/labsaha))
 1. Léa Jouvin, IFAE, Spain ([JouvinLea](https://github.com/JouvinLea))
 1. José Enrique Ruiz, IAA-CSIC, Spain ([bultako](https://github.com/bultako))
-1. Judith Perez, UAM, Spain
+1. Judit Perez, UAM, Spain
 1. Catherine Boisson, OBSPM, France 
 1. Daniel Nieto, UCM, Spain   ([nietootein](https://github.com/nietootein))
 1. Daniel Morcuende, UCM, Spain ([morcuended](https://github.com/morcuended))
