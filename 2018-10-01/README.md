@@ -40,3 +40,4 @@ The rest of the week is for work in small groups, mostly pair coding.
 1. David Carreto-Fidalgo, UCM, Spain ([dcfidalgo](https://github.com/dcfidalgo))
 1. Lab Saha,UCM, Spain ([labsaha](https://github.com/labsaha))
 1. Léa Jouvin,IFAE, Spain ([JouvinLea](https://github.com/JouvinLea))
+1. José Enrique Ruiz, IAA-CSIC, Spain ([bultako](https://github.com/bultako))
