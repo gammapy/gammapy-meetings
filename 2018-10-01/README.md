@@ -21,7 +21,7 @@ feel free to ask anything there.
 You can find our location and directions of hotels at the High Energy Physics group page
 (https://www.gae.ucm.es), right hand side, under the **Useful information** section.
 The university can be reached from the city or the airport by metro, station *Ciudad Universitaria*
-(line 6, grey), from there it is just a ten minutes walk to the faculty. 
+(line 6, grey), from there it is just a ten minutes walk to the faculty([Google Map](Google_Map.png)). 
 
 ## Agenda
 
