@@ -45,4 +45,4 @@ The rest of the week is for work in small groups, mostly pair coding.
 1. Catherine Boisson, OBSPM, France 
 1. Daniel Nieto, UCM, Spain   ([nietootein](https://github.com/nietootein))
 1. Daniel Morcuende, UCM, Spain ([morcuended](https://github.com/morcuended))
-1. Atreyee Sinha, APC, France ([AtreyeeS](https://github.com/AtreyeeS)
+1. Atreyee Sinha, APC, France ([AtreyeeS](https://github.com/AtreyeeS))
