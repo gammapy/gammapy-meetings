@@ -46,53 +46,53 @@ Setup eZuce connection for remote participants?
 
 ### Tuesday
 
-| Time          | Program          |
-| ------------- |----------------- |
-| 9.00 - 10.30  | Coding Session 1 |
-| 10.30 - 11.00 | Coffee Break     |
-| 11.00 - 12.30 | Coding Session 2 |
-| 12.30 - 14.00 | Lunch            |
-| 14.00 - 15.30 | Coding Session 3 |
-| 15.30 - 16.00 | Coffee Break     |
-| 16.00 - 18.00 | Coding Session 4 |
-| 19.00         | Diner at         |
+| Time          | Program          | Room |
+| ------------- |----------------- |------|
+| 9.00 - 10.30  | Coding Session 1 |      |
+| 10.30 - 11.00 | Coffee Break     |      |
+| 11.00 - 12.30 | Coding Session 2 |      |
+| 12.30 - 14.00 | Lunch            |      |
+| 14.00 - 15.30 | Coding Session 3 |      |
+| 15.30 - 16.00 | Coffee Break     |      |
+| 16.00 - 18.00 | Coding Session 4 |      |
+| 19.00         | Diner at         |      |
 
 
 ### Wednesday
 
-| Time          | Program          |
-| ------------- |----------------- |
-| 9.00 - 10.30  | Coding Session 1 |
-| 10.30 - 11.00 | Coffee Break     |
-| 11.00 - 12.30 | Coding Session 2 |
-| 12.30 - 14.00 | Lunch            |
-| 14.00 - 15.30 | Coding Session 3 |
-| 15.30 - 16.00 | Coffee Break     |
-| 16.00 - 18.00 | Coding Session 4 |
-| 19.00         | Diner at         |
+| Time          | Program          | Room |
+| ------------- |----------------- |------|
+| 9.00 - 10.30  | Coding Session 1 |      |
+| 10.30 - 11.00 | Coffee Break     |      |
+| 11.00 - 12.30 | Coding Session 2 |      |
+| 12.30 - 14.00 | Lunch            |      |
+| 14.00 - 15.30 | Coding Session 3 |      |
+| 15.30 - 16.00 | Coffee Break     |      |
+| 16.00 - 18.00 | Coding Session 4 |      |
+| 19.00         | Diner at         |      |
 
 
 ### Thursday
 
-| Time          | Program          |
-| ------------- |----------------- |
-| 9.00 - 10.30  | Coding Session 1 |
-| 10.30 - 11.00 | Coffee Break     |
-| 11.00 - 12.30 | Coding Session 2 |
-| 12.30 - 14.00 | Lunch            |
-| 14.00 - 15.30 | Coding Session 3 |
-| 15.30 - 16.00 | Coffee Break     |
-| 16.00 - 18.00 | Coding Session 4 |
-| 19.00         | Diner at         |
+| Time          | Program          | Room |
+| ------------- |----------------- |------|
+| 9.00 - 10.30  | Coding Session 1 |      |
+| 10.30 - 11.00 | Coffee Break     |      |
+| 11.00 - 12.30 | Coding Session 2 |      |
+| 12.30 - 14.00 | Lunch            |      |
+| 14.00 - 15.30 | Coding Session 3 |      |
+| 15.30 - 16.00 | Coffee Break     |      |
+| 16.00 - 18.00 | Coding Session 4 |      |
+| 19.00         | Diner at         |      |
 
 
 ### Friday
-| Time          | Program          |
-| ------------- |----------------- |
-| 9.00 - 10.30  | Coding Session 1 |
-| 10.30 - 11.00 | Coffee Break     |
-| 11.00 - 12.30 | Coding Session 2 |
-| 12.30 - 14.00 | Lunch            |
+| Time          | Program          | Room |
+| ------------- |----------------- |------|
+| 9.00 - 10.30  | Coding Session 1 |      |
+| 10.30 - 11.00 | Coffee Break     |      |
+| 11.00 - 12.30 | Coding Session 2 |      |
+| 12.30 - 14.00 | Lunch            |      |
 | 14.00 END     | Leave at any time you like|
 
 
