@@ -7,4 +7,5 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
-* tbd
+* User feedback from 1DC (Roberta)?
+* New tutorials, datasets and download setup (Jose Enrique & Christoph)
