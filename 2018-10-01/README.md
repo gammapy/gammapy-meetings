@@ -113,3 +113,4 @@ Setup eZuce connection for remote participants?
 1. Daniel Nieto, UCM, Spain   ([nietootein](https://github.com/nietootein))
 1. Daniel Morcuende, UCM, Spain ([morcuended](https://github.com/morcuended))
 1. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
+1. Ignacio Minaya, Univ. Lverpool, U.K. 
