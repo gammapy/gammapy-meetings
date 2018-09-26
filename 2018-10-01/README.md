@@ -4,11 +4,11 @@
 * Start: Monday, October 1, 2018 at 2 pm
 * End: Friday, October 5, 2018 at noon
 * Location: UCM Madrid, Spain. Faculty of physics, third floor room 218B.
-* Contacts: [Jose Luis Contreras](mailto:jlcontreras@fis.ucm.es),
+* Contacts: [Jose Luis Contreras](mailto:jlcontreras@fis.ucm.es), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people that want to work on Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't
-contributed to Gammapy yet. But note that this is not a workshop how to use
+contributed to Gammapy yet. But note that this is **not** a workshop how to use
 Gammapy. We will also not do any tutorials how to hack on Gammapy, i.e. teach
 git, Github, Python, pytest and Sphinx. Instead we will pair experienced and new
 people and learn hands-on. If you want to prepare a bit, have a look at
