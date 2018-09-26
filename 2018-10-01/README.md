@@ -47,7 +47,7 @@ The meeting will take place in our department's seminar room. When you enter the
 | 19.00         | Diner            |
 
 
-#### Presentations 1 (Gammapy Coordination):
+#### Presentations 1 (Gammapy Coordination & Activities):
 
 * Jose Luis Contreras: [Welcome Words and General Infos](slides/.pdf)
 * Lars Mohrmann: [Gammapy HESS Validation](slides/.pdf)
@@ -55,7 +55,7 @@ The meeting will take place in our department's seminar room. When you enter the
 * Christoph Deil: [Gammapy Paper](slides/.pdf)
 * Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf)
 
-#### Presentations 2 (Gammapy Code Status and Activities):
+#### Presentations 2 (Gammapy Code Status and Plans for the Week):
 * David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)
 * Axel Donath: [Modeling and Fitting](slides/.pdf)
 * Regis Terrier / Atreyee Sinha: [Maps](slides/.pdf)
