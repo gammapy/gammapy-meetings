@@ -44,16 +44,17 @@ Setup eZuce connection for remote participants?
 
 #### General Presentations:
 
-* Jose Luis Contreras: Welcome and local infos
-* Roberta Zanin: CTA activities / DC1 / DC1 user survey
-* Christoph Deil: Gammapy paper
-* Axel Donath / Regis Terrier: Gammapy roadmap
+* Jose Luis Contreras: Welcome words and general infos
+* Lars Mohrmann: Gammapy HESS Validation (slides)
+* Roberta Zanin: Gammapy CTA activities / DC1 / DC1 user survey (slides)
+* Christoph Deil: Gammapy paper (slides)
+* Axel Donath / Regis Terrier: Gammapy roadmap (slides)
 
 #### Gammapy Code Status and Activities:
-* David Carreto-Fidalgo: GTI handling?
-* Axel Donath: modeling and fitting?
-* Regis Terrier: maps?
-* Jose Enrique: docs and notebooks?
+* David Carreto-Fidalgo: GTI handling? (slides)
+* Axel Donath: modeling and fitting? (slides)
+* Regis Terrier: maps? (slides)
+* Jose Enrique: docs and notebooks? (slides)
 
 
 ### Tuesday
