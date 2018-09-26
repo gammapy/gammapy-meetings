@@ -38,23 +38,28 @@ The meeting will take place in our department's seminar room. When you enter the
 ## Agenda (Preliminary)
 
 ### Monday
-Monday afternoon is reserved for presentations and discussions. 
 
-Setup eZuce connection for remote participants?
+| Time          | Program          |
+| ------------- |----------------- |
+| 14.00 - 15.30 | Presentations 1  |
+| 15.30 - 16.00 | Coffee Break     |
+| 16.00 - 18.00 | Presentations 2  |
+| 19.00         | Diner            |
 
-#### General Presentations:
 
-* Jose Luis Contreras: Welcome words and general infos
-* Lars Mohrmann: Gammapy HESS Validation (slides)
-* Roberta Zanin: Gammapy CTA activities / DC1 / DC1 user survey (slides)
-* Christoph Deil: Gammapy paper (slides)
-* Axel Donath / Regis Terrier: Gammapy roadmap (slides)
+#### Presentations 1 (Gammapy Coordination):
 
-#### Gammapy Code Status and Activities:
-* David Carreto-Fidalgo: GTI handling? (slides)
-* Axel Donath: modeling and fitting? (slides)
-* Regis Terrier: maps? (slides)
-* Jose Enrique: docs and notebooks? (slides)
+* Jose Luis Contreras: [Welcome Words and General Infos](slides/.pdf)
+* Lars Mohrmann: [Gammapy HESS Validation](slides/.pdf)
+* Roberta Zanin: [Gammapy CTA Activities / DC1 / DC1 User Survey](slides/.pdf)
+* Christoph Deil: [Gammapy Paper](slides/.pdf)
+* Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf)
+
+#### Presentations 2 (Gammapy Code Status and Activities):
+* David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)
+* Axel Donath: [Modeling and Fitting](slides/.pdf)
+* Regis Terrier / Atreyee Sinha: [Maps](slides/.pdf)
+* Jose Enrique Ruiz: [Docs and Notebooks](slides/.pdf)
 
 
 ### Tuesday
@@ -96,7 +101,7 @@ Setup eZuce connection for remote participants?
 | 14.00 - 15.30 | Coding Session 3 |
 | 15.30 - 16.00 | Coffee Break     |
 | 16.00 - 18.00 | Coding Session 4 |
-| 19.00         | Diner at         |
+| 19.00         | Diner            |
 
 
 ### Friday
