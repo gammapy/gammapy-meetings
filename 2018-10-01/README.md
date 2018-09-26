@@ -20,8 +20,20 @@ feel free to ask anything there.
 
 You can find our location and directions of hotels at the High Energy Physics group page
 (https://www.gae.ucm.es), right hand side, under the **Useful information** section.
-The university can be reached from the city or the airport by metro, station *Ciudad Universitaria*
-(line 6, grey), from there it is just a ten minutes walk to the faculty([Google Map](Google_Map.png)). 
+The Physics Faculty can be reached from the city or the airport by metro, station *Ciudad Universitaria*
+(line 6, grey), from there it is just a ten minutes walk to the faculty ([google maps](https://goo.gl/maps/9rVPPQUfAvz), [png](Google_Map.png)).
+For the metro you need to buy a *multi card* (2,50€) that you can get from most of the ticket vending machines ([multi card](https://www.metromadrid.es/en/viaja_en_metro/Tarifasybilletes/Tajeta_Multi/index.html)).
+We would recommend to charge this card with a 10-journey ticket (12,20€), you will most likely use all of them during the week.
+To get to or from the airport there is an supplement of 3,00€ you need to pay ([ticket prices](https://www.metromadrid.es/en/viaja_en_metro/Tarifasybilletes/billetes/index.html))
+
+## Location of the meeting
+
+The meeting will take place in our department's seminar room. When you enter the Physics Faculty:
+ - take the stairs or elavoators to the 3rd floor
+ - go to the left hallway (*Dpto de Física Atomica, Molecular y Nuclear / Dpto. de Física Aplicada III*)
+ - first door on the right (room 218B, *Secretaría*)
+ 
+ You can either connect to the internet via *eduroam* or an extra wifi spot we will provide for the meeting.
 
 ## Agenda (Preliminary)
 
