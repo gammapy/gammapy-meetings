@@ -50,16 +50,16 @@ The meeting will take place in our department's seminar room. When you enter the
 #### Presentations 1 (Gammapy Coordination & Activities):
 
 * Jose Luis Contreras: [Welcome Words and General Infos](slides/.pdf)
-* Lars Mohrmann: [Gammapy HESS Validation](slides/.pdf)
-* Roberta Zanin: [Gammapy CTA Activities / DC1 / DC1 User Survey](slides/.pdf)
-* Christoph Deil: [Gammapy Paper](slides/.pdf)
-* Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf)
+* Lars Mohrmann: [Gammapy HESS Validation](slides/.pdf) (5 min. + 10 min.)
+* Roberta Zanin: [Gammapy CTA Activities / DC1 / DC1 User Survey](slides/.pdf) (5 min. + 10 min.)
+* Christoph Deil: [Gammapy Paper](slides/.pdf) (5 min. + 10 min.)
+* Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf) (5 min. + 10 min.)
 
 #### Presentations 2 (Gammapy Code Status and Plans for the Week):
-* David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)
-* Axel Donath: [Modeling and Fitting](slides/.pdf)
+* David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)(5 min. + 5 min.)
+* Axel Donath: [Modeling and Fitting](slides/.pdf) (5 min. + 5 min.)
 * Regis Terrier / Atreyee Sinha: [Maps](slides/.pdf)
-* Jose Enrique Ruiz: [Docs and Notebooks](slides/.pdf)
+* Jose Enrique Ruiz: [Docs and Notebooks](slides/.pdf) status (10 min.) and hands-on (20 min.)
 
 
 ### Tuesday
