@@ -26,6 +26,10 @@ For the metro you need to buy a *multi card* (2,50€) that you can get from mos
 We would recommend to charge this card with a 10-journey ticket (12,20€), you will most likely use all of them during the week.
 To get to or from the airport there is an supplement of 3,00€ you need to pay ([ticket prices](https://www.metromadrid.es/en/viaja_en_metro/Tarifasybilletes/billetes/index.html))
 
+From the airport to the center it takes approx. 45-60 minutes by metro.
+A taxi can be faster depending on the traffic (20-?? min).
+From the airport there is a fixed price of 30€ to get to the center.
+
 ## Location of the meeting
 
 The meeting will take place in our department's seminar room. When you enter the Physics Faculty:
