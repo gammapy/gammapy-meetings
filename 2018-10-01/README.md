@@ -13,7 +13,7 @@ Gammapy. We will also not do any tutorials how to hack on Gammapy, i.e. teach
 git, Github, Python, pytest and Sphinx. Instead we will pair experienced and new
 people and learn hands-on. If you want to prepare a bit, have a look at
 [gammapy-dev-tutorial](https://github.com/gammapy/gammapy-dev-tutorial) and
-learn a bit on your own before the coding sprint. Join the Gammapy Slack and
+learn a bit on your own before the coding sprint. Join the [Gammapy Slack](https://gammapy.slack.com) and
 feel free to ask anything there.
 
 ## Travel and hotel
