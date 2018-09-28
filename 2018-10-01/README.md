@@ -66,7 +66,7 @@ Remote connection will be possible with eZuce (details announced via mailing lis
 * David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)(5 min. + 5 min.)
 * Axel Donath: [Modeling and Fitting](slides/.pdf) (5 min. + 5 min.)
 * Regis Terrier / Atreyee Sinha: [Maps and Map Analysis?](slides/.pdf) (5 min. + 5 min.)
-* Jose Enrique Ruiz: [Docs and Notebooks](slides/.pdf) status (10 min.) and hands-on (20 min.)
+* Jose Enrique Ruiz: [Docs and Notebooks](slides/setup-docs-nbs-data.pdf) status (10 min.) and hands-on (20 min.)
 * Open discussion (30 min.)
 
 ### Tuesday
@@ -132,8 +132,8 @@ Remote connection will be possible with eZuce (details announced via mailing lis
 1. Léa Jouvin, IFAE, Spain ([JouvinLea](https://github.com/JouvinLea))
 1. José Enrique Ruiz, IAA-CSIC, Spain ([bultako](https://github.com/bultako))
 1. Judit Perez, UAM, Spain
-1. Catherine Boisson, OBSPM, France 
+1. Catherine Boisson, OBSPM, France
 1. Daniel Nieto, UCM, Spain   ([nietootein](https://github.com/nietootein))
 1. Daniel Morcuende, UCM, Spain ([morcuended](https://github.com/morcuended))
 1. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
-1. Ignacio Minaya, Univ. Lverpool, U.K. 
+1. Ignacio Minaya, Univ. Lverpool, U.K.
