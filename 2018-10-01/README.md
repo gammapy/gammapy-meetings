@@ -29,7 +29,7 @@ To get to or from the airport there is an supplement of 3,00€ you need to pay 
 ## Location of the meeting
 
 The meeting will take place in our department's seminar room. When you enter the Physics Faculty:
- - take the stairs or elavoators to the 3rd floor
+ - take the stairs or elevator to the 3rd floor
  - go to the left hallway (*Dpto de Física Atomica, Molecular y Nuclear / Dpto. de Física Aplicada III*)
  - first door on the right (room 218B, *Secretaría*)
  
