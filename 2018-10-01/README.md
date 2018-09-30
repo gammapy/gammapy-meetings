@@ -43,7 +43,7 @@ The meeting will take place in our department's seminar room. When you enter the
 
 ### Monday
 
-Remote connection will be possible with eZuce (details announced via mailing list).
+Remote connection will be possible with eZuce (connection detail are [here](ezuce.txt)).
 
 | Time          | Program          |
 | ------------- |----------------- |
