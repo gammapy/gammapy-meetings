@@ -63,7 +63,8 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 * Open discussion (20 min.)
 
 #### Presentations 2 (Gammapy Code Status and Plans for the Week):
-* David Carreto-Fidalgo: [GTI Handling and Lightcurves](slides/.pdf)(5 min. + 5 min.)
+* David Carreto-Fidalgo: [GTI Handling and Lightcurves](https://docs.google.com/presentation/d/1yJB0sy0IOiYadu7asEjltIUAw9TeOLQKLnwZOK2w2dk/edit?usp=sharing
+), [notebook] (slides/Observation-GTI-handling.ipynb) (5 min. + 5 min.)
 * Axel Donath: [Modeling and Fitting](slides/.pdf) (5 min. + 5 min.)
 * Regis Terrier / Atreyee Sinha: [Maps and Map Analysis?](slides/.pdf) (5 min. + 5 min.)
 * Jose Enrique Ruiz: [Docs and Notebooks](slides/setup-docs-nbs-data.pdf) status (10 min.) and hands-on (20 min.)
