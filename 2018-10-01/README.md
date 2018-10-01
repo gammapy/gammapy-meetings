@@ -59,7 +59,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 * Lars Mohrmann: [Gammapy HESS Validation](slides/hess_fits.pdf) (10 min. + 5 min.)
 * Christoph Deil: Gammapy CTA activities ([summary](slides/2018-10-01_Gammapy_CTA_Activities.pdf), for reference: [slides from CTA meeting last week](slides/2018-09-26_CTA_Gammapy.pdf)) (5 min. + 5 min.)
 * Christoph Deil: [Gammapy paper](slides/2018-10-01_Gammapy_Paper.pdf) (10 min. + 10 min.)
-* Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf) (5 min. + 15 min.)
+* Axel Donath: [Gammapy Roadmap](https://github.com/adonath/gammapy/blob/gammapy_roadmap_pig/docs/development/pigs/pig-005.rst) (5 min. + 15 min.)
 * Open discussion (20 min.)
 
 #### Presentations 2 (Gammapy Code Status and Plans for the Week):
