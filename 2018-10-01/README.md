@@ -57,7 +57,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 
 * Jose Luis Contreras: [Welcome Words and General Infos](slides/Welcome-GammaPy-Madrid.pdf) (5 min.)
 * Lars Mohrmann: [Gammapy HESS Validation](slides/hess_fits.pdf) (10 min. + 5 min.)
-* Roberta Zanin: [Gammapy CTA Activities / DC1 / DC1 User Survey](slides/.pdf) (5 min. + 5 min.)
+* Christoph Deil: Gammapy CTA activities ([summary](slides/gammapy_cta_activities.pdf), for reference: [slides from CTA meeting last week](slides/2018-09-26_CTA_Gammapy.pdf)) (5 min. + 5 min.)
 * Christoph Deil: [Gammapy Paper](slides/.pdf) (10 min. + 10 min.)
 * Axel Donath / Regis Terrier: [Gammapy Roadmap](slides/.pdf) (5 min. + 15 min.)
 * Open discussion (20 min.)
