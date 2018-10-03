@@ -109,6 +109,10 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 | 16.00 - 18.00 | Coding Session 4 |
 | 19.00         | Diner            |
 
+We propose to meet at "La Fragua" around 20:30. It is not a terrase, but food in nice and we can always have a drink later in oen of the places around
+
+https://www.tripadvisor.es/Restaurant_Review-g187514-d2710679-Reviews-Cerveceria_La_Fragua-Madrid.html
+
 
 ### Friday
 | Time          | Program          |
