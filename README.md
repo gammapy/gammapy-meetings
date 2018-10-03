@@ -11,10 +11,17 @@ activities from "Python bootcamps" where Gammapy was one topic to full "Gammapy
 coding sprints".
 
 [Latest meetings:](#meeting)
-* [2018-08-10](2018-08-10/README.md) - Gammapy telcon
-* [2018-08-03](2018-08-03/README.md) - Gammapy telcon
+* [2018-10-01](2018-10-01/README.md) - Gammapy Coding Sprint (Oct 1-5, UCM, Madrid)
+* [2018-09-28](2018-09-28/README.md) - Gammapy telcon
 
 [Previous meetings:](#oldmeeting)
+* [2018-09-21](2018-09-21/README.md) - Gammapy telcon
+* [2018-09-14](2018-09-14/README.md) - Gammapy telcon
+* [2018-09-07](2018-09-07/README.md) - Gammapy telcon
+* [2018-08-24](2018-08-24/README.md) - Gammapy telcon
+* [2018-08-17](2018-08-17/README.md) - Gammapy telcon
+* [2018-08-10](2018-08-10/README.md) - Gammapy telcon
+* [2018-08-03](2018-08-03/README.md) - Gammapy telcon
 * [2018-07-27](2018-07-27/README.md) - Gammapy telcon
 * [2018-07-20](2018-07-20/README.md) - Gammapy telcon
 * [2018-07-09](2018-07-09/README.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
