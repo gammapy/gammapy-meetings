@@ -1,6 +1,7 @@
 # gammapy developers call
 
 Developers call are planned every friday at 10am. They take place on eZuce.
+ in reverse chronological order.
 
 Connection details can be found here.
 
