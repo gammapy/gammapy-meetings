@@ -8,8 +8,8 @@ We have regular coding sprints which typically last about one week. In addition,
 
 [Old meetings:]()
 * [2018-10](2018-10_Madrid/README.md) - Gammapy Coding Sprint (Oct 1-5, UCM, Madrid)
-* [2018-07](2018-07_Heidelberg.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
-* [2018-02](2018-02_Paris.md) - Gammapy Coding Sprint (Feb 5-9, APC, Paris)
+* [2018-07](2018-07_Heidelberg/README.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
+* [2018-02](2018-02_Paris/README.md) - Gammapy Coding Sprint (Feb 5-9, APC, Paris)
 * [2017-09](2017-09_Heidelberg.md) -- Gammapy coding sprint (Sep 21-22, Heidelberg)
 * [2017-02 Heidelberg](2017-02_Heidelberg.md) -- Python for gamma-ray astronomy bootcamp (Feb 27 - March 3)
 * [2017-02 Paris](2017-02_Paris.md) -- Gammapy workshop (Feb 20 - 24)
