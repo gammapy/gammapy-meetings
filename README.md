@@ -1,10 +1,10 @@
 # gammapy-meetings
 
-This is an open repository. If you want to post some CTA-related results please use the following private ropsitory
+This is an open repository. If you want to post some CTA-related results please use the following private repository
 https://github.com/gammasky/cta-analyses
 
-
-This is a collection of Gammapy-related meetings in reverse chronological order. The regular calls happen all the two week.s
+This is a collection of Gammapy-related meetings in reverse chronological order. The developpers calls happen every week 
+on Firdays at 10am. 
 
 Not all of those meetings are strongly focused on Gammapy, there's a range of
 activities from "Python bootcamps" where Gammapy was one topic to full "Gammapy
@@ -15,15 +15,9 @@ coding sprints".
 * [2018-09-28](2018-09-28/README.md) - Gammapy telcon
 
 [Previous meetings:](#oldmeeting)
-* [2018-09-21](2018-09-21/README.md) - Gammapy telcon
-* [2018-09-14](2018-09-14/README.md) - Gammapy telcon
-* [2018-09-07](2018-09-07/README.md) - Gammapy telcon
-* [2018-08-24](2018-08-24/README.md) - Gammapy telcon
-* [2018-08-17](2018-08-17/README.md) - Gammapy telcon
+
 * [2018-08-10](2018-08-10/README.md) - Gammapy telcon
-* [2018-08-03](2018-08-03/README.md) - Gammapy telcon
-* [2018-07-27](2018-07-27/README.md) - Gammapy telcon
-* [2018-07-20](2018-07-20/README.md) - Gammapy telcon
+
 * [2018-07-09](2018-07-09/README.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
 * [2018-05-11](2018-05-11/README.md) - Gammapy telcon
 * [2018-04-27](2018-04-27/README.md) - Gammapy telcon
