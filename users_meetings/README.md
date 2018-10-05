@@ -6,7 +6,6 @@ Users call are planned on a monthly timescale. They take place on eZuce.
 * Not planned yet
 
 [Previous meetings:]()
-* [2018-08-10](2018/2018-08-10/README.md)
 * [2018-05-11](2018/2018-05-11/README.md)
 * [2018-04-27](2018/2018-04-27/README.md)
 * [2018-04-06](2018/2018-04-06/README.md)
