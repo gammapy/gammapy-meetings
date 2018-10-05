@@ -1,3 +1,5 @@
+![group photo](group-photo-madrid.jpg)
+(Atreyee and Lea missing)
 
 # Gammapy Coding Sprint, October 2018, Madrid
 
