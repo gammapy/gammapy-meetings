@@ -3,7 +3,6 @@
 This repository provides links to coming and past gammapy-related calls and meetings.
 
 Next meetings:
-* [2018-10-12](dev_meetings/2018/2018-10-12/README.md) - dev call
 * [2018-10-19](dev_meetings/2018/2018-10-19/README.md) - dev call
 * [2018-10-26](dev_meetings/2018/2018-10-26/README.md) - dev call
 
