@@ -8,10 +8,10 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * [PIG 6](https://github.com/gammapy/gammapy/pull/1877)
-    *scenarios discussed in PIG to introduce new use cases without modifications for the user
-    *Observations class will be introduced in the coming week
-    *how to deal with ObservationFilter in general?
-    *first introduce time interval selection
+    * scenarios discussed in PIG to introduce new use cases without modifications for the user
+    * Observations class will be introduced in the coming week
+    * how to deal with ObservationFilter in general?
+    * first introduce time interval selection
 * [Infinites, NaNs and model parameter bounds](https://github.com/gammapy/gammapy/pull/1881)
     *option to use `numpy.nan_to_num` might not be relevant.
     *user defined min and max values for now to protect for `nan`in fits see PR[#1882](https://github.com/gammapy/gammapy/issues/1842). Beware of scaling effects though.
