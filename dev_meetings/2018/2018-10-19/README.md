@@ -4,7 +4,7 @@
 * CTA eZuce, no password.  The connection details are [here](../2018-10-12/ezuce.txt)
 
 # Present
-@cdeil, @facero, @dcfigaldo, @registerrier
+[Christoph](@cdeil), [Fabio](@facero), [David](@dcfigaldo), [Regis](@registerrier)
 
 # Agenda
 
