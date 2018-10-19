@@ -3,9 +3,6 @@
 * Friday, October 19, 2018 at 10 am
 * CTA eZuce, no password.  The connection details are [here](../2018-10-12/ezuce.txt)
 
-# Present
-[Christoph](@cdeil), [Fabio](@facero), [David](@dcfigaldo), [Regis](@registerrier)
-
 # Agenda
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
