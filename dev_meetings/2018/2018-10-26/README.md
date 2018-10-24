@@ -7,4 +7,5 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests]():
+* Publishing related Gammapy assets (i.e. code, PIGs, talks, posters,..) in Zenodo. see ref. for [Astropy](https://zenodo.org/search?page=1&size=20&q=Astropy)
 * AOB
