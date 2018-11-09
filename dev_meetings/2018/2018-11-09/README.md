@@ -9,7 +9,7 @@
 * [Open pull requests for Gammapy 0.9](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.9)
 * [Open issues for Gammapy 0.9](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A0.9)
 * Add Scipy fitting backend [#1907](https://github.com/gammapy/gammapy/issues/1907) (Christoph)
-* How to implement fitting the background normalization (Axel)
+* How to implement fitting the background normalization [#1804](https://github.com/gammapy/gammapy/issues/1804)(Axel)
 
   Add a `HadronicBackground` model class and treat it as a regular model component, but not
   applying IRFs to it. This could be handled in three ways:
