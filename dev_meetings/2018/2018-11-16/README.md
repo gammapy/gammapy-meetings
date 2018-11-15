@@ -6,6 +6,6 @@
 # Agenda
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
-* [Open pull requests]():
+* [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Gammapy 0.9 release status
 * [Removing environment variable GAMMAPY_EXTRA?](https://github.com/gammapy/gammapy/issues/1889)
