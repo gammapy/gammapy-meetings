@@ -1,0 +1,42 @@
+
+
+- Datasets delivered in $GAMMAPY_DATA is a subset of GAMMAPY_EXTRA repo.
+- Datasets accessed through $GAMMAPY_EXTRA env var are used in the code base.
+- Could we add the missing datasets to $GAMMAPY_DATA and use only $GAMMAPY_DATA env var?
+
+
+GAMMAPY_DATA size 100MB
+Main content missing/to add from GAMMAPY_EXTRA: test_datasets/ ~10MB
+
+Ok
+
+
+#----- Fine tuning in code from test scripts. 4.2MB
+#----- Move/copy datasets to tests
+#----- Edit code in scripts
+
+- datasets/cta/perf_prod2/point_like_non_smoothed/South_5h.fits.gz 42KB
+tutorials/cta_sensitivity.ipynb
+spectrum/tests/test_sensitivity.py
+
+- datasets/hess-crab4-pa/ 640KB
+data/tests/test_data_store.py
+data/tests/test_hdu_index_table.py
+data/tests/test_fits_prod.py
+
+- datasets/hess-crab4-hd-hap-prod2/ 4.2 MB
+irf/tests/test_fits_prod.py
+irf/tests/test_psf_king.py
+
+- datasets/hess-hap-hd-prod3/ 176KB
+irf/tests/test_psf_check.py
+
+
+#----- We end up with GAMMAPY_DATA + TEST_DATA ~ 115MB 
+
+
+OPTIONS
+1. Add the test_datasets/ Dataset to the .json file and download the whole 115MB with `gammapy download datasets` or only the test_datasets/ Dataset with `gammapy download datasets --src test_datasets/`
+2. Add a flag to `gammapy download datasets` to fetch the test_datasets/ Dataset
+
+`gammapy download tutorials` will not download the est_datasets/ Dataset
