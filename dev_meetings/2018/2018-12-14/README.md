@@ -7,4 +7,5 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests]():
-* AOB
+* Report from the SUSS meeting in Bologna (Christoph)
+* Report from the ctapipe developer meeting in Dortmund (Axel)
