@@ -1,17 +1,15 @@
-# gammapy developers call
+# Gammapy developers call
 
-Developers call are planned every friday at 10am. They take place on eZuce.
- in reverse chronological order.
+Developer calls are scheduled every friday at 10am. Connection
+details can be found on the corresponding sub-pages, linked below.
 
-Connection details can be found here.
-
-[Next meeting:]()
-* [2018-12-14](2018/2018-12-14/README.md)
-
-[Future meetings:]()
+Next meeting:
 * [2018-12-21](2018/2018-12-21/README.md)
 
-[Past meetings:]()
+Future meetings:
+
+Past meetings:
+* [2018-12-14](2018/2018-12-14/README.md)
 * [2018-12-07](2018/2018-12-07/README.md)
 * [2018-11-30](2018/2018-11-30/README.md)
 * [2018-11-23](2018/2018-11-23/README.md)
