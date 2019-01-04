@@ -1,10 +1,10 @@
-# Coding sprints and gammapy workshops
+# Gammapy Coding Sprints and Workshops
 
-We have regular coding sprints which typically last about one week. In addition, we have had some 
+We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* 2019-02 TBC
+* 2019-02 TBA
 
 [Old meetings:]()
 * [2018-10](2018-10_Madrid/README.md) - Gammapy Coding Sprint (Oct 1-5, UCM, Madrid)

@@ -7,12 +7,12 @@ Next meetings:
 
 Pages for previous and coming gammapy related calls can be found below:
 
-* [Developers meetings](dev_meetings/README.md)
-* [Users meetings](users_meetings/README.md)
-* [CC meetings](CC_meetings/README.md)
+* [Developers meetings](dev-meetings/README.md)
+* [Users meetings](user-meetings/README.md)
+* [CC meetings](CC-meetings/README.md)
 
 Coding sprints and gammapy related workshops can be found below:
-* [Coding sprints](coding_sprints/README.md)
+* [Coding sprints](coding-sprints/README.md)
 
 
 Note:

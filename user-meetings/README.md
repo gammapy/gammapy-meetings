@@ -1,4 +1,4 @@
-# gammapy users call
+# Gammapy User Meetings
 
 Users call are planned on a monthly timescale. They take place on eZuce.
 
