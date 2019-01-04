@@ -1,14 +1,26 @@
-# Gammapy developers call
+# Gammapy Developer Meetings
 
-Developer calls are scheduled every friday at 10am. Connection
+Developer meetings are scheduled every Friday at 10am. Connection
 details can be found on the corresponding sub-pages, linked below.
 
 Next meeting:
-* [2018-12-21](2018/2018-12-21/README.md)
+* [2019-01-11](2019/2019-01-11/README.md)
 
 Future meetings:
+* [2019-01-18](2019/2019-01-18/README.md)
+* [2019-01-25](2019/2019-01-25/README.md)
+* [2019-02-01](2019/2019-02-01/README.md)
+* [2019-02-08](2019/2019-02-08/README.md)
+* [2019-02-15](2019/2019-02-15/README.md)
+* [2019-02-22](2019/2019-02-22/README.md)
+* [2019-03-01](2019/2019-03-01/README.md)
+* [2019-03-08](2019/2019-03-08/README.md)
+* [2019-03-15](2019/2019-03-15/README.md)
+* [2019-03-22](2019/2019-03-22/README.md)
+* [2019-03-29](2019/2019-03-29/README.md)
 
 Past meetings:
+* [2018-12-21](2018/2018-12-21/README.md)
 * [2018-12-14](2018/2018-12-14/README.md)
 * [2018-12-07](2018/2018-12-07/README.md)
 * [2018-11-30](2018/2018-11-30/README.md)

@@ -1,15 +1,15 @@
-# gammapy-meetings
+# Gammapy Meetings
 
 This repository provides links to coming and past gammapy-related calls and meetings.
 
 Next meetings:
-* [2018-12-21](dev_meetings/2018/2018-12-21/README.md) - dev call
+* [2019-01-11](dev_meetings/2019/2019-01-11/README.md) - dev call
 
 Pages for previous and coming gammapy related calls can be found below:
 
-* [Developers calls](dev_meetings/README.md)
-* [Users calls](users_meetings/README.md)
-* [CC calls](CC_meetings/README.md)
+* [Developers meetings](dev_meetings/README.md)
+* [Users meetings](users_meetings/README.md)
+* [CC meetings](CC_meetings/README.md)
 
 Coding sprints and gammapy related workshops can be found below:
 * [Coding sprints](coding_sprints/README.md)
