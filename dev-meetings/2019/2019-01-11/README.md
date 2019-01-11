@@ -7,4 +7,9 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests]()
+* Pull request [#1979](https://github.com/gammapy/gammapy/pull/1979) (Axel)
+* Coding sprint location and organisation (Regis?, Axel)
+* Short status report and plans for v0.10 (Atreyee, Jose Enrique, Christoph, Regis ...) 
+
+
 
