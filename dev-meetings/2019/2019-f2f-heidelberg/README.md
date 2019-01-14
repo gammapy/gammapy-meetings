@@ -11,7 +11,7 @@ in 2019. Specifically to discuss about and write (finalize) the PIGs addressing 
 projects:
 
 - Models (https://github.com/gammapy/gammapy/pull/1971)
-- Datasets ()
+- Datasets (https://github.com/gammapy/gammapy/pull/1986)
 - Data reduction / Map Analysis ()
 - IRFs ()
 
@@ -24,20 +24,28 @@ February 2019.
 Agenda
 ------
 
-Tuesday 15th (Glaskasten, 3rd floor in the Bothe lab, room 301):
+Tuesday, Jan 15th (Glaskasten, 3rd floor in the Bothe lab, room 301):
 
-TBA
-
-
-Wednesday 16th (Seminar room, 2nd floor in the Bothe lab, room 242)
-
-- 9h00 - 10h30: Discussion Dataset PIG
-- 10h30 - 11h00: Coffe break
-- 11h00 - 12h30: Discussion Dataset PIG
+- 9h00 - 10h30: Discussion "Models PIG"
+- 10h30 - 11h00: Coffee break
+- 11h00 - 12h30: Discussion "Models PIG"
 - 12h30 - 14h00: Lunch
-- 14h00 - 15h30: Discussion IRF PIG
+- 14h00 - 15h30: Discussion "IRF PIG"
 - 15h30 - 16h00: Coffee break
-- 16h30 - 18h00: Discussion IRF PIG
+- 16h30 - 18h00: Discussion "IRF PIG"
+
+- 19h30 Dinner in the Restaurant "Krokodil"
+
+
+Wednesday, Jan 16th (Seminar room, 2nd floor in the Bothe lab, room 242)
+
+- 9h00 - 10h30: Discussion "Dataset PIG"
+- 10h30 - 11h00: Coffee break
+- 11h00 - 12h30: Discussion "Dataset PIG"
+- 12h30 - 14h00: Lunch
+- 14h00 - 15h30: Discussion "Data Reduction PIG"
+- 15h30 - 16h00: Coffee break
+- 16h30 - 18h00: Discussion "Data Reduction PIG"
 
 
  
