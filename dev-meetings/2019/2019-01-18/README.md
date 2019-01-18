@@ -6,5 +6,8 @@
 # Agenda
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
-* [Open pull requests]()
+* Improvements to `gammapy download` [PR #1988](https://github.com/gammapy/gammapy/pull/1988) (Jose Enrique)
+* Status of background model fitting (Atreyee)
+* Remaining [issues for Gammapy v0.10](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A0.10)
+* Datasets PIG [PR #1986](https://github.com/gammapy/gammapy/pull/1986) (Axel)
 
