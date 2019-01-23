@@ -2,7 +2,7 @@
 
 * Start: Monday, February 25, 2019 at 2 pm
 * End: Friday, March 1, 2019 at noon
-* Location: Paris, France. Precise location to be confirmed. Most likely APC.
+* Location: Paris, France. Precise location to be confirmed. APC or Observatoire de Paris.
 * Contacts: [Régis Terrier](mailto:rterrier@apc.univ-paris7.fr), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people who commit to develop Gammapy
