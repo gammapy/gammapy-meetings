@@ -45,9 +45,10 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 ## Registered Participants
 
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
-1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
-1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
-1. Jouvin Léa,IFAE, Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
-1. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
+2. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
+3. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
+4. Jouvin Léa,IFAE, Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
+5. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
+6. Fabio Acero, DAp, CEA-Saclay, France ([facero](https://github.com/facero))
 
 
