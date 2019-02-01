@@ -6,7 +6,7 @@
 # Agenda
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
-* FYI: Gammapy support for Python 2 dropped (https://github.com/gammapy/gammapy/pull/2016) 
+* FYI: Gammapy support for Python 2 dropped (https://github.com/gammapy/gammapy/issues/1963) 
 * Open pull requests:
     - https://github.com/gammapy/gammapy/pull/2018 (Regis)
     - https://github.com/gammapy/gammapy/pull/2015 (Regis)
