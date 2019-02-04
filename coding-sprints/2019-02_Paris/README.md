@@ -50,5 +50,6 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 4. Jouvin Léa,IFAE, Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
 5. Atreyee Sinha, APC, IN2P3/CNRS, France ([AtreyeeS](https://github.com/AtreyeeS))
 6. Fabio Acero, DAp, CEA-Saclay, France ([facero](https://github.com/facero))
+7. Judit Pérez-Romero, IFT UAM-CSIC, Madrid, Spain ([peroju](https://github.com/peroju))
 
 
