@@ -23,7 +23,7 @@ feel free to ask anything there.
 
 The meeting will take place in the observatoire de Paris, salle du Levant.
 
-Entrance is at Avenue Denfert Rochereau, 77. The salle du Levant is in the northern part of the historical building. Two possible paths are indicated on the following plan.
+Entrance is at Avenue Denfert Rochereau, 77. The salle du Levant is in the northern part of the historical building. Two possible paths are indicated on the following [plan](plan_paris_291117-1200.pdf).
 
 ## Agenda
 
@@ -58,4 +58,5 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 6. Fabio Acero, DAp, CEA-Saclay, France ([facero](https://github.com/facero))
 7. Judit Pérez-Romero, IFT UAM-CSIC, Madrid, Spain ([peroju](https://github.com/peroju))
 8. Monica Seglar-Arroyo, CEA-Saclay, France ([mseglar](https://github.com/mseglar))
+9. Luca Giunti, APC & DAp, IN2P3/CNRS & CEA_Saclay, France ([luca-giunti](https://github.com/luca-giunti))
 
