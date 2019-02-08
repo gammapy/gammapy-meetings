@@ -2,7 +2,7 @@
 
 * Start: Monday, February 25, 2019 at 2 pm
 * End: Friday, March 1, 2019 at noon
-* Location: Paris, France. Precise location to be confirmed. APC or Observatoire de Paris.
+* Location: Paris, France. Observatoire de Paris, salle du Levant.
 * Contacts: [Régis Terrier](mailto:rterrier@apc.univ-paris7.fr), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people who commit to develop Gammapy
@@ -17,7 +17,13 @@ feel free to ask anything there.
 
 ## Travel and hotel
 
+[How to reach Observatoire de Paris](https://www.obspm.fr/acces-au-site-de-paris.html?lang=en)
+
 ## Location of the meeting
+
+The meeting will take place in the observatoire de Paris, salle du Levant.
+
+Entrance is at Avenue Denfert Rochereau, 77. The salle du Levant is in the northern part of the historical building. Two possible paths are indicated on the following plan.
 
 ## Agenda
 
