@@ -8,3 +8,5 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests]()
 
+* Status report `MapDataset` (Atreyee)
+* Coding sprint preparation (Axel, Regis)
