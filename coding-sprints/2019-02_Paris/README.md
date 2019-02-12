@@ -59,4 +59,6 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 7. Judit Pérez-Romero, IFT UAM-CSIC, Madrid, Spain ([peroju](https://github.com/peroju))
 8. Monica Seglar-Arroyo, CEA-Saclay, France ([mseglar](https://github.com/mseglar))
 9. Luca Giunti, APC & DAp, IN2P3/CNRS & CEA_Saclay, France ([luca-giunti](https://github.com/luca-giunti))
+10. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
+
 
