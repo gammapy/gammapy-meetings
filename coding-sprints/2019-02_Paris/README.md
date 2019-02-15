@@ -42,7 +42,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 Preliminary agenda:
 * Regis Terrier: Welcome and general infos (5 min.)
 * Fabio Pintore: Event sampling (Remote, 10 min.)
-* Jose Enrique Ruiz: TBA ()
+* Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.)
 * Atreyee Sinha: Maps / IRFMapMaker?
 * Axel Donath: Project suggestions for the coding sprint (5 min.)
 
