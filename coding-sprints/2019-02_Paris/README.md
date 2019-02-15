@@ -39,6 +39,14 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 
 #### Presentations (Gammapy Code Status and Plans for the Week):
 
+Preliminary agenda:
+* Regis Terrier: Welcome and general infos (5 min.)
+* Fabio Pintore: Event sampling (Remote, 10 min.)
+* Jose Enrique Ruiz: TBA ()
+* Atreyee Sinha: Maps / IRFMapMaker?
+* Axel Donath: Project suggestions for the coding sprint (5 min.)
+
+
 ### Tuesday to Friday
 
 | Time          | Program          |
