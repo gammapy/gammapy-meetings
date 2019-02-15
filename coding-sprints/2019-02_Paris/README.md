@@ -43,7 +43,7 @@ Preliminary agenda:
 * Regis Terrier: Welcome and general infos (5 min.)
 * Fabio Pintore: Event sampling (Remote, 10 min.)
 * Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.)
-* Atreyee Sinha: Maps / IRFMapMaker?
+* Atreyee Sinha: Maps / IRFMapMaker / MapDataset?
 * Axel Donath: Project suggestions for the coding sprint (5 min.)
 
 
