@@ -40,11 +40,15 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 #### Presentations (Gammapy Code Status and Plans for the Week):
 
 Preliminary agenda:
-* Regis Terrier: Welcome and general infos (5 min.)
-* Fabio Pintore: Event sampling (Remote, 10 min.)
-* Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.)
-* Atreyee Sinha: Maps / IRFMapMaker / MapDataset?
-* Axel Donath: Project suggestions for the coding sprint (5 min.)
+* Regis Terrier: Welcome and general infos (5 min.) [[slides]()]
+* Fabio Pintore: Event sampling (Remote, 15 min.) [[slides]()]
+* Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.) [[slides]()]
+* Atreyee Sinha: Maps / IRFMapMaker / MapDataset (15 min.) [[slides]()]
+* Monica Seglar Arroyo: Finding gamma transients in simulated GW follow-ups with Gammapy (15 min.) [[slides]()]
+* Discussion time (30 min.)
+
+
+* Axel Donath: Project suggestions for the coding sprint (5 min.) [[slides]()]
 
 
 ### Tuesday to Friday
