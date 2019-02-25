@@ -41,7 +41,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 
 * Regis Terrier: Welcome and general infos (5 min.) [[slides]()]
 * Fabio Pintore: Event sampling (Remote, 15 min.) [[slides]()]
-* Luca Giunti: Spatial model (10 min.) [[slides]()]
+* Luca Giunti: Spatial models (10 min.) [[slides]()]
 * Atreyee Sinha: Maps / IRFMapMaker / MapDataset (15 min.) [[slides]()]
 * Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.) [[slides]()]
 * Monica Seglar Arroyo: Finding gamma transients in simulated GW follow-ups with Gammapy (15 min.) [[slides]()]
