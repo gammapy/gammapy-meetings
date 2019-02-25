@@ -1,0 +1,56 @@
+Title:	gammapy coding sprint
+Description:	gammapy coding sprint
+Community:	CTA
+
+Meeting type: Open Meeting (Round Table)
+Meeting Access Information:
+	Application       http://srn.ezuce.com/joinSRN?meeting=MtM8Ma2v2eDtDe9B9sDs9t
+	Mobile App :  Meeting ID: 7573430812   or  Link: http://srn.ezuce.com/join?meeting=MtM8Ma2v2eDtDe9B9sDs9t
+- Phone Bridge
+	 ID: 7573430812
+Central European Time (+0100)
+
+Start	2019-02-25  13:30
+End  	2019-02-25  18:00
+Japan Standard Time (+0900)
+
+Start	2019-02-25  21:30
+End  	2019-02-26  02:00
+India Standard Time (+0530)
+
+Start	2019-02-25  18:00
+End  	2019-02-25  22:30
+Eastern Standard Time (-0500)
+
+Start	2019-02-25  07:30
+End  	2019-02-25  12:00
+Pacific Standard Time (-0800)
+
+Start	2019-02-25  04:30
+End  	2019-02-25  09:00
+eZuce Research Network Phone Bridge Telephone Numbers:
+
+USA (Caltech, Pasadena, CA)
+
++1 626 395 2112
+Slovakia (UPJS, Kosice)
+
++421 55 234 2420
+Italy (INFN, several cities)
+
+http://server10.infn.it/video/index.php?page=telephone_numbers
+Enter '4000' to access the EVO bridge
+Germany (DESY, Hamburg)
+
++49 40 8998 1340
+USA (BNL, Upton, NY)
+
++1 631 344 6100
+Canada (TRIUMF, Vancouver)
+
++1 604 222 7700
+Czech Republic (CESNET, Prague)
+
++420 95 007 2386
+---------------
+If you would like to add a telephone bridge at your institute, please contact eZuce at vibesupport@ezuce.com
