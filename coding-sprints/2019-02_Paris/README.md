@@ -45,7 +45,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 * Atreyee Sinha: Maps / IRFMapMaker / MapDataset (15 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/maps.pdf)]
 * Judit Pérez Romero / José Enrique Ruiz: Extension for dark matter module (15 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/extension_dark_matter_module.pdf)]
 * Monica Seglar Arroyo: Finding gamma transients in simulated GW follow-ups with Gammapy (15 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/GWfollowup_IncludeTime.pdf)]
-* Axel Donath: Gammapy Roadmap / Project suggestions for the coding sprint (10 min.) [[slides](slides/gammapygammapy-status-project-suggestions.pdf)]
+* Axel Donath: Gammapy Roadmap / Project suggestions for the coding sprint (10 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/gammapy-status-project-suggestions.pdf)]
 * Discussion time (60 min.)
 
 
