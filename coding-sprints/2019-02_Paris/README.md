@@ -39,7 +39,7 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 
 #### Presentations (Gammapy Code Status and Plans for the Week):
 
-* Regis Terrier: Welcome and general infos (5 min.) [[slides]()]
+* Regis Terrier: Welcome and general infos (5 min.) 
 * Fabio Pintore: Event sampling (Remote, 15 min.) [[slides](slides/Event_simulator.pdf)]
 * Luca Giunti: Spatial models (10 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/Spatial_Models.pdf)]
 * Atreyee Sinha: Maps / IRFMapMaker / MapDataset (15 min.) [[slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-02_Paris/slides/maps.pdf)]
