@@ -1,6 +1,7 @@
 # Gammapy Coding Sprint, February 2019, Paris
 
 ![group photo](group_photo.jpg)
+Missing: Catherine & Julien
 
 * Start: Monday, February 25, 2019 at 2 pm
 * End: Friday, March 1, 2019 at noon
@@ -76,5 +77,6 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 9. Luca Giunti, APC & DAp, IN2P3/CNRS & CEA_Saclay, France ([luca-giunti](https://github.com/luca-giunti))
 10. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 11. Julien Lefaucheur, DAp, CEA-Saclay, France ([jjlk](https://github.com/jjlk))
+12. Catherine Boisson, LUTH, Observatoire de Paris, France 
 
 
