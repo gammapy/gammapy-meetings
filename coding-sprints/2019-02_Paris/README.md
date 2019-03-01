@@ -1,6 +1,6 @@
 # Gammapy Coding Sprint, February 2019, Paris
 
-![group photo](group-photo.jpg)
+![group photo](group_photo.jpg)
 
 * Start: Monday, February 25, 2019 at 2 pm
 * End: Friday, March 1, 2019 at noon
