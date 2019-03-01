@@ -17,6 +17,9 @@ people and learn hands-on. If you want to prepare a bit, have a look at
 learn a bit on your own before the coding sprint. Join the [Gammapy Slack](https://gammapy.slack.com) and
 feel free to ask anything there.
 
+The meeting is supported by the Action Fédératrice CTA of the Observatoire de Paris.
+![Observatoire de Paris logo](obs-psl-200.png)
+
 ## Travel and hotel
 
 [How to reach Observatoire de Paris](https://www.obspm.fr/acces-au-site-de-paris.html?lang=en)
