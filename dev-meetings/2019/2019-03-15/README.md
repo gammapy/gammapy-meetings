@@ -6,5 +6,5 @@
 # Agenda
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
-* [Open pull requests]()
-
+* Gammapy v0.11 release deferred to March, 27th
+* [Open pull requests for 0.11](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.11)
