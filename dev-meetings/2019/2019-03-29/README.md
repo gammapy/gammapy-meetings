@@ -7,4 +7,6 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests]()
+* Gammapy v0.11 release announcement (Axel)
+* Testing / benchmarking discussion for AWSG meeting (Régis)
 
