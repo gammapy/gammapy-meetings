@@ -7,4 +7,5 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
+* Status update (Axel & everyone)
 
