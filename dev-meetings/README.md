@@ -4,10 +4,9 @@ Developer meetings are scheduled every Friday at 10am. Connection
 details can be found on the corresponding sub-pages, linked below.
 
 Next meeting:
-* [2019-05-03](2019/2019-05-03/README.md)
+* [2019-05-10](2019/2019-05-10/README.md)
 
 Future meetings:
-* [2019-05-10](2019/2019-05-10/README.md)
 * [2019-05-17](2019/2019-05-17/README.md)
 * [2019-05-24](2019/2019-05-24/README.md)
 * [2019-05-31](2019/2019-05-31/README.md)
@@ -16,8 +15,8 @@ Future meetings:
 * [2019-06-21](2019/2019-06-21/README.md)
 * [2019-06-28](2019/2019-06-28/README.md)
 
-
 Past meetings:
+* [2019-05-03](2019/2019-05-03/README.md)
 * [2019-04-26](2019/2019-05-26/README.md)
 * [2019-04-12](2019/2019-04-12/README.md)
 * [2019-04-05](2019/2019-04-05/README.md)
