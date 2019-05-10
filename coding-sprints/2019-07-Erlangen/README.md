@@ -82,5 +82,6 @@ Presentations
 
 1. Lars Mohrmann, ECAP, Erlangen ([lmohrmann ](https://github.com/lmohrmann))
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
+1. Christoph Deil, MPIK, Heidelberg, Germany ([cdeil](https://github.com/cdeil))
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
