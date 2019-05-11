@@ -85,3 +85,4 @@ Presentations
 1. Christoph Deil, MPIK, Heidelberg, Germany ([cdeil](https://github.com/cdeil))
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
 1. Régis Terrier, APC, IN2P3/CNRS, France ([registerrier](https://github.com/registerrier))
+1. Luca Giunti, APC & DAp, IN2P3/CNRS & CEA_Saclay, France ([luca-giunti](https://github.com/luca-giunti))
