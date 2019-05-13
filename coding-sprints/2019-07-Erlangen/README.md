@@ -20,7 +20,7 @@ feel free to ask anything there.
 
 ## Location of the meeting
 
-The meeting will take place at the ECAP in Erlangen.
+The meeting will take place at the Erlangen Centre for Astroparticle Physics. The address is: Erwin-Rommel-Str. 1, 91058 Erlangen.
 
 ## Agenda
 
