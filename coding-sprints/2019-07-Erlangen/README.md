@@ -2,7 +2,7 @@
 
 * Start: Monday, July 15th, 2019 at 2 pm
 * End: Friday, July 19th, 2019 at noon
-* Location: ECAP Erlangen
+* Location: ECAP, Erlangen (www.ecap.nat.fau.de)
 * Contacts: [Lars Mohrmann](mailto:lars.mohrmann@fau.de), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people that want to work on Gammapy
@@ -17,6 +17,9 @@ feel free to ask anything there.
 
 ## Travel and hotel
 
+Travel directions are indicated on the ECAP webpages, see [here](https://ecap.nat.fau.de/index.php/contact).
+
+Please book a hotel on your own. A list with some hotels can be found [here](https://docs.google.com/document/d/1LBscX9R25G0GtMRqb-NdGAnYSB1vBSzY-zA21XhhsKY). Note that there are more hotels in Erlangen, of course.
 
 ## Location of the meeting
 
@@ -80,7 +83,7 @@ Presentations
 
 ## Registered Participants
 
-1. Lars Mohrmann, ECAP, Erlangen ([lmohrmann ](https://github.com/lmohrmann))
+1. Lars Mohrmann, ECAP, Erlangen ([lmohrmann](https://github.com/lmohrmann))
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. Christoph Deil, MPIK, Heidelberg, Germany ([cdeil](https://github.com/cdeil))
 1. Bruno Khelifi, APC, IN2P3/CNRS, France ([bkhelifi](https://github.com/bkhelifi))
