@@ -8,3 +8,6 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 
+- https://github.com/gammapy/gammapy/pull/2140 (Atreyee)
+- https://github.com/gammapy/gammapy/pull/2139 (Regis)
+- https://github.com/gammapy/gammapy/pull/2129 (Christoph)
