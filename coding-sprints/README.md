@@ -4,7 +4,7 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2019-07]() - Gammapy Coding Sprint (TBD)
+* [2019-07](2019-07-Erlangen/README.md) - Gammapy Coding Sprint (July 15 - 19, ECAP, Erlangen)
 
 [Old meetings:]()
 * [2019-02](2019-02_Paris/README.md) - Gammapy Coding Sprint (Feb 25 - Mar 1, APC, Paris)
