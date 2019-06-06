@@ -91,3 +91,5 @@ Presentations
 1. Luca Giunti, APC & DAp, IN2P3/CNRS & CEA_Saclay, France ([luca-giunti](https://github.com/luca-giunti))
 1. Léa Jouvin, IFAE Barcelona, Spain ([leajouvin](https://github.com/JouvinLea))
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
+1. Fabio Pintore, INAF/IASF Milano, Italy ([fabiopintore](https://github.com/fabiopintore))
+
