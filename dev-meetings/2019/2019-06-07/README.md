@@ -14,4 +14,5 @@
 * We need help! Concretely, these are good issues to get involved with Gammapy development. They are rather small tasks to work on just one class or function, you don't have to know about all the other code or ongoing developments in Gammapy. Anyone is welcome to work on those and will get a mentor - if you're new to git and Github, that's fine. If you're interested (or know someone that is) - let us know any time!
   * Improve `cosmic_ray_flux` code and tests as described [GH 2213](https://github.com/gammapy/gammapy/issues/2213#issuecomment-499435699).
   * Add Gaussian spectral model. Important to test energy dispersion! [GH 1411](https://github.com/gammapy/gammapy/issues/1411)
+  * Implement `PixRegion.rotate(center, angle)` for one or several pixel regions (see [here](https://github.com/gammapy/gammapy/blob/d0e434645cc9275cf28a867a582b657568d4e472/docs/development/pigs/pig-010.rst#rotated-regions))
   
