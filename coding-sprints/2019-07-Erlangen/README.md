@@ -23,7 +23,15 @@ Please book a hotel on your own. A list with some hotels can be found [here](htt
 
 ## Location of the meeting
 
-The meeting will take place at the Erlangen Centre for Astroparticle Physics. The address is: Erwin-Rommel-Str. 1, 91058 Erlangen.
+The meeting will take place in room 333 at the Erlangen Centre for Astroparticle Physics.<br>
+The address is: Erwin-Rommel-Str. 1, 91058 Erlangen.
+
+Here's a map of the building:<br>
+<img src="map_ecap.png" width="500">
+
+## Lunch
+
+Vouchers for lunch in the university canteen will be provided on Tue-Fri.
 
 ## Agenda
 
