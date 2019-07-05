@@ -16,5 +16,5 @@
     * Improve `cosmic_ray_flux` code and tests as described ([GH 2213](https://github.com/gammapy/gammapy/issues/2213#issuecomment-499435699))
     
    * Examples of bigger tasks:
-    * Implement uniform `.residuals()` methods on datasets ([#2236](https://github.com/gammapy/gammapy/issues/2236))
-    * Implement uniform `__str__` methods on datasets ([#2234](https://github.com/gammapy/gammapy/issues/2234)) 
+     * Implement uniform `.residuals()` methods on datasets ([#2236](https://github.com/gammapy/gammapy/issues/2236))
+     * Implement uniform `__str__` methods on datasets ([#2234](https://github.com/gammapy/gammapy/issues/2234)) 
