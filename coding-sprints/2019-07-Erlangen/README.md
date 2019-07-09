@@ -37,19 +37,43 @@ Vouchers for lunch in the university canteen will be provided on Tue-Fri.
 
 ### Monday
 
-Presentations
+Remote connection will be possible with eZuce (connection detail are [here](ezuce.txt)).
+
+| Time          | Program          |
+| ------------- |----------------- |
+| 14.00 - 15.30 | Presentations 1  |
+| 15.30 - 16.00 | Coffee Break     |
+| 16.00 - 18.00 | Presentations 2 / Coding / Discussion Session |
+
+Presentations 1:
+
+- Axel Donath / Lars Mohrmann: Welcome and local information (5 min.)
+- Lars Mohrmann: H.E.S.S. validation paper status ([slides]()) (10 + 5 min.)
+- Andi Specovius: Smoothing of cosmic-ray background models  ([slides]()) (10 + 5 min.)
+- Régis Terrier: PIG 11 - Light curves ([PIG 11](https://github.com/dcfidalgo/gammapy/blob/pig_improve_lc/docs/development/pigs/pig-011.rst)) (10 + 5 min)
+- José Enrique Ruiz: PIG 12 - High-level interface ([PIG 12](https://github.com/cdeil/gammapy/blob/pig-12/docs/development/pigs/pig-012.rst)) (10 + 5 min.)
+
+Presentations 2:
+- Christoph Deil: PIG 13 - Gammapy dependencies and distribution ([PIG 13](https://github.com/cdeil/gammapy/blob/pig-11/docs/development/pigs/pig-013.rst])) (5 + 10 min.)
+- Christoph Deil: PIG 14 - Uncertainty estimation ([PIG 14](https://github.com/cdeil/gammapy/blob/pig-14/docs/development/pigs/pig-014.rst)) (5 + 10 min.)
+- Christoph Deil: PIG 16 - Gammapy package structure ([PIG 16](https://github.com/cdeil/gammapy/blob/pig-16/docs/development/pigs/pig-016.rst)) (5 + 10 min.)
+- Axel Donath: ideas on a new unified API for data reduction (10 + 5 min.)
+- Axel Donath: project ideas for the coding sprint (5 - 10 min.)
+
+
+
 
 ### Tuesday
 
 | Time          | Program          |
 | ------------- |----------------- |
-| 9.00 - 10.30  | Coding Session 1 |
+| 9.00 - 10.30  | Coding / Discussion Session 1 |
 | 10.30 - 11.00 | Coffee Break     |
-| 11.00 - 12.30 | Coding Session 2 |
+| 11.00 - 12.30 | Coding / Discussion Session 2 |
 | 12.30 - 14.00 | Lunch            |
-| 14.00 - 15.30 | Coding Session 3 |
+| 14.00 - 15.30 | Coding / Discussion Session 3 |
 | 15.30 - 16.00 | Coffee Break     |
-| 16.00 - 18.00 | Coding Session 4 |
+| 16.00 - 18.00 | Coding / Discussion Session 4 |
 
 
 ### Wednesday
@@ -63,6 +87,7 @@ Presentations
 | 14.00 - 15.30 | Coding Session 3 |
 | 15.30 - 16.00 | Coffee Break     |
 | 16.00 - 18.00 | Coding Session 4 |
+| 19.00             | Diner            |
 
 
 ### Thursday
@@ -76,7 +101,6 @@ Presentations
 | 14.00 - 15.30 | Coding Session 3 |
 | 15.30 - 16.00 | Coffee Break     |
 | 16.00 - 18.00 | Coding Session 4 |
-| 19.00         | Diner            |
 
 
 ### Friday
