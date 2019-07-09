@@ -101,4 +101,5 @@ Presentations
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
 1. Fabio Pintore, INAF/IASF Milano, Italy ([fabiopintore](https://github.com/fabiopintore))
 1. Quentin Remis, MPIK Heidelberg, ([Qremy](https://github.com/QRemy))
+1. Dmitry Malyshev, ECAP, Erlangen ([dima137](https://github.com/dima137))
 
