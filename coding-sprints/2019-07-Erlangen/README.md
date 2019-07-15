@@ -65,7 +65,7 @@ Presentations 2:
 - Christoph Deil: PIG 16 - Gammapy package structure ([PIG 16](https://github.com/cdeil/gammapy/blob/pig-16/docs/development/pigs/pig-016.rst)) (5 + 10 min.)
 - Christoph Deil: PIG 14 - Uncertainty estimation ([PIG 14](https://github.com/cdeil/gammapy/blob/pig-14/docs/development/pigs/pig-014.rst)) (5 + 10 min.)
 - Axel Donath: ideas on new API for data reduction (10 + 5 min.)
-- Axel Donath: project ideas for the coding sprint (5 - 10 min.)
+- Axel Donath: project ideas for the coding sprint ([slides](coding-sprint-projects.pdf)) (5  min.)
 
 
 
