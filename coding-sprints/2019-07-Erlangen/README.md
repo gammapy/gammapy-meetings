@@ -56,8 +56,8 @@ Presentations 1:
 - Axel Donath / Lars Mohrmann: Welcome and local information ([slides](intro.pdf)) (5 min.)
 - Lars Mohrmann: H.E.S.S. validation paper status ([slides](fitspaper.pdf)) (10 + 5 min.)
 - Andi Specovius: smoothing of cosmic-ray background models  ([slides](Gammapy_CodingSpring_Smoothing_of_Bg_Model.pdf)) (10 + 5 min.)
-- Luca Giunti: 3D joint-likelihood analysis using Fermi-LAT and H.E.S.S. data ([slides](Erlangen_slides_Luca_Giunti.pdf)) (10 + 5 min.) 
-- José Enrique Ruiz: PIG 12 - High-level interface ([PIG 12](https://github.com/cdeil/gammapy/blob/pig-12/docs/development/pigs/pig-012.rst)) (10 + 5 min.)
+- Luca Giunti: 3D joint-likelihood analysis using Fermi-LAT and H.E.S.S. data ([slides](Erlangen_slides_Luca_Giunti.pdf)) (10 + 5 min.)
+- José Enrique Ruiz: PIG 12 - High-level interface ([PIG 12](https://github.com/cdeil/gammapy/blob/pig-12/docs/development/pigs/pig-012.rst) - [slides](HLI.pdf)) (10 + 5 min.)
 
 Presentations 2:
 - Régis Terrier: PIG 11 - Light curves ([PIG 11](https://github.com/dcfidalgo/gammapy/blob/pig_improve_lc/docs/development/pigs/pig-011.rst)) (10 + 5 min)
@@ -135,4 +135,3 @@ Presentations 2:
 1. Dmitry Malyshev, ECAP, Erlangen ([dima137](https://github.com/dima137))
 1. Kaori Nakashima, ECAP, Erlangen ([kaoriinakashima](https://github.com/kaoriinakashima))
 1. Yu Wun Wong, ECAP, Erlangen ([yuwunwong](https://github.com/yuwunwong))
-
