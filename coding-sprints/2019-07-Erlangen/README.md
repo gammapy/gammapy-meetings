@@ -127,6 +127,6 @@ Presentations 2:
 1. Fabio Pintore, INAF/IASF Milano, Italy ([fabiopintore](https://github.com/fabiopintore))
 1. Quentin Remis, MPIK Heidelberg, ([Qremy](https://github.com/QRemy))
 1. Dmitry Malyshev, ECAP, Erlangen ([dima137](https://github.com/dima137))
-1. Kaori Nakashima, ECAP, Erlangen
+1. Kaori Nakashima, ECAP, Erlangen ([kaoriinakashima](https://github.com/kaoriinakashima))
 1. Yu Wun Wong, ECAP, Erlangen ([yuwunwong](https://github.com/yuwunwong))
 
