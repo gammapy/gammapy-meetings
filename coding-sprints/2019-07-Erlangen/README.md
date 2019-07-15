@@ -33,6 +33,12 @@ Here's a map of the building:<br>
 
 Vouchers for lunch in the university canteen will be provided on Tue-Fri.
 
+## Dinner
+
+There will be a common dinner on Wednesday, July 17, 19:00 (at your own cost). We will go to "[Tio Rustica](http://www.tio-erlangen.de/index.php?id=8)", which can be reached from ECAP easily by foot.
+
+<img src="dinner.png" width="400">
+
 ## Agenda
 
 ### Monday
