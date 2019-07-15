@@ -53,10 +53,10 @@ Remote connection will be possible with eZuce (connection detail are [here](ezuc
 
 Presentations 1:
 
-- Axel Donath / Lars Mohrmann: Welcome and local information ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-07-Erlangen/intro.pdf)) (5 min.)
+- Axel Donath / Lars Mohrmann: Welcome and local information ([slides](intro.pdf)) (5 min.)
 - Lars Mohrmann: H.E.S.S. validation paper status ([slides](fitspaper.pdf)) (10 + 5 min.)
-- Andi Specovius: smoothing of cosmic-ray background models  ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-07-Erlangen/Gammapy_CodingSpring_Smoothing_of_Bg_Model.pdf)) (10 + 5 min.)
-- Luca Giunti: 3D joint-likelihood analysis using Fermi-LAT and H.E.S.S. data ([slides]()) (10 + 5 min.) 
+- Andi Specovius: smoothing of cosmic-ray background models  ([slides](Gammapy_CodingSpring_Smoothing_of_Bg_Model.pdf)) (10 + 5 min.)
+- Luca Giunti: 3D joint-likelihood analysis using Fermi-LAT and H.E.S.S. data ([slides](Erlangen_slides_Luca_Giunti.pdf)) (10 + 5 min.) 
 - José Enrique Ruiz: PIG 12 - High-level interface ([PIG 12](https://github.com/cdeil/gammapy/blob/pig-12/docs/development/pigs/pig-012.rst)) (10 + 5 min.)
 
 Presentations 2:
