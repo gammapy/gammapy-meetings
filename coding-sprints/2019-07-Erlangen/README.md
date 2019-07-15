@@ -51,15 +51,14 @@ Presentations 1:
 - Lars Mohrmann: H.E.S.S. validation paper status ([slides]()) (10 + 5 min.)
 - Andi Specovius: smoothing of cosmic-ray background models  ([slides]()) (10 + 5 min.)
 - Luca Giunti: 3D joint-likelihood analysis using Fermi-LAT and H.E.S.S. data ([slides]()) (10 + 5 min.) 
-- Karl Kosack: Command line interface and configuration: lessons learned from ctapipe (TBC) (10 + 5 min.) 
 - José Enrique Ruiz: PIG 12 - High-level interface ([PIG 12](https://github.com/cdeil/gammapy/blob/pig-12/docs/development/pigs/pig-012.rst)) (10 + 5 min.)
 
 Presentations 2:
 - Régis Terrier: PIG 11 - Light curves ([PIG 11](https://github.com/dcfidalgo/gammapy/blob/pig_improve_lc/docs/development/pigs/pig-011.rst)) (10 + 5 min)
 - Christoph Deil: PIG 13 - Gammapy dependencies and distribution ([PIG 13](https://github.com/cdeil/gammapy/blob/pig-11/docs/development/pigs/pig-013.rst])) (5 + 10 min.)
-- Christoph Deil: PIG 14 - Uncertainty estimation ([PIG 14](https://github.com/cdeil/gammapy/blob/pig-14/docs/development/pigs/pig-014.rst)) (5 + 10 min.)
 - Christoph Deil: PIG 16 - Gammapy package structure ([PIG 16](https://github.com/cdeil/gammapy/blob/pig-16/docs/development/pigs/pig-016.rst)) (5 + 10 min.)
-- Axel Donath: ideas on a new unified API for data reduction (10 + 5 min.)
+- Christoph Deil: PIG 14 - Uncertainty estimation ([PIG 14](https://github.com/cdeil/gammapy/blob/pig-14/docs/development/pigs/pig-014.rst)) (5 + 10 min.)
+- Axel Donath: ideas on new API for data reduction (10 + 5 min.)
 - Axel Donath: project ideas for the coding sprint (5 - 10 min.)
 
 
