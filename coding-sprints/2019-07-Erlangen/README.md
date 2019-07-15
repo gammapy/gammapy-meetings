@@ -61,7 +61,7 @@ Presentations 1:
 
 Presentations 2:
 - Régis Terrier: PIG 11 - Light curves ([PIG 11](https://github.com/dcfidalgo/gammapy/blob/pig_improve_lc/docs/development/pigs/pig-011.rst) - [Current status](https://docs.gammapy.org/0.12/notebooks/light_curve.html) - [Example notebook](https://github.com/gammapy/gammapy/blob/29049aef016d48db1c2311347c1c79d16e6a3cf1/tutorials/lightcurve_3d.ipynb)) (10 + 5 min)
-- Christoph Deil: PIG 13 - Gammapy dependencies and distribution ([PIG 13](https://github.com/cdeil/gammapy/blob/pig-11/docs/development/pigs/pig-013.rst])) (5 + 10 min.)
+- Christoph Deil: PIG 13 - Gammapy dependencies and distribution ([PIG 13](https://github.com/cdeil/gammapy/blob/pig-11/docs/development/pigs/pig-013.rst)) (5 + 10 min.)
 - Christoph Deil: PIG 16 - Gammapy package structure ([PIG 16](https://github.com/cdeil/gammapy/blob/pig-16/docs/development/pigs/pig-016.rst)) (5 + 10 min.)
 - Christoph Deil: PIG 14 - Uncertainty estimation ([PIG 14](https://github.com/cdeil/gammapy/blob/pig-14/docs/development/pigs/pig-014.rst)) (5 + 10 min.)
 - Axel Donath: ideas on new API for data reduction (10 + 5 min.)
