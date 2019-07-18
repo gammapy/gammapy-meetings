@@ -28,9 +28,6 @@ Please book a hotel on your own. A list with some hotels can be found [here](htt
 The meeting will take place in room 333 at the Erlangen Centre for Astroparticle Physics.<br>
 The address is: Erwin-Rommel-Str. 1, 91058 Erlangen.
 
-Here's a map of the building:<br>
-<img src="map_ecap.png" width="500">
-
 ## Lunch
 
 Vouchers for lunch in the university canteen will be provided on Tue-Fri.
@@ -38,8 +35,6 @@ Vouchers for lunch in the university canteen will be provided on Tue-Fri.
 ## Dinner
 
 There will be a common dinner on Wednesday, July 17, 19:00 (at your own cost). We will go to "[Tio Rustica](http://www.tio-erlangen.de/index.php?id=8)", which can be reached from ECAP easily by foot.
-
-<img src="dinner.png" width="400">
 
 ## Agenda
 
