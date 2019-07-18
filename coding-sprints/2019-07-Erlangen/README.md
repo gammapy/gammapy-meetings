@@ -1,5 +1,7 @@
 # Gammapy Coding Sprint, July 2019, Erlangen
 
+<img src="pic_gammapy_coding_sprint_erlangen_2019.jpg" width="850">
+
 * Start: Monday, July 15th, 2019 at 2 pm
 * End: Friday, July 19th, 2019 at noon
 * Location: ECAP, Erlangen (www.ecap.nat.fau.de)
