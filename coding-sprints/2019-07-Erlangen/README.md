@@ -94,7 +94,7 @@ Presentations 2:
 | 14.00 - 15.30 | Coding Session 3 |
 | 15.30 - 16.00 | Coffee Break     |
 | 16.00 - 18.00 | Coding Session 4 |
-| 19.00             | Diner            |
+| 19.00         | Dinner           |
 
 
 ### Thursday
@@ -132,6 +132,5 @@ Presentations 2:
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
 1. Fabio Pintore, INAF/IASF Milano, Italy ([fabiopintore](https://github.com/fabiopintore))
 1. Quentin Remis, MPIK Heidelberg, ([Qremy](https://github.com/QRemy))
-1. Dmitry Malyshev, ECAP, Erlangen ([dima137](https://github.com/dima137))
 1. Kaori Nakashima, ECAP, Erlangen ([kaoriinakashima](https://github.com/kaoriinakashima))
 1. Yu Wun Wong, ECAP, Erlangen ([yuwunwong](https://github.com/yuwunwong))
