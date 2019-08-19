@@ -24,6 +24,7 @@ https://www.google.com/maps/d/viewer?hl=es&mid=1x0RD-_l8iLCpOIWFHDF2SU8WCVWtsamt
 
 The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSIC](https://www.iaa.csic.es), in the **Assembly Room of the first floor of Building C**. Indication panels on place should drive you seamlessly to the room.
 
+![](AssemblyRoom.png)
 
 ## Agenda
 
