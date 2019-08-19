@@ -12,7 +12,7 @@ do any tutorials how to hack on Gammapy, i.e. teach git, Github, Python, pytest 
 
 ## Travel
 
-Granada has a small airport with domestic flights mostly from Madrid and Barcelona, and a very few international flights. Bus shuttles are available to drive you from Granada airport to the city. For those coming from abroad connection flights with Madrid or Barcelona should be the best option, though for those coming from Germany a good option could also be a connection flight through Palma de Mallorca. In case you do not find suitable flights to Granada, you may consider Malaga airport which is the nearest big international airport, and lies about 130 km from Granada. A convenient 2 hour bus ride should take you to Granada (see https://www.alsa.com/en/web/bus/home) from Malaga airport. 
+Granada has a small airport with domestic flights mostly from Madrid and Barcelona, and very few international flights. Bus shuttles are available to drive you from Granada airport to the city. For those coming from abroad connection flights with Madrid or Barcelona should be the best option, though for those coming from Germany a good option could also be a connection flight through Palma de Mallorca. In case you do not find suitable flights to Granada, you may consider Malaga airport which is the nearest big international airport, and lies about 130 km from Granada. A convenient 2 hour bus ride should take you to Granada (see https://www.alsa.com/en/web/bus/home) from Malaga airport. 
 
 ## Hotels/ Map Link
 
