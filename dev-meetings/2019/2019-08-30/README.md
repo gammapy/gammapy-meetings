@@ -8,5 +8,7 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 
-* tbd
+* Migrate SpectrumAnalysisIACT to the high-level interface [GH 2330](https://github.com/gammapy/gammapy/pull/2330) (José Enrique)
+* Merge?: PIG 9 - Event sampling [GH 2136](https://github.com/gammapy/gammapy/pull/2136) (Fabio, Axel)
+* Development plans for v0.14 (all) 
 
