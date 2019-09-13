@@ -4,11 +4,11 @@
 * "Gammapy Developer Meeting" on CTA eZuce, no password, [connection details](../ezuce.txt)
 
 # Agenda
-* Rminder: [register for the coding sprint](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2019-11_Granada)
+* Reminder: [register for the coding sprint](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2019-11_Granada)
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * Recent pull requests:
   * Transition to gammapy.modeling: see [#2352](https://github.com/gammapy/gammapy/pull/2352), [#2354](https://github.com/gammapy/gammapy/pull/2354), [#2355](https://github.com/gammapy/gammapy/pull/2355)
-  * python 3.6> code adaptation : [#2351](https://github.com/gammapy/gammapy/pull/2351) [#2363](https://github.com/gammapy/gammapy/pull/2363)
+  * python >=3.6 code adaptation : [#2351](https://github.com/gammapy/gammapy/pull/2351) [#2363](https://github.com/gammapy/gammapy/pull/2363)
   * High level interface cont. [#2362](https://github.com/gammapy/gammapy/pull/2362)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
   * [PR #2364](https://github.com/gammapy/gammapy/pull/2364) Absorbed model serialization. Quentin
