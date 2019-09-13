@@ -35,3 +35,4 @@ The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSI
 
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
+2. Judit Pérez-Romero, IFT UAM-CSIC Madrid, Spain ([peroju](https://github.com/peroju)) 
