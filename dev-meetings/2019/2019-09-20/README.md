@@ -8,5 +8,6 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 
-* tbd
-
+* Implement `WcsGeom` coord caching [GH 2377](https://github.com/gammapy/gammapy/pull/2377) (Axel)
+* Add `MapDataset.stack` [GH 2381](https://github.com/gammapy/gammapy/pull/2381) (Atreyee)
+* High level interface discussion
