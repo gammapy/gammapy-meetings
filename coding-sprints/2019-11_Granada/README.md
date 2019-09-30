@@ -37,3 +37,4 @@ The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSI
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
 1. Judit Pérez-Romero, IFT UAM-CSIC Madrid, Spain ([peroju](https://github.com/peroju)) 
 1. Christoph Deil, MPIK Heidelberg, Germany ([cdeil](https://github.com/cdeil))
+1. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
