@@ -4,9 +4,10 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2019-07](2019-07-Erlangen/README.md) - Gammapy Coding Sprint (July 15 - 19, ECAP, Erlangen)
+* [2019-11](2019-11-Granada/README.md) - Gammapy Coding Sprint (Nov 18 - 22,  Instituto de Astrofísica de Andalucía IAA-CSIC, Granada)
 
 [Old meetings:]()
+* [2019-07](2019-07-Erlangen/README.md) - Gammapy Coding Sprint (July 15 - 19, ECAP, Erlangen)
 * [2019-02](2019-02_Paris/README.md) - Gammapy Coding Sprint (Feb 25 - Mar 1, APC, Paris)
 * [2018-10](2018-10_Madrid/README.md) - Gammapy Coding Sprint (Oct 1-5, UCM, Madrid)
 * [2018-07](2018-07_Heidelberg/README.md) - Gammapy Coding Sprint (July 9-13, MPIK, Heidelberg)
