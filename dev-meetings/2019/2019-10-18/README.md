@@ -10,5 +10,5 @@
 
 
 * Short report by everyone, what they have worked on during the past week
-* PIG 18: Documentation [#2463](https://github.com/gammapy/gammapy/pull/2463) (Christoph, Jose Enrique)
+* PIG 18: Documentation [current draft](https://github.com/gammapy/gammapy/blob/cbc8c88ce909414534e3f37e2974168cca5bb94e/docs/development/pigs/pig-018.rst) [#2463](https://github.com/gammapy/gammapy/pull/2463) (Christoph, Jose Enrique)
 
