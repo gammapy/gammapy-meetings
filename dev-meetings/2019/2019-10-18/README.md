@@ -9,7 +9,6 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 
 
-* Short report by everyone, what they have worked on during the past week 
-	- 
+* Short report by everyone, what they have worked on during the past week
 * PIG 18: Documentation [#2463](https://github.com/gammapy/gammapy/pull/2463) (Christoph, Jose Enrique)
 
