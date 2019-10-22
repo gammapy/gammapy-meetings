@@ -40,4 +40,5 @@ The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSI
 1. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 1. Luca Giunti, APC, France ([luca-giunti](https://github.com/luca-giunti))
 1. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
+1. Léa Jouvin, IFAE Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
 
