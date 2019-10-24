@@ -9,4 +9,6 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week
 
+* Postpone v0.15 release (Christoph / Régis)
+* PIG-18 Documentation [GH 2463](https://github.com/gammapy/gammapy/pull/2463) (Christoph / Régis)
 * Defaults for IRF axes [GH 2482](https://github.com/gammapy/gammapy/issues/2482) (Atreyee)
