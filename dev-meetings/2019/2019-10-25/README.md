@@ -7,4 +7,6 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
-* Short report by everyone, what they have worked on during the past week 
+* Short report by everyone, what they have worked on during the past week
+
+* Defaults for IRF axes [GH 2482](https://github.com/gammapy/gammapy/issues/2482) (Atreyee)
