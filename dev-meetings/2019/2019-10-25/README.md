@@ -12,5 +12,6 @@
 * Postpone v0.15 release (Christoph / Régis)
 * Everyone: What did you work on this week? What do you plan to work on next week? Need help with something?
 * Defaults for IRF axes [GH 2482](https://github.com/gammapy/gammapy/issues/2482) (Atreyee)
+* Creation of MapDatasetOnOff [GH 2481](https://github.com/gammapy/gammapy/pull/2481) (Luca)
 * PIG-18 Documentation [GH 2463](https://github.com/gammapy/gammapy/pull/2463) (Christoph / Régis)
 * Anything else?
