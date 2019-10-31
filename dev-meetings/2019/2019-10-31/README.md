@@ -15,4 +15,7 @@
 
 ## Issues / Help
 * Safe mask handling for images [GH 2498](https://github.com/gammapy/gammapy/pull/2498) (Luca, Axel)
+* Remove `SpectrumExtraction` [GH 2499](https://github.com/gammapy/gammapy/pull/2499) (Axel)
+    - What about `BackgroundEstimate` (https://github.com/gammapy/gammapy/blob/master/gammapy/spectrum/background_estimate.py)? (effectively unused
+    after `ReflectedRegionsBackgroundEstimator` is removed)
 * Help needed: Gammapy benchmarks & validation https://github.com/gammapy/gammapy-benchmarks/tree/master/validation (Christoph, Axel)
