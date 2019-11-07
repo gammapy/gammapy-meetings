@@ -42,4 +42,4 @@ The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSI
 1. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
 1. Léa Jouvin, IFAE Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
 1. Bruno Khelifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
-
+1. Atreyee Sinha, LUPM, France ([AtreyeeS])(https://github.com/AtreyeeS)
