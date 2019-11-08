@@ -24,12 +24,94 @@ https://www.google.com/maps/d/viewer?hl=es&mid=1x0RD-_l8iLCpOIWFHDF2SU8WCVWtsamt
 
 The meeting will be held at the [Instituto de Astrofísica de Andalucía IAA-CSIC](https://www.iaa.csic.es), in the **Assembly Room of the first floor of Building C**. Indication panels on place should drive you seamlessly to the room.
 
+The address is: Camino Bajo de Huétor 50, 18008 Granada
+
 ![](AssemblyRoom.png)
+
+## Lunch
+
+We will have lunch from Tuesday to Friday around 13:30 at different places near the IAA (at your own cost ~10 eur)
+
+## Dinner
+
+There will be a common dinner on Thursday, November 21, 21:00 (at your own cost ~25 eur). We will go to "[Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)" in Albaycin quartier, which can be reached from the IAA by foot. You may have a look at the map above to know where it is located.
 
 ## Agenda
 
-- Monday afternoon: plenary presentations & discussion
-- Rest of the week: work in small groups
+- Monday afternoon: plenary presentations & discussions
+- Rest of the week: work in small groups & discussions
+
+Any day you're welcome to join for evening tapas in different bars of Granada.
+
+### Monday
+
+| Time          | Program               |
+| ------------- | --------------------- |
+| 14.00 - 15.30 | Presentations 1       |
+| 15.30 - 16.00 | Coffee Break          |
+| 16.00 - 17.30 | Presentations 2       |
+| 17.30 - 18.30 | Discussions           |
+
+Evening tapas.
+
+Presentations 1:
+
+Presentations 2:
+
+### Tuesday
+
+| Time          | Program               |
+| ------------- |---------------------- |
+| 09.00 - 11.00 | Coding / Discussions  |
+| 11.00 - 11.30 | Coffee Break          |
+| 11.30 - 13.00 | Coding / Discussions  |
+| 13.30 - 14.30 | Lunch                 |
+| 14.30 - 16.30 | Coding / Discussions  |
+| 16.00 - 16.30 | Coffee Break          |
+| 16.30 - 18.30 | Coding / Discussions  |
+
+Evening tapas.
+
+### Wednesday
+
+| Time          | Program               |
+| ------------- |---------------------- |
+| 09.00 - 11.00 | Coding / Discussions  |
+| 11.00 - 11.30 | Coffee Break          |
+| 11.30 - 13.00 | Coding / Discussions  |
+| 13.30 - 14.30 | Lunch                 |
+| 14.30 - 16.30 | Coding / Discussions  |
+| 16.00 - 16.30 | Coffee Break          |
+| 16.30 - 18.30 | Coding / Discussions  |
+
+Evening tapas.
+
+### Thursday
+
+| Time          | Program               |
+| ------------- |---------------------- |
+| 09.00 - 11.00 | Coding / Discussions  |
+| 11.00 - 11.30 | Coffee Break          |
+| 11.30 - 13.00 | Coding / Discussions  |
+| 13.30 - 14.30 | Lunch                 |
+| 14.30 - 16.30 | Coding / Discussions  |
+| 16.00 - 16.30 | Coffee Break          |
+| 16.30 - 18.30 | Coding / Discussions  |
+
+Evening tapas.
+
+**21:00 Dinner at [Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)** 
+
+### Friday
+
+| Time          | Program               |
+| ------------- |---------------------- |
+| 09.00 - 11.00 | Coding / Discussions  |
+| 11.00 - 11.30 | Coffee Break          |
+| 11.30 - 13.00 | Coding / Discussions  |
+| 13.30 - 14.30 | Lunch                 |
+
+Friday afternoon: you can stay in the room or leave at any time you like.
 
 ## Participants
 
