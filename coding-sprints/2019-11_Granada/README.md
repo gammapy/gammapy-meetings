@@ -56,7 +56,24 @@ Evening tapas.
 
 Presentations 1:
 
+- José Enrique Ruiz: Welcome and local information (5 min.)
+- PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (15 + 5 min.)
+- High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
+- Provenance capture in datasets and models ([discussion](https://github.com/gammapy/gammapy/issues/2517)) (10 + 5 min.)
+- José Enrique Ruiz: Provenance capture prototype (5 + 5 min.)
+
 Presentations 2:
+
+- Benchmarking
+- Analysis validation use cases. 
+    - [CTA 1DC](https://github.com/gammapy/gammapy/issues/2507)
+    - [HESS DL3 DR1](https://github.com/gammapy/gammapy/issues/2509)
+    - [Joint-crab](https://github.com/gammapy/gammapy/issues/2512)
+    - [Fermi-LAT 3FHL](https://github.com/gammapy/gammapy/issues/2511)
+- Dark matter simulations analysis
+    - [SigmaVEstimator Class](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)
+    - [Use case notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb)
+
 
 ### Tuesday
 
