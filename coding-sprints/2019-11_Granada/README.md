@@ -34,7 +34,7 @@ We will have lunch from Tuesday to Friday around 13:30 at different places near 
 
 ## Dinner
 
-There will be a common dinner on Thursday, November 21, 21:00 (at your own cost ~25 eur). We will go to "[Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)" in Albaycin quartier, which can be reached from the IAA by foot. You may have a look at the map above to know where it is located.
+There will be a common dinner on Thursday, November 21, 21:00 (at your own cost ~25 eur). We will go to "[Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)" in Albayzin quartier, which can be reached from the IAA by foot. You may have a look at the map above to know where it is located.
 
 ## Agenda
 
