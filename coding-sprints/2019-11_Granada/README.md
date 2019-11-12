@@ -67,10 +67,10 @@ Presentations 2:
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
 - Atreyee?: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
 - TBA?: Joint-Crab validation: ([slides]()) (5 + 5 min.) 
-
 - Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 min.)
 
 Later in the week (Wed / Thu):
+
 - Fabio (remotely): CTA 1DC validation (5 + 5 min.)
 
 
