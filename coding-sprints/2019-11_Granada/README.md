@@ -57,16 +57,17 @@ Evening tapas.
 Presentations 1:
 
 - José Enrique: Welcome and local information ([slides]()) (5 min.)
-- José Enrique? Axel? Régis?: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (10 + 5 min.)
-- José Enrique?: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
+- Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (10 + 5 min.)
+- Christoph: PIG 14 Uncertainties ([document]()) (5 + 5 min.)
+- Axel: Models TODOs () (10 + 5 min)
+- José Enrique: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
 - José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 min.)
 
 Presentations 2:
 
 - Atreyee: Benchmarks ([slides]()) (10 + 5min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
-- Atreyee?: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
-- TBA?: Joint-Crab validation: ([slides]()) (5 + 5 min.) 
+- Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
 - Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 min.)
 
 Later in the week (Wed / Thu):
