@@ -142,3 +142,5 @@ Friday afternoon: you can stay in the room or leave at any time you like.
 1. Léa Jouvin, IFAE Barcelona, Spain ([JouvinLea](https://github.com/JouvinLea))
 1. Bruno Khelifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
 1. Atreyee Sinha, LUPM, France ([AtreyeeS](https://github.com/AtreyeeS))
+1. Boisson Catherine, LUTH/ObsParis, France
+
