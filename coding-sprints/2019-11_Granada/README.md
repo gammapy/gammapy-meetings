@@ -67,7 +67,8 @@ Presentations 1:
 
 Presentations 2:
 
-- Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (10 + 5 min.)
+- Christoph: Testing and test coverage (5 min.)
+- Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst), [project board](https://github.com/gammapy/gammapy/projects/1), [dev docs](https://docs.gammapy.org/dev/)) (10 + 5 min.)
 - Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
 - Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
