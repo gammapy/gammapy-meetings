@@ -58,20 +58,21 @@ Presentations 1:
 
 - José Enrique: Welcome and local information ([slides]()) (5 min.)
 - Axel: Overall project status ([slides]()) (5 + 5 min.)
-- Axel: Data reduction & mask handling ([docs page]()) (5 + 5 min)
-- Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (10 + 5 min.)
-- Régis: Lightcurves ([slides]())?
-- Christoph: PIG 14 Uncertainties ([document]()) (5 + 5 min.)
-- Christoph: Modeling () (10 + 5 min)
+- Axel: Data reduction & mask handling ([docs page]()) (10 + 5 min)
+- Christoph: Modeling & uncertaintites ([slides]()) (10 + 5 min)
+- Régis: Lightcurves ([slides]()) (5 + 5 min.)?
 - José Enrique: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
+- Axel: Event sampling & binned simulation ([slides]()) (2 + 5 min.)
+
 
 Presentations 2:
 
-- Atreyee: Benchmarks ([slides]()) (10 + 5min.)
+- Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst)) (10 + 5 min.)
+- Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
 - Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
-- Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 min.)
-- José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 min.)
+- Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
+- José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 + 5 min.)
 
 Later in the week (Wed / Thu):
 
