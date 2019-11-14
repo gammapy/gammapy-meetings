@@ -59,7 +59,7 @@ Presentations 1:
 - José Enrique: Welcome and local information ([slides]()) (5 min.)
 - Axel: Overall project status ([slides]()) (5 + 5 min.)
 - Axel: Data reduction & datasets ([docs page]()) (10 + 5 min)
-- Christoph: Modeling & uncertaintites ([slides]()) (10 + 5 min)
+- Christoph: [Modeling](modeling.md) (10 + 5 min)
 - Régis: Lightcurves ([slides]()) (5 + 5 min.)?
 - José Enrique: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
 - Axel: Event sampling & binned simulation ([slides]()) (2 + 5 min.)
@@ -67,8 +67,8 @@ Presentations 1:
 
 Presentations 2:
 
-- Christoph: Testing and test coverage (5 min.)
 - Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst), [project board](https://github.com/gammapy/gammapy/projects/1), [dev docs](https://docs.gammapy.org/dev/)) (10 + 5 min.)
+- Christoph: [Tests](tests.md) (5 min.)
 - Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
 - Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
