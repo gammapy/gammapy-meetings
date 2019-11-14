@@ -84,13 +84,15 @@ Later in the week (Wed / Thu):
 
 | Time          | Program               |
 | ------------- |---------------------- |
-| 09.00 - 11.00 | Coding / Discussions  |
+| 09.00 - 09.15 | White board meeting   |
+| 09.15 - 11.00 | Coding / Discussions  |
 | 11.00 - 11.30 | Coffee Break          |
 | 11.30 - 13.00 | Coding / Discussions  |
 | 13.30 - 14.30 | Lunch                 |
 | 14.30 - 16.30 | Coding / Discussions  |
 | 16.00 - 16.30 | Coffee Break          |
-| 16.30 - 18.30 | Coding / Discussions  |
+| 16.30 - 18.15 | Coding / Discussions  |
+| 18.15 - 18.30 | Daily summary         |
 
 Evening tapas.
 
@@ -98,13 +100,15 @@ Evening tapas.
 
 | Time          | Program               |
 | ------------- |---------------------- |
-| 09.00 - 11.00 | Coding / Discussions  |
+| 09.00 - 09.15 | White board meeting   |
+| 09.15 - 11.00 | Coding / Discussions  |
 | 11.00 - 11.30 | Coffee Break          |
 | 11.30 - 13.00 | Coding / Discussions  |
 | 13.30 - 14.30 | Lunch                 |
 | 14.30 - 16.30 | Coding / Discussions  |
 | 16.00 - 16.30 | Coffee Break          |
-| 16.30 - 18.30 | Coding / Discussions  |
+| 16.30 - 18.15 | Coding / Discussions  |
+| 18.15 - 18.30 | Daily summary         |
 
 Evening tapas.
 
@@ -112,13 +116,15 @@ Evening tapas.
 
 | Time          | Program               |
 | ------------- |---------------------- |
-| 09.00 - 11.00 | Coding / Discussions  |
+| 09.00 - 09.15 | White board meeting   |
+| 09.15 - 11.00 | Coding / Discussions  |
 | 11.00 - 11.30 | Coffee Break          |
 | 11.30 - 13.00 | Coding / Discussions  |
 | 13.30 - 14.30 | Lunch                 |
 | 14.30 - 16.30 | Coding / Discussions  |
 | 16.00 - 16.30 | Coffee Break          |
-| 16.30 - 18.30 | Coding / Discussions  |
+| 16.30 - 18.15 | Coding / Discussions  |
+| 18.15 - 18.30 | Daily summary         |
 
 Evening tapas.
 
@@ -128,7 +134,7 @@ Evening tapas.
 
 | Time          | Program               |
 | ------------- |---------------------- |
-| 09.00 - 11.00 | Coding / Discussions  |
+| 09.00 - 11.00 | Close out session     |
 | 11.00 - 11.30 | Coffee Break          |
 | 11.30 - 13.00 | Coding / Discussions  |
 | 13.30 - 14.30 | Lunch                 |
