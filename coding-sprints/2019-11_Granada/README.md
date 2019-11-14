@@ -58,7 +58,7 @@ Presentations 1:
 
 - José Enrique: Welcome and local information ([slides]()) (5 min.)
 - Axel: Overall project status ([slides]()) (5 + 5 min.)
-- Axel: Data reduction & mask handling ([docs page]()) (10 + 5 min)
+- Axel: Data reduction & datasets ([docs page]()) (10 + 5 min)
 - Christoph: Modeling & uncertaintites ([slides]()) (10 + 5 min)
 - Régis: Lightcurves ([slides]()) (5 + 5 min.)?
 - José Enrique: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
