@@ -13,4 +13,6 @@
 * [Granada conding sprint Monday](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2019-11_Granada)
   - Logistic info: meet when / where?
   - Talk agenda OK?
-* Benchmarks and validation: First results? Questions?
+* Performance benchmarks: https://github.com/gammapy/gammapy-benchmarks/tree/master/benchmarks
+* HESS validation: https://github.com/gammapy/gammapy-benchmarks/pull/14
+* [GH 172](https://github.com/gammapy/gammapy/issues/172) - Include examples in Sphinx docs
