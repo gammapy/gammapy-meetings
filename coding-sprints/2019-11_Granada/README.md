@@ -71,7 +71,8 @@ Presentations 2:
 - Christoph: [Tests](tests.md) (5 min.)
 - Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
-- Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.) 
+- Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.)
+- Léa: MAGIC data analysis with Gammapy ([slides]()) (5 + 5 min.)
 - Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
 - José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 + 5 min.)
 
