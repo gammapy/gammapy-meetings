@@ -49,8 +49,7 @@ Any day you're welcome to join for evening tapas in different bars of Granada.
 | ------------- | --------------------- |
 | 14.00 - 15.30 | Presentations 1       |
 | 15.30 - 16.00 | Coffee Break          |
-| 16.00 - 17.30 | Presentations 2       |
-| 17.30 - 18.30 | Discussions           |
+| 16.00 - 18.30 | Presentations 2       |
 
 Evening tapas.
 
