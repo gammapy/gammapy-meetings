@@ -6,13 +6,13 @@
 * Contacts: [Jose Enrique Ruiz](mailto:jer@iaa.es), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
-(http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to 
+(http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
 Gammapy yet. But note that this is **not** a workshop how to use Gammapy. We will also **not**
-do any tutorials how to hack on Gammapy, i.e. teach git, Github, Python, pytest and Sphinx. 
+do any tutorials how to hack on Gammapy, i.e. teach git, Github, Python, pytest and Sphinx.
 
 ## Travel
 
-Granada has a small airport with domestic flights mostly from Madrid and Barcelona, and very few international flights. Bus shuttles are available to drive you from Granada airport to the city. For those coming from abroad connection flights with Madrid or Barcelona should be the best option, though for those coming from Germany a good option could also be a connection flight through Palma de Mallorca. In case you do not find suitable flights to Granada, you may consider Malaga airport which is the nearest big international airport, and lies about 130 km from Granada. A convenient 2 hour bus ride should take you to Granada (see https://www.alsa.com/en/web/bus/home) from Malaga airport. 
+Granada has a small airport with domestic flights mostly from Madrid and Barcelona, and very few international flights. Bus shuttles are available to drive you from Granada airport to the city. For those coming from abroad connection flights with Madrid or Barcelona should be the best option, though for those coming from Germany a good option could also be a connection flight through Palma de Mallorca. In case you do not find suitable flights to Granada, you may consider Malaga airport which is the nearest big international airport, and lies about 130 km from Granada. A convenient 2 hour bus ride should take you to Granada (see https://www.alsa.com/en/web/bus/home) from Malaga airport.
 
 ## Map Link / Hotels
 
@@ -56,7 +56,7 @@ Evening tapas.
 
 Presentations 1:
 
-- José Enrique: Welcome and local information ([slides]()) (5 min.)
+- José Enrique: Welcome and local information ([slides](slides/Welcome.pdf)) 5 min.)
 - Axel: Overall project status ([slides]()) (5 + 5 min.)
 - Axel: Data reduction & datasets ([docs page]()) (10 + 5 min)
 - Christoph: [Modeling](modeling.md) (10 + 5 min)
@@ -71,7 +71,7 @@ Presentations 2:
 - Christoph: [Tests](tests.md) (5 min.)
 - Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides]()) (5 + 5 min.)
-- Luca: HESS DL3 DR1 validation ([slides]()) (5 + 5 min.)
+- Luca: HESS DL3 DR1 validation ([slides](slides/Slide_Luca.pdf)) (5 + 5 min.)
 - Léa: MAGIC data analysis with Gammapy ([slides]()) (5 + 5 min.)
 - Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
 - José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 + 5 min.)
@@ -129,7 +129,7 @@ Evening tapas.
 
 Evening tapas.
 
-**21:00 Dinner at [Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)** 
+**21:00 Dinner at [Carmen de la Victoria](https://carmendelavictoria.ugr.es/?lang=en)**
 
 ### Friday
 
@@ -146,7 +146,7 @@ Friday afternoon: you can stay in the room or leave at any time you like.
 
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
-1. Judit Pérez-Romero, IFT UAM-CSIC Madrid, Spain ([peroju](https://github.com/peroju)) 
+1. Judit Pérez-Romero, IFT UAM-CSIC Madrid, Spain ([peroju](https://github.com/peroju))
 1. Christoph Deil, MPIK Heidelberg, Germany ([cdeil](https://github.com/cdeil))
 1. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 1. Luca Giunti, APC, France ([luca-giunti](https://github.com/luca-giunti))
@@ -155,4 +155,3 @@ Friday afternoon: you can stay in the room or leave at any time you like.
 1. Bruno Khelifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
 1. Atreyee Sinha, LUPM, France ([AtreyeeS](https://github.com/AtreyeeS))
 1. Boisson Catherine, LUTH/ObsParis, France
-
