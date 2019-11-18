@@ -57,6 +57,7 @@ Presentations 1:
 
 - José Enrique: Welcome and local information ([slides](slides/Welcome.pdf)) 5 min.)
 - Axel: Overall project status ([slides]()) (5 + 5 min.)
+- Christoph: [Maps](maps.md) (5 min) 
 - Axel: Data reduction & datasets ([slides](slides/gammapy_datasets_granada.pdf)) (10 + 5 min)
 - Christoph: [Modeling](modeling.md) (10 + 5 min)
 - Régis: [Lightcurves](lightcurves.md), [project board](https://github.com/gammapy/gammapy/projects/4) (5 + 5 min.)
