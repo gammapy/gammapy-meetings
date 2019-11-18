@@ -1,6 +1,8 @@
-# Modeling
+# Gammapy Modeling
 
-Notes by Christoph
+- Christoph Deil
+- Nov 18, 2019
+- Gammapy coding sprint in Granda
 
 ## Overview
 
@@ -34,6 +36,7 @@ Would like to have for v1.0, but probably not a blocker?
 - Dedicated effort on Gammapy modeling 2.0? Hire Tom?
 - Goal: 10x to 1000x faster, depending on model and machine
 
-## Conclusions
+## Discussion
 
-Not sure.
+- Issues, solutions, tasks, priorities, contributors?
+

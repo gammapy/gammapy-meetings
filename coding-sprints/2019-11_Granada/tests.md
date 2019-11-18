@@ -1,7 +1,7 @@
 # Gammapy Testing
 
 - Christoph Deil
-- Nov 16, 2019
+- Nov 18, 2019
 - Gammapy coding sprint in Granda
 
 ## Overview
@@ -38,9 +38,13 @@
 - Review and improve all Gammapy tests
 - Add [Cython coverage](https://cython.readthedocs.io/en/latest/src/tutorial/profiling_tutorial.html#enabling-coverage-analysis) (or remove Cython code)
 
-## Conclusions
+## Suggestion
 
 - Treat tests like code, we have to maintain it. Goal: both should be dead simple.
 - Python is a dynamic language, test-driven development works best
 - Learn to use `pytest` and `coverage` and `PyCharm` to do it.
 - If you want to try it out, I'm happy to pair-code this week.
+
+## Discussion
+
+- Issues, solutions, tasks, priorities, contributors?
