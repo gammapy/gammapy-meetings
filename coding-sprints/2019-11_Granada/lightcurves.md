@@ -24,7 +24,7 @@ introduced in the data reduction since Erlangen.
   * see issue [#2548](https://github.com/gammapy/gammapy/issues/2548) 
 
 ### Code duplication
-- The current `LightCurveEstimator` suffers from heavy code duplication from `FluxPointsEstimator`.
+- The current `LightCurveEstimator` suffers from heavy code duplication from `FluxPointsEstimator`. See the [code](https://docs.gammapy.org/dev/_modules/gammapy/time/lightcurve_estimator.html#LightCurveEstimator)
   * this is due to a very similar task with a slightly different logic
     * Both extract flux by fitting a scaled model of the source on the dataset
     * But `FluxPointsEstimator` uses the *same* datasets for all steps (i.e. all energy bins)
