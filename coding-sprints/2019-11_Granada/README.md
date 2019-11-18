@@ -10,6 +10,8 @@ This meeting is a "coding sprint" for people that **want to work on the developm
 Gammapy yet. But note that this is **not** a workshop how to use Gammapy. We will also **not**
 do any tutorials how to hack on Gammapy, i.e. teach git, Github, Python, pytest and Sphinx.
 
+![](group.jpg)
+
 ## Travel
 
 Granada has a small airport with domestic flights mostly from Madrid and Barcelona, and very few international flights. Bus shuttles are available to drive you from Granada airport to the city. For those coming from abroad connection flights with Madrid or Barcelona should be the best option, though for those coming from Germany a good option could also be a connection flight through Palma de Mallorca. In case you do not find suitable flights to Granada, you may consider Malaga airport which is the nearest big international airport, and lies about 130 km from Granada. A convenient 2 hour bus ride should take you to Granada (see https://www.alsa.com/en/web/bus/home) from Malaga airport.
@@ -69,11 +71,11 @@ Presentations 2:
 
 - Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst), [project board](https://github.com/gammapy/gammapy/projects/1), [dev docs](https://docs.gammapy.org/dev/)) (10 + 5 min.)
 - Christoph: [Testing](testing.md) (5 min.)
-- Atreyee: Benchmarks ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-11_Granada/slides/Benchmarks.pdf)) (10 + 5 min.)
-- Quentin: 3FHL validation ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-11_Granada/slides/REMY_3FHL_validation.pdf)) (5 + 5 min.)
+- Atreyee: Benchmarks ([slides](slides/Benchmarks.pdf)) (10 + 5 min.)
+- Quentin: 3FHL validation ([slides](slides/REMY_3FHL_validation.pdf)) (5 + 5 min.)
 - Luca: HESS DL3 DR1 validation ([slides](slides/Slide_Luca.pdf)) (5 + 5 min.)
 - Léa: MAGIC data analysis with Gammapy ([slides]()) (5 + 5 min.)
-- Judit: DM simulation analysis ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-11_Granada/slides/Gammapy_coding_sprint_GRA_NOV_JPR.pdf), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
+- Judit: DM simulation analysis ([slides](slides/Gammapy_coding_sprint_GRA_NOV_JPR.pdf), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
 - José Enrique: Provenance capture ([slides](slides/ProvenancePrototype.pdf), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 + 5 min.)
 
 Later in the week (Wed / Thu):
