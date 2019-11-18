@@ -35,6 +35,19 @@ introduced in the data reduction since Erlangen.
   * For each time bin, create a `FluxPointsEstimator` for the current list of dataset with one single energy bin
   * Run flux point estimation and extract info from the table 
   
-  ### Light curves with high level interface
+### Light curves with high level interface
   
-  We need to be able to run light curve from the HLI.
+We need to be able to run light curve from the HLI. This requires a number of additional features.
+- Define a schema for time bins definition in yaml
+  * a tstart - tstop, and bin duration? What format for `tstart` and `tstop`?
+  * from a file containing a list of `Time`?
+- Apply time selection on `Observations`
+
+### Other issues - important but lower priority
+
+- How do we deal with *sub-observations* statistics, in particular for ON-OFF datasets?
+  * Usually, OFF can be extracted from the full observation
+    * This implies to perform the `ReflectedRegionsBackgroundMaker` on an unfiltered `EventList`
+    * This introduces bin-to-bin correlations
+    * This makes `LightCurve` extraction more complex if the time bin size is different from the one used to filter the dataset
+  * Can there be a grouping scheme to allow for shared background among datasets using `wstat`?  
