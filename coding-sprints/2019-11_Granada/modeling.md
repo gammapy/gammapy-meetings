@@ -21,13 +21,14 @@ Things we should try to do for v0.15. I put an estimate of how long it could tak
 - Clean up model names ([GH 2353](https://github.com/gammapy/gammapy/issues/2353))
   (`lon_0` -> `lon`, `reference` -> `energy_ref`, `lambda_` -> `alpha`, ...)
   Needs proposal and decision. Do next week? (1-2 days)
+- API to interact with parameter errors ([GH 1398](https://github.com/gammapy/gammapy/issues/1398)) (1 day)
+- Improve MCMC sampling code [GH 2304](https://github.com/gammapy/gammapy/issues/2304)
 
 Would like to have for v1.0, but probably not a blocker?
 
 - Improve model evaluate and `__call__` API ([GH 2443](https://github.com/gammapy/gammapy/issues/2443)) (needs design proposal, ~ 1 week, defer to 2020?)
 - Add optional `SkyModel.temporal_model` (2 hours) and make evaluate work properly (1-2 days)
 - Make [SkyDiffuseCube](https://docs.gammapy.org/dev/api/gammapy.modeling.models.SkyDiffuseCube.html) a `SpatialModel` subclass?
-- API to interact with parameter errors ([GH 1398](https://github.com/gammapy/gammapy/issues/1398)) (1 day)
 - Remove parameter scaling? ([GH 2434](https://github.com/gammapy/gammapy/issues/2434)) (1-2 days)
 - LogGaussianSpectralModel mean position ([GH 2436](https://github.com/gammapy/gammapy/issues/2436)) (3 hours)
 
