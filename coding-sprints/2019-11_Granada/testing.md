@@ -25,7 +25,6 @@
 - High-level validation and performance benchmarks: https://github.com/gammapy/gammapy-benchmarks/
   (work ongoing by Atreyee, Quentin, Luca, Fabio)
 - **Help welcome!** Improve test quality and coverage (see [examples](https://github.com/gammapy/gammapy/issues/94#issuecomment-553449147))
-
 - Christoph: Improve CI configuration ([GH 2270](https://github.com/gammapy/gammapy/issues/2270)), test Python 3.8 ([GH 2466](https://github.com/gammapy/gammapy/issues/2466)) and Windows better ([GH 2430](https://github.com/gammapy/gammapy/issues/2430))
 - Christoph: Make tests that connect ot internet like test_cli_download_tutorials not run by default
 
