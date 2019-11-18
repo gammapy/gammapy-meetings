@@ -69,11 +69,11 @@ Presentations 2:
 
 - Régis: PIG 18 Documentation ([document](https://github.com/cdeil/gammapy/blob/0826831e211ff17f7ccc34baf6d87a046c3a74d3/docs/development/pigs/pig-018.rst), [project board](https://github.com/gammapy/gammapy/projects/1), [dev docs](https://docs.gammapy.org/dev/)) (10 + 5 min.)
 - Christoph: [Testing](testing.md) (5 min.)
-- Atreyee: Benchmarks ([slides]()) (10 + 5 min.)
+- Atreyee: Benchmarks ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-11_Granada/slides/Benchmarks.pdf)) (10 + 5 min.)
 - Quentin: 3FHL validation ([slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2019-11_Granada/slides/REMY_3FHL_validation.pdf)) (5 + 5 min.)
 - Luca: HESS DL3 DR1 validation ([slides](slides/Slide_Luca.pdf)) (5 + 5 min.)
 - Léa: MAGIC data analysis with Gammapy ([slides]()) (5 + 5 min.)
-- Judit: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
+- Judith: DM simulation analysis ([slides](), [notebook](https://github.com/peroju/dm-gammapy/blob/master/notebooks/DarkMatterUseCaseSigmaVEstimator.ipynb), [prototype](https://www.iaa.csic.es/~jer/gammapydocs/api/gammapy.astro.darkmatter.SigmaVEstimator.html#gammapy.astro.darkmatter.SigmaVEstimator)) (10 + 5 min.)
 - José Enrique: Provenance capture ([slides](), [PIG](https://github.com/gammapy/gammapy/pull/2458)) (10 + 5 min.)
 
 Later in the week (Wed / Thu):
