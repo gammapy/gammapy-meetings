@@ -56,7 +56,7 @@ Evening tapas.
 Presentations 1:
 
 - José Enrique: Welcome and local information ([slides](slides/Welcome.pdf)) 5 min.)
-- Axel: Overall project status ([slides]()) (5 + 5 min.)
+- Axel: Overall project status ([slides](slides/gammapy_status_granada.pdf)) (5 + 5 min.)
 - Christoph: [Maps](maps.md) (5 min) 
 - Axel: Data reduction & datasets ([slides](slides/gammapy_datasets_granada.pdf)) (10 + 5 min)
 - Christoph: [Modeling](modeling.md) (10 + 5 min)
