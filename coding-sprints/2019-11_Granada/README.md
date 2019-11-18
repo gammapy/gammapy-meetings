@@ -60,7 +60,7 @@ Presentations 1:
 - Axel: Data reduction & datasets ([slides](slides/gammapy_datasets_granada.pdf)) (10 + 5 min)
 - Christoph: [Modeling](modeling.md) (10 + 5 min)
 - Régis: [Lightcurves](lightcurves.md), [project board](https://github.com/gammapy/gammapy/projects/4) (5 + 5 min.)
-- José Enrique: High Level Interface - status and plan ([project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
+- José Enrique: High Level Interface - status and plan ([slides](slides/high_level_interface.pdf) [project](https://github.com/gammapy/gammapy/projects/15)) (10 + 5 min.)
 - Axel: Event sampling & binned simulation ([slides](slides/gammapy_event_sampling_granada.pdf)) (2 + 5 min.)
 
 
