@@ -1,6 +1,26 @@
 # gammapy user test session
 
-Context and some bla bla
+The goal of this user-test is to have people of different expertise perform some common use cases and see what kind of difficulties they could encounter along the way. This is not going to be a tutorial and the idea is to be that little mouse sneaking in the office of a gammapy user and see what could be improved in terms of user experience.
+
+We have prepared different use cases of different complexities and each participant can select a topic and work through it during the day. Guiding you too much with directed advice would defeat the purpose of the test.
+
+For some simple use cases (installation, simulation) we plan to record what's on the screen for a few users to see how they navigate through the doc and examples.
+
+**Important note**: this is not an exam and we’re are not testing your Python or gammapy skills, we’re testing the tool.
+There are no wrong answers and don’t be polite about the software  ;-) 
+
+Say something if you notice:
+- a missing/unclear/missleading documentation
+- lack of coherence in API
+- a function not behaving as expected
+- a possible bug
+- anything that bothers you
+
+
+Write your comments and issues on this shared Doc [URL](https://docs.google.com/document/d/1tA0Xz64RviKKfJZZp0GLovb3TrFLgoCFR3U7KGgBsaI/edit?usp=sharing) with :
+- your name, tag of issue (bug, documentation, )
+
+The test will be carried out with gammapy v0.15 which will be released on Dec 2nd.
 
 ## Date, location
 
@@ -9,7 +29,7 @@ Context and some bla bla
 
 ## Use cases to be tested
 
-### installation from scratch (1 ou 2 people max)
+### installation from scratch (1, 2 people max)
     - check multiple environment handling 
     - find relevant doc 
 
@@ -24,7 +44,7 @@ Context and some bla bla
         - Estimate significance at each time and determine how much time needed to reach >5 sigma?
         - Perform fit in each time and determine how much time is needed to constrain spectral index better than 0.1
         - Redo in 3D?
-#### Simulate 1D observations 1D from a given light curve:
+#### Simulate 1D observations from a given light curve:
         - Assume:
           -F propto (t/1h)^-1
           - At t0 :
@@ -40,7 +60,7 @@ Context and some bla bla
         - 1D spectrum (reflected region background:
             - Plot flux points with butterfly
             - Plot confidence contours with index vs norm
-        - analyse 3D
+        - 3D analysis
      
 #### Analyze PKS 2155 flare (HESS DL3 DR1) with HLI:
         - Find relevant runs from flare date
