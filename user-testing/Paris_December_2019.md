@@ -68,7 +68,7 @@ Context and some bla bla
  5. Catherine Boisson 
  6. Santiago Pita (santiagopita)[https://github.com/santiagopita]
  7. Anne Lemière (AnneLemiere)[https://github.com/AnneLemiere]
- 8. Karl Kosack? (kosack)[https://github.com/kosack]
+ 8. Karl Kosack (kosack)[https://github.com/kosack]
  9. Atreyee Sinha (AtreyeeS)[https://github.com/AtreyeeS]
  10.
  11.
