@@ -81,15 +81,15 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
 
 
 ## Participants
- 1. Fabio Acero (facero)[https://github.com/facero]
- 2. Régis Terrier (registerrier)[https://github.com/registerrier]
- 3. Bruno Khelifi (BKhelifi)[https://github.com/bkhelifi]
- 4. Luca Giunti (luca-giunti)[https://github.com/luca-giunti]
+ 1. Fabio Acero [facero](https://github.com/facero)
+ 2. Régis Terrier [registerrier](https://github.com/registerrier)
+ 3. Bruno Khelifi [BKhelifi](https://github.com/bkhelifi)
+ 4. Luca Giunti [luca-giunti](https://github.com/luca-giunti)
  5. Catherine Boisson 
- 6. Santiago Pita (santiagopita)[https://github.com/santiagopita]
- 7. Anne Lemière (AnneLemiere)[https://github.com/AnneLemiere]
- 8. Karl Kosack (kosack)[https://github.com/kosack]
- 9. Atreyee Sinha (AtreyeeS)[https://github.com/AtreyeeS]
+ 6. Santiago Pita [santiagopita](https://github.com/santiagopita)
+ 7. Anne Lemière [AnneLemiere](https://github.com/AnneLemiere)
+ 8. Karl Kosack [kosack](https://github.com/kosack)
+ 9. Atreyee Sinha [AtreyeeS](https://github.com/AtreyeeS)
  10.
  11.
  
