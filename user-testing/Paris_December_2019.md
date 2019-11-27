@@ -1,3 +1,8 @@
+## Date, location
+
+- Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](Danjon_Obs_Paris.jpg))
+- December 4th 2019: 09h30 - 17h00
+
 # gammapy user test session
 
 The goal of this user-test is to have people of different expertise perform some common use cases and see what kind of difficulties they could encounter along the way. This is not going to be a tutorial and the idea is to be that little mouse sneaking in the office of a gammapy user and see what could be improved in terms of user experience.
@@ -22,10 +27,7 @@ Write your comments and issues on this shared Doc [URL](https://docs.google.com/
 
 The test will be carried out with gammapy v0.15 which will be released on Dec 2nd.
 
-## Date, location
 
-- Observatoire de Paris salle XX
-- December 4th 2019: 09h30 - 17h00
 
 ## Use cases to be tested
 
@@ -84,12 +86,12 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
  1. Fabio Acero [facero](https://github.com/facero)
  2. Régis Terrier [registerrier](https://github.com/registerrier)
  3. Bruno Khelifi [BKhelifi](https://github.com/bkhelifi)
- 4. Luca Giunti [luca-giunti](https://github.com/luca-giunti)
- 5. Catherine Boisson 
- 6. Santiago Pita [santiagopita](https://github.com/santiagopita)
- 7. Anne Lemière [AnneLemiere](https://github.com/AnneLemiere)
- 8. Karl Kosack [kosack](https://github.com/kosack)
- 9. Atreyee Sinha [AtreyeeS](https://github.com/AtreyeeS)
- 10.
- 11.
+ 4. Atreyee Sinha [AtreyeeS](https://github.com/AtreyeeS)
+ 5. Luca Giunti [luca-giunti](https://github.com/luca-giunti)
+ 6. Catherine Boisson 
+ 7. Santiago Pita [santiagopita](https://github.com/santiagopita)
+ 8. Anne Lemière [AnneLemiere](https://github.com/AnneLemiere)
+ 9. Karl Kosack [kosack](https://github.com/kosack)
+ 10. Thierry Stolarczyk [tstolarczyk](https://github.com/tstolarczyk)
+ 11. Francois Brun
  
