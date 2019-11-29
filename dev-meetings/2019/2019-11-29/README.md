@@ -18,6 +18,9 @@
     * [CTA with gammapy notebook](https://docs.gammapy.org/dev/notebooks/cta.html) [PR](https://github.com/gammapy/gammapy/pull/2609)
     * [light curve for flare]() [PR](https://github.com/gammapy/gammapy/pull/2594)
   * High priority tasks (to go in for v0.15):
-    * analysis_1.ipynb and analysis_2.ipynb
-    * analysis_3D.ipynb and analysis_3D_joint.ipynb (Atreyee)
-    *
+    * [analysis_1.ipynb](https://docs.gammapy.org/dev/notebooks/analysis_1.html) and [analysis_2.ipynb](https://docs.gammapy.org/dev/notebooks/analysis_2.html)
+    * [analysis_3D.ipynb](https://docs.gammapy.org/dev/notebooks/analysis_3d.html) and [analysis_3d_joint.ipynb](https://docs.gammapy.org/dev/notebooks/analysis_3d_joint.html) (Atreyee)
+    * First version of overview RST page see [current draft]()
+    * further improve [cube rst page](https://docs.gammapy.org/dev/cube/index.html)
+    * finish [time rst page](https://docs.gammapy.org/dev/time/index.html)
+    * 
