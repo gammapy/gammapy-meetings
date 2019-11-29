@@ -24,4 +24,4 @@
     * First version of overview RST page see [current draft](https://github.com/gammapy/gammapy/blob/7738a4c5b39174aee6c5cffd706dff6f4a250697/docs/overview.rst)
     * further improve [cube rst page](https://docs.gammapy.org/dev/cube/index.html)
     * finish [time rst page](https://docs.gammapy.org/dev/time/index.html)
-    * Modify [image analysis notebook] (https://docs.gammapy.org/dev/notebooks/image_analysis.html)
+    * Modify [image analysis notebook](https://docs.gammapy.org/dev/notebooks/image_analysis.html)
