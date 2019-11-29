@@ -10,7 +10,8 @@
 * Short report by everyone, what they have worked on during the past week 
 
 * Add possibility to select which maps to create during data reduction in the Analysis class  https://github.com/gammapy/gammapy/issues/2626 (Atreyee?)
-* Help needed: Update and adapt Gammapy benchmarks to latest dev version (All?)
+* Provide access to sub-covariance https://github.com/gammapy/gammapy/issues/2503 (Christoph & Quentin?)
+* Update and adapt Gammapy benchmarks to latest dev version (All?)
 * Help needed: Gammapy documentation!  https://github.com/gammapy/gammapy/projects/1
   * See also spreadshhet [here](https://docs.google.com/spreadsheets/d/1JKy4HXtdaE__OGz6zyBcR_cS0swrIx6kFn8p_aYwUTM/edit#gid=0)
   * Recent changes:
