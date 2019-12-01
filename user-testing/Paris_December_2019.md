@@ -94,4 +94,8 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
  9. Karl Kosack [kosack](https://github.com/kosack)
  10. Thierry Stolarczyk [tstolarczyk](https://github.com/tstolarczyk)
  11. Francois Brun
+ 12. Jean-Philippe Lenain [jlenain](https://github.com/jlenain)
+ 13. Antonio Tutone
+ 14. Pooja Sharma
+ 
  
