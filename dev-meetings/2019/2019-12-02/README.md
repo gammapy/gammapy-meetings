@@ -14,4 +14,5 @@ Issues to discuss:
 - Command line tool: https://github.com/gammapy/gammapy/pull/2648
 - Docs overview page: https://github.com/gammapy/gammapy/pull/2622
 - Fill minimal how to page: https://docs.gammapy.org/dev/howto.html
+
 Dead line for PRs 16h00 today!
