@@ -1,7 +1,7 @@
 ## Date, location
 
 - Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](december_2019/Danjon_Obs_Paris.jpg))
-- December 4th 2019: 09h30 - 17h00
+- December 4th 2019: 09h30 - 17h30
 
 # gammapy user test session
 
@@ -27,6 +27,9 @@ Write your comments and issues on this shared Doc [URL](https://docs.google.com/
 
 The test will be carried out with gammapy v0.15 which will be released on Dec 3rd.
 
+
+The use cases below require the [HESS DL3 DR1 data](https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/), the CTA IRF, and DC1 data.
+DC1 data are heavy and will be circulated with a USB key if you don't have them.
 
 
 ## Use cases to be tested
