@@ -25,7 +25,7 @@ Say something if you notice:
 Write your comments and issues on this shared Doc [URL](https://docs.google.com/document/d/1tA0Xz64RviKKfJZZp0GLovb3TrFLgoCFR3U7KGgBsaI/edit?usp=sharing) with :
 - your name, tag of issue (bug, documentation, )
 
-The test will be carried out with gammapy v0.15 which will be released on Dec 2nd.
+The test will be carried out with gammapy v0.15 which will be released on Dec 3rd.
 
 
 
@@ -37,29 +37,32 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
 
 ### Simulation with CTA DC1 IRFs:
    
-#### Simulate a 3D observation 3D with a point source (then extended):
-        - Extract significance map
+#### Simulate a 3D observation with a point source (then extended):
+        - Source param: PowerLaw, Norm= 1e-13 cm^2s^-1-TeV ^-1 at 1 TeV, Index=2.5, Obs_Time=10h
+        - Produce significance map
         - Fit position and spectra (and extension?) 
             - Estimate errors on parameters
 
 #### Simulate several 1D observations of different durations
-        - Estimate significance at each time and determine how much time needed to reach >5 sigma?
+        - Source param: same as above
+        - Estimate source significance at each time and determine how much time needed to reach >5 sigma?
         - Perform fit in each time and determine how much time is needed to constrain spectral index better than 0.1
         - Redo in 3D?
+        
 #### Simulate 1D observations from a given light curve:
         - Assume:
           -F propto (t/1h)^-1
           - At t0 :
-            - N_O = 1e-11 cm^2s^-1-TeV ^-1 at 1 TeV 
-            - index = -3
-        - Simulate and reconstruct light curve
+            - Norm = 1e-11 cm^2s^-1-TeV ^-1 at 1 TeV 
+            - index = 3
+        - Simulate and reconstruct flux light curve
 
 ### Data reduction:
 
 #### Analysis of MSH 15-52 (HESS DL3 DR1) (possibly split in 2 different use cases):
         - excess and significance map with RingBackground
             - ON and OFF significance distribution
-        - 1D spectrum (reflected region background:
+        - 1D spectrum (reflected region background):
             - Plot flux points with butterfly
             - Plot confidence contours with index vs norm
         - 3D analysis
@@ -68,19 +71,19 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
         - Find relevant runs from flare date
         - Make image and spectra of the full night data 
         - Extract flare light curve in N minutes time bins (see paper)
-
-#### Re-do joint crab analysis:
-        - spectra extraction for the various instruments and export to disk
-        - Reload and joint fit
-        - Confidence contours joint and per instrument 
     
-#### GC DC1  analysis (with less than 30 runs):
-        - Try to perform a multiple 3D source fit (J1745-303 & G0.9+0.1)
-        - Define tested model with yaml file
+#### GC CTA DC1 analysis (with less than 30 runs):
+        - Produce Excess, Significance maps with 3D bkg subtraction 
+        - Define Skymodel (J1745-303 & G0.9+0.1) with yaml file
+        - Perform a multiple 3D source fit 
         - Confidence contours of the 2 sources 
         - Add diffuse emission:
             - confidence of diffuse norm vs J1745 norm.
 
+#### Experimental: Re-do joint crab analysis:
+        - spectra extraction for the various instruments and export to disk
+        - Reload and joint fit
+        - Confidence contours joint and per instrument 
 
 ## Participants
  1. Fabio Acero [facero](https://github.com/facero)
@@ -97,5 +100,6 @@ The test will be carried out with gammapy v0.15 which will be released on Dec 2n
  12. Jean-Philippe Lenain [jlenain](https://github.com/jlenain)
  13. Antonio Tutone
  14. Pooja Sharma
+ 15. Gabriel Emery
  
  
