@@ -22,9 +22,10 @@ Say something if you notice:
 - a possible bug
 - anything that bothers you
 
-
+** Issue report **
 Write your comments and issues on this shared Doc [URL](https://docs.google.com/document/d/1tA0Xz64RviKKfJZZp0GLovb3TrFLgoCFR3U7KGgBsaI/edit?usp=sharing) with :
-- your name, tag of issue (bug, documentation, )
+- your name, type of issue (bug, documentation, API)
+- if it concerns a possible bug, please write a minimal reproducible example
 
 The test will be carried out with gammapy v0.15 which will be released on Dec 3rd.
 
