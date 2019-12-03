@@ -89,21 +89,21 @@ DC1 data are heavy and will be circulated with a USB key if you don't have them.
         - Confidence contours joint and per instrument 
 
 ## Participants
- 1. Fabio Acero [facero](https://github.com/facero)
- 2. Régis Terrier [registerrier](https://github.com/registerrier)
- 3. Bruno Khelifi [BKhelifi](https://github.com/bkhelifi)
- 4. Atreyee Sinha [AtreyeeS](https://github.com/AtreyeeS)
- 5. Luca Giunti [luca-giunti](https://github.com/luca-giunti)
+ 1. Fabio Acero, [facero](https://github.com/facero)
+ 2. Régis Terrier, [registerrier](https://github.com/registerrier)
+ 3. Bruno Khelifi, [BKhelifi](https://github.com/bkhelifi)
+ 4. Atreyee Sinha, [AtreyeeS](https://github.com/AtreyeeS)
+ 5. Luca Giunti, [luca-giunti](https://github.com/luca-giunti)
  6. Catherine Boisson 
- 7. Santiago Pita [santiagopita](https://github.com/santiagopita)
- 8. Anne Lemière [AnneLemiere](https://github.com/AnneLemiere)
- 9. Karl Kosack [kosack](https://github.com/kosack)
- 10. Thierry Stolarczyk [tstolarczyk](https://github.com/tstolarczyk)
+ 7. Santiago Pita, [santiagopita](https://github.com/santiagopita)
+ 8. Anne Lemière, [AnneLemiere](https://github.com/AnneLemiere)
+ 9. Karl Kosack, [kosack](https://github.com/kosack)
+ 10. Thierry Stolarczyk, [tstolarczyk](https://github.com/tstolarczyk)
  11. Francois Brun
- 12. Jean-Philippe Lenain [jlenain](https://github.com/jlenain)
+ 12. Jean-Philippe Lenain, [jlenain](https://github.com/jlenain)
  13. Antonio Tutone
  14. Pooja Sharma
  15. Gabriel Emery
- 16. Mathieu Servillat [mservillat](https://github.com/mservillat)
+ 16. Mathieu Servillat, [mservillat](https://github.com/mservillat)
  
  
