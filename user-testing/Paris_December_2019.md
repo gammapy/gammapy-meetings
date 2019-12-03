@@ -9,7 +9,8 @@ The goal of this user-test is to have people of different expertise perform some
 
 We have prepared different use cases of different complexities and each participant can select a topic and work through it during the day. Guiding you too much with directed advice would defeat the purpose of the test.
 
-For some simple use cases (installation, simulation) we plan to record what's on the screen for a few users to see how they navigate through the doc and examples.
+For some simple use cases (installation, simulation) we plan to record what's on the screen for a few users to see how they navigate through the doc and examples. 
+Recording software : Kazam (Linux: sudo apt-get install kazam ), [Chrome browser](https://www.screencastify.com/ ; all systems), or QuickTime on Mac.
 
 **Important note**: this is not an exam and we’re are not testing your Python or gammapy skills, we’re testing the tool.
 There are no wrong answers and don’t be polite about the software  ;-) 
