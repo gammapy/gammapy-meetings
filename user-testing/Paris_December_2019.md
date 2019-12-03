@@ -22,7 +22,7 @@ Say something if you notice:
 - a possible bug
 - anything that bothers you
 
-** Issue report **
+**Issue report**
 Write your comments and issues on this shared Doc [URL](https://docs.google.com/document/d/1tA0Xz64RviKKfJZZp0GLovb3TrFLgoCFR3U7KGgBsaI/edit?usp=sharing) with :
 - your name, type of issue (bug, documentation, API)
 - if it concerns a possible bug, please write a minimal reproducible example
