@@ -40,7 +40,8 @@ DC1 data are heavy and will be circulated with a USB key if you don't have them.
     - find relevant doc 
 
 ### Simulation with CTA DC1 IRFs:
-   
+Using 1dc IRF South_z20_50h
+
 #### Simulate a 3D observation with a point source (then extended):
         - Source param: PowerLaw, Norm= 1e-13 cm^2s^-1-TeV ^-1 at 1 TeV, Index=2.5, Obs_Time=10h
         - Produce significance map
