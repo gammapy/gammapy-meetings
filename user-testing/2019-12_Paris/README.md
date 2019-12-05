@@ -1,6 +1,6 @@
 ## Date, location
 
-- Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](december_2019/Danjon_Obs_Paris.jpg))
+- Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](Danjon_Obs_Paris.jpg))
 - December 4th 2019: 09h30 - 17h30
 
 # gammapy user test session
