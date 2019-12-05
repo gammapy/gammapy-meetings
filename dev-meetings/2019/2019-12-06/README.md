@@ -7,4 +7,7 @@
 
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
-* Short report by everyone, what they have worked on during the past week 
+
+
+* [Gammapy CTA 1DC validation](https://github.com/gammapy/gammapy-benchmarks/tree/3f59ef1917e09fb68d988496547d91946d9c38d3/validation/cta-1dc) (Fabio A.)
+* Report from the Gammapy user testing event (Fabio A., Régis)
