@@ -40,6 +40,7 @@
 
 ## HLI
 - Positive feedback on v0.14->v0.15 improvements
+- Some important features are lacking (e.g. RingBackground)
 - Lack of documentation on how to write yaml config file. 
  * Comments in yaml files?
  * YAML files for all models? E.g. SkyDiffuseCube
@@ -47,7 +48,6 @@
  * names for parameters (e.g. skydir)
  * Error messages for non-validation sometimes un-readable.
 - Can we have a validation for inconsistencies in the config file?
- * Type 1d or 3d do not require the same arguments
 - Working with SkyModels sometimes complex:
  * e.g. appending SkyModel on SkyModels. 
  * Can we make a spatial model as the sum of two spatial models?
@@ -56,9 +56,8 @@
   
 ## API
 
-- No strong issues
+- No major issue raised
 - For API of similar level, similar type of objects should have similar methods eg to_table for tabular objects, peek, plot when relevant etc
-
   
 ## Bugs
   
