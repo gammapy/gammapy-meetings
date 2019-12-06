@@ -54,6 +54,10 @@
 - Issues with defaults: SafeMask & Etrue range.
   
 ## API
+
+- No strong issues
+- For API of similar level, similar type of objects should have similar methods eg to_table for tabular objects, peek, plot when relevant etc
+
   
 ## Bugs
   
