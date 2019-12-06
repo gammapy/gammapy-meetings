@@ -13,7 +13,7 @@ We have had lots of feedback from users during the event. We summarized it in th
 
 ## Attendance
 
-![](group.jpg)
+![](GUT_Paris_group.jpg)
 
 ## Date, location
 
