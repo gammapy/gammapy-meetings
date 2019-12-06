@@ -1,6 +1,6 @@
 
 
-# gammapy user test session
+# Paris Gammapy user test session (Dec 2019)
 
 The goal of this user-test is to have people of different expertise perform some common use cases and see what kind of difficulties they could encounter along the way. This is not going to be a tutorial and the idea is to be that little mouse sneaking in the office of a gammapy user and see what could be improved in terms of user experience.
 
