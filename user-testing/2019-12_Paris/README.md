@@ -3,6 +3,8 @@
 - Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](Danjon_Obs_Paris.jpg))
 - December 4th 2019: 09h30 - 17h30
 
+**The summary of this meeting is detailed [here](summary.md).**
+
 # gammapy user test session
 
 The goal of this user-test is to have people of different expertise perform some common use cases and see what kind of difficulties they could encounter along the way. This is not going to be a tutorial and the idea is to be that little mouse sneaking in the office of a gammapy user and see what could be improved in terms of user experience.
