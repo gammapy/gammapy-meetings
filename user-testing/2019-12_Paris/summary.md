@@ -1,5 +1,7 @@
 # Summary of user feedback 
 
+Original document with all suggestions can be found [here](https://docs.google.com/document/d/1fmtnbt-kwzLo09d1yQ2snsoznIVUxAdzx_QpnMZcXaU/edit#).
+
 ## Installation
 
 - All users have used conda. 
