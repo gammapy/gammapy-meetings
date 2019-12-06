@@ -47,6 +47,7 @@
  * names for parameters (e.g. skydir)
  * Error messages for non-validation sometimes un-readable.
 - Can we have a validation for inconsistencies in the config file?
+ * Type 1d or 3d do not require the same arguments
 - Working with SkyModels sometimes complex:
  * e.g. appending SkyModel on SkyModels. 
  * Can we make a spatial model as the sum of two spatial models?
