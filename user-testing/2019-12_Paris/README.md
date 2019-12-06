@@ -9,8 +9,7 @@ The goal of this user-test is to have people of different expertise perform some
 We have had lots of feedback from users during the event. We summarized it in the following page: 
 
 * **[Meeting summary](summary.md).**
-
-The whole set of comments can also be found.
+* Original document with all suggestions can be found [here](https://docs.google.com/document/d/1fmtnbt-kwzLo09d1yQ2snsoznIVUxAdzx_QpnMZcXaU/edit#).
 
 ## Attendance
 
