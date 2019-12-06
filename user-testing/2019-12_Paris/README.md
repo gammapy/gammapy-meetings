@@ -13,6 +13,8 @@ We have had lots of feedback from users during the event. We summarized it in th
 
 ## Attendance
 
+![](group.jpg)
+
 ## Date, location
 
 - Observatoire de Paris salle Danjon (one of the door in the stables facing the canteen [see Map here](Danjon_Obs_Paris.jpg))
