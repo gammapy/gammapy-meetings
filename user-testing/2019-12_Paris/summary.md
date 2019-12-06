@@ -42,15 +42,15 @@
 - Positive feedback on v0.14->v0.15 improvements
 - Some important features are lacking (e.g. RingBackground)
 - Lack of documentation on how to write yaml config file. 
- * Comments in yaml files?
- * YAML files for all models? E.g. SkyDiffuseCube
+  * Comments in yaml files?
+  * YAML files for all models? E.g. SkyDiffuseCube
 - Try to have more explicit interface:
- * names for parameters (e.g. skydir)
- * Error messages for non-validation sometimes un-readable.
+  * names for parameters (e.g. skydir)
+  * Error messages for non-validation sometimes un-readable.
 - Can we have a validation for inconsistencies in the config file?
 - Working with SkyModels sometimes complex:
- * e.g. appending SkyModel on SkyModels. 
- * Can we make a spatial model as the sum of two spatial models?
+  * e.g. appending SkyModel on SkyModels. 
+  * Can we make a spatial model as the sum of two spatial models?
 - Analysis could handle passing covariance to fluxpointdataset. Note that difference between analysis.fluxpoints and actual fluxpoints has surprised some.
 - Issues with defaults: SafeMask & Etrue range.
   
