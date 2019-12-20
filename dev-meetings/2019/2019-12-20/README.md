@@ -8,3 +8,8 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
+
+
+* Next coding sprint date Doodle: https://doodle.com/poll/7e3cs5u9yei6vbrx (Axel)
+* Model gallery: https://github.com/gammapy/gammapy/pull/2690 (Quentin, Régis)
+* Happy holidays!
