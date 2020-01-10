@@ -1,6 +1,6 @@
 # Gammapy Developer Meeting
 
-* Friday, Dec 20, 2019 at 10 am
+* Friday, Jan 10, 2020 at 10 am
 * "Gammapy Developer Meeting" on CTA eZuce, no password, [connection details](../ezuce.txt)
 
 # Agenda
