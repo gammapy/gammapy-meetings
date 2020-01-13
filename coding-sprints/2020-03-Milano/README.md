@@ -2,8 +2,8 @@
 
 * Start: Monday, March 2nd, 2020 at 2 pm
 * End: Friday, March 6th, 2020 at noon
-* Location: 
-* Contacts: [Fabio Pintore](mailto:), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
+* Location: "Consiglio Nazionale delle Ricerche", Via A. Corti, 12, Milano
+* Contacts: [Fabio Pintore](mailto:fabio.pintore@inaf.it), [Axel Donath](mailto:axel.donath@mpi-hd.mpg.de)
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
