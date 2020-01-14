@@ -91,4 +91,4 @@ Any day you're welcome to join for evening tapas in different bars of Granada.
 
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Fabio Pintore,  ([fabiopintore](https://github.com/fabiopintore))
-3. Régis Terrier, ([registerrier](https://github.com/registerrier))
+3. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
