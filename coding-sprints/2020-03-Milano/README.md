@@ -51,7 +51,7 @@ The offices and rooms of IASF Milano occupy the entire 4th floor of the Bassini 
 ## Lunch
 
 An istitute canteen is available everyday from 12:00 to 14:00. The typical price is around 4-6 euros.
-Otherwise, outside the IASF/Milano building a number of restaurants, bar, pizzerie and pubs are available with a rich gastronomical proposals. A typical cost for the lunch is around 6-20 euros.
+Otherwise, outside the IASF/Milano building, a number of close restaurants, bar, pizzerie and pubs are available with a rich gastronomical proposal. A typical cost for the lunch is around 6-20 euros.
 
 ## Dinner
 
