@@ -1,4 +1,4 @@
-# Gammapy Coding Sprint, March 20200, Milano
+# Gammapy Coding Sprint, March 2020,Milano
 
 * Start: Monday, March 2nd, 2020 at 2 pm
 * End: Friday, March 6th, 2020 at noon
