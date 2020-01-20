@@ -1,4 +1,4 @@
-# Gammapy Coding Sprint, March 2020,Milano
+# Gammapy Coding Sprint, March 2020, Milano
 
 * Start: Monday, March 2nd, 2020 at 2 pm
 * End: Friday, March 6th, 2020 at noon
@@ -129,3 +129,4 @@ Any day you're welcome to join for evening tapas in different bars of Granada.
 2. Fabio Pintore,  ([fabiopintore](https://github.com/fabiopintore))
 3. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 4. Luca Giunti, APC-CEA Paris, France ([luca-giunti](https://github.com/luca-giunti))
+5. Christopher van Eldik, ECAP, Germany
