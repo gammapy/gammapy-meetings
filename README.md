@@ -2,9 +2,6 @@
 
 This repository provides links to coming and past gammapy-related calls and meetings.
 
-Up next:
-* tba
-
 Meetings:
 
 * [Developers meetings](dev-meetings/README.md)
