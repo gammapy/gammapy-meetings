@@ -130,4 +130,4 @@ Any day you're welcome to join for evening tapas in different bars of Granada.
 3. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 4. Luca Giunti, APC-CEA Paris, France ([luca-giunti](https://github.com/luca-giunti))
 5. Christopher van Eldik, ECAP, Germany
-6. Jose Enrique Ruiz, IAA-CSIC, Granda, Spain ([Bultako](https://github.com/Bultako))
+6. Jose Enrique Ruiz, IAA-CSIC, Granada, Spain ([Bultako](https://github.com/Bultako))
