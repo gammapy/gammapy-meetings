@@ -16,3 +16,4 @@
 * Jupytext / sphinx gallery (José Enrique)
 * Any news from the validation? (Fabio, Luca)
 * PIG 19 - Package structure follow up [GH 2720](https://github.com/gammapy/gammapy/pull/2720) (Axel)
+* Rename SkyModels to Models [GH 2727](https://github.com/gammapy/gammapy/pull/2727) (Axel)
