@@ -11,4 +11,5 @@
 
 * Changelog v0.16 https://github.com/gammapy/gammapy/pull/2757 (Axel)
 * Open PRs for v0.16 https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.16 (All)
+* Short report on user feedback by indian groups (Atreyee)
 
