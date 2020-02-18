@@ -133,3 +133,4 @@ Any day you're welcome to join for evening tapas in different bars of Granada.
 6. Jose Enrique Ruiz, IAA-CSIC, Granada, Spain ([Bultako](https://github.com/Bultako))
 7. Bruno Khelifi, APC, Paris, France ([bkhelifi](https://github.com/bkhelifi))
 8. Giovanni De Cesare, Bologna, Italy ([giovixo](https://github.com/giovixo))
+9. Atreyee Sinha, LUPM Montpellier, France ([AtreyeeS](https://github.com/AtreyeeS))
