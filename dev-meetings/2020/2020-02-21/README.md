@@ -9,7 +9,7 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
 
-* Introduce naming convention for true energy axis [#2784](https://github.com/gammapy/gammapy/pull/2784)
-* Add datasets_names attribute to cube models [#2782](https://github.com/gammapy/gammapy/pull/2782)
-* Add __call__ method to TemporalModel [#2783](https://github.com/gammapy/gammapy/pull/2783)
-* Add support for FoVBackground on the HLI [#2776](https://github.com/gammapy/gammapy/pull/2776)
+* Introduce naming convention for true energy axis [#2784](https://github.com/gammapy/gammapy/pull/2784) (Axel)
+* Add datasets_names attribute to cube models [#2782](https://github.com/gammapy/gammapy/pull/2782) (Quentin)
+* Add __call__ method to TemporalModel [#2783](https://github.com/gammapy/gammapy/pull/2783) (Atreyee)
+* Add support for FoVBackground on the HLI [#2776](https://github.com/gammapy/gammapy/pull/2776) (José Enrique / Axel)
