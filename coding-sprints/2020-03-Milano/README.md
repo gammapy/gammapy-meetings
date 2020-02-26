@@ -1,6 +1,6 @@
 # Gammapy Coding Sprint, March 2020, Milano
 
-**Cancelled:** because of a recent abrupt rise of Covid-19 (“Coronavirus”) infections in the region around Milano (https://www.ecdc.europa.eu/en/news-events/ecdc-statement-rapid-increase-covid-19-cases-italy) and travelling restrictions imposed by CNRS and Max Planck Society the coding sprint was cancelled. Instead a "Gammapy co-working week" is organised. 
+**Cancelled:** because of a recent abrupt rise of Covid-19 (“Coronavirus”) infections in the region around Milano (https://www.ecdc.europa.eu/en/news-events/ecdc-statement-rapid-increase-covid-19-cases-italy) and travelling restrictions imposed by CNRS and Max Planck Society the coding sprint was cancelled. Instead a ["Gammapy co-working week"](co_working_week.md) is organised. 
 
 * Start: Monday, March 2nd, 2020 at 2 pm
 * End: Friday, March 6th, 2020 at noon
