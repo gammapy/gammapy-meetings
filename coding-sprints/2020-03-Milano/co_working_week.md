@@ -38,9 +38,10 @@ Monday afternoon 14h00: kick off meeting with presentations on Vibe
 
 
 ### Discussion topics:
-- What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`?
+- What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`? (quick discussion, decisiion and implementation in the same week)
 - Solve MapDataset meta data problem (requires discussion + proposal)
-- Global model and background model handling (requires discussion + proposal)
+- Global model, background model handling and energy dependent spatial models (requires discussion + proposal)
+- Makers class
 
 
 
