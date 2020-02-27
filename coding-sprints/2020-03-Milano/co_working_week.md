@@ -1,6 +1,6 @@
 # Gammapy Co-Working Week, March 2020
 
-Instead of the planned coding sprint in Milano, we have a "Gammapy co-working week" from 2nd to 6th March 2020.  Ideally all participants can dedicate most of your time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Vibe. 
+Instead of the planned coding sprint in Milano, we have a "Gammapy co-working week" from 2nd to 6th March 2020.  Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Vibe. 
 
 In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
