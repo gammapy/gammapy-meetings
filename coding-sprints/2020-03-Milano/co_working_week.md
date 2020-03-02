@@ -12,12 +12,12 @@ Monday afternoon 14h00: kick off meeting with presentations on Vibe.
 
 
 ### Presentations:
-- Axel: Introduction and overview [slides](slides/intro-co-working-week)
-- Axel: Model handling [slides](slides/)
-- Fabio: Event sampling status (validation and missing features) [slides](slides/)
-- Atreyee: Temporal model evaluation [slides](slides/)
-- Régis: FluxEstimator idea and plans [slides](slides/)
-- Régis: User testing feedback status and missing work [slides](slides/)
+- Axel: Introduction and overview ([slides](slides/intro-co-working-week.pdf))
+- Axel: Model handling ([slides](slides/))
+- Fabio: Event sampling status (validation and missing features) ([slides](slides/))
+- Atreyee: Temporal model evaluation ([slides](slides/))
+- Régis: FluxEstimator idea and plans ([slides](slides/))
+- Régis: User testing feedback status and missing work ([slides](slides/))
 
 ### Rest of the week every day:
 - 10h00 regular status meeting on Vibe 
