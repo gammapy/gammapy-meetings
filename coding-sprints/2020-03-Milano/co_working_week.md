@@ -12,40 +12,46 @@ Monday afternoon 14h00: kick off meeting with presentations on Vibe.
 
 
 ### Presentations:
-- Axel: Introduction and overview
-- Axel: Model handling
-- Fabio: Event sampling status (validation and missing features)
-- Atreyee: Temporal model evaluation
-- Régis: FluxEstimator idea and plans
-- Régis: User testing feedback status and missing work
+- Axel: Introduction and overview [slides](slides/intro-co-working-week)
+- Axel: Model handling [slides](slides/)
+- Fabio: Event sampling status (validation and missing features) [slides](slides/)
+- Atreyee: Temporal model evaluation [slides](slides/)
+- Régis: FluxEstimator idea and plans [slides](slides/)
+- Régis: User testing feedback status and missing work [slides](slides/)
 
 ### Rest of the week every day:
 - 10h00 regular status meeting on Vibe 
 
 
 ### General coding projects (no particular order...):
-- Introduce `EDispKernelMap`
+#### General
+- Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.17
+
+#### API
 - Refactor `SpectrumDataset` and `SpectrumDatasetOnOff` to use RegionNDMap
 - Introduce `gammapy.estimators` and `gammapy.visualization`
 - Move estimator classes to `gammapy.estimators`
-- Finish open PRs
-- Event sampling:
-  - Finish validation
-  - Handle temporal models (+ minimal validation)
-  - Tutorial and docs
-- Temporal models:
-  - Add temporal model evaluation to `SkyModel`
-  - Add `TemporalModel.plot()` method(s)
-  - Add temporal models to model gallery
-- Adapt benchmarks / validation to latest master and re-run
 
+#### Features
+- Introduce `EDispKernelMap`
+- Add temporal model evaluation to `SkyModel`
+- Add `TemporalModel.plot()` method(s)
+- Handle temporal models (+ minimal validation)
+
+#### Documenation
+- Write RST pages for new sub-packages
+- Finish uniform presentation of notebooks
+- Document event sampling
+
+#### Validation and testing
+- Finish event sampling validation
+- Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
 
 ### Discussion topics:
 - What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`? (quick discussion, decisiion and implementation in the same week)
 - Solve MapDataset meta data problem (requires discussion + proposal)
 - Global model, background model handling and energy dependent spatial models (requires discussion + proposal)
 - Makers class
-
 
 
 ## Participants
