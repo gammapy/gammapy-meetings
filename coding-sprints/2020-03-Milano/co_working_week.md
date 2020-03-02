@@ -6,24 +6,29 @@ In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
 ## Agenda
 
-Monday afternoon 14h00: kick off meeting with presentations on Vibe.
+### Monday 14h00:
+Kick off meeting with presentations on Vibe 14h00
 - Meeting ID: 7754787364
 - https://vibe.ezuce.com/launcher/?meetingID=7754787364
 
-
-### Presentations:
+Presentations:
 - Axel: Introduction and overview ([slides](slides/intro-co-working-week.pdf))
 - Fabio: Event sampling status (validation and missing features) ([slides](slides/))
 - Atreyee: Temporal model evaluation ([slides](slides/))
 - Régis: FluxEstimator idea and plans ([slides](slides/))
 - Régis: User testing feedback status and missing work ([slides](slides/))
 
-### Rest of the week every day:
-- 10h00 regular status meeting on Vibe 
-
-#### Tuesday 10h00:
+### Tuesday 10h00:
  - Axel: Model handling ([slides](slides/))
 
+### Wednesday 10h00:
+ - Dataset meta data
+
+### Thursday 10h00:
+ - User testing feedback
+ 
+### Friday 10h00:
+ - TBD
 
 ### General coding projects (no particular order...):
 #### General
