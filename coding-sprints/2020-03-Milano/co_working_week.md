@@ -6,7 +6,10 @@ In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
 ## Agenda
 
-Monday afternoon 14h00: kick off meeting with presentations on Vibe
+Monday afternoon 14h00: kick off meeting with presentations on Vibe.
+- Meeting ID: 7754787364
+- https://vibe.ezuce.com/launcher/?meetingID=7754787364
+
 
 ### Presentations:
 - Axel: Introduction and overview
