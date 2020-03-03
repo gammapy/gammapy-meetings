@@ -19,13 +19,18 @@ Presentations:
 - Régis: User testing feedback status and missing work ([slides](slides/))
 
 ### Tuesday 10h00:
- - Axel: Model handling ([slides](slides/))
+- Quick report by everyone... 
+- Status of https://github.com/gammapy/gammapy/pull/2791/files? Ready to merge?
+- Axel: would like to move `Estimator` classes to `gammapy.estimators`. Clarify whether it leads to merge conflicts. What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`? Remove?
+
+
 
 ### Wednesday 10h00:
- - Dataset meta data
+ - Régis: Dataset meta data
+ - Axel: Models handling
 
 ### Thursday 10h00:
- - User testing feedback
+ - Régis: User testing feedback
  
 ### Friday 10h00:
  - TBD
@@ -55,7 +60,6 @@ Presentations:
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
 
 ### Discussion topics:
-- What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`? (quick discussion, decisiion and implementation in the same week)
 - Solve MapDataset meta data problem (requires discussion + proposal)
 - Global model, background model handling and energy dependent spatial models (requires discussion + proposal)
 - Makers class
