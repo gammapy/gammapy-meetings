@@ -24,10 +24,16 @@ Presentations:
 - Axel: would like to move `Estimator` classes to `gammapy.estimators`. Clarify whether it leads to merge conflicts. What to do about `gammapy.cube`,  `gammapy.spectrum` and `gammapy.detect`? Remove?
 
 
-
 ### Wednesday 10h00:
- - Régis: Dataset meta data
- - Axel: Models handling
+Axel:
+- Estimator cleanup almost done...`gammapy.cube`, `gammapy.detect` and `gammapy.spectrum` removed
+- Where to keep `FluxPoints`? In `gammapy.estimators` or maybe even `gammapy.catalog` (which is somehow our DL5 package...)?
+- What to do about `gammapy.time`? Resolve?
+  - `time/simulate.py` should probably go to `utils/random/`, where we maintain other functionality of this kind
+  - `LightCurveEstimator` + `LightCurve` could go to `gammapy.estimators`
+  - `robust_periodogram()` does not really belong into Gammapy...(but rather `astropy.timeseries`?) 
+
+- Régis: Dataset meta data
 
 ### Thursday 10h00:
  - Régis: User testing feedback
