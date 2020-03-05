@@ -36,7 +36,8 @@ Axel:
 - Régis: Dataset meta data
 
 ### Thursday 10h00:
- - Régis: User testing feedback
+- Axel plans: do reviews and remove `CountsSpectrum` class
+- Régis: User testing feedback
  
 ### Friday 10h00:
  - TBD
