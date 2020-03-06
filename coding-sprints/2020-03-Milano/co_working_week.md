@@ -40,7 +40,7 @@ Axel:
 - Régis: User testing feedback
  
 ### Friday 10h00:
- - TBD
+ - Axel: energy mask computation is different between 1D and 3D. How to unify?
 
 ### General coding projects (no particular order...):
 #### General
