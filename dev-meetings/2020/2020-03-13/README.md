@@ -10,7 +10,7 @@
 * Short report by everyone, what they have worked on during the past week 
 
 * Ring background HLI [GH 2812](https://github.com/gammapy/gammapy/pull/2812) (Jose Enrique)
- - Decide on how we support image analysis: use approximate exposure or exposure cube? 
+  - Decide on how we support image analysis: use approximate exposure or exposure cube? 
  
 * Event sampling tutorial [GH 2814](https://github.com/gammapy/gammapy/pull/2814) (Fabio)
 
