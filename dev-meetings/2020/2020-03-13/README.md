@@ -1,6 +1,6 @@
 # Gammapy Developer Meeting
 
-* Friday, Dec 20, 2019 at 10 am
+* Friday, Mar 13, 2020 at 10 am
 * "Gammapy Developer Meeting" on CTA eZuce, no password, [connection details](../ezuce.txt)
 
 # Agenda
@@ -9,8 +9,13 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
 
-* Happy new year!
-* Fix next coding sprint date: https://doodle.com/poll/7e3cs5u9yei6vbrx (Axel)
-* Model gallery proof of concept: https://github.com/gammapy/gammapy/pull/2703 (Axel)
-* Add MapDatasetOnOff.to_spectrum_dataset() method https://github.com/gammapy/gammapy/pull/2707 (Régis)
+* Ring background HLI [GH 2812](https://github.com/gammapy/gammapy/pull/2812) (Jose Enrique)
+ - Decide on how we support image analysis: use approximate exposure or exposure cube? 
+ 
+* Event sampling tutorial [GH 2814](https://github.com/gammapy/gammapy/pull/2814) (Fabio)
 
+* Adapt FluxPointsEstimator [GH 2821](https://github.com/gammapy/gammapy/pull/2821) (Regis)
+* Replace LiMaMapEstimator with CorrelatedExcessMapEstimator [GH 2820](https://github.com/gammapy/gammapy/pull/2820) (Regis)
+  - Decide on API design for `Estimator` classes
+  - What is the general logic / class hierarchy for estimator classes?
+* Temporal model fitting (Atreyee)?
