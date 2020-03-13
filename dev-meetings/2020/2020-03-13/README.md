@@ -18,4 +18,4 @@
 * Replace LiMaMapEstimator with CorrelatedExcessMapEstimator [GH 2820](https://github.com/gammapy/gammapy/pull/2820) (Regis)
   - Decide on API design for `Estimator` classes
   - What is the general logic / class hierarchy for estimator classes?
-* Temporal model fitting (Atreyee)?
+* Temporal model fitting notebook (https://github.com/AtreyeeS/test_notebooks/blob/master/lc_flare_test.ipynb) (Atreyee)
