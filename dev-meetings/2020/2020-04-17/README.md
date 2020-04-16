@@ -9,5 +9,7 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
 
+* Presentation of [agnpy](https://agnpy.readthedocs.io/en/latest/) [GH](https://github.com/cosimoNigro/agnpy)
+
 
 
