@@ -11,3 +11,4 @@
 * [Automation of benchmarks and validations](BenchmarksValidations.pdf) - José Enrique
 * [Handling path in datasets serialization](https://github.com/gammapy/gammapy/pull/2883) - Quentin 
 * [Transition to EDispKernelMap](https://github.com/gammapy/gammapy/issues/2887) - Régis
+* [Comments and ideas on flux points estimation](https://github.com/gammapy/gammapy/issues/2877) - Quentin
