@@ -9,3 +9,4 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week
 * [Automation of benchmarks and validations](BenchmarksValidations.pdf) - José Enrique
+* [Handling path in datasets serialization](https://github.com/gammapy/gammapy/pull/2883)
