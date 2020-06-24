@@ -48,4 +48,5 @@ Presentations:
 ## Participants
 
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
+2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
  
