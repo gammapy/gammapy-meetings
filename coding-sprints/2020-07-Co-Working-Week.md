@@ -38,7 +38,6 @@ Presentations:
 - Write RST pages for new sub-packages
 
 #### Validation and testing
-- Finish event sampling validation
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
 
 ### Discussion topics:
