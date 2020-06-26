@@ -49,3 +49,4 @@ Presentations:
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Atreyee Sinha, LUPM Montpellier, France ([AtreyeeS](https://github.com/AtreyeeS)) 
+4. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy)) 
