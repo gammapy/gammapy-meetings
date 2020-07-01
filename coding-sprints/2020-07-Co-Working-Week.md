@@ -31,8 +31,11 @@ Presentations:
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
 
 #### API
+- Change `SpectrumDataset.edisp` to a `EDispMap`
+- Remove `IRFStacker`
 
 #### Features
+- Finish  `MapProfileEstimator`
 
 #### Documenation
 - Write RST pages for new sub-packages
