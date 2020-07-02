@@ -12,3 +12,4 @@
 
 * Models PIG (Axel)
 * An overview on QTable (Atreyee)
+* Agenda co-working week (Axel)
