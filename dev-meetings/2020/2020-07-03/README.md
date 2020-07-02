@@ -8,3 +8,7 @@
 * [Gammapy pulse from last week](https://github.com/gammapy/gammapy/pulse)
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
+
+
+* Models PIG (Axel)
+* An overview on QTable (Atreyee)
