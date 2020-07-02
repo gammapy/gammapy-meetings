@@ -13,6 +13,10 @@ Kick off meeting with presentations on Vibe 14h00
 
 Presentations:
 - Axel: Introduction and overview
+- Léa: LST data with Gammapy
+- Luca: A full 3D analysis workflow example: HESS J1702
+- Régis: CTA IRFs
+- Axel: Models PIG and work distribution
 
 ### Tuesday 10h00:
 - Quick report by everyone
@@ -33,15 +37,22 @@ Presentations:
 #### API
 - Change `SpectrumDataset.edisp` to a `EDispMap`
 - Remove `IRFStacker`
+- Introduce shorter YAML tags
+- Refactor spectral absorption model
+- Remove `MapDataset.background_model`
+- Introduce global model API
 
 #### Features
 - Finish  `MapProfileEstimator`
+- Add missing models
+- Implement support for energy dependent spatial models + docs examples
 
 #### Documenation
 - Write RST pages for new sub-packages
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
+- Check `EDispKernelMap` validation
 
 ### Discussion topics:
 - Solve MapDataset meta data problem (requires discussion + proposal)
