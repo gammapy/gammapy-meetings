@@ -44,7 +44,7 @@ Presentations:
 - Introduce global model API
 
 #### Features
-- Finish  `MapProfileEstimator`
+- Finish  `ExcessProfileEstimator`
 - Add missing models
 - Implement support for energy dependent spatial models + docs examples
 
