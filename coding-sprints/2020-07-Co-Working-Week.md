@@ -42,6 +42,7 @@ Presentations:
 - Refactor spectral absorption model
 - Remove `MapDataset.background_model`
 - Introduce global model API
+- Further unifiy `Estimator` API: `n_sigma` arguments and `steps` handling...
 
 #### Features
 - Finish  `ExcessProfileEstimator`
