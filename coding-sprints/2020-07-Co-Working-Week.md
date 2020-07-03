@@ -21,6 +21,7 @@ Presentations:
 
 ### Tuesday 10h00:
 - Quick report by everyone
+- User contributed notebooks / tutorials (Bruno leads discussion)
 
 ### Wednesday 10h00:
 - Quick report by everyone
@@ -55,6 +56,7 @@ Presentations:
 
 #### Documenation
 - Write RST pages for new sub-packages
+- Add documentation on `RegionGeom` and `RegionNDMap`
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
