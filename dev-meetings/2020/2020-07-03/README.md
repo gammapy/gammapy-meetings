@@ -10,6 +10,7 @@
 * Short report by everyone, what they have worked on during the past week 
 
 
-* Models PIG (Axel)
-* An overview on QTable (Atreyee)
-* Agenda co-working week (Axel)
+* Models PIG (screenshare) (Axel)
+* An overview on QTable (screenshare) (Atreyee)
+* ExcessProfileEstimator (https://github.com/gammapy/gammapy/pull/2923) (Bruno)
+* Agenda co-working week (https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2020-07-Co-Working-Week.md#monday-14h00) (Axel)
