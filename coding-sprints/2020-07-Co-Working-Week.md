@@ -48,6 +48,10 @@ Presentations:
 - Finish  `ExcessProfileEstimator`
 - Add missing models
 - Implement support for energy dependent spatial models + docs examples
+- Clean up MapDataset.to_image()
+- Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis
+
+- Implement support for energy dependent spatial models + docs example
 
 #### Documenation
 - Write RST pages for new sub-packages
