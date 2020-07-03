@@ -13,7 +13,7 @@ Kick off meeting with presentations on Vibe 14h00
 
 Presentations:
 - Axel: Introduction and overview
-- Léa: Looking at LST data with Gammapy
+- Chaitanya Priyadarshi / Manuel Artero: Looking at LST data with Gammapy
 - Luca: A full 3D analysis workflow example: HESS J1702 / implications for Gammapy
 - Quentin: CTA GPS analysis / implications for Gammapy
 - Régis / Atreyee: Summary of feedback on CTA IRFs / implications for Gammapy
