@@ -52,11 +52,11 @@ Presentations:
 - Clean up MapDataset.to_image()
 - Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis
 
-- Implement support for energy dependent spatial models + docs example
 
 #### Documenation
 - Write RST pages for new sub-packages
 - Add documentation on `RegionGeom` and `RegionNDMap`
+- Resolve content duplication between tutorials / RST 
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
