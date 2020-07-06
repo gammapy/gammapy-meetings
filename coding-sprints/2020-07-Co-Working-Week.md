@@ -20,7 +20,6 @@ Presentations:
 - Axel: Models PIG and work distribution
 
 ### Tuesday 10h00:
-- Quick report by everyone
 - User contributed notebooks / tutorials (Bruno leads discussion)
 
 ### Wednesday 10h00:
@@ -37,26 +36,26 @@ Presentations:
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
 
 #### API
-- Change `SpectrumDataset.edisp` to a `EDispMap`
-- Remove `IRFStacker`
-- Introduce shorter YAML tags
-- Refactor spectral absorption model
-- Remove `MapDataset.background_model`
+- Change `SpectrumDataset.edisp` to a `EDispMap` (Régis?)
+- Remove `IRFStacker` (Régis / Axel)
+- Introduce shorter YAML tags (Quentin?)
+- Refactor spectral absorption model (Quentin?)
+- Remove `MapDataset.background_model` (Axel)
 - Introduce global model API
-- Further unifiy `Estimator` API: `n_sigma` arguments and `steps` handling...
+- Further unifiy `Estimator` API: `n_sigma` arguments and `steps` handling (Régis / Axel)
 
 #### Features
-- Finish  `ExcessProfileEstimator`
-- Add missing models
-- Implement support for energy dependent spatial models + docs examples
-- Clean up MapDataset.to_image()
-- Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis
-
+- Finish  `ExcessProfileEstimator` (Bruno)
+- Add missing models 
+- Implement support for energy dependent spatial models + docs examples (Atreyee?)
+- Clean up MapDataset.to_image() (Atreyee)
+- Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis (Atreyee)
 
 #### Documenation
-- Write RST pages for new sub-packages
-- Add documentation on `RegionGeom` and `RegionNDMap`
+- Write RST pages for new sub-packages (Axel, Regis)
+- Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
 - Resolve content duplication between tutorials / RST 
+- Fix ring-background tutorial (Atreyee)
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
