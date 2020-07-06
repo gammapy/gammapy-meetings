@@ -67,6 +67,7 @@ Presentations:
 ### Discussion topics:
 - User contributed notebooks
 - Global model API
+- Plotter API / residual maps computation API
 
 ## Participants
 
