@@ -38,27 +38,27 @@ Presentations:
 #### API
 - Change `SpectrumDataset.edisp` to a `EDispMap` (Régis?)
 - Remove `IRFStacker` (Régis / Axel)
-- Introduce shorter YAML tags (Quentin?)
-- Refactor spectral absorption model (Quentin?)
+- Introduce shorter YAML tags (Quentin)
+- Refactor spectral absorption model
 - Remove `MapDataset.background_model` (Axel)
 - Further unifiy `Estimator` API: `n_sigma` arguments and `steps` handling (Régis / Axel)
 - Introduce global model API...probably wait for PIG-20
 
 #### Features
 - Finish  `ExcessProfileEstimator` (Bruno)
-- Add missing models (Quentin?)
+- Add missing models (Quentin)
   - BrokenPowerLaw
   - PiecwiseBrokenPowerLaw
   - SersicSpatialModel
 - Implement support for energy dependent spatial models + docs examples (Atreyee?)
-- Simple model management functionality (Quentin)? 
+- Simple model management functionality (Quentin) 
 
 
 #### Bugs and Fixes
 - Clean up MapDataset.to_image() (Atreyee)
 - Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis (Atreyee)
 - Improve speed of `Map.get_spectrum()`, by using cutout
-- Replace use of lru_cache(), that works with multiprocessing
+- Replace use of lru_cache(), that works with multiprocessing (Quentin)
 
 
 #### Documenation
