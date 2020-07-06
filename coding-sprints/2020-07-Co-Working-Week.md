@@ -41,8 +41,8 @@ Presentations:
 - Introduce shorter YAML tags (Quentin?)
 - Refactor spectral absorption model (Quentin?)
 - Remove `MapDataset.background_model` (Axel)
-- Introduce global model API
 - Further unifiy `Estimator` API: `n_sigma` arguments and `steps` handling (Régis / Axel)
+- Introduce global model API...probably wait for PIG-20
 
 #### Features
 - Finish  `ExcessProfileEstimator` (Bruno)
