@@ -49,6 +49,7 @@ Presentations:
 - Add missing models
  - BrokenPowerLaw
  - PiecwiseBrokenPowerLaw
+ - SersicSpatialModel
 - Implement support for energy dependent spatial models + docs examples (Atreyee?)
 
 #### Bugs and Fixes
