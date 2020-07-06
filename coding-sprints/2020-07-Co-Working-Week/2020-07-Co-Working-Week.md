@@ -51,10 +51,15 @@ Presentations:
  - PiecwiseBrokenPowerLaw
  - SersicSpatialModel
 - Implement support for energy dependent spatial models + docs examples (Atreyee?)
+- Simple model management functionality? 
+
 
 #### Bugs and Fixes
 - Clean up MapDataset.to_image() (Atreyee)
 - Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis (Atreyee)
+- Improve speed of `Map.get_spectrum()`, by using cutout
+- Replace use of lru_cache(), that works with multiprocessing
+
 
 #### Documenation
 - Write RST pages for new sub-packages (Axel, Regis)
