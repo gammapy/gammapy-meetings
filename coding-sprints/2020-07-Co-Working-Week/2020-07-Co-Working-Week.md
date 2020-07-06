@@ -46,7 +46,9 @@ Presentations:
 
 #### Features
 - Finish  `ExcessProfileEstimator` (Bruno)
-- Add missing models 
+- Add missing models
+ - BrokenPowerLaw
+ - PiecwiseBrokenPowerLaw
 - Implement support for energy dependent spatial models + docs examples (Atreyee?)
 
 #### Bugs and Fixes
