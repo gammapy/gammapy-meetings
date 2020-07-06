@@ -68,6 +68,7 @@ Presentations:
 - User contributed notebooks
 - Global model API
 - Plotter API / residual maps computation API
+- Logging output (...provenance)
 
 ## Participants
 
