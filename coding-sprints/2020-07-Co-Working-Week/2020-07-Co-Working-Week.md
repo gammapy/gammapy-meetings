@@ -12,12 +12,12 @@ In between communication via Slack: https://gammapy.slack.com (#dev channel)
 Kick off meeting with presentations on Vibe 14h00
 
 Presentations:
-- Axel: Introduction and overview
-- Chaitanya Priyadarshi / Manuel Artero: Looking at LST data with Gammapy
-- Luca: A full 3D analysis workflow example: HESS J1702 / implications for Gammapy
-- Quentin: CTA GPS analysis / implications for Gammapy
-- Régis / Atreyee: Summary of feedback on CTA IRFs / implications for Gammapy
-- Axel: Models PIG and work distribution
+- Axel: Introduction and overview ([slides](slides/co-working-week-intro.pdf))
+- Chaitanya Priyadarshi / Manuel Artero: Looking at LST data with Gammapy ([slides])
+- Luca: A full 3D analysis workflow example: HESS J1702 / implications for Gammapy ([slides])
+- Quentin: CTA GPS analysis / implications for Gammapy ([slides])
+- Régis / Atreyee: Summary of feedback on CTA IRFs / implications for Gammapy ([slides])
+- Axel: Coding Projects
 
 ### Tuesday 10h00:
 - User contributed notebooks / tutorials (Bruno leads discussion)
