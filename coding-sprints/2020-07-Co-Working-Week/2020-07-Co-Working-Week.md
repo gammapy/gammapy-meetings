@@ -16,7 +16,7 @@ Presentations:
 - Chaitanya Priyadarshi / Manuel Artero: Looking at LST data with Gammapy ([slides])
 - Luca: A full 3D analysis workflow example: HESS J1702 / implications for Gammapy ([slides])
 - Quentin: CTA GPS analysis / implications for Gammapy ([slides])
-- Régis / Atreyee: Summary of feedback on CTA IRFs / implications for Gammapy ([slides])
+- Régis / Atreyee: Summary of feedback on CTA IRFs / implications for Gammapy ([link](slides/cta-irf.md)
 - Axel: Coding Projects
 
 ### Tuesday 10h00:
