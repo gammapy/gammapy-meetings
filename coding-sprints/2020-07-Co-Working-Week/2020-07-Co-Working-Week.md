@@ -58,7 +58,7 @@ Presentations:
 - Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
 - Resolve content duplication between tutorials / RST 
 - Fix ring-background tutorial (Atreyee)
-- Add example how to make a theta^2 plot 
+- Add example how to make a theta^2 plot (Lea, Manuel, Chaitanya?)
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
