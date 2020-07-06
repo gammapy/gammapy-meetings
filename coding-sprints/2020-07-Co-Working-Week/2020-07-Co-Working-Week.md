@@ -36,7 +36,7 @@ Presentations:
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
 
 #### API
-- Change `SpectrumDataset.edisp` to a `EDispMap` (Régis?)
+- Change `SpectrumDataset.edisp` to a `EDispMap` (Régis)
 - Remove `IRFStacker` (Régis / Axel)
 - Introduce shorter YAML tags (Quentin)
 - Refactor spectral absorption model
@@ -62,7 +62,7 @@ Presentations:
 
 
 #### Documenation
-- Write RST pages for new sub-packages (Axel, Regis)
+- Write RST pages for new sub-packages (Axel, Régis)
 - Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
 - Resolve content duplication between tutorials / RST 
 - Fix ring-background tutorial (Atreyee)
