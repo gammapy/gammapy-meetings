@@ -71,6 +71,7 @@ Presentations:
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
 - Check `EDispKernelMap` validation
+- Add ring analysi to validation
 
 ### Discussion topics:
 - User contributed notebooks
