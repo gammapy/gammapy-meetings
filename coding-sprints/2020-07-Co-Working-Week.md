@@ -48,6 +48,8 @@ Presentations:
 - Finish  `ExcessProfileEstimator` (Bruno)
 - Add missing models 
 - Implement support for energy dependent spatial models + docs examples (Atreyee?)
+
+#### Bugs and Fixes
 - Clean up MapDataset.to_image() (Atreyee)
 - Fix MapDatasetOnOff.from_MapDataset() psf dropping - need to check effect on Ring Background Analysis (Atreyee)
 
@@ -62,8 +64,8 @@ Presentations:
 - Check `EDispKernelMap` validation
 
 ### Discussion topics:
-- Solve MapDataset meta data problem (requires discussion + proposal)
-
+- User contributed notebooks
+- Global model API
 
 ## Participants
 
