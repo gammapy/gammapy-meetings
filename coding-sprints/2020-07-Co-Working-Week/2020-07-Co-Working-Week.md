@@ -20,8 +20,25 @@ Presentations:
 - Axel: Coding Projects
 
 ### Tuesday 10h00:
-- User contributed notebooks / tutorials (Bruno leads discussion)
-
+- User contributed notebooks / tutorials (Bruno leads discussion) - Conclusions report:
+    - Decision to create a web interface to have 'user contribution example', being either a notebook or a python script
+    - Goals:
+        - Sharing of the users experience
+        - Offer some visibility to contributors with a visible author list (and index on the web page) and a possible associated DOI via Zenodo
+    - These contributions are from users and are not the official gammapy tutorials:
+        - They can be science related (e.g. transcient simulations), technical (e.g. MCMC fit with Naima) or multi-instrument (e.g. HAWC, Fermi-LAT, XMM, etc)
+        - Any topics will be accepted.
+        - An acceptance by the lead developers (via a PR) will permit to make a basic control (e.g. duplication).
+        - Quality standards would be much lower than for our “official” tutorials.
+        - The maintenance scheme might evolve with time. Today, the proposal is that we maintain them with only the latest stable version.
+    - We will provide:
+        - the infrastructure to present contributions on a dedicated web page, like the [astropy page](http://learn.astropy.org/tutorials.html)
+        - the infrastructure to test the notebooks, if there are testable (e.g. existence of the data).
+        - the guidelines for users how to do a contribution (e.g. [astropy guidelines](http://learn.astropy.org/contributing.html)).
+    - Objectives:
+        - Creation of the web page, its integration in our web pages (https://gammapy.org and https://docs.gammapy.org) for september.
+        - Some foreseen notebook contributions: Light curves simulations of transcient sources (Jean-Philippe L. et al.), statistics (Atreyee), Background model creation (Régis?), MCMC Naima fit (Fabio?), GPS (Quenty?).
+         
 ### Wednesday 10h00:
 - Quick report by everyone
 
