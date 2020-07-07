@@ -37,7 +37,8 @@ Presentations:
         - the guidelines for users how to do a contribution (e.g. [astropy guidelines](http://learn.astropy.org/contributing.html)).
     - Objectives:
         - Creation of the web page, its integration in our web pages (https://gammapy.org and https://docs.gammapy.org) for september.
-        - Some foreseen notebook contributions: Light curves simulations of transcient sources (Jean-Philippe L. et al.), statistics (Atreyee), Background model creation (Régis?), MCMC Naima fit (Fabio?), GPS (Quenty?).
+        - Creation of the associated guidelines, the metadata used to make web search, for the Continuous Integration, the templates.
+        - Some foreseen notebook contributions: Light curves simulations of transient sources (Jean-Philippe L. et al.), statistics (Atreyee), Background model creation (Régis?), MCMC Naima fit (Fabio?), GPS (Quenty?).
          
 ### Wednesday 10h00:
 - Quick report by everyone
