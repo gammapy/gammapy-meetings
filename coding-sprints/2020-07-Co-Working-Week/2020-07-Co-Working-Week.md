@@ -43,6 +43,9 @@ Presentations:
 ### Wednesday 10h00:
 - Quick report by everyone
 
+### Wednesday 17h00:
+- Global model API discussion
+
 ### Thursday 10h00:
 - Quick report by everyone
  
