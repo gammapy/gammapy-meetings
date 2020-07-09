@@ -41,7 +41,18 @@ Presentations:
         - Some foreseen notebook contributions: Light curves simulations of transient sources (Jean-Philippe L. et al.), statistics (Atreyee), Background model creation (Régis?), MCMC Naima fit (Fabio?), GPS (Quenty?).
          
 ### Wednesday 10h00:
-- Quick report by everyone
+- Refactor `SpectrumDataset` to use `EDispKernelMap` (Régis)
+- Open an issue in iminuit and ask about a better behaviour for https://github.com/gammapy/gammapy/issues/2917. Keep the simple check in https://github.com/gammapy/gammapy/pull/2937 on the Gammapy side, not handling any tolerance. (Luca)
+- Improve the modeling / fitting tutorial to show likelihood profiles for all parameters (https://docs.gammapy.org/0.17/notebooks/modeling.html#Inspecting-fit-statistic-profiles) and emphasize the importance of checking likelihood profiles (Luca)
+- Modify the "analysis 2" notebook to compute a Li & Ma or TS residual signifiance map as well (Luca)
+- Take into account `mask_safe` in `.to_image()` and `.to_spectrum_dataset()` etc. (Atreyee)
+- Modify the `ExcessMapEstimator` and `TSMapEstimator` to take into account the `mask_fit`, so that we get equivalent behaviour for all `Estimator` and `Fit` classes (needs a bit more discussion...)
+- Finish Models PIG and provide usage examples for the two possibilities of the global Model API for discussion this afternoon (Axel)
+- Implement shorter YAML tags and missing models (Quentin)
+
+
+### Wednesday 17h00:
+- Global model API discussion
 
 ### Thursday 10h00:
 - Quick report by everyone
