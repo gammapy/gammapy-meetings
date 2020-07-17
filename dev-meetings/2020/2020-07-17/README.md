@@ -11,3 +11,4 @@
 
 * PIG-21 Model framework improvements (https://github.com/gammapy/gammapy/pull/2944) (Axel)
 * 3D safe mask handling during stacking (Atreyee)
+* Prototype for a user contributed notebooks page (José Enrique) 
