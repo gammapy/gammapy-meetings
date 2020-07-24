@@ -14,5 +14,6 @@
   - `Map.resample_axis()` method https://github.com/gammapy/gammapy/pull/2951
   - Connection to `.to_image()` (Axel, Atreyee)
 
+* Theta squared plot example https://github.com/gammapy/gammapy/pull/2939 (Léa)
 * Gammapy contribution to ADASS conference (Matteo, José Enrique)?
 * GPS activities (Quentin)
