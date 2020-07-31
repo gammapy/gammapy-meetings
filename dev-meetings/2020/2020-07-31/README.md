@@ -13,3 +13,4 @@
 * HESS DL3 DR1 validation https://github.com/gammapy/gammapy-benchmarks/pull/71/files (Axel)
 * Adapt `ExcessMapEstimator` to optionally apply mask_fit: https://github.com/gammapy/gammapy/pull/2958 (Atreyee)
 * Gammapy contribution to ADASS conference (Matteo, José Enrique)?
+* **Summer break:** Axel will not be on holiday in August, so we just continue the Friday meetings, whoever has time to join does...
