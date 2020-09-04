@@ -10,12 +10,17 @@
 * Short report by everyone, what they have worked on during the past week 
 
 * Welcome back from the summer break!
-* Added support for `e_edges` to `TSMapEstimator`, `ExcessMapEstimator`, `ASmoothMapEstimator` and `LightCurveEstimator` (only one energy bin supported)
-* Add support for `sum_over_energy_groups` to `FluxPoiuntsEstimator`, `ExcessMapEstimator` and `LightCurveEstimator`?
+* Estimators:
+   - Added support for `e_edges` to `TSMapEstimator`, `ExcessMapEstimator`, `ASmoothMapEstimator` and `LightCurveEstimator` (only one energy bin supported)
+   - Add support for `sum_over_energy_groups` to `FluxPoiuntsEstimator`, `ExcessMapEstimator` and `LightCurveEstimator`?
 
-* Work distribution:
+
+* Work distribution in general:
    - Axel & Régis work on `gammapy.estimators`
    - Quentin continues with PIG 21?
    - Atreyee on / off npred calculation?
    - What else?
 * Gammapy user call next week (Bruno?)
+   - Axel general overview / features v0.17, planned features
+   - Quentin GPS overview
+   - What else?
