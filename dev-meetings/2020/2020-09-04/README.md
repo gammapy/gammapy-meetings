@@ -9,5 +9,9 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
 
-* Gammapy user call (Bruno?)
-* Gammapy contribution to ADASS conference
+* Welcome back from the summer break!
+* Work distribution:
+   - Axel & Régis work on `gammapy.estimators`
+   - Quentin continues with PIG 21?
+   - Atreyee on / off npred calculation?
+* Gammapy user call next week (Bruno?)
