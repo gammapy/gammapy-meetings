@@ -14,4 +14,5 @@
    - Axel & Régis work on `gammapy.estimators`
    - Quentin continues with PIG 21?
    - Atreyee on / off npred calculation?
+   - What else?
 * Gammapy user call next week (Bruno?)
