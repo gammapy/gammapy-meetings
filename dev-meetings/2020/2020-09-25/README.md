@@ -11,6 +11,7 @@
 * Short report by everyone, what they have worked on during the past week 
 
 * Interactive parameter editing (Fabio)
+* EventList.stack() vs. from_stack() (Laura, Axel)
 * Work distribution:
     - Implement SpectralModel.integral_error https://github.com/gammapy/gammapy/issues/2699
     - Add temporal model plot methods and add models to model gallery
