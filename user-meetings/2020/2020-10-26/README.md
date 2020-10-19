@@ -1,7 +1,7 @@
 # Gammapy general user call
 
 * Monday, October 26th, 2020 at 14 am (CET)
-* Zoom meeting, [link](https://u-paris.zoom.us/j/83332697370?pwd=OWZTdmhZdktEMnZtNEhjOXQ3RmFEQT09). The connection details are [here](ConnectionDetails.txt)
+* Zoom meeting: https://u-paris.zoom.us/j/83332697370?pwd=OWZTdmhZdktEMnZtNEhjOXQ3RmFEQT09. The connection details are [here](ConnectionDetails.txt).
 
 # Preliminary Agenda
 
