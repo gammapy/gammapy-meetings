@@ -14,4 +14,5 @@
 * Option to store fit trace as table https://github.com/gammapy/gammapy/pull/3074 (Axel)
 * DatasetModels demo (Axel)
 * FluxMaps container (https://github.com/gammapy/gammapy/pull/3075) (Régis)
+* Co working week date: https://doodle.com/poll/uwkhbrfqc4338ud2
 * Please check open issues https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A0.18 
