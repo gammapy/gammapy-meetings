@@ -5,10 +5,10 @@
 
 # Preliminary Agenda
 
-* Short Introduction : the gammapy projet, B. Khelifi (APC, France) [(slides)]()
-* gammapy: a HE/VHE Science Package, A. Donath (MPIK, Heidelberg) [(slides)]()
-* The input format: the 'DL3', R. Terrier (APC, Paris) [(slides)]()
-* Examples of MWL/MM analysis, TBD [(slides)]()
+* Short Introduction : the gammapy projet, B. Khelifi (APC, France) - [Slides]()
+* gammapy: a HE/VHE Science Package, A. Donath (MPIK, Heidelberg) - [Slides]()
+* The input format: the 'DL3', R. Terrier (APC, Paris) - [Slides]()
+* Examples of MWL/MM analysis: joint analysis of the Crab nebula, C. Nigro (DESY, Zeuthen) - [Material](https://github.com/gammapy/gammapy-meetings/blob/master/user-meetings/2020/2020-10-26/joint_crab/README.md)
 
 # Reminder
 
