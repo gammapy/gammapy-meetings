@@ -7,7 +7,7 @@
 # Preliminary Agenda
 
 * Short Introduction : the gammapy projet, B. Khelifi (APC, France) - [Slides](Introduction_gammapyProject.pdf)
-* Gammapy - a Python Package for (not-only) Gamma-Ray Astronomy, A. Donath (MPIK, Heidelberg) - [Slides]()
+* Gammapy - a Python Package for (not-only) Gamma-Ray Astronomy, A. Donath (MPIK, Heidelberg) - [Slides](gammapy-overview.pdf)
 * Input data formats for gammapy: DL3 and beyond, R. Terrier (APC, Paris) - [Slides](input_formats.pdf)
 * Examples of MWL/MM analysis: joint analysis of the Crab nebula, C. Nigro (IFAE, Barcelona) - [Material](https://github.com/gammapy/gammapy-meetings/blob/master/user-meetings/2020/2020-10-26/joint_crab/README.md)
 
