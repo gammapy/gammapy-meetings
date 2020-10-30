@@ -24,3 +24,5 @@ Issues / PRs to discuss:
  - Negative flux norms: https://github.com/gammapy/gammapy/pull/3088
  - Energy naming convention: https://github.com/gammapy/gammapy/issues/3078
  - Refactor absorbed spectral model? https://docs.gammapy.org/dev/development/pigs/pig-021.html#spectral-absorption-model
+
+Once the PRs above are in. The last big remaining API changes are related to the unification of FluxPoints: https://github.com/gammapy/gammapy/pull/3075 Let's write a very short PIG and finalise and implement it < 4 weeks!
