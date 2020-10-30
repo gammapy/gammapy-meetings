@@ -19,6 +19,7 @@ Many are minor and can be postponed. However let's take a few more days to wrap 
 Ideally all PRs can go in today at the latest on Monday!
  
 Issues / PRs to discuss:
+ - Quick recap of: https://github.com/gammapy/gammapy/pull/3086 
  - DatasetModels class: https://github.com/gammapy/gammapy/pull/3089
  - Negative flux norms: https://github.com/gammapy/gammapy/pull/3088
  - Energy naming convention: https://github.com/gammapy/gammapy/issues/3078
