@@ -71,3 +71,4 @@ Presentations:
 4. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy)) 
 5. Bruno Khelifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi)) 
 6. Jose Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako)) 
+7. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera)) 
