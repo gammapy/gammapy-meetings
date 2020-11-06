@@ -16,5 +16,5 @@
   - Thanks everyone for contributing! And helping to push for the release. Partly rushed from my side, that's why... 
   - A few (more or less) critical issues appeared, plan to fix and release v0.18.1 today...
 * How to continue for v1.0?
- - There are still a few API changes planned, FluxMaps, BackgroundModel, SpectrumDataset? Do we want those to delivered in another
+  - There are still a few API changes planned, FluxMaps, BackgroundModel, SpectrumDataset? Do we want those to delivered in another
 intermediate release? Or maybe we really introduce `v1.0.rc` or similar?
