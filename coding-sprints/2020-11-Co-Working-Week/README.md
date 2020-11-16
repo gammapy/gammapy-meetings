@@ -2,7 +2,11 @@
 
 Instead of the autumn coding sprint we have another "Gammapy co-working week" from Nov 23rd to 27th 2020.
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure
-they are available for spontaneous discussions on Slack and remote meetings via Vibe. 
+they are available for spontaneous discussions on Slack and remote meetings via Zoom. 
+
+A Zoom room is open for the full week. ID: 837 3792 5932
+
+The password will be give on Slack (#dev channel).
 
 In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
@@ -11,7 +15,7 @@ For this co-working week we will put a string focus on documentation!
 ## Agenda
 
 ### Monday 14h00:
-Kick off meeting with presentations on Vibe 14h00
+Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
 - Axel: Introduction and overview ([slides](slides/co-working-week-intro.pdf))
