@@ -6,7 +6,7 @@ they are available for spontaneous discussions on Slack and remote meetings via 
 
 A Zoom room is open for the full week. ID: 837 3792 5932
 
-The password will be give on Slack (#dev channel).
+The password will be given on Slack (#dev channel).
 
 In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
