@@ -42,33 +42,35 @@ Presentations:
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
 
 #### Documenation
+- Move API tutorials to the corresponding sub-packages and build "in place"
+- Simplify data download: remove index files and use a single tar file instead?
+- Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
+- Resolve content duplication between tutorials / RST 
 - Write RST pages for new sub-packages (Axel, Régis)
 - Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
-- Resolve content duplication between tutorials / RST 
 - Further improve IRF documentation
-
-
-#### API
-- Refactor spectral absorption model
-
-#### Features
-- Model management functionality 
-- Unified flux points handling
-
-#### Bugs and Fixes
-- TBD
-
+- User contributed notebooks?
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
 
+#### API
+- Merge `SpectrumDataset` and `MapDataset`?
+- Make `Fit` class configurable, so that users can choose backends for flux points estimation.
+
+#### Features
+- Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
+- Unified flux points handling (see PIG 22)
+- Implement `EDispEnergyScaleModel`?
+
+#### Bugs and Fixes
+- TBD
+
 ### Discussion topics:
-- User contributed notebooks
-- Plotter API / residual maps computation API
-- Logging output (...provenance)
+- Model book-keeping in `MapDataset.to_image()`, `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`? 
+
 
 ## Participants
-
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Atreyee Sinha, LUPM Montpellier, France ([AtreyeeS](https://github.com/AtreyeeS)) 
