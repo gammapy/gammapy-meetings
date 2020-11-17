@@ -20,6 +20,7 @@ Kick off meeting with presentations on Zoom 14h00
 Presentations:
 - Axel: Introduction and overview ([slides](slides/co-working-week-intro.pdf))
 - Axel: Coding Projects
+- Valentina: Real Time Analysis
 
 ### Tuesday 10h00:
 - Quick report by everyone
