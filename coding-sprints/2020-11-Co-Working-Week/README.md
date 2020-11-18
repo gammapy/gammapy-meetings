@@ -89,3 +89,5 @@ Presentations:
 9. Valentina Fioretti NAF OAS Bologna, Italy ([vfioretti](https://github.com/vfioretti))
 10. Fabio ACERO, CEA/Saclay, France ([facero](https://github.com/facero))
 11. Giovanni De Cesare INAF/OAS Bologna Italy ([giovixo](https://github.com/giovixo))
+12. Giulia Stratta INAF/OAS Bologna Italy ([gistratta](https://github.com/gistratta))
+
