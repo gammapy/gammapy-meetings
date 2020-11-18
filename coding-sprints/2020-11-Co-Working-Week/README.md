@@ -20,6 +20,7 @@ Kick off meeting with presentations on Zoom 14h00
 Presentations:
 - Axel: Introduction and overview ([slides](slides/co-working-week-intro.pdf))
 - Axel: Coding Projects
+- Laura: HAWC analysis with Gammapy
 - Valentina: Real Time Analysis
 
 ### Tuesday 10h00:
@@ -41,6 +42,7 @@ Presentations:
 
 #### General
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
+- Prototype for real time analysis?
 
 #### Documenation
 - Move API tutorials to the corresponding sub-packages and build "in place"
@@ -54,10 +56,12 @@ Presentations:
 
 #### Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
+- Move CI setup to github workflows?
 
 #### API
 - Merge `SpectrumDataset` and `MapDataset`?
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
+- Remove support for `EDispKernel` in `MapDataset`
 
 #### Features
 - Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
