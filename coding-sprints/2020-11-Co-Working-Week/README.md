@@ -87,3 +87,4 @@ Presentations:
 7. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera)) 
 8. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 9. Valentina Fioretti NAF OAS Bologna, Italy ([vfioretti](https://github.com/vfioretti))
+10. Fabio ACERO, CEA/Saclay, France ([facero](https://github.com/facero))
