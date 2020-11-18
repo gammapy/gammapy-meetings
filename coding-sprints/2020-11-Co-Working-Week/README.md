@@ -23,19 +23,21 @@ Presentations:
 - Laura: HAWC analysis with Gammapy
 - Valentina: Real Time Analysis
 
-### Tuesday 10h00:
+### Tuesday 10h00 / 17h00:
 - Quick report by everyone
          
-### Wednesday 10h00:
+### Wednesday 10h00 / 17h00:
 - Quick report by everyone
 
-### Wednesday 17h00:
-
-### Thursday 10h00:
+### Thursday 10h00 / 17h00:
 - Quick report by everyone
+- "Group photo" (screenshot)
  
 ### Friday 10h00:
 - Quick report by everyone
+
+### Friday 15h00:
+- Close out meeting
 
 ### General coding projects (no particular order...):
 
