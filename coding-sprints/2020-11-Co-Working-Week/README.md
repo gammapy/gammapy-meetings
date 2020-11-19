@@ -18,13 +18,13 @@ For this co-working week we will put a string focus on documentation!
 Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
-- Axel: Introduction and overview ([slides](slides/co-working-week-intro.pdf))
-- Laura: HAWC analysis with Gammapy & proposed features ([slides](slides/))
-- Valentina: Real time analysis requirements ([slides](slides/))
-- Régis: PIG 22 unified estimator result object ([slides](slides/))
-- Quentin: Model management, fit strategies & various ideas inspired from the CTA GPS analysis ([slides](slides/))
-- José Enrique: Ideas docs and release workflow improvements ([slides](slides/))
-- Axel: Coding projects for the week ([slides](slides/))
+- **Axel**: Introduction and overview (5 min.) ([slides](slides/co-working-week-intro.pdf))
+- **Laura**: HAWC analysis with Gammapy & proposed features (10 + 5 min.) ([slides](slides/))
+- **Valentina**: Real time analysis requirements (10 + 5 min.) ([slides](slides/))
+- **Régis**: PIG 22 unified estimator result object (10 + 5 min.) ([slides](slides/))
+- **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
+- **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/))
+- **Axel**: Remaing work for v1.0 / coding projects for the week (10 + 5 min.) ([slides](slides/))
 
 ### Tuesday 10h00 / 17h00:
 - Quick report by everyone
