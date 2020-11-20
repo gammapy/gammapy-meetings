@@ -24,6 +24,7 @@ Presentations:
 - **Régis**: PIG 22 unified estimator result object (10 + 5 min.) ([slides](slides/))
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
 - **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/))
+- **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
 - **Axel**: Remaing work for v1.0 / coding projects for the week (10 + 5 min.) ([slides](slides/))
 
 ### Tuesday 10h00 / 17h00:
