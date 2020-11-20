@@ -68,6 +68,7 @@ Presentations:
 - Merge `SpectrumDataset` and `MapDataset`?
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 - Remove support for `EDispKernel` in `MapDataset`
+- Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
 
 #### Features
 - Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
