@@ -45,6 +45,7 @@
 - TS estimation using an `Estimator` or documentation (see above)?
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel` (see above)?
 - Keep model in `MapDataset.cutout()` (see above)
+- Check behaviour if model is outside FoV
  
 
 ## Bugs and Fixes
