@@ -29,12 +29,8 @@
 
 ### Various
 - Better support for HPX maps
-- Assymteric PSF
+- Assymetric PSF
 - IRFs in zenith bins 
-
-## Validation and testing
-- Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
-- Check status
 
 ## Documenation
 - Move API tutorials to the corresponding sub-packages and build "in place"
@@ -47,7 +43,6 @@
 - TS estimation using an `Estimator` or documentation
 - User contributed notebooks?
 
-
-## Bugs and Fixes
-- TBD
-
+## Validation and testing
+- Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
+- Check status
