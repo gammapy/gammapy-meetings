@@ -4,6 +4,8 @@
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls 
 - Prototype for a real time analysis?
 - Move from Travis-CI to github actions
+- Issues: https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.19
+
 
 ## API
 - Merge `SpectrumDataset` and `MapDataset`?
