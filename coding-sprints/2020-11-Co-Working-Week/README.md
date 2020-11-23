@@ -2,7 +2,7 @@
 
 Instead of the autumn coding sprint we have another "Gammapy co-working week" from Nov 23rd to 27th 2020.
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure
-they are available for spontaneous discussions on Slack and remote meetings via Zoom. 
+they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
 A Zoom room is open for the full week. ID: 837 3792 5932
 
@@ -23,12 +23,12 @@ Presentations:
 - **Valentina**: Real time analysis requirements (10 + 5 min.) ([slides](slides/))
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
 - **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/))
-- **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/))
+- **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/documentation.pdf))
 - **Axel**: Work organisation / coding projects for the week (10 + 5 min.) ([Notes](notes.md))
 
 ### Tuesday 10h00 / 17h00:
 - Quick report by everyone
-         
+
 ### Wednesday 10h00 / 17h00:
 - **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
 - Quick report by everyone
@@ -36,7 +36,7 @@ Presentations:
 ### Thursday 10h00 / 17h00:
 - Quick report by everyone
 - "Group photo" (screenshot)
- 
+
 ### Friday 10h00:
 - Quick report by everyone
 
@@ -47,15 +47,14 @@ Presentations:
 ## Participants
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
-3. Atreyee Sinha, LUPM Montpellier, France ([AtreyeeS](https://github.com/AtreyeeS)) 
-4. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy)) 
-5. Bruno Khelifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi)) 
-6. Jose Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako)) 
-7. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera)) 
+3. Atreyee Sinha, LUPM Montpellier, France ([AtreyeeS](https://github.com/AtreyeeS))
+4. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
+5. Bruno Khelifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
+6. Jose Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
+7. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
 8. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 9. Valentina Fioretti NAF OAS Bologna, Italy ([vfioretti](https://github.com/vfioretti))
 10. Fabio ACERO, CEA/Saclay, France ([facero](https://github.com/facero))
 11. Giovanni De Cesare INAF/OAS Bologna Italy ([giovixo](https://github.com/giovixo))
 12. Giulia Stratta INAF/OAS Bologna Italy ([gistratta](https://github.com/gistratta))
 13. Ambra Di Piano INAF/OAS Bologna Italy ([ambra-dipiano](https://github.com/ambra-dipiano))
-
