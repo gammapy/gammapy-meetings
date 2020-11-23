@@ -1,9 +1,8 @@
-# Discussion topics and coding projects (no particular order...):
+# Discussion topics and coding projects:
 
 ## General
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls 
 - Prototype for a real time analysis?
-- Decide on final API changes
 - Move from Travis-CI to github actions
 
 ## API
@@ -11,7 +10,8 @@
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 - Remove support for `EDispKernel` in `MapDataset`
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
-- Model book-keeping in `MapDataset.to_image()`, `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`? 
+- Model book-keeping in `MapDataset.to_image()`, `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
+- PIG 22
 
 ## Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
