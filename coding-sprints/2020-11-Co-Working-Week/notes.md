@@ -8,13 +8,28 @@
 
 
 
-## API
-- Merge `SpectrumDataset` and `MapDataset`?
-- Make `Fit` class configurable, so that users can choose backends for flux points estimation.
-- Remove support for `EDispKernel` in `MapDataset`
+## API / Features
+
+### Model handling
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
 - Model book-keeping in `MapDataset.to_image()`, `MapDataset.cutout()` `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
+- Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`
+- Implement `EDispEnergyScaleModel`?
+
+### Dataset unification
+- Merge `SpectrumDataset` and `MapDataset`?
+- Remove support for `EDispKernel` in `MapDataset`
+- Check behaviour if model is outside FoV (inrerpolation of IRFs etc.)
+
+### Estimator API / result object
+- Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 - PIG 22
+
+### Various
+- Better support for HPX maps
+- Assymteric PSF
+- IRFs in zenith bins 
+
 
 ## Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
@@ -31,21 +46,10 @@
 - User contributed notebooks?
 
 
-## Features
-- Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
-- Unified flux points handling (see PIG 22)
-- Implement `EDispEnergyScaleModel`?
-
 ### Feedback from HAWC 
-- Better support for HPX maps
-- Assymteric PSF
-- IRFs in zenith bins
 
 ## Feedback from CTA GPS
 - TS estimation using an `Estimator` or documentation (see above)?
-- Remove `BackgroundModel` and support the use case via `TemplateSpatialModel` (see above)?
-- Keep model in `MapDataset.cutout()` (see above)
-- Check behaviour if model is outside FoV
  
 
 ## Bugs and Fixes
