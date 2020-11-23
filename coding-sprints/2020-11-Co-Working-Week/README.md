@@ -49,7 +49,8 @@ Presentations:
 #### General
 - Finish open PRs: https://github.com/gammapy/gammapy/pulls 
 - Prototype for a real time analysis?
-- Decide on API 
+- Decide on final API changes
+- Move from Travis-CI to github actions
 
 #### Documenation
 - Move API tutorials to the corresponding sub-packages and build "in place"
