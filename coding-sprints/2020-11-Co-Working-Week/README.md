@@ -22,7 +22,7 @@ Presentations:
 - **Laura**: HAWC analysis with Gammapy & proposed features (10 + 5 min.) ([slides](slides/hawc_analysis_gammapy.pdf))
 - **Valentina**: Real time analysis requirements (10 + 5 min.) ([slides](slides/))
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
-- **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/))
+- **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/PIG_22.pdf))
 - **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/documentation.pdf))
 - **Axel**: Work organisation / coding projects for the week (10 + 5 min.) ([Notes](notes.md))
 
