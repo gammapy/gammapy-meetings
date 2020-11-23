@@ -7,29 +7,30 @@
 - Issues: https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.19
 
 
+## Discussion and code projects
 
-## API / Features
+### Real time analysis
+- Implement prototype 
 
-### Model handling
+### Model handling (discussion required)
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
 - Model book-keeping in `MapDataset.to_image()`, `MapDataset.cutout()` `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
 - Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`
 - Implement `EDispEnergyScaleModel`?
 
-### Dataset unification
+### Dataset unification (discussion required)
 - Merge `SpectrumDataset` and `MapDataset`?
 - Remove support for `EDispKernel` in `MapDataset`
 - Check behaviour if model is outside FoV (inrerpolation of IRFs etc.)
 
-### Estimator API / result object
+### Estimator API / result object (discussion required)
+- Finish PIG 22
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
-- PIG 22
 
 ### Various
 - Better support for HPX maps
 - Assymteric PSF
 - IRFs in zenith bins 
-
 
 ## Validation and testing
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
@@ -40,17 +41,12 @@
 - Simplify data download: remove index files and use a single tar file instead?
 - Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
 - Resolve content duplication between tutorials / RST 
-- Write RST pages for new sub-packages (Axel, Régis)
-- Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
+- Write RST pages for new sub-packages
+- Add documentation on `RegionGeom` and `RegionNDMap`
 - Further improve IRF documentation
+- TS estimation using an `Estimator` or documentation
 - User contributed notebooks?
 
-
-### Feedback from HAWC 
-
-## Feedback from CTA GPS
-- TS estimation using an `Estimator` or documentation (see above)?
- 
 
 ## Bugs and Fixes
 - TBD
