@@ -29,21 +29,22 @@ Presentations:
 ### Tuesday:
 
 **10h00**
-- Kick off RTA (Bruno)
-- Discussion on Dataset unification (Axel)
+- Kick off RTA (Bruno, [notes](discussions/rta.md))
+- Discussion on Dataset unification (Axel, [notes](discussions/dataset-unification.md))
 
 **16h30**
-- Discussion on PIG 22 & estimator API (Régis)
+- Discussion on PIG 22 & estimator API (Régis, [notes](discussions/pig-22.md))
 
 ### Wednesday:
 **10h00**
 - **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
-- 
+- Discussion on docs setup (José Enrique, [notes](discussions/docs-setup.md))
 **16h30**
+- Discussion on model handling (Quentin, [notes](discussions/model-handling.md))
 
 ### Thursday:
 **10h00**
-- Discussion on documentatioin content (Atreyee)
+- Discussion on documentation content (Atreyee, [notes](discussions/docs-content.md))
 - "Group photo" (screenshot)
 
 **16h30**
