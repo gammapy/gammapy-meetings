@@ -19,7 +19,7 @@ Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
 - **Axel**: Introduction and overview (5 min.) ([slides](slides/gp-co-working-week-nov-2020.pdf))
-- **Laura**: HAWC analysis with Gammapy & proposed features (10 + 5 min.) ([slides](slides/))
+- **Laura**: HAWC analysis with Gammapy & proposed features (10 + 5 min.) ([slides](slides/hawc_analysis_gammapy.pdf))
 - **Valentina**: Real time analysis requirements (10 + 5 min.) ([slides](slides/))
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
 - **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/))
