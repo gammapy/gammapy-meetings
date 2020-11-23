@@ -34,7 +34,7 @@
 
 ## Documenation
 
-### Setup 
+### Setup (discussion required)
 - Move API tutorials to the corresponding sub-packages and build "in place"
 - Simplify data download: remove index files and use a single tar file instead?
 - Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
