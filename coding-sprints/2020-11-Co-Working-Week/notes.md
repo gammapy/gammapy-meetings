@@ -44,5 +44,6 @@
 - User contributed notebooks?
 
 ## Validation and testing
+- Check status in general
 - Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
-- Check status
+- Improve benchmarks, extend for missing ones (maybe one for RTA)
