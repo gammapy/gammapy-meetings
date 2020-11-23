@@ -33,15 +33,21 @@
 - IRFs in zenith bins 
 
 ## Documenation
+
+### Setup 
 - Move API tutorials to the corresponding sub-packages and build "in place"
 - Simplify data download: remove index files and use a single tar file instead?
 - Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
 - Resolve content duplication between tutorials / RST 
+
+### Content
 - Write RST pages for new sub-packages
 - Add documentation on `RegionGeom` and `RegionNDMap`
 - Further improve IRF documentation
 - TS estimation using an `Estimator` or documentation
-- User contributed notebooks?
+
+### User contributed notebooks
+- Prototype already available
 
 ## Validation and testing
 - Check status in general
