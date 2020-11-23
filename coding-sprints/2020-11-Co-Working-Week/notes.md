@@ -6,7 +6,7 @@
 - Decide on final API changes
 - Move from Travis-CI to github actions
 
-##API
+## API
 - Merge `SpectrumDataset` and `MapDataset`?
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 - Remove support for `EDispKernel` in `MapDataset`
