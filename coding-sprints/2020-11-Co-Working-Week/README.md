@@ -26,17 +26,28 @@ Presentations:
 - **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/documentation.pdf))
 - **Axel**: Work organisation / coding projects for the week (10 + 5 min.) ([Notes](notes.md))
 
-### Tuesday 10h00 / 17h00:
-- Kick of RTA (Bruno et al. 10h30)
-- Quick report by everyone
+### Tuesday:
 
-### Wednesday 10h00 / 17h00:
+**10h00**
+- Kick off RTA (Bruno)
+- Discussion on Dataset unification (Axel)
+
+**16h30**
+- Discussion on PIG 22 & estimator API (Régis)
+
+### Wednesday:
+**10h00**
 - **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
-- Quick report by everyone
+- 
+**16h30**
 
-### Thursday 10h00 / 17h00:
-- Quick report by everyone
+### Thursday:
+**10h00**
+- Discussion on documentatioin content (Atreyee)
 - "Group photo" (screenshot)
+
+**16h30**
+
 
 ### Friday 10h00:
 - Quick report by everyone
