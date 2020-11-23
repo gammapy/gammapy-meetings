@@ -9,21 +9,21 @@
 
 ## Discussion and code projects
 
-### Real time analysis
+### Real time analysis (Bruno)
 - Implement prototype (Bruno et. al)
 
-### Model handling (discussion required)
+### Model handling (discussion required) (Quentin)
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
 - Model book-keeping in `MapDataset.to_image()`, `MapDataset.cutout()` `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
 - Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`
 - Implement `EDispEnergyScaleModel`?
 
-### Dataset unification (discussion required)
+### Dataset unification (discussion required) (Axel)
 - Merge `SpectrumDataset` and `MapDataset`?
 - Remove support for `EDispKernel` in `MapDataset`
 - Check behaviour if model is outside FoV (inrerpolation of IRFs etc.)
 
-### Estimator API / result object (discussion required)
+### Estimator API / result object (discussion required) (Regis)
 - Finish PIG 22
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 
@@ -34,7 +34,7 @@
 
 ## Documenation
 
-### Setup (discussion required)
+### Setup (discussion required) (José Enrique)
 - Move API tutorials to the corresponding sub-packages and build "in place"
 - Simplify data download: remove index files and use a single tar file instead?
 - Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
