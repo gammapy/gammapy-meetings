@@ -24,7 +24,7 @@ Presentations:
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
 - **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/))
 - **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/))
-- **Axel**: Remaing work for v1.0 / coding projects for the week (10 + 5 min.) ([slides](slides/))
+- **Axel**: Work organisation / coding projects for the week (10 + 5 min.) ([Notes](notes.md))
 
 ### Tuesday 10h00 / 17h00:
 - Quick report by everyone
@@ -42,46 +42,6 @@ Presentations:
 
 ### Friday 15h00:
 - Close out meeting
-
-### General coding projects (no particular order...):
-
-
-#### General
-- Finish open PRs: https://github.com/gammapy/gammapy/pulls 
-- Prototype for a real time analysis?
-- Decide on final API changes
-- Move from Travis-CI to github actions
-
-#### Documenation
-- Move API tutorials to the corresponding sub-packages and build "in place"
-- Simplify data download: remove index files and use a single tar file instead?
-- Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
-- Resolve content duplication between tutorials / RST 
-- Write RST pages for new sub-packages (Axel, Régis)
-- Add documentation on `RegionGeom` and `RegionNDMap` (Axel)
-- Further improve IRF documentation
-- User contributed notebooks?
-
-#### Validation and testing
-- Update and finish validation of DR1-DL3, CTA 1DC, 3FHL etc.
-- Move CI setup to github workflows?
-
-#### API
-- Merge `SpectrumDataset` and `MapDataset`?
-- Make `Fit` class configurable, so that users can choose backends for flux points estimation.
-- Remove support for `EDispKernel` in `MapDataset`
-- Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
-
-#### Features
-- Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
-- Unified flux points handling (see PIG 22)
-- Implement `EDispEnergyScaleModel`?
-
-#### Bugs and Fixes
-- TBD
-
-### Discussion topics:
-- Model book-keeping in `MapDataset.to_image()`, `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`? 
 
 
 ## Participants
