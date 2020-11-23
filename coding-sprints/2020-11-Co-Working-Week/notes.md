@@ -7,12 +7,13 @@
 - Issues: https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.19
 
 
+
 ## API
 - Merge `SpectrumDataset` and `MapDataset`?
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 - Remove support for `EDispKernel` in `MapDataset`
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
-- Model book-keeping in `MapDataset.to_image()`, `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
+- Model book-keeping in `MapDataset.to_image()`, `MapDataset.cutout()` `MapDataset.to_spectrum_dataset()` etc. methods. Should we rely on `.npred_background()`?
 - PIG 22
 
 ## Validation and testing
@@ -29,15 +30,22 @@
 - Further improve IRF documentation
 - User contributed notebooks?
 
+
 ## Features
 - Model management functionality, such as `Models.select()` and `Parameters.freeze(type="spatial")`, lets 
 - Unified flux points handling (see PIG 22)
 - Implement `EDispEnergyScaleModel`?
 
-### HAWC 
+### Feedback from HAWC 
 - Better support for HPX maps
 - Assymteric PSF
 - IRFs in zenith bins
+
+## Feedback from CTA GPS
+- TS estimation using an `Estimator` or documentation (see above)?
+- Remove `BackgroundModel` and support the use case via `TemplateSpatialModel` (see above)?
+- Keep model in `MapDataset.cutout()` (see above)
+ 
 
 ## Bugs and Fixes
 - TBD
