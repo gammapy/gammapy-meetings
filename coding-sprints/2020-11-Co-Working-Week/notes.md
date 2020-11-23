@@ -23,7 +23,7 @@
 - Remove support for `EDispKernel` in `MapDataset`
 - Check behaviour if model is outside FoV (inrerpolation of IRFs etc.)
 
-### Estimator API / result object (discussion required) (Regis)
+### Estimator API / result object (discussion required) (Régis)
 - Finish PIG 22
 - Make `Fit` class configurable, so that users can choose backends for flux points estimation.
 
@@ -40,11 +40,13 @@
 - Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
 - Resolve content duplication between tutorials / RST 
 
-### Content
+### Content (discussion required)(Atreyee)
+- Incorporate user feedback
 - Write RST pages for new sub-packages
 - Add documentation on `RegionGeom` and `RegionNDMap`
 - Further improve IRF documentation
 - TS estimation using an `Estimator` or documentation
+
 
 ### User contributed notebooks
 - Prototype already available
