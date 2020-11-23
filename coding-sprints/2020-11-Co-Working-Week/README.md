@@ -21,16 +21,16 @@ Presentations:
 - **Axel**: Introduction and overview (5 min.) ([slides](slides/co-working-week-intro.pdf))
 - **Laura**: HAWC analysis with Gammapy & proposed features (10 + 5 min.) ([slides](slides/))
 - **Valentina**: Real time analysis requirements (10 + 5 min.) ([slides](slides/))
-- **Régis**: PIG 22 unified estimator result object (10 + 5 min.) ([slides](slides/))
 - **Quentin**: Model management, fit strategies & various ideas inspired from the CTA GPS analysis (10 + 5 min.) ([slides](slides/))
+- **Régis**: PIG 22, unified estimator result object (10 + 5 min.) ([slides](slides/))
 - **José Enrique**: Ideas docs and release workflow improvements (10 + 5 min.) ([slides](slides/))
-- **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
 - **Axel**: Remaing work for v1.0 / coding projects for the week (10 + 5 min.) ([slides](slides/))
 
 ### Tuesday 10h00 / 17h00:
 - Quick report by everyone
          
 ### Wednesday 10h00 / 17h00:
+- **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/))
 - Quick report by everyone
 
 ### Thursday 10h00 / 17h00:
@@ -47,8 +47,9 @@ Presentations:
 
 
 #### General
-- Finish open PRs: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.18
-- Prototype for real time analysis?
+- Finish open PRs: https://github.com/gammapy/gammapy/pulls 
+- Prototype for a real time analysis?
+- Decide on API 
 
 #### Documenation
 - Move API tutorials to the corresponding sub-packages and build "in place"
