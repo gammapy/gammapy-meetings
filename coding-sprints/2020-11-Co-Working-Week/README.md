@@ -27,6 +27,7 @@ Presentations:
 - **Axel**: Work organisation / coding projects for the week (10 + 5 min.) ([Notes](notes.md))
 
 ### Tuesday 10h00 / 17h00:
+- Kick of RTA (Bruno et al. 10h30)
 - Quick report by everyone
 
 ### Wednesday 10h00 / 17h00:
