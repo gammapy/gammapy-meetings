@@ -10,7 +10,7 @@
 ## Discussion and code projects
 
 ### Real time analysis
-- Implement prototype 
+- Implement prototype (Bruno et. al)
 
 ### Model handling (discussion required)
 - Remove `BackgroundModel` and support the use case via `TemplateSpatialModel`?
