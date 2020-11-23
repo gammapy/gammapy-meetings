@@ -34,6 +34,11 @@
 - Unified flux points handling (see PIG 22)
 - Implement `EDispEnergyScaleModel`?
 
+### HAWC 
+- Better support for HPX maps
+- Assymteric PSF
+- IRFs in zenith bins
+
 ## Bugs and Fixes
 - TBD
 
