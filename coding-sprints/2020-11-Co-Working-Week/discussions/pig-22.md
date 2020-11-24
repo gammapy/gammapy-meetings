@@ -15,8 +15,8 @@ A few preliminary comments from Axel: I guess the question is how far we want to
 
 ### Notes
 - FluxMap is useful, implements I/O and convenience to extract flux points
-- Store the reference model as `SpectralModel`, on "data import", users have to define a model or we assume 
-- Régis: use a "flattened" table to store combined time / energy and rely on Astropy's grouping of tables
+- Store the reference model as `SpectralModel`. On "data import", users have to define a model or we assume a default
+- Régis proposed: use a "flattened" table to store combined time / energy and rely on Astropy's grouping of tables
 - Internally always use the norm / likelihood format and and expose the `sed_type` in `.plot()` or `.write_table()`
 - Generalise `FluxPoints` object, either by array columns or the flattened data structure mentioned above
 - Generalise `FluxPointsEstimator` to handle `time_intervals` or `regions`?
