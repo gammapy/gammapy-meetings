@@ -23,4 +23,15 @@ There are some other consequences:
 - In general we need to support `RegionGeom` for IRF maps on `MapDataset` anyway, to handle spatially non-varying IRFs
 
 ## Notes
-- 
+- There is specific functionality for 1D and it will always remain:
+  - Serialisation, e.g. OGIP format
+  - Plotting, like `.plot_fit()`
+  - 
+  
+- Moving code to a common base class is "safe" and can be done without much extra effort. 
+- Need documentation on the `RegionGeom`!
+
+
+Unrelated: 
+- How to handle kwargs forwarding? Régis doesn't like the `kwargs_spatial` and `kwargs_spectral` -> 2nd discussion session on Thursday...
+- Implement more general grouping scheme?
