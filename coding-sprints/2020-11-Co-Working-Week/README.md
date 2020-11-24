@@ -56,6 +56,7 @@ Presentations:
 - "Group photo" (screenshot)
 
 **16h30**
+- Discussion on MapDataset plotting... 
 
 
 ### Friday 10h00:
