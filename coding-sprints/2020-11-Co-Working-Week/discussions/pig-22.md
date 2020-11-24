@@ -11,3 +11,7 @@ A few preliminary comments from Axel: I guess the question is how far we want to
 - `TSMapEstimator` could be renamed to `FluxMapEsimator`, `ExcessMapEstimator` stays as is.
 - Both `FluxPointsEstimator` and `ExcessPointsEstimator` would return a `FluxPoints` object, and the map estimators a `FluxMap` object respectively...
 - `LightCurveEstimator` and `ExcessProfileEstimator` would be removed...
+
+
+### Notes
+- 
