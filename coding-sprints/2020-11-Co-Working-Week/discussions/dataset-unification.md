@@ -9,8 +9,9 @@ Main API question: fully unify `SpectrumDataset` and `MapDataset` and handle 1D 
 
 Pros:
 - Fully unified API, just one API to learn, however the difference in API between `SpectrumDataset` and `MapDataset` will be small anyway...
-- Possibility to handle PSF and morphology containment correction
+- Possibility to handle PSF and morphology containment correction "on the fly" if a PSF an spatial model are defined
 - Reduced maintenance effort
+- One would likely remove the `SpectrumDatasetMaker` as well...
 
 
 Cons:
