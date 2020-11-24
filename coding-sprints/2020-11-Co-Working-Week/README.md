@@ -36,7 +36,8 @@ Presentations:
   - Bruno, José Enrique, Régis, ...: RTA
   - Axel, Fabio, Laura, Régis: dataset unification
   - Atreyee: docs status and preparation for improvements
-  - 
+  - Quentin: proof of concept to replace `TemplateSpatialModel` with `BackgroundModel`
+  - Validation...
 
 **16h30**
 - Discussion on PIG 22 & estimator API (Régis, [notes](discussions/pig-22.md))
