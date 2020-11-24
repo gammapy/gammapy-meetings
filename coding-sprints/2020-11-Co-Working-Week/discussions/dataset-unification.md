@@ -20,3 +20,6 @@ Cons:
 There are some other consequences:
 - Forbid e.g. using a `MapDataset` and `RegionGeom` with `TSMapEstimator` or `ExcessMapEstimator`
 - In general we need to support `RegionGeom` for IRF maps on `MapDataset` anyway, to handle spatially non-varying IRFs
+
+## Notes
+- 
