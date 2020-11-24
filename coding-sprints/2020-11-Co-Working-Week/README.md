@@ -32,9 +32,15 @@ Presentations:
 - Kick off RTA (Bruno, [notes](discussions/rta.md))
 - Discussion on Dataset unification (Axel, [notes](discussions/dataset-unification.md))
 - Planned work:
+  - José Enrique: migrate from Travis to github actions
+  - Bruno, José Enrique, Régis, ...: RTA
+  - Axel, Fabio, Laura, Régis: dataset unification
+  - Atreyee: docs status and preparation for improvements
+  - 
 
 **16h30**
 - Discussion on PIG 22 & estimator API (Régis, [notes](discussions/pig-22.md))
+- Summary on RTA work
 
 ### Wednesday:
 **10h00**
