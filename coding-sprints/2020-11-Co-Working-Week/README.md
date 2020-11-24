@@ -31,6 +31,7 @@ Presentations:
 **10h00**
 - Kick off RTA (Bruno, [notes](discussions/rta.md))
 - Discussion on Dataset unification (Axel, [notes](discussions/dataset-unification.md))
+- Planned work:
 
 **16h30**
 - Discussion on PIG 22 & estimator API (Régis, [notes](discussions/pig-22.md))
