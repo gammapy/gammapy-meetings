@@ -39,7 +39,7 @@
 - Where to keep (binder links, html docs) and where to remove versioned releases (datasets, tutorials) 
 - Keep links to nobtebooks and scripts for each notebook at the top of the html pages
 - Remove gammapy download notebooks and gammapy download scrips?
-- Display the collection of tutorials as a gallery
+- Display the collection of tutorials as a gallery and re-structure groups?
 - Improve speed execution of some notebooks
 - Execute python code found in RST pages?
 - Problems found diffing nbs with widgets
