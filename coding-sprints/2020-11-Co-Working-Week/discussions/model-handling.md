@@ -14,3 +14,6 @@ The problem is, that the latter case is possibly anyway, but untestedt and it's 
   - Rely on `.background` instead and reset the model as a whole
   - Rely on `.background` and copy (?) over the model, while adpating the dataset name for the `FoVBackgroundModel`
   - Rely on `.npred_background` and reset the `FoVBackgroundModel`?
+
+## Add minimal model management?
+- Methods like `Model.select_region()`, `Models.to_template_spatial_model(geom=)`, could be useful and are simple to implement...
