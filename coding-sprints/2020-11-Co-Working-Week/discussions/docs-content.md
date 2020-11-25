@@ -16,3 +16,4 @@ Thursday, Nov26th, 10h00
 11. ExcessProfileEstimator and ImageEstimator almost undocumented
 12. https://docs.gammapy.org/dev/stats/index.html#id1 - The code lines not executed for excess and significance
 13. Shorten and improve the overview page by adding a figure: https://docs.gammapy.org/dev/overview.html 
+14. Link to older versions
