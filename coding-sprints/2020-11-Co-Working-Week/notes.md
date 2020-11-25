@@ -43,7 +43,8 @@
 - Improve speed execution of some notebooks
 - Execute python code found in RST pages?
 - Problems found diffing nbs with widgets
-- other options for the setup (jupytex)
+- Other options for the setup (jupytex)
+- Improve /automatize release process
 ---
 - Move API tutorials to the corresponding sub-packages and build "in place"
 - Resolve content duplication between tutorials / RST 
