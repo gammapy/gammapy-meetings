@@ -32,12 +32,20 @@
 - Assymetric PSF
 - IRFs in zenith bins 
 
-## Documenation
+## Documentation
 
 ### Setup (discussion required) (José Enrique)
+- Simplify notebook, tutorials and scripts download: remove index files and use a single tar file (static images)
+- Where to keep (binder links, html docs) and where to remove versioned releases (datasets, tutorials) 
+- Keep links to nobtebooks and scripts for each notebook at the top of the html pages
+- Remove gammapy download notebooks and gammapy download scrips?
+- Display the collection of tutorials as a gallery
+- Improve speed execution of some notebooks
+- Execute python code found in RST pages?
+- Problems found diffing nbs with widgets
+- other options for the setup (jupytex)
+---
 - Move API tutorials to the corresponding sub-packages and build "in place"
-- Simplify data download: remove index files and use a single tar file instead?
-- Simplify notebook download: remove index files and use a single tar file at the top of the tutorials page instead?
 - Resolve content duplication between tutorials / RST 
 
 ### Content (discussion required)(Atreyee)
