@@ -45,7 +45,7 @@ Presentations:
 
 ### Wednesday:
 **10h00**
-- **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/userfeedback.pdf))
+- **Atreyee**: First results from the user feedback form (5 + 5 min.) ([slides](slides/Gammapy%20-%20user%20feedback%20-%20Google%20Forms.pdf))
 - Discussion on docs setup (José Enrique, [notes](discussions/docs-setup.md))
 
 **16h30**
