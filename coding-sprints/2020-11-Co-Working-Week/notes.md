@@ -45,6 +45,7 @@
 - Problems found diffing nbs with widgets
 - Other options for the setup (jupytex)
 - Improve /automatize release process
+- Maintenance: broken links and sphinx builds
 ---
 - Move API tutorials to the corresponding sub-packages and build "in place"
 - Resolve content duplication between tutorials / RST 
