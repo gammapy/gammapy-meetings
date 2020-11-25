@@ -5,8 +5,6 @@ Wednesday Nov 25th., 10h00
 See [slides](../slides/documentation.pdf) by José Enrique.
 
 ## Notes
-
-- Simplify notebook, tutorials and scripts download: remove index files and use a single tar file 
 - Find a place where to store static images..?
 - Versioned releases: keep (binder links, html docs) and remove ((datasets, tutorials)
 - Remove gammapy download notebooks and gammapy download scripts
@@ -18,6 +16,9 @@ See [slides](../slides/documentation.pdf) by José Enrique.
 - Other options for the setup (jupytext)
 - Improve /automatize release process?
 - Maintenance: broken links and sphinx builds
----
-- Move API tutorials to the corresponding sub-packages and build "in place"
-- Resolve content duplication between tutorials / RST 
+
+## Action items
+- Simplify notebook, tutorials and scripts download: remove index files and use a single tar file 
+- Move API tutorials to the corresponding sub-packages and build "in place" (resolve content duplication between tutorials / RST )
+- Introduce Gallery for tutorials
+
