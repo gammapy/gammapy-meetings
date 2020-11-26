@@ -18,3 +18,14 @@ Thursday, Nov26th, 10h00
 13. Shorten and improve the overview page by adding a figure: https://docs.gammapy.org/dev/overview.html 
 14. Link to older versions
 15. plot_residuals error bars: https://github.com/gammapy/gammapy/issues/3013#issuecomment-733936049
+16. Add AcceptanceMaker - ?
+
+## Actions
+
+- Estimator docs after PIG 22
+- OnOff notebook in user contributed notebooks
+- Overview page to be updated
+- Show spatial residuals with the ExcessMapEstimator
+- errors on SpectrumDataset.plot_residuals() ?
+- Ring Background copy over HGPS image / Berge paper
+- Models notebook 
