@@ -53,6 +53,7 @@ Presentations:
 
 ### Thursday:
 **10h00**
+- Continue discussion on model handling
 - Discussion on documentation content (Atreyee, [notes](discussions/docs-content.md))
 - "Group photo" (screenshot)
 
