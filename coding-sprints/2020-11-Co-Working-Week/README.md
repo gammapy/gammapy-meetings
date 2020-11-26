@@ -58,7 +58,10 @@ Presentations:
 - "Group photo" (screenshot)
 
 **16h30**
-- Discussion on MapDataset plotting... 
+- Discussion on MapDataset plotting: https://github.com/gammapy/gammapy/pull/3001#issuecomment-690937493
+- Model handling: 
+- Paper: https://github.com/gammapy/gammapy-paper
+
 
 
 ### Friday 10h00:
