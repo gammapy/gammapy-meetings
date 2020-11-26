@@ -59,7 +59,7 @@ Presentations:
 
 **16h30**
 - Discussion on MapDataset plotting: https://github.com/gammapy/gammapy/pull/3001#issuecomment-690937493
-- Model handling: 
+- Model handling [use cases](discussions/model-handling-use-cases.md)
 - Paper: https://github.com/gammapy/gammapy-paper
 
 
