@@ -66,6 +66,7 @@ Presentations:
 
 ### Friday 10h00:
 - Quick report by everyone
+- **Valentina**: summary on the RTA work and plans ([slides](slides/RTA_gammapy_coding_summary.pdf))
 
 ### Friday 15h00:
 - Close out meeting
