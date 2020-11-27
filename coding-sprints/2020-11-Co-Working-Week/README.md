@@ -14,7 +14,7 @@ For this co-working week we will put a strong focus on documentation!
 
 ## Group Photo
 
-![](group-photo.png)
+![](group-photo.jpg)
 
 
 ## Agenda
