@@ -75,8 +75,12 @@ Presentations:
 
 ### Friday 15h00:
 - Close out meeting
-
-
+- Notes:
+    - Axel writes the summary document for the co-working and sends it around on the slack channel and forwads it to the Gammapy CC
+    - Move to ZOOM for dev meetings, Régis will schedule them 
+    - Establish Gammapy co-working day until v1.0, Axel sets up a Doodle
+    - Add more entries in HowTo, collect in a Github issue
+    
 ## Participants
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
