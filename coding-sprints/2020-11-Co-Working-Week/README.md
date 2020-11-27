@@ -10,7 +10,12 @@ The password will be given on Slack (#dev channel).
 
 In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
-For this co-working week we will put a string focus on documentation!
+For this co-working week we will put a strong focus on documentation!
+
+## Group Photo
+
+![](group-photo.png)
+
 
 ## Agenda
 
