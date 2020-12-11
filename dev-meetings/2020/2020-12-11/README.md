@@ -17,3 +17,4 @@
 * 3HWC catalog data https://github.com/gammapy/gammapy-data/pull/6 (Régis)
 * Timeline for PIG 22 (https://github.com/gammapy/gammapy/pull/3151) (Axel, Régis)
 * Proof of concept 1D Analysis with the MapDataset (Axel)
+* Anything else?
