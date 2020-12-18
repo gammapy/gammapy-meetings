@@ -15,3 +15,4 @@
 * Model region and mask selection [https://github.com/gammapy/gammapy/pull/3169] (Quentin)
 * Models setup / PSFKernel computation [https://github.com/gammapy/gammapy/pull/3168] (Quentin, Axel) 
 * Validation update [https://github.com/gammapy/gammapy-benchmarks] (Régis)
+* Anything else?
