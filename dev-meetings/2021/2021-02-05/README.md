@@ -8,8 +8,12 @@
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
 * Short report by everyone, what they have worked on during the past week 
 
-* Handling of CompounRegion vs list of Region
-* Handling of `RegionNDMap.get_spectrum()` or `PSFMap.to_region_nd_map()`
+* Modelling tutorial https://github.com/gammapy/gammapy/pull/3216 (Atreyee)
+* Update on the `FluxMap` container https://github.com/gammapy/gammapy/pull/3075 (Régis)
+* Shell2SpatialModel https://github.com/gammapy/gammapy/pull/3222 (Quentin)
+* Handling of empty bins in background: https://github.com/gammapy/gammapy/pull/3219, see https://github.com/gammapy/gammapy/issues/2432 as well (Quentin, Axel)
+* Handling of `CompoundRegion` vs list of `Region` (Axel)
+* Handling of `RegionNDMap.get_spectrum()` or `PSFMap.to_region_nd_map()` (Axel)
 * Introduce `PSFKernel.plot()` or make `PSFKernel` directly a `Map`?
-* Allow strings as Quantity?
+* Allow strings as Quantity? (Axel)
     - Proposal: only allow strings where a scalar value is expected, when array input is supported, expect directly a Quantity
