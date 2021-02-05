@@ -17,3 +17,4 @@
 * Introduce `PSFKernel.plot()` or make `PSFKernel` directly a `Map`?
 * Allow strings as Quantity? (Axel)
     - Proposal: only allow strings where a scalar value is expected, when array input is supported, expect directly a Quantity
+    - See https://github.com/gammapy/gammapy/pull/3212/ as well (Laura)
