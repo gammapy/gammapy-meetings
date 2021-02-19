@@ -10,5 +10,7 @@
 
 
 * Data store copy  https://github.com/gammapy/gammapy/pull/3245 (Régis)
+* Region geom I/O in MapDataset https://github.com/gammapy/gammapy/pull/3243 (Axel)
+* CTA data for modeling tutorial (Axel, Atreyee)
 * Documentation status: https://github.com/gammapy/gammapy/issues/3143 (Axel, Atreyee)
  * Anything else? 
