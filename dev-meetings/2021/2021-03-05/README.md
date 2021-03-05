@@ -13,6 +13,7 @@
 * Add support for RegionGeom in MapDataset https://github.com/gammapy/gammapy/pull/3258 (Axel)
 * Mask tutorial https://github.com/gammapy/gammapy/pull/3261 (Quentin)
 * Failed bkg estimation mask_safe handling https://github.com/gammapy/gammapy/pull/3247 (Régis)
+*     - And refelected region maker fail: https://github.com/gammapy/gammapy/issues/3259
 * Automate release process with Github actions https://github.com/gammapy/gammapy/pull/3253 (José Enrique)
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
