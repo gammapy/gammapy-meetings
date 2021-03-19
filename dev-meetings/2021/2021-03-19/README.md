@@ -20,6 +20,6 @@
     - excess vs npred_signal
     - background vs npred_background
     
-* Tutorials page: https://docs.gammapy.org/dev/tutorials/index.html (José Enrique / Axel)
+* Tutorials page: https://github.com/gammapy/gammapy/pull/3276 and https://docs.gammapy.org/dev/tutorials/index.html (José Enrique / Axel)
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
