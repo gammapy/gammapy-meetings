@@ -1,6 +1,6 @@
 # Gammapy Developer Meeting
 
-* Friday, March 19th, 2021 at 10 am
+* Friday, March 26th, 2021 at 10 am
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
