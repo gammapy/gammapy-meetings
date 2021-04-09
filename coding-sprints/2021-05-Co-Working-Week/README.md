@@ -57,4 +57,5 @@ Presentations:
 6. Jose Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
 7. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
 8. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
-9. Fabio Acera, CEA Saclay, France ([facero](https://github.com/facero))
+9. Fabio Acero, CEA Saclay, France ([facero](https://github.com/facero))
+10. Luca Giunti, APC Paris / CEA Saclay, France ([luca-giunti](https://github.com/luca-giunti))
