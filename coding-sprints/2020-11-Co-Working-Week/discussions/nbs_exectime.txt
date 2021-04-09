@@ -1,0 +1,97 @@
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/analysis_1.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 20.9 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/analysis_2.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 12.8 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/analysis_3d.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 51.8 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/spectrum_analysis.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 25.0 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/spectrum_simulation.ipynb
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/analysis_mwl.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 14.0 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/astro_dark_matter.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 10.6 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/catalog.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 15.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/cta.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 12.8 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/background_model.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 15.7 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/cta_data_analysis.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 27.9 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/cta_sensitivity.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 4.8 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/detect.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 17.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/exclusion_mask.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 4.6 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/extended_source_spectral_analysis.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 10.6 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/event_sampling.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 33.2 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/fermi_lat.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 12.8 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/hess.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 9.0 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/light_curve.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 14.4 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/light_curve_flare.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 76.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/light_curve_simulation.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 20.5 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/maps.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 7.3 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/mcmc_sampling.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 15.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/modeling.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 18.2 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/modeling_2D.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 20.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/models.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 8.3 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/overview.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 7.2 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/pulsar_analysis.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 10.6 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/ring_background.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 23.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/sed_fitting.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 6.1 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/simulate_3d.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 14.9 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/spectrum_analysis.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 25.0 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED
+INFO:gammapy.scripts.jupyter:   ... EXECUTING: docs/tutorials/spectrum_simulation.ipynb
+INFO:gammapy.scripts.jupyter:   ... Executing duration: 17.7 seconds
+INFO:gammapy.scripts.jupyter:   ... PASSED

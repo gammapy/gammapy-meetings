@@ -4,9 +4,11 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2020-03](2020-03-Milano/README.md) - Gammapy Coding Sprint (March 2 - 6,  Consiglio Nazionale delle Ricerche, Milano)
+* [2020-11](2020-11-Co-Working-Week/README.md) - Gammapy co-working week in remote (November 23 - 27,  Zoom)
 
 [Old meetings:]()
+* [2020-07](2020-07-Co-Working-Week/2020-07-Co-Working-Week.md) - Gammapy co-working week in remote (July 6 - 10,  Vibe)
+* [2020-03](2020-03-Milano/README.md) - Gammapy Coding Sprint (March 2 - 6,  Consiglio Nazionale delle Ricerche, Milano)
 * [2019-11](2019-11_Granada/README.md) - Gammapy Coding Sprint (Nov 18 - 22,  Instituto de Astrofísica de Andalucía IAA-CSIC, Granada)
 * [2019-07](2019-07-Erlangen/README.md) - Gammapy Coding Sprint (July 15 - 19, ECAP, Erlangen)
 * [2019-02](2019-02_Paris/README.md) - Gammapy Coding Sprint (Feb 25 - Mar 1, APC, Paris)
