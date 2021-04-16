@@ -15,11 +15,12 @@
     - Smoothing https://github.com/gammapy/gammapy/pull/3314 (Laura)
     - Some cleanup https://github.com/gammapy/gammapy/pull/3313 (in contact with fermipy...) (Axel)
  * High level Analysis Interface:
-     - Lightcurve: https://github.com/gammapy/gammapy/pull/3312
-     - Excess map: https://github.com/gammapy/gammapy/pull/3307
+     - Lightcurve: https://github.com/gammapy/gammapy/pull/3312 (Régis)
+     - Excess map: https://github.com/gammapy/gammapy/pull/3307 (Régis)
      
- * Npred in ExcessMapEstimator https://github.com/gammapy/gammapy/pull/3303 (Quentin)
+ * Npred in ExcessMapEstimator https://github.com/gammapy/gammapy/pull/3303 (Quentin / Luca)
  * Root finding method: https://github.com/gammapy/gammapy/pull/3300 (Quentin)
+ * Maker API notebook https://github.com/gammapy/gammapy/pull/3315 (Quentin)
  
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
