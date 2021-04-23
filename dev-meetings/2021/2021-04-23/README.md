@@ -11,6 +11,7 @@
 
 * CTA science tools selection process (Bruno)
 * Optimizer options for Estimators (https://github.com/gammapy/gammapy/pull/3317) (Quentin)
+    - Open question: how to expose it on `Estimators`? Take a `Fit` instance directly? Or pass on config to `Fit.__init__`?
 * Gammapy Zenodo References (Axel for Jose Enrique)
 
 
