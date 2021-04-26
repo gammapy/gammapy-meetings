@@ -15,6 +15,18 @@ For this co-working week we will put a strong focus on coding wrapping up the Ga
 ## Group Photo
 
 
+
+## Issues to work on
+
+- https://github.com/gammapy/gammapy/issues/3271
+- https://github.com/gammapy/gammapy/issues/3240
+- https://github.com/gammapy/gammapy/issues/3118
+- https://github.com/gammapy/gammapy/issues/2913
+- https://github.com/gammapy/gammapy/issues/2704
+- https://github.com/gammapy/gammapy/issues/2442 (Axel)
+- https://github.com/gammapy/gammapy/issues/2434 (Axel)
+- https://github.com/gammapy/gammapy/issues/3004
+
 ## Agenda
 
 ### Monday 14h00:
