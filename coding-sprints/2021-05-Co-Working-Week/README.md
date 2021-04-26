@@ -11,6 +11,7 @@ The password will be given on Slack (#dev channel).
 In between communication via Slack: https://gammapy.slack.com (#dev channel)
 
 For this co-working week we will put a strong focus on coding wrapping up the Gammapy release candidate for v1.0.
+Only few discussions and coding, coding and coding instead...
 
 ## Group Photo
 
@@ -26,6 +27,7 @@ For this co-working week we will put a strong focus on coding wrapping up the Ga
 - https://github.com/gammapy/gammapy/issues/2442 (Axel)
 - https://github.com/gammapy/gammapy/issues/2434 (Axel)
 - https://github.com/gammapy/gammapy/issues/3004
+- Glossary entry for FoV/ ROI (Luca)
 
 ## Agenda
 
