@@ -73,3 +73,4 @@ Presentations:
 8. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 9. Fabio Acero, CEA Saclay, France ([facero](https://github.com/facero))
 10. Luca Giunti, APC Paris / CEA Saclay, France ([luca-giunti](https://github.com/luca-giunti))
+11. Vikas Joshi, ECAP Erlangen, Germany ([vikasj78](https://github.com/vikasj87))
