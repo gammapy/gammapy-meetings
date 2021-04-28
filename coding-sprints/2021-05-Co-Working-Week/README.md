@@ -28,6 +28,7 @@ Only few discussions and coding, coding and coding instead...
 - https://github.com/gammapy/gammapy/issues/2434 (Axel)
 - https://github.com/gammapy/gammapy/issues/3004
 - Glossary entry for FoV/ ROI (Luca)
+- Validate Crab HEALPix analysis (Vikas + Laura)
 
 ## Agenda
 
