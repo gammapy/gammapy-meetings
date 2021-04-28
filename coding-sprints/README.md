@@ -4,7 +4,7 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2021-05](2021-15-Co-Working-Week/README.md) - Gammapy co-working week in remote (May 3 - 7,  Zoom)
+* [2021-05](2021-05-Co-Working-Week/README.md) - Gammapy co-working week in remote (May 3 - 7,  Zoom)
 
 [Old meetings:]()
 * [2020-11](2020-11-Co-Working-Week/README.md) - Gammapy co-working week in remote (November 23 - 27,  Zoom)
