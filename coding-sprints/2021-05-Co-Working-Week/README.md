@@ -30,6 +30,11 @@ Only few discussions and coding, coding and coding instead...
 - https://github.com/gammapy/gammapy/issues/3324
 - Glossary entry for FoV/ ROI (Luca)
 - Validate Crab HEALPix analysis (Vikas + Laura)
+- 
+
+## Short discussions
+- https://github.com/gammapy/gammapy/issues/2353
+- 
 
 ## Agenda
 
@@ -37,7 +42,7 @@ Only few discussions and coding, coding and coding instead...
 Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
-- **Axel**: Introduction and overview (5 min.) ([slides](slides/gp-co-working-week-nov-2020.pdf))
+- **Axel**: Introduction and overview (5 min.) ([slides](slides/))
 
 ### Tuesday:
 
