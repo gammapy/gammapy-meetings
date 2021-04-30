@@ -30,7 +30,7 @@ Only few discussions and coding, coding and coding instead...
 - https://github.com/gammapy/gammapy/issues/3324
 - Glossary entry for FoV/ ROI (Luca)
 - Validate Crab HEALPix analysis (Vikas + Laura)
-- 
+- Debug FP convergence issue with Jean
 
 ## Short discussions
 - https://github.com/gammapy/gammapy/issues/2353
