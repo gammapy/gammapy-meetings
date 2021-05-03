@@ -48,6 +48,16 @@ Presentations:
 - **Axel**: Introduction and overview (5 min.)
 - **Jose Enrique**: not only gammapy code (10 min.) ([slides](slides/devops.pdf))
 
+
+Work topics:
+
+- finish open PRs! (everyone)
+- gammapy.irf docs (Atreyee)
+- event selection docs (Laura)
+- flux points class (Axel)
+- docs tests (José Enrique)
+- 
+
 ### Tuesday:
 
 **9h30**
