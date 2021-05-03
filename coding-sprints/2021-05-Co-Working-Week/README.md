@@ -37,7 +37,7 @@ Here is a list of some selected issues to work on:
 
 ## Short discussions
 - https://github.com/gammapy/gammapy/issues/2353
-- 
+-
 
 ## Agenda
 
@@ -46,6 +46,7 @@ Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
 - **Axel**: Introduction and overview (5 min.) ([slides](slides/))
+- **Jose Enrique**: not only gammapy code (10 min.) ([slides](slides/devops.pdf))
 
 ### Tuesday:
 
@@ -71,7 +72,7 @@ Presentations:
 
 ### Friday 15h00:
 - Close out meeting
-    
+
 ## Participants
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
