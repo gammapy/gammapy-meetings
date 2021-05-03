@@ -25,7 +25,7 @@ Here is a list of some selected issues to work on:
 - https://github.com/gammapy/gammapy/issues/3271
 - https://github.com/gammapy/gammapy/issues/3240
 - https://github.com/gammapy/gammapy/issues/3118
-- https://github.com/gammapy/gammapy/issues/2913
+- https://github.com/gammapy/gammapy/issues/2913 (Atreyee)
 - https://github.com/gammapy/gammapy/issues/2704
 - https://github.com/gammapy/gammapy/issues/2442 (Axel)
 - https://github.com/gammapy/gammapy/issues/2434 (Axel)
