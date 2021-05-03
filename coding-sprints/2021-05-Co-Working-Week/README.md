@@ -45,29 +45,29 @@ Here is a list of some selected issues to work on:
 Kick off meeting with presentations on Zoom 14h00
 
 Presentations:
-- **Axel**: Introduction and overview (5 min.) ([slides](slides/))
+- **Axel**: Introduction and overview (5 min.)
 - **Jose Enrique**: not only gammapy code (10 min.) ([slides](slides/devops.pdf))
 
 ### Tuesday:
 
-**10h00**
+**9h30**
 
 **16h30**
 
 ### Wednesday:
-**10h00**
+**9h30**
 
 **16h30**
 
 ### Thursday:
-**10h00**
+**9h30**
 - "Group photo" (screenshot)
 
 **16h30**
 
 
 
-### Friday 10h00:
+### Friday 9h30:
 - Quick report by everyone
 
 ### Friday 15h00:
