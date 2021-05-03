@@ -19,6 +19,9 @@ Only few discussions and coding, coding and coding instead...
 
 ## Issues to work on
 
+In general just check the v0.19 milestone: https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.19
+
+Here is a list of some selected issues to work on:
 - https://github.com/gammapy/gammapy/issues/3271
 - https://github.com/gammapy/gammapy/issues/3240
 - https://github.com/gammapy/gammapy/issues/3118
