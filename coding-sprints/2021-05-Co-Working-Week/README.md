@@ -56,7 +56,8 @@ Work topics:
 - event selection docs (Laura)
 - flux points class (Axel)
 - docs tests (José Enrique)
-- 
+- edisp convolution caching (Quentin)
+- datasets API notebook (Quentin)
 
 ### Tuesday:
 
