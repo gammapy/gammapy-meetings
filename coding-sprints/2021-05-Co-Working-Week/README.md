@@ -61,8 +61,14 @@ Work topics:
 ### Tuesday:
 
 **9h30**
+- FP convergence issue (Régis, Axel)
+- Review open PRs (Axel)
+- https://github.com/gammapy/gammapy/issues/2704 (Fabio P.)
+- Code meta JSON / CITATION files / Docker setup (José Enrique)
+- Update benchmarks (Quentin) 
 
 **16h30**
+
 
 ### Wednesday:
 **9h30**
