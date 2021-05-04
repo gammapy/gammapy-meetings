@@ -65,7 +65,7 @@ Work topics:
 - Review open PRs (Axel)
 - https://github.com/gammapy/gammapy/issues/2704 (Fabio P.)
 - Code meta JSON / CITATION files / Docker setup (José Enrique)
-- Update benchmarks (Quentin) 
+- Finish find_roots PR / Update estimators in benchmarks (Quentin) 
 
 **16h30**
 
