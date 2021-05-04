@@ -23,14 +23,14 @@ In general just check the v0.19 milestone: https://github.com/gammapy/gammapy/is
 
 Here is a list of some selected issues to work on:
 - https://github.com/gammapy/gammapy/issues/3271
-- https://github.com/gammapy/gammapy/issues/3240
+- https://github.com/gammapy/gammapy/issues/3240 (Fabio)
 - https://github.com/gammapy/gammapy/issues/3118
 - https://github.com/gammapy/gammapy/issues/2913 (Atreyee)
-- https://github.com/gammapy/gammapy/issues/2704
+- https://github.com/gammapy/gammapy/issues/2704 (Fabio)
 - https://github.com/gammapy/gammapy/issues/2442 (Axel)
 - https://github.com/gammapy/gammapy/issues/2434 (Axel)
 - https://github.com/gammapy/gammapy/issues/3004
-- https://github.com/gammapy/gammapy/issues/3324
+- https://github.com/gammapy/gammapy/issues/3324 (Fabio)
 - Glossary entry for FoV/ ROI (Luca)
 - Validate Crab HEALPix analysis (Vikas + Laura)
 - Debug FP convergence issue with Jean
