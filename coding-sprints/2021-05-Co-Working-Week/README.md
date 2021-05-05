@@ -73,6 +73,10 @@ Work topics:
 
 ### Wednesday:
 **9h30**
+- Docker PR https://github.com/gammapy/gammapy/pull/3339 (José Enrique)
+- HEALPix co-working session (Laura, Axel, ...)
+- Review open PRs (Axel, Régis)
+- Check DL3 optional meta data access (Atreyee, ...)
 
 **16h30**
 
