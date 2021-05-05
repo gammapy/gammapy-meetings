@@ -78,6 +78,7 @@ Work topics:
 - HEALPix co-working session (Laura, Axel, ...)
 - Review open PRs (Axel, Régis)
 - Check DL3 optional meta data access (Atreyee, ...)
+- https://github.com/gammapy/gammapy/issues/2704 (Fabio P.)
 
 
 **16h30**
