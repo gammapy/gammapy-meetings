@@ -85,17 +85,20 @@ Work topics:
 
 ### Thursday:
 **9h30**
-- "Group photo" (screenshot)
+- Docker / meta data discussion (José Enrique, Axel, Bruno, Regis, Quentin)
 
 **16h30**
-
+- Edisp caching (Quentin)
+- HPX dataset fit validation (Laura) 
 
 
 ### Friday 9h30:
-- Quick report by everyone
+- Work planning
 
 ### Friday 15h00:
 - Close out meeting
+- "Group photo" (screenshot)
+
 
 ## Participants
 1. Axel Donath, MPIK Heidelberg, Germany ([adonath](https://github.com/adonath))
