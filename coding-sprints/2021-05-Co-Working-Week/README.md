@@ -94,6 +94,15 @@ Work topics:
 
 ### Friday 9h30:
 - Work planning
+- Edisp caching profiling (Axel / Quentin)
+- Flux points/ estimate discussion session (Régis / Axel / Quentin)
+- Cached counts fix: either remove or implement update mechanism or unify map dtype or cython (?)
+- Kernel radius TS map estimator https://github.com/gammapy/gammapy/issues/3004 (Régis / Axel / Quentin, requires checking...)
+- HPX npred computation PR & testing (Laura / Vikas)
+- Fix broken doc links, doc tests, see https://github.com/gammapy/gammapy/issues/3143 (José Enrique)
+- CITATION.cff and `cffconvert` (wait for feedback, com back to it next week) (José Enrique / Bruno?)
+- Implement `Map.plot_mask()` (Fabio P.)
+
 
 ### Friday 15h00:
 - Close out meeting
