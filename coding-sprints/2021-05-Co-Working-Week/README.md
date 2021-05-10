@@ -14,7 +14,7 @@ For this co-working week we will put a strong focus on coding wrapping up the Ga
 Only few discussions and coding, coding and coding instead...
 
 ## Group Photo
-
+![group-photo-co-working-may-2021](https://user-images.githubusercontent.com/3715928/117621247-b1f55c00-b171-11eb-936a-77c078587ed2.jpg)
 
 
 ## Issues to work on
