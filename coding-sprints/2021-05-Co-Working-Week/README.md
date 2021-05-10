@@ -102,11 +102,10 @@ Work topics:
 - Fix broken doc links, doc tests, see https://github.com/gammapy/gammapy/issues/3143 (José Enrique)
 - CITATION.cff and `cffconvert` (wait for feedback, com back to it next week) (José Enrique / Bruno?)
 - Implement `Map.plot_mask()` (Fabio P.)
-
+- "Group photo" (screenshot)
 
 ### Friday 15h00:
 - Close out meeting
-- "Group photo" (screenshot)
 
 
 ## Participants
