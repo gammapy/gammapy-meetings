@@ -10,6 +10,7 @@
 
 
 * Quick report from STAC meeting (Régis)
+* Change HEALPix defauk scheme from nested to ring? (Laura)
 * https://github.com/gammapy/gammapy/issues/3367 (Atreyee, Axel)
 * https://github.com/gammapy/gammapy/pull/3366 (Régis)
 * https://github.com/gammapy/gammapy/pull/3364 (Régis)
