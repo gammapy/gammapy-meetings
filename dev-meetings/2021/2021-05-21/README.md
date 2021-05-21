@@ -9,5 +9,12 @@
 * Short report by everyone, what they have worked on during the past week 
 
 
+* Quick report from STAC meeting (Régis)
+* https://github.com/gammapy/gammapy/issues/3367 (Atreyee, Axel)
+* https://github.com/gammapy/gammapy/pull/3366 (Régis)
+* https://github.com/gammapy/gammapy/pull/3364 (Régis)
+* Flux points as region maps demo (Axel)
+* Anything else? 
+
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
