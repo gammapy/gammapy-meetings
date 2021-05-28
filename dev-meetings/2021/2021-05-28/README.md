@@ -9,5 +9,11 @@
 * Short report by everyone, what they have worked on during the past week 
 
 
+* https://github.com/gammapy/gammapy/pull/3372 (Axel)
+* https://github.com/gammapy/gammapy/pull/3379 (Quentin)
+* https://github.com/gammapy/gammapy/pull/3371 (Fabio)
+* https://github.com/gammapy/gammapy/issues/3375 (Atreyee)
+* 
+
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
