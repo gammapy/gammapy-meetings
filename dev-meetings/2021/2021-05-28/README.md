@@ -14,6 +14,7 @@
 * https://github.com/gammapy/gammapy/pull/3377 (José Enrique)
 * https://github.com/gammapy/gammapy/pull/3371 (Fabio)
 * https://github.com/gammapy/gammapy/issues/3375 (Atreyee)
+* https://github.com/gammapy/gammapy/pull/3343 (Luca)
 
 
 
