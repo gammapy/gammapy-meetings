@@ -16,5 +16,8 @@
 * WcsGeom.from_aligned() https://github.com/gammapy/gammapy/pull/3399 (Axel)
 * energy_range vs energy_bounds https://github.com/gammapy/gammapy/pull/3402 (Fabio)
 
+* Folder structure: https://github.com/gammapy/gammapy/pull/3385 (Quentin / Axel)
+* 
+
 * Documentation list: https://github.com/gammapy/gammapy/issues/3143 (everyone)
 * Anything else?
