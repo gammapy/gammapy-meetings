@@ -10,6 +10,7 @@
   * Change tutorials to use Models.to_parameters_table() method ([#3528](https://github.com/gammapy/gammapy/pull/3528), Régis)
   * Add sample_time to temporal models  ([#3523](https://github.com/gammapy/gammapy/pull/3523), Fabio)
   * Create an Observation object from a single file ([#3514](https://github.com/gammapy/gammapy/pull/3514), Cosimo)
+  * Start implementing RadMax2d ([#3515](https://github.com/gammapy/gammapy/pull/3515), Cosimo)
 * Some open issues:
   * Suppress astropy warnings? [#3532](https://github.com/gammapy/gammapy/issues/3532)
   * Missing memory management of MapDataset [#3530](https://github.com/gammapy/gammapy/issues/3530)
