@@ -7,7 +7,7 @@
 * Short report by everyone, what they have worked on during the past week
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
   * Minor change on IRF.data and .quantity setters ([#3538](https://github.com/gammapy/gammapy/pull/3538), Quentin)
-  * Allow quanity for irf data in __init__ and setter,  ([#3538](https://github.com/gammapy/gammapy/pull/3537), Max)
+  * Allow quanity for irf data in __init__ and setter,  ([#3537](https://github.com/gammapy/gammapy/pull/3537), Max)
   * Add TemplateNDSpectralModel ([#3535](https://github.com/gammapy/gammapy/pull/3535), Quentin)
   * Follow up on RadMax2d? ([#3515](https://github.com/gammapy/gammapy/pull/3515), Max, Cosimo)
 * Status of benchmark/validation
