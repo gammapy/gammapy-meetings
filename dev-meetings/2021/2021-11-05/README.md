@@ -27,6 +27,7 @@
   * Implement FluxProfileEstimator ([#3480](https://github.com/gammapy/gammapy/pull/3480), Axel)
   * Add codemeta.json and CITATION.cff description metadata files ([#3344](https://github.com/gammapy/gammapy/pull/3344), Jose-Enrique)
 * Open issues marked 0.19:
+  * https://github.com/gammapy/gammapy/issues/3505 
   * Optional keywords required by gammapy [#3352](https://github.com/gammapy/gammapy/issues/3352)
   * Optional key words required for dl3 data [#3119](https://github.com/gammapy/gammapy/issues/3119)
   * Unify mask handling in Dataset methods and Estimators [#3031](https://github.com/gammapy/gammapy/issues/3031)
