@@ -6,10 +6,10 @@
 
 * Short report by everyone, what they have worked on during the past week
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls)
+  * Use FluxMaps as return type for ExcessMapEstimator ([#3491](https://github.com/gammapy/gammapy/pull/3491), Axel)
   * Implement Map broadcasting ([#3573](https://github.com/gammapy/gammapy/pull/3570), Axel)
   * Remove link from parameter.to_table() ([#3570](https://github.com/gammapy/gammapy/pull/3573), Quentin)
   * Add test for event sampler using CTA IRF alpha configuration ([#3568](https://github.com/gammapy/gammapy/pull/3568), Fabio)
-  * Use FluxMaps as return type for ExcessMapEstimator ([#3491](https://github.com/gammapy/gammapy/pull/3491), Axel)
   * Add plot_at_energy option for Background3D ([#3388](https://github.com/gammapy/gammapy/pull/3388), Atreyee)
   * Add multiple selection in ObservationTable.select_observations  ([#3431](https://github.com/gammapy/gammapy/pull/3431), Régis)
   * Correct FluxPointsEstimator to handle empty datasets slices ([#3543](https://github.com/gammapy/gammapy/pull/3543), Régis)
