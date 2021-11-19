@@ -10,6 +10,8 @@
   * Adapt npred excess definition ([#3581](https://github.com/gammapy/gammapy/pull/3581), Axel)
   * Add a peek function for the class MapDataset ([#3576](https://github.com/gammapy/gammapy/pull/3576), Bruno/Régis)
   * Pass empty dataset in Datasets.stack_reduce ([#3581](https://github.com/gammapy/gammapy/pull/3581), Atreyee)
+  * Remove success filtering of unrelated quantities https://github.com/gammapy/gammapy/pull/3612
+  * Remove support for Python 3.6? https://github.com/gammapy/gammapy/actions/runs/1478674744
  
 * Open issues marked [0.19](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.19)
 
