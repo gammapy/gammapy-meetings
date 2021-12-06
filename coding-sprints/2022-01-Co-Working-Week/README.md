@@ -29,3 +29,4 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 ## Participants
 1. Régis Terrier, APC, Paris ([registerrier](https://github.com/registerrier))
 2. José Enrique Ruiz, IAA-CSIC, Granada ([bultako](https://github.com/bultako))
+3. Bruno Khélifi, APC, Paris ([bkhelifi](https://github.com/bkhelifi))
