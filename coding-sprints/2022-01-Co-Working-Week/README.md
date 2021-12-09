@@ -32,3 +32,4 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 3. Bruno Khélifi, APC, Paris ([bkhelifi](https://github.com/bkhelifi))
 4. Atreyee Sinha, UCM, Madrid ([AtreyeeS](https://github.com/AtreyeeS)))
 5. Laura Olivera Nieto, MPIK, Heidelberg ([LauraOlivera](https://github.com/LauraOlivera))
+6. Fabio Pintore, INAF/IASF Palermo, ([fabiopintore](https://github.com/fabiopintore))
