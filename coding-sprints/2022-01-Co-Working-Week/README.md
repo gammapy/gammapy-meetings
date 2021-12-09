@@ -31,3 +31,4 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 2. José Enrique Ruiz, IAA-CSIC, Granada ([bultako](https://github.com/bultako))
 3. Bruno Khélifi, APC, Paris ([bkhelifi](https://github.com/bkhelifi))
 4. Atreyee Sinha, UCM, Madrid ([AtreyeeS](https://github.com/AtreyeeS)))
+5. Laura Olivera Nieto, MPIK, Heidelberg ([LauraOlivera](https://github.com/LauraOlivera))
