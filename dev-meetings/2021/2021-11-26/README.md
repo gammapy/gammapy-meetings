@@ -5,7 +5,7 @@
 # Agenda
 
 * Feedback on the v0.19 release
-* MAGIC data with RADMAX (Cosimo)
+* MAGIC data with RADMAX [(slides)](release_runs_rad_max_implementation.pdf) (Cosimo)
 * Main steps towards v1.0. 
   * Next co-working week
 * [Open pull requests](https://github.com/gammapy/gammapy/pulls) 
