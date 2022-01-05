@@ -12,6 +12,13 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 
 ## Agenda
 
+Topics:
+- Solving issues: https://github.com/gammapy/gammapy/issues
+- Improve docs: https://github.com/gammapy/gammapy/issues/3143
+- CTA data challenge requirements with CTAO
+- Gammapy development workflow after v1.0
+- Gammapy governance and roles
+
 ### Monday 2pm
 
 * Kick-off meeting
