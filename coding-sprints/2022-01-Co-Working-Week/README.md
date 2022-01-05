@@ -16,8 +16,8 @@ Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
 - Improve docs: https://github.com/gammapy/gammapy/issues/3143
 - CTA data challenge requirements with CTAO
-- Gammapy development workflow after v1.0
-- Gammapy governance and roles
+- Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
+- Gammapy governance and roles (write short PIG)
 
 ### Monday 2pm
 
