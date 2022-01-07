@@ -42,3 +42,4 @@ Topics:
 5. Laura Olivera Nieto, MPIK, Heidelberg ([LauraOlivera](https://github.com/LauraOlivera))
 6. Fabio Pintore, INAF/IASF Palermo, ([fabiopintore](https://github.com/fabiopintore))
 7. Axel Donath, CfA, ([adonath](https://github.com/adonath))
+8. Cosimo Nigro, IFAE, Barcelona ([cosimoNigro](https://github.com/cosimoNigro))
