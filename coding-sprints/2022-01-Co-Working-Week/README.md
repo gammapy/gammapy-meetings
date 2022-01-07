@@ -18,6 +18,7 @@ Topics:
 - CTA data challenge requirements with CTAO
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 - Gammapy governance and roles (write short PIG)
+- Gammapy paper session?
 
 ### Monday 2pm
 
