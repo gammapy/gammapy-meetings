@@ -3,7 +3,7 @@
 Users call are planned on a monthly timescale. They take place on eZuce on the CTA community or on Zoom.
 
 [Next meeting:]()
-[2022-01-20](2022/2022-01-20/README.md)
+* [2022-01-20](2022/2022-01-20/README.md)
 
 [Previous meetings:]()
 * 2020 :
