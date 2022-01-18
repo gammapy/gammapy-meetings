@@ -11,7 +11,6 @@ The main objective is the finalization of v1.0 (documentation, clean-up and poss
 Mentoring sessions for new comers will be organized to help getting involved in the development process. 
 
 ## Agenda
-
 Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
 - Improve docs: https://github.com/gammapy/gammapy/issues/3143
@@ -19,28 +18,28 @@ Topics:
 - Gammapy paper session?
 
 ### Monday
-#### Afternoon session 
+**Afternoon session**
 * Kick-off meeting (2 pm)
 * New docs template overview (José Enrique), how to decide?
 
 ### Tuesday
-#### Morning session
-#### Afternoon session
+**Morning session**
+**Afternoon session**
 
 ### Wednesday
-#### Morning session
-#### Afternoon session
+**Morning session**
+**Afternoon session**
 - Gammapy governance and roles (write short PIG)
 
 
 ### Thursday
-#### Morning session
-#### Afternoon session 
+**Morning session**
+**Afternoon session**
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 
 ### Friday
-#### Morning session
-#### Afternoon session 
+**Morning session**
+**Afternoon session**
 - Close out meeting (2 pm)
 
 ## Participants
