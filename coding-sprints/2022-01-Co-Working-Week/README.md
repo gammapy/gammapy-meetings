@@ -14,25 +14,31 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 
 Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
+- New docs template (overview by José Enrique and then quickly decide whether we adopt it...) early in the week
 - Improve docs: https://github.com/gammapy/gammapy/issues/3143
-- CTA data challenge requirements with CTAO
+- CTA data challenge requirements with CTAO (?)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 - Gammapy governance and roles (write short PIG)
 - Gammapy paper session?
 
-### Monday 2pm
-
-* Kick-off meeting
+### Monday
+* Kick-off meeting (2 pm)
 
 ### Tuesday
+* Morning session
+* Afternoon session
 
 ### Wednesday
+* Morning session
+* Afternoon session
 
 ### Thursday
+* Morning session
+* Afternoon session
 
-### Friday 2pm
-
-* Close out meeting
+### Friday
+* Morning session
+* Close out meeting (2 pm)
 
 ## Participants
 1. Régis Terrier, APC, Paris ([registerrier](https://github.com/registerrier))
