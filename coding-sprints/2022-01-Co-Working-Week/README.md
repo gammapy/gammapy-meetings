@@ -14,7 +14,6 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 
 Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
-- New docs template (overview by José Enrique and then quickly decide whether we adopt it...) early in the week
 - Improve docs: https://github.com/gammapy/gammapy/issues/3143
 - CTA data challenge requirements with CTAO (?)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
@@ -23,6 +22,7 @@ Topics:
 
 ### Monday
 * Kick-off meeting (2 pm)
+* New docs template overview (José Enrique), how to decide?
 
 ### Tuesday
 * Morning session
