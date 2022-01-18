@@ -44,5 +44,5 @@ Topics:
 7. Axel Donath, CfA, ([adonath](https://github.com/adonath))
 8. Cosimo Nigro, IFAE, Barcelona ([cosimoNigro](https://github.com/cosimoNigro))
 9. Luca Giunti, APC, Paris ([luca-giunti](https://github.com/luca-giunti))
-10. Matteo Cerruti, APC, Paris ([mcerruti] (https://github.com/mcerruti))
+10. Matteo Cerruti, APC, Paris ([mcerruti](https://github.com/mcerruti))
 11. Catherine Boisson, LUTH, Meudon
