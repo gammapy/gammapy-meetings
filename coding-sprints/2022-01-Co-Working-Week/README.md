@@ -20,6 +20,7 @@ Topics:
 ### Monday
 ##### Afternoon session
 * Kick-off meeting (2 pm)
+* Open project discussion for the week
 * New docs template overview (José Enrique), how to decide?
 
 ### Tuesday
