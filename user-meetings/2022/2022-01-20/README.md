@@ -1,7 +1,8 @@
 # Gammapy General User Call
 
 * Thursday, January 20th, 2022 at 15:00 (CET)
-* Zoom meeting: link will be added later
+* Zoom meeting link: 
+https://u-paris.zoom.us/j/88424360789?pwd=djNwNUpyNmd1WUlTM3U1VnlNU045QT09
 * The connection details are [here](ConnectionDetails.txt)
 
 # Agenda
