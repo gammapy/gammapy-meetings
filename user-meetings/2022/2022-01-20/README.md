@@ -7,7 +7,7 @@ https://u-paris.zoom.us/j/88424360789?pwd=djNwNUpyNmd1WUlTM3U1VnlNU045QT09
 
 # Agenda
 
-* General presentation on v0.19 and remaining steps for v1.0 (15 min, Régis). See [changelog](https://docs.gammapy.org/0.19/changelog.html#nov-22nd-2021) as well.
+* General presentation on v0.19 and remaining steps for v1.0 (15 min, Régis). [(slides)](gammapy_v0.19.pdf). See [changelog](https://docs.gammapy.org/0.19/changelog.html#nov-22nd-2021) as well.
 * How to upgrade from v0.18.2 to 0.19? The main API changes (15 min, Atreyee). See [main API changes Wiki](https://github.com/gammapy/gammapy/wiki/Main-API-changes-from-v0.18.2-to-v0.19) as well.
 * Estimator API demo ([notebook](estimators.ipynb)) (15 min, Axel)
 * Github [discussions](https://github.com/gammapy/gammapy/discussions) (5 min, Axel)
