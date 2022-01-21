@@ -55,3 +55,4 @@ Topics:
 9. Luca Giunti, APC, Paris ([luca-giunti](https://github.com/luca-giunti))
 10. Matteo Cerruti, APC, Paris ([mcerruti](https://github.com/mcerruti))
 11. Catherine Boisson, LUTH, Meudon
+12. Quentin Remy, MPIK, Heidelberg ([QRemy](https://github.com/QRemy))
