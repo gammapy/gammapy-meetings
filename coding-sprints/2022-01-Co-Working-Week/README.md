@@ -24,23 +24,23 @@ Topics:
 * New docs template overview (José Enrique), how to decide?
 
 ### Tuesday
-##### Morning session
-##### Afternoon session
+##### Morning session (9:30pm)
+##### Afternoon session (2pm)
 
 ### Wednesday
-##### Morning session
-##### Afternoon session
+##### Morning session (9:30pm)
+##### Afternoon session (2pm)
 - Gammapy governance and roles (write short PIG)
 
 
 ### Thursday
-##### Morning session
-##### Afternoon session
+##### Morning session (9:30pm)
+##### Afternoon session (2pm)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 
 ### Friday
-##### Morning session
-##### Afternoon session
+##### Morning session (9:30pm)
+##### Afternoon session (2pm)
 - Close out meeting (2 pm)
 
 ## Participants
