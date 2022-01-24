@@ -30,14 +30,16 @@ Topics:
 * New docs template overview (José Enrique), how to decide?
 
 ### Tuesday
-##### Morning session (9:30pm)
+##### Morning session (10:am)
 ##### Afternoon session (2pm)
+* Discussion on paper
+* Discussion on timing (3pm)
 
 ### Wednesday
 ##### Morning session (9:30pm)
 ##### Afternoon session (2pm)
-- Science Data Challenge: discussions on the requirements (from physics to codes)
-- Gammapy governance and roles (write short PIG). Also define GitHub roles...
+- Science Data Challenge: discussions on the requirements (from physics to codes) - 2pm
+- Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
 
 
 ### Thursday
