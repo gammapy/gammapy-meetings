@@ -20,14 +20,17 @@ Mentoring sessions for new comers will be organized to help getting involved in 
 Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
 - Improve docs: https://github.com/gammapy/gammapy/issues/3143
-- CTA data challenge requirements with CTAO (?)
-- Gammapy paper session?
+- CTA data challenge requirements with CTAO 
+- Gammapy paper session
 
 ### Monday
 ##### Afternoon session
-* Kick-off meeting (2 pm)
+* Kick-off meeting (2 pm) - [slides]()
 * Open project discussion for the week
-* New docs template overview (José Enrique), how to decide?
+  * Open issues to solve: see [project](https://github.com/orgs/gammapy/projects/2) 
+  * Documentation [project](https://github.com/orgs/gammapy/projects/1/views/1)
+  * Energy dependent ON-region [project](https://github.com/orgs/gammapy/projects/3)
+* [New docs template overview](https://www.iaa.csic.es/~jer/gammapydocs/index.html) (José Enrique), how to decide?
 
 ### Tuesday
 ##### Morning session (10:am)
