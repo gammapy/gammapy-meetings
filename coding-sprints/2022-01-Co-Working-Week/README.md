@@ -37,7 +37,7 @@ Topics:
 ##### Morning session (9:30pm)
 ##### Afternoon session (2pm)
 - Science Data Challenge: discussions on the requirements (from physics to codes)
-- Gammapy governance and roles (write short PIG)
+- Gammapy governance and roles (write short PIG). Also define GitHub roles...
 
 
 ### Thursday
