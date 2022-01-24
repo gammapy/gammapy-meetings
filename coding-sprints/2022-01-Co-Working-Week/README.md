@@ -4,7 +4,10 @@ The next "Gammapy co-working week" will be held from January 24th to 28th 2022.
 
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
-A Zoom room will be open the full week.
+A Zoom room will be open the full week. ID:  ID: 837 3792 5932.
+Password given on Slack (#dev channel).
+
+Communication via Slack on #dev channel in the meantime.
 
 The main objective is the finalization of v1.0 (documentation, clean-up and possible missing API features). We will summarize user feedback and implement possible changes.
 
