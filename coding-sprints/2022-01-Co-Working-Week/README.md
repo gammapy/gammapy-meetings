@@ -44,6 +44,7 @@ Topics:
 
 ### Thursday
 ##### Morning session (9:30pm)
+- Un-binned likelihood analysis
 ##### Afternoon session (2pm)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 
