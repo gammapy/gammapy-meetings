@@ -6,7 +6,7 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 
 A Zoom room will be open the full week.  ID: 837 3792 5932.
 
-[https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09](https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09)
+[https://u-paris.zoom.us/j/83737925932](https://u-paris.zoom.us/j/83737925932)
 
 Password given on Slack (#dev channel).
 
@@ -25,7 +25,7 @@ Topics:
 
 ### Monday
 ##### Afternoon session
-* Kick-off meeting (2 pm) - [slides]()
+* Kick-off meeting (2 pm) - [slides](coding%20sprint%20intro.pdf)
 * Open project discussion for the week
   * Open issues to solve: see [project](https://github.com/orgs/gammapy/projects/2) 
   * Documentation [project](https://github.com/orgs/gammapy/projects/1/views/1)
