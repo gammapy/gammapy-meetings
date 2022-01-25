@@ -53,6 +53,8 @@ Topics:
 ### Thursday
 ##### Morning session (9:30am)
 - Un-binned likelihood analysis - 10 am
+- Follow-up on time resolved spectroscopy [see issue](https://github.com/gammapy/gammapy/issues/3616)
+
 ##### Afternoon session (2pm)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 
