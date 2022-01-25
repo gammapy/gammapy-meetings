@@ -33,26 +33,26 @@ Topics:
 * [New docs template overview](https://www.iaa.csic.es/~jer/gammapydocs/index.html) (José Enrique), how to decide?
 
 ### Tuesday
-##### Morning session (10:am)
+##### Morning session (10am)
 ##### Afternoon session (2pm)
 * Discussion on paper: https://github.com/gammapy/gammapy-paper
 * Discussion on timing (3pm)
 
 ### Wednesday
-##### Morning session (9:30pm)
+##### Morning session (9:30am)
 ##### Afternoon session (2pm)
 - Science Data Challenge: discussions on the requirements (from physics to codes) - 2pm
 - Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
 
 
 ### Thursday
-##### Morning session (9:30pm)
+##### Morning session (9:30am)
 - Un-binned likelihood analysis - 10 am
 ##### Afternoon session (2pm)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
 
 ### Friday
-##### Morning session (9:30pm)
+##### Morning session (9:30am)
 ##### Afternoon session (2pm)
 - Close out meeting (2 pm)
 
