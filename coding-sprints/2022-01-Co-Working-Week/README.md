@@ -37,6 +37,9 @@ Topics:
 ##### Afternoon session (2pm)
 * Discussion on paper: https://github.com/gammapy/gammapy-paper
 * Discussion on timing (3pm)
+ * conversion to time series. See this [test](https://github.com/gammapy/gammapy/blob/master/gammapy/estimators/points/tests/test_lightcurve.py#L125)
+ * astropy tools: [Lomb-Scargle](https://docs.astropy.org/en/stable/timeseries/lombscargle.html) , [bayesian blocks](https://docs.astropy.org/en/stable/api/astropy.stats.bayesian_blocks.html)
+ *   
 
 ### Wednesday
 ##### Morning session (9:30am)
