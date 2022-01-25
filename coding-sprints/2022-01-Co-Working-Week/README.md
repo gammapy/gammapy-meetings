@@ -35,7 +35,7 @@ Topics:
 ### Tuesday
 ##### Morning session (10:am)
 ##### Afternoon session (2pm)
-* Discussion on paper
+* Discussion on paper: https://github.com/gammapy/gammapy-paper
 * Discussion on timing (3pm)
 
 ### Wednesday
