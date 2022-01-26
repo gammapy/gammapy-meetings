@@ -76,3 +76,4 @@ Topics:
 10. Matteo Cerruti, APC, Paris ([mcerruti](https://github.com/mcerruti))
 11. Catherine Boisson, LUTH, Meudon
 12. Quentin Remy, MPIK, Heidelberg ([QRemy](https://github.com/QRemy))
+13. Maximilian Nöthe, TU Dortmund, ([maxnoe](https://github.com/maxnoe))
