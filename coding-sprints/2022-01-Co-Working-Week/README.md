@@ -55,7 +55,9 @@ Topics:
 - Follow-up on time resolved spectroscopy [see issue](https://github.com/gammapy/gammapy/issues/3616)
 
 ##### Afternoon session (2pm)
-- Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
+- Gammapy development workflow after v1.0
+  - PIG 23: adapt https://numpy.org/neps/nep-0029-deprecation_policy.html and https://github.com/astropy/astropy-APEs/blob/main/APE18.rst
+  - PIG 24: adapt https://github.com/astropy/astropy-APEs/blob/main/APE2.rst
 - Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
 
 ### Friday
