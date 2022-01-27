@@ -47,7 +47,6 @@ Topics:
 ##### Morning session (9:30am)
 ##### Afternoon session (2pm)
 - Science Data Challenge: discussions on the requirements (from physics to codes) - 2pm
-- Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
 
 
 ### Thursday
@@ -57,6 +56,7 @@ Topics:
 
 ##### Afternoon session (2pm)
 - Gammapy development workflow after v1.0 (write short PIG, likely adapt https://numpy.org/neps/nep-0029-deprecation_policy.html as well)
+- Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
 
 ### Friday
 ##### Morning session (9:30am)
