@@ -58,8 +58,24 @@ Topics:
 - Gammapy development workflow after v1.0
   - PIG 23: adapt https://numpy.org/neps/nep-0029-deprecation_policy.html and https://github.com/astropy/astropy-APEs/blob/main/APE18.rst
   - PIG 24: adapt https://github.com/astropy/astropy-APEs/blob/main/APE2.rst
-- Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm
-
+- Gammapy governance and roles (write short PIG). Also define GitHub roles...  - 3:30 pm 
+  - Not urgent but we should start discussing now
+  - Develop and discuss and document on webpage?
+  - Responsibilities:
+    - Coordination committee 
+    - Subpackage maintainer
+    - Lead developers
+    - Project managers
+    - CI/Docs/Test maintainer
+    - Community engagement: Slack, Twitter, GitHub Discussions
+    - gammapy validation & performance
+    - gamma-sky & gamma-cat?
+    - gammapy recipes
+    - gammapy.org maintainer
+    - Core package release coordinator (tag releases, conda packages, feature freeze etc.)
+    - Ombudsperson?
+    - What about Gammapy meetings? User meetings? Coding sprints organisation? (now project managers...)
+    - Contributors
 ### Friday
 ##### Morning session (9:30am)
 ##### Afternoon session (2pm)
