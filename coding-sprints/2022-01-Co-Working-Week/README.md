@@ -16,6 +16,9 @@ The main objective is the finalization of v1.0 (documentation, clean-up and poss
 
 Mentoring sessions for new comers will be organized to help getting involved in the development process. 
 
+## Group photo
+![group-photo-co-working-January-2022](group_photo.png)
+
 ## Agenda
 Topics:
 - Solving issues: https://github.com/gammapy/gammapy/issues
