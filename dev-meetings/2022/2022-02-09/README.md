@@ -13,7 +13,11 @@
 * CTAO data model is being prepared and new format definitions will be proposed in the coming months
 * Gammapy v1.0 is to be released in the coming months (before next CTA meeting) and as it will serve as long term stable release, it should be able to support the new CTA format.
 
-# Related issues
+## Related issues
+
+* [Separate internal data model from specific serialization formats](https://github.com/gammapy/gammapy/issues/3767)
+* [Read information from EVENTS header when not present in OBS_INDEX](https://github.com/gammapy/gammapy/issues/3724)
+  - associated PR: [Merge obs_info from obs index with EVENTS Header](https://github.com/gammapy/gammapy/pull/3742)
 
 
 
