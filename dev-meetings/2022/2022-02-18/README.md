@@ -18,8 +18,10 @@
 * Participation to coming conferences
   - scipy 2022 - deadline Feb 22. See [there](https://www.scipy2022.scipy.org/talk-poster-presentations)
   - gamma 2022 - Deadline Apr 30. See [there](https://indico.icc.ub.edu/event/46/abstracts/)
-  - others?
+  - Fermi symposium 9-15 October https://indico.cern.ch/event/1091305/
+  - ADASS : end october 2022 https://www.adass.org/futureven.html
 * Contributions to CTA meeting in Bologna
+  - 
 
 * [Pull Requests](https://github.com/gammapy/gammapy/pulls)
 * [Open issues](https://github.com/gammapy/gammapy/issues)
