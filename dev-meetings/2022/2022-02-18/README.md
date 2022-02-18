@@ -1,0 +1,27 @@
+# Gammapy Developer Meeting
+
+* Friday, Februeary 18th, 2022 at 2 pm (CEST)
+* "Gammapy Developer Meeting" on Zoom (direct link on Slack)
+# Agenda
+
+
+* Restructuring of gammapy.data, separating data model from serialization
+  - Some code proposition for Observation see : [proposal](https://github.com/gammapy/gammapy/issues/3767)
+  - Remove unused code in Observation [3797](https://github.com/gammapy/gammapy/pull/3797) - Max
+* On-going projects:
+  - [Point-like analysis project status](https://github.com/orgs/gammapy/projects/3/views/4) - Max, Cosimo
+  - [Documentation](https://github.com/orgs/gammapy/projects/1/views/1)
+
+* Participation to coming conferences
+  - scipy 2022 - deadline Feb 22. See [there](https://www.scipy2022.scipy.org/talk-poster-presentations)
+  - gamma 2022 - Deadline Apr 30. See [there](https://indico.icc.ub.edu/event/46/abstracts/)
+  - others?
+* Contributions to CTA meeting in Bologna
+
+* [Pull Requests](https://github.com/gammapy/gammapy/pulls)
+* [Open issues](https://github.com/gammapy/gammapy/issues)
+
+
+ 
+
+
