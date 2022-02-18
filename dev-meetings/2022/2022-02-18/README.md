@@ -4,7 +4,10 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
-
+* Allow MapAxis with single bin and node type center [3807](https://github.com/gammapy/gammapy/pull/3807) - Axel
+* Fix SafeMaskMaker to take mask safe properly into account [3815](https://github.com/gammapy/gammapy/pull/3815) - Atreyee
+* CountsStatistic sum and getitem [3798](https://github.com/gammapy/gammapy/pull/3798)
+* Remove unit setter on Map and IRF [3816](https://github.com/gammapy/gammapy/pull/3816)
 * Restructuring of gammapy.data, separating data model from serialization
   - Some code proposition for Observation see : [proposal](https://github.com/gammapy/gammapy/issues/3767)
   - Remove unused code in Observation [3797](https://github.com/gammapy/gammapy/pull/3797) - Max
