@@ -11,7 +11,22 @@
   - Update SourceCatalog4FGL class to support changes in data release 3 [3842](https://github.com/gammapy/gammapy/pull/3842) - Quentin
   - Fix default arguments for flux_estimator._set_norm_parameter [3845](https://github.com/gammapy/gammapy/pull/3845) - Luca
   - Allows DataStoreMaker to be used with IRFs not following CALDB structure [3846](https://github.com/gammapy/gammapy/pull/3846) - Quentin
-  
+
+* Open PRs:
+  - Automate generation of codemeta.json and .zenodo.json files [3833](https://github.com/gammapy/gammapy/pull/3833) - Jose-Enrique
+  - Add zen_pnt and livetime in dataset.meta_table [3831](https://github.com/gammapy/gammapy/pull/3831) - Atreyee.
+  - Allow MapAxis with single bin and node type center [3807](https://github.com/gammapy/gammapy/pull/3807) - Axel. 
+  - Remove unused code in Observation [3797](https://github.com/gammapy/gammapy/pull/3797) - Max
+  - Counts stat sum [3798](https://github.com/gammapy/gammapy/pull/3798) - Régis
+
+* Energy dependent RadMax: remaining work
+  - See issue: [3296](https://github.com/gammapy/gammapy/issues/3296)
+  - Plotting wobble regions:[3792](https://github.com/gammapy/gammapy/issues/3792)
+    - Issue with `PointSkyRegion` plotting
+  - Implement validation : [123](https://github.com/gammapy/gammapy-benchmarks/issues/123)
+
+* [Open issues for v1.0](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0)
+
 * PRs merged in the past week:
   - Added a notebook tutorial showing an energy-dependent spectrum extraction [3712](https://github.com/gammapy/gammapy/pull/3712) - Cosimo
   - Event wise RADMAX [3804](https://github.com/gammapy/gammapy/pull/3804) - Max
@@ -20,17 +35,6 @@
   - Add fov_alignment and is_pointlike attributes to IRF [3832](https://github.com/gammapy/gammapy/pull/3832) - Max
   - Minor fix to evaluation_bin_size_min for Shell2SpatialModel [3834](https://github.com/gammapy/gammapy/pull/3834) - Luca
 
-* Open PRs:
-  - Automate generation of codemeta.json and .zenodo.json files [3833](https://github.com/gammapy/gammapy/pull/3833) - Jose-Enrique
-  - Add zen_pnt and livetime in dataset.meta_table [3831](https://github.com/gammapy/gammapy/pull/3831) - Atreyee.
-  - Allow MapAxis with single bin and node type center [3807](https://github.com/gammapy/gammapy/pull/3807) - Axel. 
-  - Remove unused code in Observation [3797](https://github.com/gammapy/gammapy/pull/3797) - Max
-
-* Energy dependent RadMax: remaining work
-  - See issue: [3296](https://github.com/gammapy/gammapy/issues/3296)
-  - Plotting wobble regions:[3792](https://github.com/gammapy/gammapy/issues/3792)
-    - Issue with `PointSkyRegion` plotting
-  - Implement validation : [123](https://github.com/gammapy/gammapy-benchmarks/issues/123)
 
 
 
