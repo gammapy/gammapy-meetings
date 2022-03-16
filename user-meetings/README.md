@@ -1,11 +1,13 @@
 # Gammapy User Meetings
 
-Users call are planned on a monthly timescale. They take place on eZuce on the CTA community or on Zoom.
+Users call take place on Zoom.
 
 [Next meeting:]()
-* [2022-01-20](2022/2022-01-20/README.md)
+ * To be announced
 
 [Previous meetings:]()
+* 2022 :
+  * [2022-01-20](2022/2022-01-20/README.md)
 * 2020 :
   * [2020-10-26](2020/2020-10-26/README.md)
   * [2020-10-08](2020/2020-10-08/README.md)
