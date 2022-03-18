@@ -9,6 +9,7 @@
   - Clean up rad max data reduction code [3849](https://github.com/gammapy/gammapy/pull/3849) - Axel
   - Analysis class cleanup to support future extension of the hli [3852](https://github.com/gammapy/gammapy/pull/3852) - Quentin
   - Implement Observation.write [3854](https://github.com/gammapy/gammapy/pull/3854) - Max
+  - Make obs_table optional on DataStore [3856](https://github.com/gammapy/gammapy/pull/3856) - Régis
 
 * Open PRs:
   - Example of a spectrally varying temporal model [3838](https://github.com/gammapy/gammapy/pull/3838) - Atreyee
