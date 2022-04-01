@@ -4,8 +4,10 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
+* Addition of some Crab HAWC data and tutorial - Laura
   
 * New Open PRs:
+  - Fix bug on MC_ID when sampling IRF background events [3867](https://github.com/gammapy/gammapy/pull/3867) - Fabio
   - Restructure getting started page [3864](https://github.com/gammapy/gammapy/pull/3864) - Axel
 * Open PRs:
   - Add methods to both pointing classes to get pointing at specific time [3858](https://github.com/gammapy/gammapy/pull/3858) - Max
