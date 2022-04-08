@@ -25,7 +25,7 @@
   - Counts stat sum [3798](https://github.com/gammapy/gammapy/pull/3798) - Régis
   - Human readable energy units string formatting for plot_interactive & plot_grid [3752](https://github.com/gammapy/gammapy/pull/3752) - Fabio A.
     
-* [Open issues for v1.0](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0)
+* [Open issues for v1.0rc](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0rc)
 
 * PRs merged in the past week:
  - Allows DataStoreMaker to be used with IRFs not following CALDB structure [3846](https://github.com/gammapy/gammapy/pull/3846) - Quentin
