@@ -28,10 +28,10 @@
 * [Open issues for v1.0rc](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.0rc)
 
 * PRs merged in the past week:
- - Allows DataStoreMaker to be used with IRFs not following CALDB structure [3846](https://github.com/gammapy/gammapy/pull/3846) - Quentin
- - Make obs_table optional on DataStore  [3856](https://github.com/gammapy/gammapy/pull/3856) - Régis
- - Restructure getting started page [3864](https://github.com/gammapy/gammapy/pull/3864) - Axel
- - Modify MacOS Workflow  [3877](https://github.com/gammapy/gammapy/pull/3877) - Régis
+  - Allows DataStoreMaker to be used with IRFs not following CALDB structure [3846](https://github.com/gammapy/gammapy/pull/3846) - Quentin
+  - Make obs_table optional on DataStore  [3856](https://github.com/gammapy/gammapy/pull/3856) - Régis
+  - Restructure getting started page [3864](https://github.com/gammapy/gammapy/pull/3864) - Axel
+  - Modify MacOS Workflow  [3877](https://github.com/gammapy/gammapy/pull/3877) - Régis
   
 
 
