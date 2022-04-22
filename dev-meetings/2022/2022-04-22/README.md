@@ -9,6 +9,8 @@
   - Setup page for inscription, content distribution
 
 * gammapy validation to be updated
+  - Current status: [124](https://github.com/gammapy/gammapy-benchmarks/issues/124)
+  - benchmark evolution
 
 * New Open PRs:
   - Improve docs get started [3886](https://github.com/gammapy/gammapy/pull/3886) - Axel
