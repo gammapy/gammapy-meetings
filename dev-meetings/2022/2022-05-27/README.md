@@ -7,6 +7,9 @@
 * Presentation of GammaHub - Jordi
 * User interface for HESS analysis with gammapy - Valentin
 
+* Status of bugfix release v0.20.1
+
+
 
  
 
