@@ -5,6 +5,7 @@
 # Agenda
 
 * Presentation of GammaHub - Jordi
+* User interface for HESS analysis with gammapy - Valentin
 
 
  
