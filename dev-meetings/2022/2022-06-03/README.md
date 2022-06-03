@@ -5,7 +5,7 @@
 # Agenda
 
 * Status of gammapy v0.20.1
-* Coding sprint
+* [Coding sprint](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2022-06/README.md)
 * PIG 23 and 24
 
 
