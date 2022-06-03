@@ -3,7 +3,7 @@
 
 * Start: Monday, June 27th, 2022 at 2 pm
 * End: Friday, July 1st, 2022 at noon
-* Location: TBA
+* Location: Barcelona, UAB/IFAE
 * Contacts: 
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
