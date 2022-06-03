@@ -22,3 +22,4 @@ online meetings with developers not on site.
 ## Participants
 
 1. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
+2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS)) 
