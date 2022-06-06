@@ -1,0 +1,36 @@
+# Gammapy Coding Sprint, June 2022,
+
+* Start: Monday, June 27th, 2022 at 2 pm
+* End: Friday, July 1st, 2022 at noon
+* Location: Barcelona, UAB/IFAE
+* Contacts: 
+
+This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
+(http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
+Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
+
+This is the first in-person coding-sprint since November 2019. It will be partly hybrid with regular
+online meetings with developers not on site.
+
+
+## Location of the meeting
+The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFAE)](https://www.ifae.es/) and the [faculty of sciences of the Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/ciencies/), both in the UAB campus in Bellaterra.
+
+
+## Agenda
+- Monday 14:00 CEST (IFAE small meeting room): first plenary session;
+- Tuesday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
+- Wednesday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
+- Thursday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
+- Friday 09:00 CEST (IFAE small meeting room): wrap-up and final plenary session;
+
+
+## Participants
+
+1. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
+2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
+3. Cosimo Nigro, IFAE, Barcelona, Spain ([cosimoNigro](https://github.com/cosimoNigro))
+
+
+## Suggestions for accommodation
+To reach UAB one can take a train from downtown Barcelona, either from [Plaça de Catalunya](https://goo.gl/maps/zkR5ZBv6hJTQxwTx9) or from [Estación de Gràcia](https://goo.gl/maps/eAc83U1GwcQmYqYS9). You might want to keep in mind that the Universitat de Barcelona (UB) that [will host the Gamma2022]((https://indico.icc.ub.edu/event/46/page/29-venue)) the following week is on the green metro line, L3, accessible from both stations (not directly from Gràcia, but you can walk to [Fontana](https://goo.gl/maps/X24vCN3t5z3VKvFj7) in 2 mins). If finding an accommodation in the center of the city or near Plaça de Catalunya is difficult, searching in the [Vila de Gràcia](https://goo.gl/maps/mLa9xDCkhU9NnbpH9) can be a valid alternative.
