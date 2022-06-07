@@ -4,7 +4,7 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* To be announced 
+* [2022-06](2022-06-Barcelona/README.md) - Gammapy Coding Sprint (Jun 27 - Jul 1,  Barcelona, UAB/IFAE)
 
 [Old meetings:]()
 * [2022-01](2022-01-Co-Working-Week) - Gammapy co-working week in remote (Jan 24 - 28,  Zoom)
