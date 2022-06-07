@@ -30,6 +30,7 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
 1. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 3. Cosimo Nigro, IFAE, Barcelona, Spain ([cosimoNigro](https://github.com/cosimoNigro))
+4. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 
 
 ## Suggestions for accommodation
