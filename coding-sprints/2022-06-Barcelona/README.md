@@ -12,18 +12,36 @@ Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
 This is the first in-person coding-sprint since November 2019. It will be partly hybrid with regular
 online meetings with developers not on site.
 
+Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
+
+A Zoom room will be open the full week. 
+
+Communication via Slack on #dev channel in the meantime.
+
 
 ## Location of the meeting
 The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFAE)](https://www.ifae.es/) and the [faculty of sciences of the Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/ciencies/), both in the UAB campus in Bellaterra.
 
 
 ## Agenda
-- Monday 14:00 CEST (IFAE small meeting room): first plenary session;
-- Tuesday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
-- Wednesday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
-- Thursday 09:00 CEST (classroom XX/XXX faculty of science UAB): focused group work;
-- Friday 09:00 CEST (IFAE small meeting room): wrap-up and final plenary session;
-
+- Monday 14:00 CEST (IFAE small meeting room): first plenary (hybrid) session
+  - Kick-off of the meeting
+  - Open project discussion for the week
+    - Preparation of post LTS development workflow. PIG 23
+    - Status of CTAO Science Data Challenge
+    - Documentation status
+    - Open issues to solve  
+- Tuesday (classroom XX/XXX faculty of science UAB): 
+  - 09:00 CEST : rapid meeting, focused group work;
+  - 14:00 CEST : plenary (hybrid) discussion 
+- Wednesday 09:00 CEST (classroom XX/XXX faculty of science UAB):
+  - 09:00 CEST : rapid meeting, focused group work;
+  - 14:00 CEST : plenary (hybrid) discussion 
+- Thursday 09:00 CEST (classroom XX/XXX faculty of science UAB):
+  - 09:00 CEST : rapid meeting, focused group work;
+  - 14:00 CEST : plenary (hybrid) discussion 
+- Friday 09:00 CEST (IFAE small meeting room): 
+  - wrap-up and final plenary session;
 
 ## Participants
 
