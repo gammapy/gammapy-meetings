@@ -31,13 +31,13 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
     - Status of CTAO Science Data Challenge
     - Documentation status
     - Open issues to solve  
-- Tuesday (classroom XX/XXX faculty of science UAB): 
+- Tuesday (classroom C7/029 faculty of science UAB): 
   - 09:00 CEST : rapid meeting, focused group work;
   - 14:00 CEST : plenary (hybrid) discussion 
-- Wednesday 09:00 CEST (classroom XX/XXX faculty of science UAB):
+- Wednesday 09:00 CEST (classroom C7/029 faculty of science UAB):
   - 09:00 CEST : rapid meeting, focused group work;
   - 14:00 CEST : plenary (hybrid) discussion 
-- Thursday 09:00 CEST (classroom XX/XXX faculty of science UAB):
+- Thursday 09:00 CEST (classroom C7/029 faculty of science UAB):
   - 09:00 CEST : rapid meeting, focused group work;
   - 14:00 CEST : plenary (hybrid) discussion 
 - Friday 09:00 CEST (IFAE small meeting room): 
