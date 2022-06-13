@@ -53,6 +53,7 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
 4. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 
 ### Remotely
+- Daniel Morcuende, UCM, Madrid, Spain ([morcuended](https://github.com/morcuended))
 
 
 ## Suggestions for accommodation
