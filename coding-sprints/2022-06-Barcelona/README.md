@@ -29,6 +29,7 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
   - Open project discussion for the week
     - Preparation of post LTS development workflow. PIG 23
     - Status of CTAO Science Data Challenge
+    - Feedback from LST1 analysis
     - Documentation status
     - Open issues to solve  
 - Tuesday (classroom C7/029 faculty of science UAB): 
