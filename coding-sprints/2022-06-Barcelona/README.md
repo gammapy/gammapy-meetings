@@ -1,4 +1,4 @@
-# Gammapy Coding Sprint, June 2022,
+# Gammapy Co-working week, June 2022,
 
 * Start: Monday, June 27th, 2022 at 2 pm
 * End: Friday, July 1st, 2022 at noon
@@ -51,6 +51,3 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
 6. Axel Donath, CfA/Harvard, U.S.A. ([Axel Donath](mailto:axel.donath@mpi-hd.mpg.de))
 7. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
 8. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
-
-## Suggestions for accommodation
-To reach UAB one can take a train from downtown Barcelona, either from [Plaça de Catalunya](https://goo.gl/maps/zkR5ZBv6hJTQxwTx9) or from [Estación de Gràcia](https://goo.gl/maps/eAc83U1GwcQmYqYS9). You might want to keep in mind that the Universitat de Barcelona (UB) that [will host the Gamma2022]((https://indico.icc.ub.edu/event/46/page/29-venue)) the following week is on the green metro line, L3, accessible from both stations (not directly from Gràcia, but you can walk to [Fontana](https://goo.gl/maps/X24vCN3t5z3VKvFj7) in 2 mins). If finding an accommodation in the center of the city or near Plaça de Catalunya is difficult, searching in the [Vila de Gràcia](https://goo.gl/maps/mLa9xDCkhU9NnbpH9) can be a valid alternative.
