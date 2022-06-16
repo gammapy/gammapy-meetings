@@ -51,3 +51,4 @@ The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFA
 6. Axel Donath, CfA/Harvard, U.S.A. ([Axel Donath](mailto:axel.donath@mpi-hd.mpg.de))
 7. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
 8. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
+9. Chaitanya Priyadarshi, IFAE, Barcelona, Spain ([chaimain](https://github.com/chaimain))
