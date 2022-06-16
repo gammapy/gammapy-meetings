@@ -2,15 +2,12 @@
 
 * Start: Monday, June 27th, 2022 at 2 pm
 * End: Friday, July 1st, 2022 at noon
-* Location: Barcelona, UAB/IFAE
-* Contacts: 
+* Location: Online
+* Contacts: ([registerrier](https://github.com/registerrier))
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
 Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
-
-This is the first in-person coding-sprint since November 2019. It will be partly hybrid with regular
-online meetings with developers not on site.
 
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
