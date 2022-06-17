@@ -16,9 +16,6 @@ A Zoom room will be open the full week.
 Communication via Slack on #dev channel in the meantime.
 
 
-## Location of the meeting
-The meeting will be hosted between the [Insitut de Física d'Altes Energies (IFAE)](https://www.ifae.es/) and the [faculty of sciences of the Universitat Autònoma de Barcelona (UAB)](https://www.uab.cat/ciencies/), both in the UAB campus in Bellaterra.
-
 
 ## Agenda
 - Monday 14:00 CEST (IFAE small meeting room): first plenary (hybrid) session
