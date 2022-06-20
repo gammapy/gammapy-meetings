@@ -18,10 +18,12 @@ Communication via Slack on #dev channel in the meantime.
 
 
 ## Agenda
-- Monday 14:00 CEST (IFAE small meeting room): first plenary (hybrid) session
+- Monday 14:00 CEST: first plenary Zoom session
   - Kick-off of the meeting
-  - Open project discussion for the week
-    - Preparation of post LTS development workflow. PIG 23
+  - Open project discussions for the week
+    - Preparation of post LTS development workflow and PIG 23
+    - v1.0 paper status
+    - authorship - PIG 24 
     - Status of CTAO Science Data Challenge
     - Feedback from LST1 analysis
     - Documentation status
