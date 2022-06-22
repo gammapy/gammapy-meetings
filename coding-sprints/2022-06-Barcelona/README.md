@@ -32,6 +32,7 @@ Communication via Slack on #dev channel in the meantime.
   - 14:00 CEST : plenary Zoom discussion 
 - Wednesday:
   - 14:00 CEST : plenary Zoom discussion 
+    - Hands-on session: post LTS development workflow 
 - Thursday:
   - 14:00 CEST : plenary Zoom discussion 
 - Friday: 
