@@ -52,3 +52,4 @@ Communication via Slack on #dev channel in the meantime.
 8. Laura Olivera Nieto, MPIK Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
 9. Chaitanya Priyadarshi, IFAE, Barcelona, Spain ([chaimain](https://github.com/chaimain))
 10. Álvaro Mas Aguilar, UCM, Madrid, Spain ([alvmas](https://github.com/alvmas))
+11. Seiya Nozaki, MPP, Munich, Germany ([SeiyaNozaki](https://github.com/SeiyaNozaki))
