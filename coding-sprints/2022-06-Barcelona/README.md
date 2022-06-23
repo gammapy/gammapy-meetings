@@ -25,7 +25,6 @@ Communication via Slack on #dev channel in the meantime.
     - v1.0 paper status
     - authorship - PIG 24 
     - Status of CTAO Science Data Challenge
-    - Feedback from LST1 analysis
     - Documentation status
     - Open issues to solve  
 - Tuesday: 
@@ -34,7 +33,10 @@ Communication via Slack on #dev channel in the meantime.
   - 14:00 CEST : plenary Zoom discussion 
     - Hands-on session: post LTS development workflow 
 - Thursday:
-  - 14:00 CEST : plenary Zoom discussion 
+  - 14:00 CEST : plenary Zoom discussion: Feedback from LST1 analysis
+    - Chaitanya and Daniel : Experiences with LST1 and gammapy
+    - Alvaro : Pulsar Analysis with LST - issues and proposals
+    - Discussions
 - Friday: 
   - 14:00 CEST : wrap-up and final plenary Zoom session;
 
