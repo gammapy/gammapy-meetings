@@ -4,6 +4,7 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
+* Status of MAGIC DL3 validation - Cosimo
 * Gammapy v0.20.1 released. Release process needs to be improved:
    * Modify Makefile to add release number to notebook tar file [#4005](https://github.com/gammapy/gammapy/pull/4005) - Régis
    * Add code block substitution and conditional quick start in doc getting-started [#4004](https://github.com/gammapy/gammapy/pull/4004) - Régis
