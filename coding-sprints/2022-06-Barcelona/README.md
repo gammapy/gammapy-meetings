@@ -56,3 +56,4 @@ Communication via Slack on #dev channel in the meantime.
 11. Sonal R. Patel, Deutsches Elektronen-Synchrotron DESY, Germany ([sona-patel](https://github.com/sona-patel)) 
 12. Seiya Nozaki, MPP, Munich, Germany ([SeiyaNozaki](https://github.com/SeiyaNozaki))
 13. Fabio Pintore, INAF/IASF Palermo, Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
+14. Luca Giunti, APC Paris / CEA Saclay, France ([luca-giunti](https://github.com/luca-giunti))
