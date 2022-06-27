@@ -23,7 +23,7 @@ Communication via Slack on #dev channel in the meantime.
   - Open project discussions for the week
     - v1.0 paper status - Régis
     - authorship - PIG 24 - Bruno
-    - Status of CTAO Science Data Challenge - Fabio?
+    - Status of CTAO Science Data Challenge - Fabio
     - HAWC update - Laura
     - Documentation status
     - Open issues to solve - Régis 
