@@ -29,7 +29,9 @@ Communication via Slack on #dev channel in the meantime.
     - Open issues to solve - Régis 
 - Tuesday: 
   - 14:00 CEST : plenary Zoom discussion 
-    - time dependent spectral models 
+    - time dependent spectral models (Atreyee / Régis)
+    - restructure Analysis class (Quentin)
+  - 16:00 CEST: paper co-editing (Axel / Régis / Bruno)
 - Wednesday:
   - 14:00-16:00 CEST : plenary Zoom discussion 
     - Hands-on session: post LTS development workflow 
