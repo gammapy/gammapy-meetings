@@ -25,7 +25,6 @@ Communication via Slack on #dev channel in the meantime.
     - authorship - PIG 24 - Bruno
     - Status of CTAO Science Data Challenge - Fabio
     - HAWC update - Laura
-    - Documentation status
     - Open issues to solve - Régis 
 - Tuesday: 
   - 14:00 CEST : plenary Zoom discussion 
