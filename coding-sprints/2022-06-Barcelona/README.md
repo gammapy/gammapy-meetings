@@ -26,6 +26,7 @@ Communication via Slack on #dev channel in the meantime.
     - Status of CTAO Science Data Challenge - Fabio
     - CTAO Level-B requirements for the SAT - Bruno ([slides](slides/Requirements_CodingSprint_20220627.pdf))
     - HAWC update - Laura
+    - Unbinned analysis - Tim ([slides](slides/unbinned-analysis_CodingSprint_20220627.pdf))
     - Open issues to solve - Régis 
 - Tuesday: 
   - 14:00 CEST : plenary Zoom discussion 
