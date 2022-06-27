@@ -22,7 +22,7 @@ Communication via Slack on #dev channel in the meantime.
   - Kick-off of the meeting
   - Open project discussions for the week
     - v1.0 paper status - Régis
-    - authorship - PIG 24 - Bruno
+    - authorship - PIG 24 - Bruno ([slides](slides/PIG24_CodingSprint_20220627.pdf))
     - Status of CTAO Science Data Challenge - Fabio
     - HAWC update - Laura
     - Open issues to solve - Régis 
