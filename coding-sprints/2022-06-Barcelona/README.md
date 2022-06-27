@@ -24,6 +24,7 @@ Communication via Slack on #dev channel in the meantime.
     - v1.0 paper status - Régis
     - authorship - PIG 24 - Bruno ([slides](slides/PIG24_CodingSprint_20220627.pdf))
     - Status of CTAO Science Data Challenge - Fabio
+    - CTAO Level-B requirements for the SAT - Bruno ([slides](slides/Requirements_CodingSprint_20220627.pdf))
     - HAWC update - Laura
     - Open issues to solve - Régis 
 - Tuesday: 
