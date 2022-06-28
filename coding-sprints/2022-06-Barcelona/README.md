@@ -19,7 +19,7 @@ Communication via Slack on #dev channel in the meantime.
 
 ## Agenda
 - Monday 14:00 CEST: first plenary Zoom session
-  - Kick-off of the meeting - ([slides]())
+  - Kick-off of the meeting - ([slides](slides/coding%20sprint%20intro.pdf))
   - Open project discussions for the week
     - v1.0 paper status - Régis
     - authorship - PIG 24 - Bruno ([slides](slides/PIG24_CodingSprint_20220627.pdf))
