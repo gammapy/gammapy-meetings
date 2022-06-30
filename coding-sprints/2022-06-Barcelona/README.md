@@ -30,7 +30,7 @@ Communication via Slack on #dev channel in the meantime.
     - Open issues to solve - Régis 
 - Tuesday: 
   - 14:00 CEST : plenary Zoom discussion 
-    - time dependent spectral models (Atreyee / Régis)
+    - time dependent spectral models (Atreyee / Régis) - See [#3824](https://github.com/gammapy/gammapy/issues/3824#issuecomment-1168707605)
     - restructure Analysis class (Quentin after 15:00 CEST)
   - 16:00 CEST: paper co-editing (Axel / Régis / Bruno)
 - Wednesday:
@@ -38,7 +38,7 @@ Communication via Slack on #dev channel in the meantime.
     - Hands-on session: post LTS development workflow 
 - Thursday:
   - 14:00 CEST : plenary Zoom discussion: Feedback from LST1 analysis
-    - Chaitanya and Daniel : Experiences with LST1 and gammapy ([slides](slides/))
+    - Chaitanya and Daniel : Experiences with LST1 and gammapy ([slides](slides/LST1_data_analysis_experience_with_Gammapy.pdf))
     - Mathieu : Background model and skymap for LST-1
     - Alvaro : Pulsar Analysis with LST - issues and proposals
     - Discussions
