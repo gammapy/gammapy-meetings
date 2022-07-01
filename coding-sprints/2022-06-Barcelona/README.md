@@ -40,7 +40,7 @@ Communication via Slack on #dev channel in the meantime.
   - 14:00 CEST : plenary Zoom discussion: Feedback from LST1 analysis
     - Chaitanya and Daniel : Experiences with LST1 and gammapy ([slides](slides/LST1_data_analysis_experience_with_Gammapy.pdf))
     - Mathieu : Background model and skymap for LST-1
-    - Alvaro : Pulsar Analysis with LST - issues and proposals
+    - Alvaro : Pulsar Analysis with LST - issues and proposals ([slides](slides/LST1_gammapy_pulsar.pdf))
     - Discussions
 - Friday: 
   - 11:00 CEST : Discussion on RTA 
