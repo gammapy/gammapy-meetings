@@ -10,6 +10,7 @@
   * contours in iminuit v2.13 [4031](https://github.com/gammapy/gammapy/issues/4031)
   * numpy v1.23 and CI fails on linux [4032](https://github.com/gammapy/gammapy/issues/4032)
 * Feedback from discussion with CTA DPSS and SUSS representatives on CTAO IRF background 
+* PIG 24 Status [3970](https://github.com/gammapy/gammapy/pull/3970) 
 * Gammapy (LTS release) presentation at [ADASS 2022](https://www.adass2022.ca)
   * Online
   * Tutorial?
