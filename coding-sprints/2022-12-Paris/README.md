@@ -2,7 +2,7 @@
 
 * Start: Monday, December 4th, 2022 at 2 pm
 * End: Friday, December 9th, 2022 at noon
-* Location: Online
+* Location: APC Paris / Online
 * Contacts: ([registerrier](https://github.com/registerrier))
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
