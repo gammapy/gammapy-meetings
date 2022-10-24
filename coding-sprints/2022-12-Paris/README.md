@@ -16,9 +16,34 @@ A Zoom room will be open the full week.
 
 ## Agenda
 
+### Monday
+##### Afternoon session
+* Kick-off meeting (2 pm) 
 
-## Participants
+### Tuesday
+##### Morning session (10am)
+##### Afternoon session (2pm)
+
+### Wednesday
+##### Morning session (10am)
+##### Afternoon session (2pm)
+
+### Thursday
+##### Morning session (10am)
+##### Afternoon session (2pm)
+
+### Friday
+##### Morning session (10am)
+##### Afternoon session (2pm)
+
+## Participants 
+
+### On-site
 
 1. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 3. Please add your name and GitHub name here...
+
+### Online
+
+1. Please add your name and GitHub name here
