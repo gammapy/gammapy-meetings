@@ -42,7 +42,8 @@ A Zoom room will be open the full week.
 
 1. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
-3. Please add your name and GitHub name here...
+3. Luca Giunti, APC Paris, France ([luca-giunti](https://github.com/luca-giunti))
+4. Please add your name and GitHub name here...
 
 ### Online
 
