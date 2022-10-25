@@ -1,6 +1,6 @@
 # Gammapy Coding Sprint / Co-working week, December 2022
 
-* Start: Monday, December 4th, 2022 at 2 pm
+* Start: Monday, December 5th, 2022 at 2 pm
 * End: Friday, December 9th, 2022 at noon
 * Location: APC Paris / Online
 * Contacts: ([registerrier](https://github.com/registerrier))
