@@ -44,7 +44,8 @@ A Zoom room will be open the full week.
 2. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 3. Luca Giunti, APC Paris, France ([luca-giunti](https://github.com/luca-giunti))
 4. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
-5. Please add your name and GitHub name here...
+5. Maxime Régeard, APC Paris, France ([MRegeard](https://github.com/MRegeard))
+6. Please add your name and GitHub name here...
 
 ### Online
 
