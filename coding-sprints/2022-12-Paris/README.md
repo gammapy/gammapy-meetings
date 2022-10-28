@@ -50,4 +50,5 @@ A Zoom room will be open the full week.
 ### Online
 
 1. Tim Unbehaun, ECAP Erlangen, Germany ([tunbehaun273](https://github.com/tunbehaun273))
-2. Please add your name and GitHub name here
+2. Álvaro Mas, UCM, Madrid, Spain ([alvmas](https://github.com/alvmas/))
+3. Please add your name and GitHub name here
