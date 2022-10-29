@@ -51,4 +51,5 @@ A Zoom room will be open the full week.
 
 1. Tim Unbehaun, ECAP Erlangen, Germany ([tunbehaun273](https://github.com/tunbehaun273))
 2. Álvaro Mas, UCM, Madrid, Spain ([alvmas](https://github.com/alvmas/))
-3. Please add your name and GitHub name here
+3. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore/))
+4. Please add your name and GitHub name here
