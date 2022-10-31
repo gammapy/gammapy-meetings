@@ -5,7 +5,7 @@
 # Agenda
 
 
-* Handling background systematics with Gammapy - Katrin Streil
+* [Handling background systematics with Gammapy](nuisance_parameter_implementation.pdf) - Katrin Streil
 
 * Status of the release process
   * [Open PRs to be backported](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A1.0)
