@@ -4,6 +4,7 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
+* [Unfolding with Gammapy](unfolding.pdf) - Noah Biederbeck
 
 * Feature freeze on Sept. 16th next week.
 
