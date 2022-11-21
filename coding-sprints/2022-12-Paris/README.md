@@ -45,7 +45,8 @@ A Zoom room will be open the full week.
 3. Luca Giunti, APC Paris, France ([luca-giunti](https://github.com/luca-giunti))
 4. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 5. Maxime Régeard, APC Paris, France ([MRegeard](https://github.com/MRegeard))
-6. Please add your name and GitHub name here...
+6. Quentin Remy, MPIK, Heidelberg, Germany ([QRemy])(https://github.com/QRemy))
+7. Please add your name and GitHub name here...
 
 ### Online
 
