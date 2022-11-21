@@ -55,4 +55,5 @@ A Zoom room will be open the full week.
 4. Giacomo D'Amico, University of Bergen, Norway ([giacomodamico24](https://github.com/giacomodamico24))
 5. Julia Djuvsland, University of Bergen, Norway ([jdjuvsla](https://github.com/jdjuvsla))
 6. Noah Biederbeck, TU Dortmund University, Germany ([nbiederbeck](https://github.com/nbiederbeck))
-7. Please add your name and GitHub name here
+7. Cosimo Nigro, IFAE, Spain ([cosimoNigro](https://github.com/cosimoNigro))
+8. Please add your name and GitHub name here
