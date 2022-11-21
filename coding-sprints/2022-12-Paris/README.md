@@ -57,4 +57,5 @@ A Zoom room will be open the full week.
 5. Julia Djuvsland, University of Bergen, Norway ([jdjuvsla](https://github.com/jdjuvsla))
 6. Noah Biederbeck, TU Dortmund University, Germany ([nbiederbeck](https://github.com/nbiederbeck))
 7. Cosimo Nigro, IFAE, Spain ([cosimoNigro](https://github.com/cosimoNigro))
-8. Please add your name and GitHub name here
+8. Maximilian Linhoff, TU Dortmund University, Germany ([maxnoe](https://github.com/maxnoe/))
+9. Please add your name and GitHub name here
