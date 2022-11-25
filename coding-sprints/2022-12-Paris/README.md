@@ -32,7 +32,7 @@ The days will start at 9h30 around a morning coffee before the start of the work
   * pulsar analysis : Alvaro, Maxime?
   * Real time analysis : Gabriele
 * AoB:
-  * Handling of different data modeles
+  * Handling of the different data models (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
   * Energy dependent time model
   
 ### Tuesday
