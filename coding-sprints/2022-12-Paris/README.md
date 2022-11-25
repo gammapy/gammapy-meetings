@@ -48,7 +48,8 @@ A Zoom room will be open the full week.
 6. Quentin Remy, MPIK, Heidelberg, Germany ([QRemy](https://github.com/QRemy))
 7. Karl Kosack, CEA Saclay, France ([kosack](https://github.com/kosack))
 8. Paula Kornecki, LUTH-OBSPM, France ([PaulaKx](https://github.com/paulakx))
-9. Please add your name and GitHub name here...
+9. Mathieu Servillat, LUTH-OBSPM, France ([mservillat](https://github.com/mservillat)), on Tuesday
+10. Please add your name and GitHub name here...
 
 ### Online
 
