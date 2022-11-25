@@ -14,14 +14,31 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 A Zoom room will be open the full week. 
 
 
-## Agenda
+## Agenda (under construction)
+
+The days will start at 9h30 around a morning coffee before the start of the work at 10 am. The afternoon coffee break will be at around 16h30.
 
 ### Monday
-##### Afternoon session
-* Kick-off meeting (2 pm) 
-
+##### Afternoon session (2 pm): Kick-off
+* Status, preparation of roadmap, and objectives of the week
+* Contributing to gammapy - what’s new?
+  * PIG 24 and authorship policy. The DCO
+  * Code quality checks and pre-commit hooks
+  * Development scheme: bug fix or new feature?
+  * handling public API changes: deprecation
+* On-going efforts
+  * Un-binned dataset & analysis : Nicolo - Tim - Julia
+  * Spectral unfolding & nuisance parameters : Noah
+  * pulsar analysis : Alvaro, Maxime?
+  * Real time analysis : Gabriele
+* AoB:
+  * Handling of different data modeles
+  * Energy dependent time model
+  
 ### Tuesday
 ##### Morning session (10am)
+* Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
+
 ##### Afternoon session (2pm)
 
 ### Wednesday
