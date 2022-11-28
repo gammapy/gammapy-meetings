@@ -18,7 +18,7 @@ A Zoom room will be open the full week.
 
 The days will start at 9h30 around a morning coffee before the start of the work at 10 am. The afternoon coffee break will be at around 16h30.
 
-### Monday
+### Monday - Room 784 A
 ##### Afternoon session (2 pm): Kick-off
 * Status, preparation of roadmap, and objectives of the week - slides
 * Gammapy v1.0 paper status - Axel 
@@ -32,21 +32,21 @@ The days will start at 9h30 around a morning coffee before the start of the work
   * Handling of the different data models (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
   * Energy dependent time model
   
-### Tuesday
+### Tuesday - Room 784 A
 ##### Morning session (10am)
 * Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
 
 ##### Afternoon session (2pm)
 
-### Wednesday
+### Wednesday - Room 784 A
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
 
-### Thursday
+### Thursday - Room 784 A
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
 
-### Friday
+### Friday - Room 784 A
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
 
