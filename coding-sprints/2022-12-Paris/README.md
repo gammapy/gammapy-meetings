@@ -20,13 +20,9 @@ The days will start at 9h30 around a morning coffee before the start of the work
 
 ### Monday
 ##### Afternoon session (2 pm): Kick-off
-* Status, preparation of roadmap, and objectives of the week
-* Gammapy v1.0 paper status - Axel
-* Contributing to gammapy - what’s new? - Régis
-  * PIG 24 and authorship policy. The DCO
-  * Code quality checks and pre-commit hooks
-  * Development scheme: bug fix or new feature?
-  * handling public API changes: deprecation
+* Status, preparation of roadmap, and objectives of the week - slides
+* Gammapy v1.0 paper status - Axel 
+* Contributing to gammapy - what’s new? - Régis - slides
 * On-going efforts
   * Un-binned dataset & analysis : Nicolo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
