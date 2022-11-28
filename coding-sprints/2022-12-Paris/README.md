@@ -64,7 +64,8 @@ The days will start at 9h30 around a morning coffee before the start of the work
 8. Paula Kornecki, LUTH-OBSPM, France ([PaulaKx](https://github.com/paulakx))
 9. Mathieu Servillat, LUTH-OBSPM, France ([mservillat](https://github.com/mservillat)), on Tuesday
 10. Fabio Acero, CEA-Saclay, France ([facero](https://github.com/mservillat))
-11. Please add your name and GitHub name here...
+11. Catherine Boisson, Obs. Paris, France ([cboisson](https://github.com/cboisson))
+12. Please add your name and GitHub name here...
 
 ### Online
 
