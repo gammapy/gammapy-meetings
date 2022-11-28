@@ -21,7 +21,8 @@ The days will start at 9h30 around a morning coffee before the start of the work
 ### Monday
 ##### Afternoon session (2 pm): Kick-off
 * Status, preparation of roadmap, and objectives of the week
-* Contributing to gammapy - what’s new?
+* Gammapy v1.0 paper status - Axel
+* Contributing to gammapy - what’s new? - Régis
   * PIG 24 and authorship policy. The DCO
   * Code quality checks and pre-commit hooks
   * Development scheme: bug fix or new feature?
@@ -29,8 +30,8 @@ The days will start at 9h30 around a morning coffee before the start of the work
 * On-going efforts
   * Un-binned dataset & analysis : Nicolo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
-  * pulsar analysis : Alvaro, Maxime?
-  * Real time analysis : Gabriele
+  * pulsar analysis : 
+  * Real time analysis: Gabriele - Valentina
 * AoB:
   * Handling of the different data models (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
   * Energy dependent time model
