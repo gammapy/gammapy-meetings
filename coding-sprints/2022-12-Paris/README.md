@@ -78,5 +78,5 @@ The days will start at 9h30 around a morning coffee before the start of the work
 7. Cosimo Nigro, IFAE, Spain ([cosimoNigro](https://github.com/cosimoNigro))
 8. Maximilian Linhoff, TU Dortmund University, Germany ([maxnoe](https://github.com/maxnoe/))
 9. Matthias Fuessling, CTAO, ([MatthiasFuessling](https://github.com/MatthiasFuessling))
-10. Valentina Fioretti, INAF OAS Bologna, Italy ([vfioretti] (https://github.com/vfioretti))
+10. Valentina Fioretti, INAF OAS Bologna, Italy ([vfioretti](https://github.com/vfioretti))
 11. Please add your name and GitHub name here
