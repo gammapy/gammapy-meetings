@@ -18,7 +18,7 @@ A Zoom room will be open the full week.
 
 The days will start at 9h30 around a morning coffee before the start of the work at 10 am. The afternoon coffee break will be at around 16h30.
 
-### Monday - Room 734 A
+### Monday - Room 483 A
 ##### Afternoon session (2 pm): Kick-off
 * Status, preparation of roadmap, and objectives of the week - slides
 * Gammapy v1.0 paper status - Axel 
@@ -26,7 +26,7 @@ The days will start at 9h30 around a morning coffee before the start of the work
 * On-going efforts
   * Un-binned dataset & analysis : Nicolo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
-  * pulsar analysis : 
+  * pulsar analysis : Alvaro
   * Real time analysis: Gabriele - Valentina
 * AoB:
   * Handling of the different data models (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
