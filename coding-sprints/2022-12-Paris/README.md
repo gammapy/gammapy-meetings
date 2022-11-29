@@ -77,4 +77,5 @@ The days will start at 9h30 around a morning coffee before the start of the work
 6. Noah Biederbeck, TU Dortmund University, Germany ([nbiederbeck](https://github.com/nbiederbeck))
 7. Cosimo Nigro, IFAE, Spain ([cosimoNigro](https://github.com/cosimoNigro))
 8. Maximilian Linhoff, TU Dortmund University, Germany ([maxnoe](https://github.com/maxnoe/))
-9. Please add your name and GitHub name here
+9. Matthias Fuessling, CTAO, ([MatthiasFuessling](https://github.com/MatthiasFuessling))
+10. Please add your name and GitHub name here
