@@ -3,7 +3,7 @@
 * Start: Monday, December 5th, 2022 at 2 pm
 * End: Friday, December 9th, 2022 at noon
 * Location: APC Paris / Online
-* Contacts: ([registerrier](https://github.com/registerrier))
+* Contacts: [registerrier](https://github.com/registerrier), [bkhelifi](https://github.com/bkhelifi)
 
 This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
@@ -17,6 +17,7 @@ A Zoom room will be open the full week.
 ## Agenda (under construction)
 
 The days will start at 9h30 around a morning coffee before the start of the work at 10 am. The afternoon coffee break will be at around 16h30.
+A social diner is planed for Wednesday.
 
 ### Monday - Room 483 A
 ##### Afternoon session (2 pm): Kick-off
@@ -41,6 +42,7 @@ The days will start at 9h30 around a morning coffee before the start of the work
 ### Wednesday - Room 734 A
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
+##### Social diner
 
 ### Thursday - Room 734 A
 ##### Morning session (10am)
