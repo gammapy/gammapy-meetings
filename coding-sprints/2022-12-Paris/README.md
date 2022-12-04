@@ -21,7 +21,7 @@ A social diner is planed for Wednesday.
 
 ### Monday - Room 483 A
 ##### Afternoon session (2 pm): Kick-off
-* Status, preparation of roadmap, and objectives of the week - slides
+* Status, preparation of roadmap, and objectives of the week - [slides](slides/coding_sprint_intro.pdf)
 * Gammapy v1.0 paper status - Axel 
 * Contributing to gammapy - what’s new? - Régis - slides
 * On-going efforts
