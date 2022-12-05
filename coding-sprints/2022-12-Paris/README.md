@@ -43,7 +43,7 @@ A social diner is planed for Wednesday.
 ##### Morning session (10am)
 * 10h: EventDataset or UnbinnedDataset
 ##### Afternoon session (2pm)
-* 2h30: Work on the paper
+* 14h30: Work on the paper
 
 ##### Social diner
 
