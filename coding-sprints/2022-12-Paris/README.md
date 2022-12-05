@@ -35,9 +35,10 @@ A social diner is planed for Wednesday.
   
 ### Tuesday - Room 734 A
 ##### Morning session (10am)
-* Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
+* 10h: Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
 
 ##### Afternoon session (2pm)
+* 14h: Fit statistics API
 
 ### Wednesday - Room 734 A
 ##### Morning session (10am)
