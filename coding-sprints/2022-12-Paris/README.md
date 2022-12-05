@@ -23,7 +23,7 @@ A social diner is planed for Wednesday.
 ##### Afternoon session (2 pm): Kick-off
 * Status, preparation of roadmap, and objectives of the week - [slides](slides/coding_sprint_intro.pdf)
 * Gammapy v1.0 paper status - Axel 
-* Contributing to gammapy - what’s new? - Régis - slides
+* Contributing to gammapy - what’s new? - Régis - [slides](slides/contribution_what_new.pdf)
 * On-going efforts
   * Un-binned dataset & analysis : Giacomo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
