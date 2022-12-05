@@ -27,7 +27,7 @@ A social diner is planed for Wednesday.
 * On-going efforts
   * Un-binned dataset & analysis : Giacomo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
-  * pulsar analysis : Alvaro
+  * pulsar analysis : Álvaro
   * Timing analyses and Gammapy : Atreyee, Catherine
   * Real time analysis: Gabriele - Valentina
   * Handling of the different data models - (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
