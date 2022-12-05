@@ -25,13 +25,13 @@ A social diner is planed for Wednesday.
 * Gammapy v1.0 paper status - Axel 
 * Contributing to gammapy - what’s new? - Régis - slides
 * On-going efforts
-  * Un-binned dataset & analysis : Nicolo - Tim - Julia
+  * Un-binned dataset & analysis : Giacomo - Tim - Julia
   * Spectral unfolding & nuisance parameters : Noah
   * pulsar analysis : Alvaro
+  * Timing analyses and Gammapy : Atreyee, Catherine
   * Real time analysis: Gabriele - Valentina
-* AoB:
-  * Handling of the different data models (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
-  * Energy dependent time model
+  * Handling of the different data models - (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
+  * Energy dependent time model - Fabio, Atreyee
   
 ### Tuesday - Room 734 A
 ##### Morning session (10am)
