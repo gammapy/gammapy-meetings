@@ -39,6 +39,7 @@ A social diner is planed for Wednesday.
 * 11h: AGN analysis
 ##### Afternoon session (2pm)
 * 14h: Fit statistics API
+* 16h: DL3 data model
 
 ### Wednesday - Room 734 A
 ##### Morning session (10am)
