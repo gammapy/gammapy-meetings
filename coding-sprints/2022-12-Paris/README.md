@@ -42,6 +42,8 @@ A social diner is planed for Wednesday.
 ### Wednesday - Room 734 A
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
+* 2h30: Work on the paper
+
 ##### Social diner
 
 ### Thursday - Room 734 A
