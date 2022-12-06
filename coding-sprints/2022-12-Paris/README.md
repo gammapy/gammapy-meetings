@@ -11,7 +11,7 @@ Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
 
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
-A Zoom room will be open the full week. 
+A Zoom room will be open the full week.
 https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 ## Agenda (under construction)
@@ -22,17 +22,17 @@ A social diner is planed for Wednesday.
 ### Monday - Room 483 A
 ##### Afternoon session (2 pm): Kick-off
 * Status, preparation of roadmap, and objectives of the week - [slides](slides/coding_sprint_intro.pdf)
-* Gammapy v1.0 paper status - Axel 
+* Gammapy v1.0 paper status - Axel
 * Contributing to gammapy - what’s new? - Régis - [slides](slides/contribution_what_new.pdf)
 * On-going efforts
   * Un-binned dataset & analysis : Giacomo - Tim - Julia
-  * Spectral unfolding & nuisance parameters : Noah
+  * Spectral unfolding & nuisance parameters : Noah - [slides](slides/fitstatistic-api-talk.pdf)
   * pulsar analysis : Álvaro
   * Timing analyses and Gammapy : Atreyee, Catherine
   * Real time analysis: Gabriele - Valentina
   * Handling of the different data models - (Karl: exemple of ctapipe, Max: the CTAO DL3 format)
   * Energy dependent time model - Fabio, Atreyee
-  
+
 ### Tuesday - Room 734 A
 ##### Morning session (10am)
 * 10h: Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
@@ -58,7 +58,7 @@ A social diner is planed for Wednesday.
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
 
-## Participants 
+## Participants
 
 ### On-site
 
