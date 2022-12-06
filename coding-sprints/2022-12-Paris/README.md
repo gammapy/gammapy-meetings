@@ -25,7 +25,7 @@ A social diner is planed for Wednesday.
 * Gammapy v1.0 paper status - Axel
 * Contributing to gammapy - what’s new? - Régis - [slides](slides/contribution_what_new.pdf)
 * On-going efforts
-  * Un-binned dataset & analysis : Giacomo - Tim - Julia
+  * Un-binned dataset & analysis : Giacomo - Tim - Julia [slides](slides/Unbinned_likelihood.pdf)
   * Spectral unfolding & nuisance parameters : Noah - [slides](slides/fitstatistic-api-talk.pdf)
   * pulsar analysis : Álvaro
   * Timing analyses and Gammapy : Atreyee, Catherine
