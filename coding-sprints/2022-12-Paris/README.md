@@ -37,6 +37,11 @@ A social diner is planed for Wednesday.
 ##### Morning session (10am)
 * 10h: Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
   * Outcome of the discussion on the use cases of data Findability and Accessibility: [pdf](slides/Data_DA.pdf)
+  * Function to create an ObsCore table from the DataStore with Gammapy:
+    * Function inside a data/utils.py
+    * input: publisherID, DataStore, kwargs (AccessURLBase, collection, etc)
+    * output: astropy table
+
 * 11h: AGN analysis
 ##### Afternoon session (2pm)
 * 14h: Fit statistics API
