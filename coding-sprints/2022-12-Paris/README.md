@@ -45,8 +45,8 @@ A social diner is planed for Wednesday.
 ##### Morning session (10am)
 * 10h: EventDataset or UnbinnedDataset
 ##### Afternoon session (2pm)
-* 14h00: PSR discussion (TBC with Ávaro and Maxime)
-* 16h00: Work on the paper
+* 14h00: PSR discussion
+* 15h30: Work on the paper
 ##### Social diner
 
 ### Thursday - Room 734 A
