@@ -36,6 +36,7 @@ A social diner is planed for Wednesday.
 ### Tuesday - Room 734 A
 ##### Morning session (10am)
 * 10h: Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
+  * Outcome of the discussion on the use cases of data Findability and Accessibility: [pdf](slides/Data_DA.pdf)
 * 11h: AGN analysis
 ##### Afternoon session (2pm)
 * 14h: Fit statistics API
