@@ -53,7 +53,10 @@ A social diner is planed for Wednesday.
 ##### Afternoon session (2pm)
 * 14h00: PSR discussion
 * 15h30: Work on the paper
-##### Social diner
+##### Social diner (19h30)
+* Restaurant: Mauvaises graines
+  * 30 Rue de Domrémy, 75013 Paris
+  * [Map](https://www.google.com/maps/place/Mauvaises+Graines/@48.8280416,2.3730527,16z/data=!4m5!3m4!1s0x47e6737405013b49:0xf6e1e17f59806a5a!8m2!3d48.8297411!4d2.3716425)
 
 ### Thursday - Room 734 A
 ##### Morning session (10am)
