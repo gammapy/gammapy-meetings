@@ -62,6 +62,7 @@ A social diner is planed for Wednesday.
 ##### Morning session (10am)
 * 10h: energy temporal analysis
 ##### Afternoon session (2pm)
+* Individual coding time
 
 ### Friday - Room 412 B
 ##### Morning session (10am)
