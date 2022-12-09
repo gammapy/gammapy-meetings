@@ -36,6 +36,12 @@ A social diner is planed for Wednesday.
 ### Tuesday - Room 734 A
 ##### Morning session (10am)
 * 10h: Towards the use of ObsCore : M. Servillat, C. Boisson, P. Kornecki
+  * Outcome of the discussion on the use cases of data Findability and Accessibility: [pdf](slides/Data_DA.pdf)
+  * Function to create an ObsCore table from the DataStore with Gammapy:
+    * Function inside a data/utils.py
+    * input: publisherID, DataStore, kwargs (AccessURLBase, collection, etc)
+    * output: astropy table
+
 * 11h: AGN analysis
 ##### Afternoon session (2pm)
 * 14h: Fit statistics API
@@ -47,16 +53,22 @@ A social diner is planed for Wednesday.
 ##### Afternoon session (2pm)
 * 14h00: PSR discussion
 * 15h30: Work on the paper
-##### Social diner
+##### Social diner (19h30)
+* Restaurant: Mauvaises graines
+  * 30 Rue de Domrémy, 75013 Paris
+  * [Map](https://www.google.com/maps/place/Mauvaises+Graines/@48.8280416,2.3730527,16z/data=!4m5!3m4!1s0x47e6737405013b49:0xf6e1e17f59806a5a!8m2!3d48.8297411!4d2.3716425)
 
 ### Thursday - Room 734 A
 ##### Morning session (10am)
 * 10h: energy temporal analysis
 ##### Afternoon session (2pm)
+* Individual coding time
 
 ### Friday - Room 412 B
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
+* Individual coding time
+* 15h30 : Wrap-up session
 
 ## Participants
 
