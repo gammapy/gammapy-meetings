@@ -67,6 +67,8 @@ A social diner is planed for Wednesday.
 ### Friday - Room 412 B
 ##### Morning session (10am)
 ##### Afternoon session (2pm)
+* Individual coding time
+* 15h30 : Wrap-up session
 
 ## Participants
 
