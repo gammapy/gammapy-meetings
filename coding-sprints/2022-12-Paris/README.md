@@ -14,7 +14,9 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 A Zoom room will be open the full week.
 https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
-## Agenda (under construction)
+![Meeting participants](slides/GammapyCodingSprint_Picture_APC_Dec2022.png)
+
+## Agenda
 
 The days will start at 9h30 around a morning coffee before the start of the work at 10 am. The afternoon coffee break will be at around 16h30.
 A social diner is planed for Wednesday.
