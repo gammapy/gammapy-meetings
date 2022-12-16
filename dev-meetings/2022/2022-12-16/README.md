@@ -20,10 +20,13 @@
   * The PR adds a `spatial_model` argument to the `FoVBackgroundModel`. The `spatial_model` is evaluated on the bkg map geometry and multiplied to its values.
   * Main issue: typical `SpatialModel` return normalized quantities with 1/sr units. Currently only the `value` is kept. Silently keeping a `value` probably not a safe approach.
   * Proposition: for now, raise an exception if `spatial_model` returns a quantity not dimensionless. This would therefore mostly support used defined model for now.
-  
+* Map dataset on off in phase maker [#4252](https://github.com/gammapy/gammapy/pull/4252) - Maxime
+  * Ready for review. 
+  * Note: tutorial should be updated once PR is merged.   
 * Add Observations clustering by IRFs quality [#4242](https://github.com/gammapy/gammapy/pull/4242) - Quentin 
-  * 
-  * Proposition: 
+  * Provides a method to group observations inside an `Observations` into groups with similar responses. Relies on scipy hierarchical clustering methods.
+  * Note: clustering could be applied at various steps: directly on the `ObservationTable`, on the selected `Observations` or the final `Datasets`. Functionality should be suffienctly general: put clustering function in a dedicated `gammapy.utils` file. Could it take a `Table` input?
+  * How to document: a tutorial/recipe? What usage to document?
 * Add plot_rgb() function in gammapy.visualization [#4210](https://github.com/gammapy/gammapy/pull/4210) - Luca
   * Comments implemented. Ready for new review
 
