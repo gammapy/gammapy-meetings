@@ -29,6 +29,13 @@
   * How to document: a tutorial/recipe? What usage to document?
 * Add plot_rgb() function in gammapy.visualization [#4210](https://github.com/gammapy/gammapy/pull/4210) - Luca
   * Comments implemented. Ready for new review
-
-* [Open PRs](https://github.com/gammapy/gammapy/pulls)     
-* [Open issues](https://github.com/gammapy/gammapy/issues)
+* Add interp_scale to parameter scaling [#4218](https://github.com/gammapy/gammapy/pull/4218) - Quentin
+  * Adds a scaling relying on the interpolation scheme. This breaks tests. Current CI fails prevent checking exact changes.
+  * Make sure that default behaviour is unchanged. Check that this does not change minima values in general.  
+* New API for FixedPointingInfo, decouple from GADF metadata [#4220](https://github.com/gammapy/gammapy/pull/4220) - Max
+  * Ready for review.
+  * CI fails preventing proper testing.
+  
+* CI fails with devdeps. 
+  * This should be an allowed fail and should not block all the CI matrix
+  * This might run also independently of PRs.  
