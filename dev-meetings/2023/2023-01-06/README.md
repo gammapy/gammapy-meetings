@@ -17,6 +17,8 @@ Updates from last [meeting](../../2022/2022-12-16/README.md)
   * Implement the _sample_coord_time_energy function in MapDatasetEventSampler [#4100](https://github.com/gammapy/gammapy/pull/4100) - Fabio 
   * Add plot_rgb() function in gammapy.visualization [#4210](https://github.com/gammapy/gammapy/pull/4210) - Luca
 * Updates from other PRs
+* New PRs:
+ * Patching CVE-2007-4559 [#4267](https://github.com/gammapy/gammapy/pull/4267)
 
 Next bugfix release:
 * [Open issues with 1.0.1 milestones](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.0.1)
