@@ -5,7 +5,7 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
-Fill topics/PRs/Issues to discuss
+### Discussion on the draft of the roadmap to v2.0
 
 * [Open PRs](https://github.com/gammapy/gammapy/pulls)
 
