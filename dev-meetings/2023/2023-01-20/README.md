@@ -7,10 +7,12 @@
 
 #### New open PRs
 - Remove safe mask in background stacking [#4275](https://github.com/gammapy/gammapy/pull/4275) - Atreyee
-  - Simple fix. Already discussed in issue #
+  - Simple fix. Already discussed in issue #4207
 - Add energy support for a template temporal model [#4272](https://github.com/gammapy/gammapy/pull/4272) - Atreyee
+  - After discussion, the best solution is to have a registry system for various formats for the read methods of `Model`. For now, this branch can be used to convert all SDC models.  
 - Allow to set psf max radius in evaluator [#4276](https://github.com/gammapy/gammapy/pull/4276) - Quentin
 - Fix datasets io with RecoPSFMap (draft) [#4277](https://github.com/gammapy/gammapy/pull/4277) - Quentin
+  - A better apporach would be to create a factory method on `PSFMap` 
 - Fix bkgs spectral model io [#4278](https://github.com/gammapy/gammapy/pull/4278) - Quentin
 - Add an HowTo for the fit non-convergence [#4268](https://github.com/gammapy/gammapy/pull/4268) - Bruno
 
