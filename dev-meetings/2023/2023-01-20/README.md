@@ -11,6 +11,13 @@
 - Allow to set psf max radius in evaluator [#4276](https://github.com/gammapy/gammapy/pull/4276) - Quentin
 - Fix datasets io with RecoPSFMap (draft) [#4277](https://github.com/gammapy/gammapy/pull/4277) - Quentin
 - Fix bkgs spectral model io [#4278](https://github.com/gammapy/gammapy/pull/4278) - Quentin
+- Add an HowTo for the fit non-convergence [#4268](https://github.com/gammapy/gammapy/pull/4268) - Bruno
+
+#### Open PRs
+* Implement the _sample_coord_time_energy function in MapDatasetEventSampler [#4100](https://github.com/gammapy/gammapy/pull/4100) - Fabio 
+  * CI issue with codestyle  
+* New API for FixedPointingInfo, decouple from GADF metadata [#4220](https://github.com/gammapy/gammapy/pull/4220) - Max
+* Add plot_rgb() function in gammapy.visualization [#4210](https://github.com/gammapy/gammapy/pull/4210) - Luca
 
 #### Merged PRs
 - Use linebreaks in passenv list in tox.ini [#4269](https://github.com/gammapy/gammapy/pull/4269) - Axel
@@ -18,6 +25,8 @@
   - Change must be included in gammapy-docs actions
 - Deprecate load_cta_irfs, replace usage with load_irf_dict_from_file [#4264](https://github.com/gammapy/gammapy/pull/4264) - Max
 - Small docs changes [#4274](https://github.com/gammapy/gammapy/pull/4274), [#4270](https://github.com/gammapy/gammapy/pull/4270), [#4273](https://github.com/gammapy/gammapy/pull/4273)
+
+
 
 * [Open PRs](https://github.com/gammapy/gammapy/pulls)
 
