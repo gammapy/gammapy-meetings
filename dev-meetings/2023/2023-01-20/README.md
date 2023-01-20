@@ -7,6 +7,7 @@
 
 #### New open PRs
 - Remove safe mask in background stacking [#4275](https://github.com/gammapy/gammapy/pull/4275) - Atreyee
+  - Simple fix. Already discussed in issue #
 - Add energy support for a template temporal model [#4272](https://github.com/gammapy/gammapy/pull/4272) - Atreyee
 - Allow to set psf max radius in evaluator [#4276](https://github.com/gammapy/gammapy/pull/4276) - Quentin
 - Fix datasets io with RecoPSFMap (draft) [#4277](https://github.com/gammapy/gammapy/pull/4277) - Quentin
