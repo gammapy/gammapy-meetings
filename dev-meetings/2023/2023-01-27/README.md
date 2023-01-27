@@ -5,7 +5,7 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
-### Paper status
+#### Paper status
 
 
 #### New open PRs
