@@ -17,7 +17,7 @@
 - *Draft:* Addition of a Map.dot operator [#4294](https://github.com/gammapy/gammapy/pull/4294) - Régis
 
 #### New issues
-- Preserve dataset names during copy? [#4296]https://github.com/gammapy/gammapy/issues/4296)
+- Preserve dataset names during copy? [#4296](https://github.com/gammapy/gammapy/issues/4296)
 
 #### Merged PRs
 - Remove safe mask in background stacking [#4275](https://github.com/gammapy/gammapy/pull/4275) - Atreyee
