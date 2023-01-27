@@ -5,6 +5,9 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
+### Paper status
+
+
 #### New open PRs
 - Implement the _sample_coord_time_energy function in MapDatasetEventSampler [#4295](https://github.com/gammapy/gammapy/pull/4295) - Fabio
 - Do not run release and docs-dev actions in forks [#4292](https://github.com/gammapy/gammapy/pull/4292) - Max
@@ -12,6 +15,9 @@
 - Optional meta_table creation in MapDatasetMaker [#4281](https://github.com/gammapy/gammapy/pull/4281) - Quentin
 - *Draft:* Allow to load observations with only IRFs defined [#4280](https://github.com/gammapy/gammapy/pull/4280) - Quentin
 - *Draft:* Addition of a Map.dot operator [#4294](https://github.com/gammapy/gammapy/pull/4294) - Régis
+
+#### New issues
+- Preserve dataset names during copy? [#4296]https://github.com/gammapy/gammapy/issues/4296)
 
 #### Merged PRs
 - Remove safe mask in background stacking [#4275](https://github.com/gammapy/gammapy/pull/4275) - Atreyee
