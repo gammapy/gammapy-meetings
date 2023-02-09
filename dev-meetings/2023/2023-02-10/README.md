@@ -5,7 +5,15 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
-Fill topics/PRs/Issues to discuss
+### Systematics analysis 
+- presentation by Katrin
+
+### Reminder
+- CTAO DL3 data model document
+- comments due by Feb 14th
+
+### Merged PRs
+
 
 * [Open PRs](https://github.com/gammapy/gammapy/pulls)
 
