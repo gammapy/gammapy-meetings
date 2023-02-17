@@ -5,7 +5,17 @@
 * "Gammapy Developer Meeting" on Zoom (direct link on Slack)
 # Agenda
 
-Fill topics/PRs/Issues to discuss
+### Various topics:
+- Next coding sprint
+- Feedback on CTAO DL3 data model
+- dev call format
+
+### Infrastructure
+- On-going issues with CI
+
+
+### Open PRs
+
 
 * [Open PRs](https://github.com/gammapy/gammapy/pulls)
 
