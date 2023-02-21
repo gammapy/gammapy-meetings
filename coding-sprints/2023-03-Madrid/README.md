@@ -34,6 +34,7 @@ A Zoom room will be open the full week.
 1. Atreyee Sinha, UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
+4. 
 X. Please add your name and GitHub name here...
 
 ### Online
