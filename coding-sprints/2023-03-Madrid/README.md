@@ -13,6 +13,11 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 
 A Zoom room will be open the full week.
 
+## Local Logistics
+
+- Will be held in the 3rd floor, Faculty of Physics, Univeridad Complutense de Madrid (https://goo.gl/maps/qYJrtAwrBrG3db5j7)
+- Lunch at the canteen on the basement
+
 ## Agenda
 
 
@@ -36,7 +41,7 @@ A Zoom room will be open the full week.
 3. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 4. Daniel Morcuende, UCM, Madrid, Spain ([morcuended](https://github.com/morcuended))
 5. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
-6. 
+6. Alvaro Mas, UCM, Madrid, Spain ([alvmas] (https://github.com/alvmas)
 X. Please add your name and GitHub name here...
 
 ### Online
