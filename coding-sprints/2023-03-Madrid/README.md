@@ -42,6 +42,7 @@ A Zoom room will be open the full week.
 4. Daniel Morcuende, UCM, Madrid, Spain ([morcuended](https://github.com/morcuended))
 5. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
 6. Alvaro Mas, UCM, Madrid, Spain ([alvmas] (https://github.com/alvmas)
+
 X. Please add your name and GitHub name here...
 
 ### Online
