@@ -35,7 +35,8 @@ A Zoom room will be open the full week.
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 4. Daniel Morcuende, UCM, Madrid, Spain ([morcuended](https://github.com/morcuended))
-5. 
+5. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
+6. 
 X. Please add your name and GitHub name here...
 
 ### Online
