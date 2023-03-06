@@ -49,5 +49,6 @@ X. Please add your name and GitHub name here...
 ### Online
 
 1. Tim Unbehaun, ECAP, Erlangen, Germany ([tunbehaun273](https://github.com/tunbehaun273))
+2. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 
 X. Please add your name and GitHub name here
