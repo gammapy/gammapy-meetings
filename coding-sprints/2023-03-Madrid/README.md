@@ -15,7 +15,7 @@ A Zoom room will be open the full week.
 
 ## Local Logistics
 
-- Will be held in the 3rd floor, Faculty of Physics, Univeridad Complutense de Madrid (https://goo.gl/maps/qYJrtAwrBrG3db5j7)
+- Will be held in the 3rd floor, EMFTE Seminar room, Faculty of Physics, Univeridad Complutense de Madrid (https://goo.gl/maps/qYJrtAwrBrG3db5j7)
 - Lunch at the canteen on the basement
 
 ## Agenda
