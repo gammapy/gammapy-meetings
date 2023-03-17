@@ -17,8 +17,16 @@ A Zoom room will be open the full week.
 
 - Will be held in the 3rd floor, EMFTE Seminar room, Faculty of Physics, Univeridad Complutense de Madrid (https://goo.gl/maps/qYJrtAwrBrG3db5j7)
 - The closest metro station is Ciudad Universataria, on line 6.
+
+![mapa_ucm](https://user-images.githubusercontent.com/32677370/225902054-c6f466e7-e5d8-455d-ad90-25b71617553f.jpg)
+
+A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
+
+
 - To access the room, enter the Fisica Building, take the stairs, first room on the left on the 3rd floor.
 - Lunch at the canteen on the basement
+
+
 
 ## Agenda
 
@@ -33,6 +41,7 @@ A Zoom room will be open the full week.
 - (10 am): Discussion on event types, Tarek and Juan
 
 ### Wednesday
+
 
 ### Thursday 
 
