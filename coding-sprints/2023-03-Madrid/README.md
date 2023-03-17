@@ -28,6 +28,10 @@ A Zoom room will be open the full week.
 
 ### Tuesday
 
+##### Morning session 
+
+- (10 am): Discussion on event types, Tarek and Juan
+
 ### Wednesday
 
 ### Thursday 
