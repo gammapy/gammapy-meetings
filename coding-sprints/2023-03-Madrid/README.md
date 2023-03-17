@@ -16,6 +16,8 @@ A Zoom room will be open the full week.
 ## Local Logistics
 
 - Will be held in the 3rd floor, EMFTE Seminar room, Faculty of Physics, Univeridad Complutense de Madrid (https://goo.gl/maps/qYJrtAwrBrG3db5j7)
+- The closest metro station is Ciudad Universataria, on line 6.
+- To access the room, enter the Fisica Building, take the stairs, first room on the left on the 3rd floor.
 - Lunch at the canteen on the basement
 
 ## Agenda
