@@ -45,6 +45,8 @@ A Zoom room will be open the full week.
 5. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
 6. Alvaro Mas, UCM, Madrid, Spain ([alvmas](https://github.com/alvmas))
 7. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
+8. Juan Bernete, CIEMAT, Spain ([JBernete](https://github.com/JBernete))
+9. Tarek Hassan, CIEMAT, Spain ([TarekHC](https://github.com/TarekHC))
 
 X. Please add your name and GitHub name here...
 
