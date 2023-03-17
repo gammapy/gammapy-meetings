@@ -33,6 +33,15 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
+* Introduction to the coding sprint
+  * Preparation of the Roadmap for v2 - 
+  * Preparation of the CTAO SDC - Fabio
+  * Possible high level analysis utilities - Quentin
+  * Pulsar analysis - Alvaro & Maxime
+  * Gammapy data model definition - Régis
+
+* Paper working session
+  * Status - Axel
 
 ### Tuesday
 
