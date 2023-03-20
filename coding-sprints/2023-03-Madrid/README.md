@@ -78,5 +78,6 @@ X. Please add your name and GitHub name here...
 2. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 3. Abelardo Moralejo, IFAE, Barcelona, Spain
 4. Silvia Crestan, INAF-IASF Milano, Italy ([screstan](https://github.com/screstan))
+5. Cosimo Nigro, IFAE, Barcelona, Spain ([cosimoNigro](https://github.com/cosimoNigro))
 
 X. Please add your name and GitHub name here
