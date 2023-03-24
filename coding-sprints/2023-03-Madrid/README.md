@@ -34,7 +34,7 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
 * Introduction to the coding sprint - [slides](coding_sprint_intro.pdf)
-  * Preparation of the Roadmap for v2 - 
+  * Preparation of the Roadmap for v2 -  [#4388](https://github.com/gammapy/gammapy/pull/4388) 
   * Preparation of the CTAO SDC - Fabio - [slides](SDC_summary_models_fabio.pdf)
   * Possible high level analysis utilities - Quentin
   * Pulsar analysis - Alvaro & Maxime
@@ -71,9 +71,34 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 #### Close-out session: 2 pm
 
 * 18 PRs opened this week
+* 13 with v1.1 milestone, 5 with v1.0.2 milestone
 
+##### Bug
+* Obs filter live time [#4394](https://github.com/gammapy/gammapy/pull/4394) - Maxime
+* Iminuit output [#4393](https://github.com/gammapy/gammapy/pull/4393) - Bruno
+* Fix issue in metadata when using RegionNDMap.write [#4403](https://github.com/gammapy/gammapy/pull/4403) - Fabio
+  * Backport? 
+* Check of the time system information of the DataStore [#4399](https://github.com/gammapy/gammapy/pull/4399) - Bruno 
+  * Should it go in v1.0.x?
+* Merged: Fix plot_spectrum_datasets_off_regions with too many regions [#4397](https://github.com/gammapy/gammapy/pull/4397) - Bruno
+* 
+##### Feature
+* Add a function that plot the npred_signal of models of a dataset [#4409](https://github.com/gammapy/gammapy/pull/4409) - Maxime
+* Add the possibility to plot in MJD the light curves [#4395](https://github.com/gammapy/gammapy/pull/4395) - Bruno
+* Add a livetime map on dataset [#4407](https://github.com/gammapy/gammapy/pull/4407) - Atreyee
+* plot function for 1D distribution of map data [#4408](https://github.com/gammapy/gammapy/pull/4408) - Maxime
+##### Performance
+* Support for parallel evaluation in FluxPointsEstimator [#4402](https://github.com/gammapy/gammapy/pull/4402) - Quentin
+* Support for parallel evaluation in LightCurveEstimator [#4404](https://github.com/gammapy/gammapy/pull/4404) - Quentin
+* Add configuration and helper function to run multiprocessing or ray  [#4406](https://github.com/gammapy/gammapy/pull/4406) - Quentin
+##### Infrastructure
+* Add profilers to dev environment [#4398](https://github.com/gammapy/gammapy/pull/4398) - Quentin
+* Merged: Impose maximal ipywidget version [#4400](https://github.com/gammapy/gammapy/pull/4400) - Régis
 ##### Documentation
-
+* Small notice for beginner in the tutorials page [#4391](https://github.com/gammapy/gammapy/pull/4391) - Bruno
+* Adding more documentation on datasets docstring [#4405](https://github.com/gammapy/gammapy/pull/4405) - Maxime
+##### PIG
+* PIG 26 - Roadmap for v2.0 [#4388](https://github.com/gammapy/gammapy/pull/4388) 
 
 ## Participants
 
