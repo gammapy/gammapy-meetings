@@ -90,6 +90,9 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 * Add a livetime map on dataset [#4407](https://github.com/gammapy/gammapy/pull/4407) - Atreyee
 ###### Models 
 * LightCurveTemplateModel serialisation [#4412](https://github.com/gammapy/gammapy/pull/4412) - Atreyee
+* Update the evaluate_timevar_source function in MapDatasetEventSampler [#4418](https://github.com/gammapy/gammapy/pull/4418) - Fabio
+###### Maps
+* adding from_stack and append to LabelMapAxis [#4417](https://github.com/gammapy/gammapy/pull/4417) - Maxime
 ###### Estimators
 * Expose more methods in ExcessMapEstimator [#4414](https://github.com/gammapy/gammapy/pull/4414) - Quentin
 ###### Plotting
