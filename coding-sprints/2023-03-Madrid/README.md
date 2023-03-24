@@ -68,6 +68,13 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 
 ### Friday 
 
+#### Close-out session: 2 pm
+
+* 18 PRs opened this week
+
+##### Documentation
+
+
 ## Participants
 
 ### On-site
