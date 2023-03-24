@@ -70,8 +70,8 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 
 #### Close-out session: 2 pm
 
-* 18 PRs opened this week
-* 13 with v1.1 milestone, 5 with v1.0.2 milestone
+* 19 PRs opened this week
+* 13 with v1.1 milestone, 6 with v1.0.2 milestone
 
 ##### Bug
 * Obs filter live time [#4394](https://github.com/gammapy/gammapy/pull/4394) - Maxime
