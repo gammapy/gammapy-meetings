@@ -77,6 +77,7 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 * Obs filter live time [#4394](https://github.com/gammapy/gammapy/pull/4394) - Maxime
 * Fix issue in metadata when using RegionNDMap.write [#4403](https://github.com/gammapy/gammapy/pull/4403) - Fabio
   * Backport? 
+  * PRiority should go to 4412. Then clsoe this one.
 * Check of the time system information of the DataStore [#4399](https://github.com/gammapy/gammapy/pull/4399) - Bruno 
   * Should it go in v1.0.x?
 * Merged: Fix plot_spectrum_datasets_off_regions with too many regions [#4397](https://github.com/gammapy/gammapy/pull/4397) - Bruno
