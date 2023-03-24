@@ -81,8 +81,9 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 * Check of the time system information of the DataStore [#4399](https://github.com/gammapy/gammapy/pull/4399) - Bruno 
   * Should it go in v1.0.x?
 * Merged: Fix plot_spectrum_datasets_off_regions with too many regions [#4397](https://github.com/gammapy/gammapy/pull/4397) - Bruno
-* 
 ##### Feature
+* Adding rad max cut in PhaseBackgroundMaker [#4352](https://github.com/gammapy/gammapy/pull/4352) - Maxime
+* Allow to load observations with only IRFs defined [#4280](https://github.com/gammapy/gammapy/pull/4280) - Quentin
 * Add a function that plot the npred_signal of models of a dataset [#4409](https://github.com/gammapy/gammapy/pull/4409) - Maxime
 * Add the possibility to plot in MJD the light curves [#4395](https://github.com/gammapy/gammapy/pull/4395) - Bruno
 * Add a livetime map on dataset [#4407](https://github.com/gammapy/gammapy/pull/4407) - Atreyee
@@ -95,6 +96,7 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 * Add profilers to dev environment [#4398](https://github.com/gammapy/gammapy/pull/4398) - Quentin
 * Merged: Impose maximal ipywidget version [#4400](https://github.com/gammapy/gammapy/pull/4400) - Régis
 ##### Documentation
+* Pulsar analysis tutorial [#4369](https://github.com/gammapy/gammapy/pull/4369) - Maxime & Alvaro
 * Small notice for beginner in the tutorials page [#4391](https://github.com/gammapy/gammapy/pull/4391) - Bruno
 * Adding more documentation on datasets docstring [#4405](https://github.com/gammapy/gammapy/pull/4405) - Maxime
 ##### PIG
