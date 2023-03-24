@@ -7,6 +7,4 @@
 
 Fill topics/PRs/Issues to discuss
 
-* [Open PRs](https://github.com/gammapy/gammapy/pulls)
-
-* [Open issues](https://github.com/gammapy/gammapy/issues)
+This meeting is part of the March 2023 coding sprint. See the agenda on this [page](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2023-03-Madrid#friday)
