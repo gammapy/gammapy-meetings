@@ -95,6 +95,7 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 * adding from_stack and append to LabelMapAxis [#4417](https://github.com/gammapy/gammapy/pull/4417) - Maxime
 ###### Estimators
 * Expose more methods in ExcessMapEstimator [#4414](https://github.com/gammapy/gammapy/pull/4414) - Quentin
+* Addition of an ExtensionEstimator [#4419](https://github.com/gammapy/gammapy/pull/4419) - Régis
 ###### Plotting
 * Add a function that plot the npred_signal of models of a dataset [#4409](https://github.com/gammapy/gammapy/pull/4409) - Maxime
 * Add the possibility to plot in MJD the light curves [#4395](https://github.com/gammapy/gammapy/pull/4395) - Bruno
