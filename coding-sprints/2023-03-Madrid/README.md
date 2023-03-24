@@ -47,12 +47,24 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
 
 ##### Morning session 
 
-- (10 am): Discussion on event types, Tarek and Juan
+* 10 am: Discussion on event types, Tarek and Juan
 
 ### Wednesday
 
+* 4 pm: paper session
 
 ### Thursday 
+
+* 11 am: IRF models, Katrin
+
+* 5 pm: paper session
+
+* 6 pm: paper submission to A&A
+
+* 9 pm: Group photo to celebrate the day! And thanks to Axel for the work on the paper.
+
+![20230323_214946.jpg](https://user-images.githubusercontent.com/16781593/227476626-307399f1-3a7d-44b4-a51b-a8d05a38136b.jpg)
+
 
 ### Friday 
 
