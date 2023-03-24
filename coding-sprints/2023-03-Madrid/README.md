@@ -82,11 +82,19 @@ A more zoomed out map can be found here: https://www.ucm.es/plano-ucm
   * Should it go in v1.0.x?
 * Merged: Fix plot_spectrum_datasets_off_regions with too many regions [#4397](https://github.com/gammapy/gammapy/pull/4397) - Bruno
 ##### Feature
-* Adding rad max cut in PhaseBackgroundMaker [#4352](https://github.com/gammapy/gammapy/pull/4352) - Maxime
+**Data**
 * Allow to load observations with only IRFs defined [#4280](https://github.com/gammapy/gammapy/pull/4280) - Quentin
+**Makers**
+* Adding rad max cut in PhaseBackgroundMaker [#4352](https://github.com/gammapy/gammapy/pull/4352) - Maxime
+**Datasets**
+* Add a livetime map on dataset [#4407](https://github.com/gammapy/gammapy/pull/4407) - Atreyee
+**Models** 
+* LightCurveTemplateModel serialisation [#4412](https://github.com/gammapy/gammapy/pull/4412) - Atreyee
+**Estimators**
+* Expose more methods in ExcessMapEstimator [#4414](https://github.com/gammapy/gammapy/pull/4414) - Quentin
+**Plotting**
 * Add a function that plot the npred_signal of models of a dataset [#4409](https://github.com/gammapy/gammapy/pull/4409) - Maxime
 * Add the possibility to plot in MJD the light curves [#4395](https://github.com/gammapy/gammapy/pull/4395) - Bruno
-* Add a livetime map on dataset [#4407](https://github.com/gammapy/gammapy/pull/4407) - Atreyee
 * plot function for 1D distribution of map data [#4408](https://github.com/gammapy/gammapy/pull/4408) - Maxime
 ##### Performance
 * Support for parallel evaluation in FluxPointsEstimator [#4402](https://github.com/gammapy/gammapy/pull/4402) - Quentin
