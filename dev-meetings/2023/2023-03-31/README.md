@@ -51,6 +51,7 @@
 * Addition of an ExtensionEstimator [#4419](https://github.com/gammapy/gammapy/pull/4419) - Régis
   * Still draft
 ##### Plotting
+* Add .to_string('latex_inline') to axis y/xlabel with powers [#4428](https://github.com/gammapy/gammapy/pull/4428) - Arnau
 * Add a function that plot the npred_signal of models of a dataset [#4409](https://github.com/gammapy/gammapy/pull/4409) - Maxime
 * plot function for 1D distribution of map data [#4408](https://github.com/gammapy/gammapy/pull/4408) - Maxime
 * Add the possibility to plot in MJD the light curves [#4395](https://github.com/gammapy/gammapy/pull/4395) - Bruno
