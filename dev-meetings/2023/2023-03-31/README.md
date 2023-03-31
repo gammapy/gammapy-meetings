@@ -31,6 +31,7 @@
 #### Feature
 ##### Data
 * Allow to load observations with only IRFs defined [#4280](https://github.com/gammapy/gammapy/pull/4280) - Quentin
+  *  Introduce validation for two required_ keywords.
 * Use datastore maker in Observation.read [#4426](https://github.com/gammapy/gammapy/pull/4426) - Quentin
  * Draft. Connection with PR above
 ##### Makers
