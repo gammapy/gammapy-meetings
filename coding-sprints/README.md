@@ -4,9 +4,10 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2023-03](2023-03-Madrid/README.md) - Gammapy  coding-sprint (March 20 - 24, UCM, Madrid)
+* [2023-10](2023-10-Palermo) - Gammapy coding-sprint (October 16 - 20, INAF, Palermo)
 
 [Old meetings:]()
+* [2023-03](2023-03-Madrid/README.md) - Gammapy coding-sprint (March 20 - 24, UCM, Madrid)
 * [2022-12](2022-12-Paris/README.md) - Gammapy hybrid coding-sprint (Dec 5 - Dec 9,  APC, Paris)
 * [2022-06](2022-06-Barcelona/README.md) - Gammapy co-working week in remote (Jun 27 - Jul 1,  Zoom)
 * [2022-01](2022-01-Co-Working-Week) - Gammapy co-working week in remote (Jan 24 - 28,  Zoom)
