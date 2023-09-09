@@ -53,6 +53,7 @@ A Zoom room will be open the full week.
 1. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
+4. Maxime Regeard, APC Paris, France ([MRegeard](https://github.com/MRegeard))
 
 X. Please add your name and GitHub name here...
 
