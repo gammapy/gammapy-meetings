@@ -15,7 +15,13 @@ A Zoom room will be open the full week.
 
 ## Local Logistics
 
-- 
+- The coding sprint will be held in the building of the Consiglio Nazionale delle Ricerche (CNR), in Via Ugo la Malfa 153, Palermo (https://goo.gl/maps/LmUng49jaG1THXdP8). 
+
+- The institute is well connected with the city-center and the airport thanks to a metro. The closest metro station is "Palermo-La Malfa", which is 3 minutes walk.
+
+- The CNR does not have a canteen anymore but there are snack-bars/pubs/restaurants close the institute. 
+
+- We do not suggest to find an accommodation close to the CNR, and not even in Mondello (public transports from there to CNR are very poor, unless you want to take a taxi every day). Nice areas, well connected to CNR and very close to the city center and the main attractions of Palermo, are those around the train stations of "Lolli", "Palermo Centrale" and "Palermo-Palazzo Reale-Orleans".  
 
 
 ## Agenda
