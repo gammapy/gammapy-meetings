@@ -61,6 +61,7 @@ A Zoom room will be open the full week.
 3. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 4. Daniel Morcuende, IAA-CSIC Granada, Spain ([morcuended](https://github.com/morcuended))
 5. Kirsty Feijen, APC Paris, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
+6. Claudio Galelli, LUTh OBSPM, France ([cgalelli](https://github.com/cgalelli))
 
 X. Please add your name and GitHub name here...
 
