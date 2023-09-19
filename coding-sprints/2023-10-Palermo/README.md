@@ -63,6 +63,7 @@ A Zoom room will be open the full week.
 5. Kirsty Feijen, APC Paris, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 6. Claudio Galelli, LUTh OBSPM, France ([cgalelli](https://github.com/cgalelli))
 7. Maxime Regeard, APC Paris, France ([MRegeard](https://github.com/MRegeard))
+8. Katrin Streil, ECAP, Germany ([katrinstreil](https://github.com/katrinstreil))
 
 X. Please add your name and GitHub name here...
 
