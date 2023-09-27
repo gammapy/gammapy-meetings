@@ -64,6 +64,7 @@ A Zoom room will be open the full week.
 6. Claudio Galelli, LUTh OBSPM, France ([cgalelli](https://github.com/cgalelli))
 7. Maxime Regeard, APC Paris, France ([MRegeard](https://github.com/MRegeard))
 8. Katrin Streil, ECAP, Germany ([katrinstreil](https://github.com/katrinstreil))
+9. Antonio Tutone, INAF/IASF Palermo, Italy ([Antonio-Tutone](https://github.com/Antonio-Tutone))
 
 X. Please add your name and GitHub name here...
 
