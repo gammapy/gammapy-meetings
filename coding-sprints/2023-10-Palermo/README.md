@@ -35,18 +35,23 @@ A Zoom room will be open the full week.
 
 ##### Morning session 
 
-* 10 pm: Group photo
+* 10:45 am: Group photo
+* 11 am: Coffee break
 
 ### Wednesday
+
+* 11 pm: Coffee break
 
 * 4 pm: 
 
 ### Thursday 
 
-* 11 am: 
+* 11 pm: Coffee break
 
 
 ### Friday 
+
+* 11 pm: Coffee break
 
 #### Close-out session: 2 pm
 
