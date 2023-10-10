@@ -30,6 +30,8 @@ A Zoom room will be open the full week.
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
 * Introduction to the coding sprint
+* Current status & objectives of the coding sprint
+* Feedback from LST-1 experience
 
 ### Tuesday
 
