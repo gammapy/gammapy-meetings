@@ -79,5 +79,6 @@ X. Please add your name and GitHub name here...
 
 1. Axel Donath, CfA, Cambridge, US ([adonath](https://github.com/adonath)) (sparse participation...)
 2. Atreyee Sinha, IPARCOS/UCM, Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS)) (sparse participation)
+3. Laura Olivera Nieto, MPIK, Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
 
 X. Please add your name and GitHub name here
