@@ -30,8 +30,13 @@ A Zoom room will be open the full week.
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
 * Introduction to the coding sprint
-* Current status & objectives of the coding sprint
-* Feedback from LST-1 experience
+* Current status & objectives of the coding sprint - Régis
+* Feedback from LST-1 experience - Daniel
+* Status and feedback from SDC preparation - Fabio
+* Gammapy & HPC - Axel
+* Priors?
+* Others?
+* Open projects and tasks
 
 ### Tuesday
 
