@@ -11,11 +11,13 @@ Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
 
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
-A Zoom room will be open the full week.
+The usual Zoom room of the dev calls will be open the full week.
 
 ## Local Logistics
 
-- The coding sprint will be held in the building of the Consiglio Nazionale delle Ricerche (CNR), in Via Ugo la Malfa 153, Palermo (https://goo.gl/maps/LmUng49jaG1THXdP8). 
+- The coding sprint will be held in the building of the Consiglio Nazionale delle Ricerche (CNR), in Via Ugo la Malfa 153, Palermo (https://goo.gl/maps/LmUng49jaG1THXdP8).
+
+- The room "Aula informatica" has been booked. It is located at the very first room at the right of CNR entrance. Eduroam will be accessible
 
 - The institute is well connected with the city-center and the airport thanks to a metro. The closest metro station is "Palermo-La Malfa", which is 3 minutes walk.
 
