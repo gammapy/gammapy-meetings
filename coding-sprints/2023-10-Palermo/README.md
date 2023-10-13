@@ -34,10 +34,13 @@ The usual Zoom room of the dev calls will be open the full week.
 * Introduction to the coding sprint
 * Current status & objectives of the coding sprint - Régis
 * Feedback from LST-1 experience - Daniel
-* Status and feedback from SDC preparation - Fabio
 * Gammapy & HPC - Axel
-* Priors?
-* Others?
+* Priors - Katrin
+* Preparation of v1.2 - all
+  * Triage and prioritization of open issues with 1.2 milestones:
+    * [bugs](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.2+label%3Abug)
+    * [docs](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.2+label%3Adocs)
+    * [feature-requests](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.2+label%3Afeature-request+)
 * Open projects and tasks
 
 ### Tuesday
