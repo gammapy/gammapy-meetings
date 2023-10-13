@@ -1,1 +1,10 @@
 name : dev_meeting_reports
+on:
+  schedule:
+    - cron:  '5 * * *'
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        echo: 'test workflow'
