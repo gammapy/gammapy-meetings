@@ -12,6 +12,7 @@ Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
 Ideally all participants can dedicate most of their time to work on Gammapy during the week and make sure they are available for spontaneous discussions on Slack and remote meetings via Zoom.
 
 The usual Zoom room of the dev calls will be open the full week.
+https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 ## Local Logistics
 
