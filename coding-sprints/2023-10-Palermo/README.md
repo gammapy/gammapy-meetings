@@ -33,6 +33,7 @@ The usual Zoom room of the dev calls will be open the full week.
 ##### Afternoon session (2 pm): Kick-off
 * Introduction to the coding sprint
 * Current status & objectives of the coding sprint - Régis
+* Status and feedback from SDC preparation - Fabio
 * Feedback from LST-1 experience - Daniel
 * Gammapy & HPC - Axel
 * Priors - Katrin
