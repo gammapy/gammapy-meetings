@@ -38,7 +38,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 * Feedback from LST-1 experience - Daniel [[slides](Gammapy_LST1_analysis_Oct2023.pdf)]
 * LazyFitsData loading issue [[notebook](test_lazy_open_data.ipynb)]
 * Gammapy & HPC - Axel [[Google Doc to comment](https://docs.google.com/document/d/1aK4CUuIERIwpJyRrxb9Elwwl0a3zGC8NCNviG9t9Rmo/edit)]
-* Priors - Katrin
+* Priors - Katrin [[slides](PIG_priors_status_oktober.pdf)]
 * Preparation of v1.2 - all
   * Triage and prioritization of open issues with 1.2 milestones:
     * [bugs](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.2+label%3Abug)
