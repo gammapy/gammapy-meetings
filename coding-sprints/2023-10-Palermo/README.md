@@ -47,10 +47,9 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 ### Tuesday
 
-##### Morning session 
-
-* 10:45 am: Group photo
 * 11 am: Coffee break
+* 
+* 2:00 pm: Group photo
 
 ### Wednesday
 
