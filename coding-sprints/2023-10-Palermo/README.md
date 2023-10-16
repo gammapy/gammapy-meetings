@@ -36,6 +36,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 * Current status & objectives of the coding sprint - Régis
 * Status and feedback from SDC preparation - Fabio
 * Feedback from LST-1 experience - Daniel [[slides](Gammapy_LST1_analysis_Oct2023.pdf)]
+* LazyFitsData loading issue [[notebook](test_lazy_open_data.ipynb)]
 * Gammapy & HPC - Axel [[Google Doc to comment](https://docs.google.com/document/d/1aK4CUuIERIwpJyRrxb9Elwwl0a3zGC8NCNviG9t9Rmo/edit)]
 * Priors - Katrin
 * Preparation of v1.2 - all
