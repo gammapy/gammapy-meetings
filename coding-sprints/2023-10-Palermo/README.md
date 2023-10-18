@@ -14,6 +14,8 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 The usual Zoom room of the dev calls will be open the full week.
 https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
+![20231018_112830](https://github.com/gammapy/gammapy-meetings/assets/16781593/70d9cff2-0435-454a-ad55-3d53701ffcb6)
+
 ## Local Logistics
 
 - The coding sprint will be held in the building of the Consiglio Nazionale delle Ricerche (CNR), in Via Ugo la Malfa 153, Palermo (https://goo.gl/maps/LmUng49jaG1THXdP8).
