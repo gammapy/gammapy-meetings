@@ -1,9 +1,15 @@
-name : dev_meeting_reports
-on:
-  schedule: '5 * * * *'
+on : push
 jobs:
-  checks:
+  first_demo_job:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        echo: 'test workflow'
+    name: The first demo job
+    steps:
+      - name: Show the demo running
+        env:
+          VAR1: This is
+          VAR2: A Demo of
+          VAR3: GitHub Actions
+          VAR4: Workflow jobs
+        run: |
+          echo $VAR1 $VAR2 $VAR3 $VAR4.
+    
