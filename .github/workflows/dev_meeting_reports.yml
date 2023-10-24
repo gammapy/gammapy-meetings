@@ -1,4 +1,6 @@
-on : push
+on :
+  schedule:
+    - cron: '*/5 * * * *'
 jobs:
   first_demo_job:
     runs-on: ubuntu-latest
