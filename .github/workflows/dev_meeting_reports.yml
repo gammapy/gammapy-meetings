@@ -1,6 +1,7 @@
+name : print sth on Tuesdays
 on:
   schedule:
-    - cron:  '* * * * 2'
+    - cron:  '20 11 * * 2'
 jobs:
   first_demo_job:
     runs-on: ubuntu-latest
