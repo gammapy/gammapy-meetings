@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '* 11 * * 2'
+    - cron:  '* * * * 2'
 jobs:
   first_demo_job:
     runs-on: ubuntu-latest
