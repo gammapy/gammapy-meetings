@@ -1,18 +1,31 @@
-name : print sth on Tuesdays
+name : create meeting report
 on:
-  schedule:
-    - cron:  '20 11 * * 2'
+  push:
+#  schedule:
+#    - cron:  '0 6 * * 5' # create at 6 am on Friday
 jobs:
-  first_demo_job:
+  get_repo:
     runs-on: ubuntu-latest
-    name: The first demo job
+    name: get github repository
     steps:
-      - name: Show the demo running
+      - uses: actions/first-interaction@v1
+        continue-on-error: true
+#        with:
+#          repo-token: ${{ secrets.SECRET_GITHUB_TOKEN }}
         env:
-          VAR1: This is
-          VAR2: A Demo of
-          VAR3: GitHub Actions
-          VAR4: Workflow jobs
+          SECRET_GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN}}
         run: |
-          echo $VAR1 $VAR2 $VAR3 $VAR4.
-    
+          python3 test_create.py SECRET_GITHUB_TOKEN
+
+
+
+
+
+#  get_data_from_github:
+#    runs-on: ubuntu-latest
+#    steps:
+#      with:
+#        token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+
+
+
