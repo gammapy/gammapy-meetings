@@ -5,9 +5,10 @@ on: push
 jobs:
   get_repo:
     runs-on: ubuntu-latest
-    name: get github repository
-    run: python3 draft_create.py
-    shell: bash
+    steps :
+      - name: get github repository
+        run: python3 draft_create.py
+
 
 
 
