@@ -1,21 +1,13 @@
 name : create meeting report
-on:
-  push:
+on: push
 #  schedule:
 #    - cron:  '0 6 * * 5' # create at 6 am on Friday
 jobs:
   get_repo:
     runs-on: ubuntu-latest
     name: get github repository
-    steps:
-      - uses: actions/first-interaction@v1
-        continue-on-error: true
-#        with:
-#          repo-token: ${{ secrets.SECRET_GITHUB_TOKEN }}
-        env:
-          SECRET_GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN}}
-        run: |
-          python3 test_create.py SECRET_GITHUB_TOKEN
+    run: python3 draft_create.py
+    shell: bash
 
 
 
