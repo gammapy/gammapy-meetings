@@ -11,6 +11,7 @@ jobs:
         run: |
           echo "start test"
       - name: get github repository
+        uses: actions/checkout@v2
         run: |
           python draft_create.py
 
