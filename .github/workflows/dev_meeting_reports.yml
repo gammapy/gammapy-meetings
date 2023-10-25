@@ -6,8 +6,12 @@ jobs:
   get_repo:
     runs-on: ubuntu-latest
     steps :
+      - name: echo test
+        run: |
+          echo "start test"
       - name: get github repository
-        run: python3 draft_create.py
+        run: |
+          python3 draft_create.py
 
 
 
