@@ -5,13 +5,14 @@ on: push
 jobs:
   get_repo:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps :
       - name: echo test
         run: |
           echo "start test"
       - name: get github repository
         run: |
-          python3 draft_create.py
+          python draft_create.py
 
 
 
