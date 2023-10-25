@@ -10,8 +10,9 @@ jobs:
       - name: echo test
         run: |
           echo "start test"
-      - name: get github repository
+      - name: do action checkout
         uses: actions/checkout@v2
+      - name: get github repository
         run: |
           python draft_create.py
 
