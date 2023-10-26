@@ -6,9 +6,9 @@ from github import Github
 def get_github_repo():
     print("beginning")
     #gh = Github(token)
-    # gh = Github()
-    # repo_gammapy = gh.get_repo("gammapy/gammapy")
-    # print(repo_gammapy.get_pulls().get_page(1))
+    gh = Github()
+    repo_gammapy = gh.get_repo("gammapy/gammapy")
+    print(repo_gammapy.get_pulls().get_page(1))
     print("end")
 
 
