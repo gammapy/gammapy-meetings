@@ -18,5 +18,5 @@ def get_github_repo():
 
 
 if __name__ == "__main__":
-    get_github_repo(sys.argv[1])
-    # get_github_repo()
+    #get_github_repo(sys.argv[1])
+    get_github_repo()
