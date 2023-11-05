@@ -2,21 +2,20 @@ import sys
 
 from github import Github
 import os
-import os
 from datetime import datetime, timedelta
 import pytz
 
 #token = os.environ["SECRET_GITHUB_TOKEN"]
 #def get_github_repo(token):
 def get_github_repo():
-    # try:
-    #     token = os.environ["SECRET_GITHUB_TOKEN"]
-    # except KeyError:
-    #     token = "Token not available!"
-    #     print(token)
-    print("beginning")
-    #gh = Github(token)
-    gh = Github()
+    try:
+        token = os.environ["SUPER_SECRET"]
+    except KeyError:
+        token = "Token not available!"
+        print(token)
+    print("beginning", len(token), token.upper())
+    gh = Github(token)
+    #gh = Github()
     repo_gammapy = gh.get_repo("gammapy/gammapy")
     print(repo_gammapy.get_pulls().get_page(1))
     print("end")
@@ -40,5 +39,4 @@ def get_github_repo():
 
 
 if __name__ == "__main__":
-    #get_github_repo(sys.argv[1])
     get_github_repo()
