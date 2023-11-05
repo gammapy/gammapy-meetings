@@ -21,6 +21,12 @@ jobs:
           python create_dev_meetings_report.py
       - name: check for changes
         run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m 'auto create meeting report'
+      - name: push changes
+        run: git push
 
 
 
