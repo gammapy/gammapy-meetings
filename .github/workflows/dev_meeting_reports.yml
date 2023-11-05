@@ -23,6 +23,8 @@ jobs:
         run: git status
       - name: stage changed files
         run: git add .
+      - name: email config
+        run: git config --global user.email 'stapel@apc.in2p3.fr'
       - name: commit changed files
         run: git commit -m 'auto create meeting report'
       - name: push changes
