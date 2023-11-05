@@ -15,7 +15,10 @@ jobs:
       - name: get github repository
         env:
           SUPER_SECRET: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          FOO_VAR: "test_var"
         run: |
+          echo "$FOO_VAR"
+          echo "$SUPER_SECRET"
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           python draft_create.py
