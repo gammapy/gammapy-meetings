@@ -2,7 +2,7 @@ import os
 from datetime import datetime, timedelta
 import pytz
 
-current_directory = os.getcwd()
+current_directory = '.' #os.getcwd()
 
 today = str(datetime.today().strftime('%Y-%m-%d'))
 time_now = str(datetime.today().strftime('%d/%m/%Y, %H:%M:%S'))
@@ -19,16 +19,16 @@ report_heading = f' * {today_long}, at 2 pm (CET) \n ' \
 report_footer = f'\n report created at {time_now}'
 
 # ***************** reading token from a file ************************
-token_file_path = "/home/hstapel/PycharmProjects/projekt_gammapy/token/token.txt"
-# check if file is present
-if os.path.isfile(token_file_path):
-    with open(token_file_path) as file:
-        token = file.read().replace('\n', '')
-# token = os.environ('repo-token?') # for CI
+# token_file_path = "/home/hstapel/PycharmProjects/projekt_gammapy/token/token.txt"
+# # check if file is present
+# if os.path.isfile(token_file_path):
+#     with open(token_file_path) as file:
+#         token = file.read().replace('\n', '')
+# # token = os.environ('repo-token?') # for CI
 
 # ***************** connecting to the repository of gammapy with token or without ***************
 from github import Github
-
+token = os.environ["SUPER_SECRET"]
 gh = Github(token)
 repo_gammapy = gh.get_repo("gammapy/gammapy")
 
