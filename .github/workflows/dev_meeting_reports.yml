@@ -1,5 +1,5 @@
 name : create meeting report
-on: push
+on: push # replace bo cron for the master/main branch
 #  schedule:
 #    - cron:  '0 6 * * 5' # create at 6 am on Friday
 jobs:
@@ -31,18 +31,3 @@ jobs:
         run: git commit -m 'auto create meeting report'
       - name: push changes
         run: git push
-
-
-
-
-
-
-
-#  get_data_from_github:
-#    runs-on: ubuntu-latest
-#    steps:
-#      with:
-#        token: ${{ secrets.SECRET_GITHUB_TOKEN }}
-
-
-
