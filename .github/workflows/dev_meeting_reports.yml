@@ -1,7 +1,7 @@
 name : create meeting report
-on: push # replace bo cron for the master/main branch
-#  schedule:
-#    - cron:  '0 6 * * 5' # create at 6 am on Friday
+on:
+  schedule:
+    - cron:  '0 6 * * 5' # create at 6 am on Friday
 jobs:
   get_repo:
     runs-on: ubuntu-latest
