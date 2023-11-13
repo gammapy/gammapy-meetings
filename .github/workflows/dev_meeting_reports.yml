@@ -1,7 +1,7 @@
 name : create meeting report
 on:
   schedule:
-    - cron:  '0 16 * * 5' # create at 4 pm on Friday
+    - cron:  '0 6 * * 5' # create at 4 pm on Friday
 jobs:
   get_repo:
     runs-on: ubuntu-latest
@@ -18,7 +18,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          python create_dev_meetings_report.py
+          python scripts/create_dev_meetings_report.py
       - name: check for changes
         run: git status
       - name: stage changed files
