@@ -1,0 +1,33 @@
+name : create meeting report
+on:
+  schedule:
+    - cron:  '0 14 * * 4' # Test. In general, create at 6 am on Friday (0 6 * * 5)
+jobs:
+  get_repo:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps :
+      - name: echo test
+        run: |
+          echo "start test"
+      - name: do action checkout
+        uses: actions/checkout@v2
+      - name: get github repository
+        env:
+          SUPER_SECRET: ${{ secrets.SECRET_GITHUB_TOKEN }}
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python scripts/create_dev_meetings_report.py
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: email config
+        run: | 
+          git config --global user.name "Hanna Stapel"
+          git config --global user.email "stapel@apc.in2p3.fr"
+      - name: commit changed files
+        run: git commit -m 'auto create meeting report'
+      - name: push changes
+        run: git push
