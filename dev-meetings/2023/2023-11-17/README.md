@@ -3,6 +3,18 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+## Next milestones
+
+* v1.0.2 release
+* v1.2:
+  * initial feature freeze set to Nov 24th. We have to postpone.
+  * what are the required changes that we want in for 1.2?
+  * Still [40 open PRs](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A1.2)
+    * docs corrections can go in after feature freeze
+  * Still [53 open issues](https://github.com/gammapy/gammapy/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.2)
+
+## Report on last week activities
+
 ### PRs opened last week (less than 8 days ago): 
 * [#4911](https://github.com/gammapy/gammapy/pull/4911) Adjust template PR message  - Astro-Kirsty
 * [#4910](https://github.com/gammapy/gammapy/pull/4910) Cleanup docstring in `gammapy.maps`: `coord.py`, `geom.py`, `io.py` and `maps.py` - REGEARD Maxime
