@@ -3,6 +3,16 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+ * Follow-up on the pydantic transition and metadata support
+   * Support pydantic v2.0 [#4750](https://github.com/gammapy/gammapy/pull/4750) - Axel
+   * Status on additional metadata support
+     * At DL3 : [#4832](https://github.com/gammapy/gammapy/pull/4832) - Kirsty
+     * At DL4 : [#4853](https://github.com/gammapy/gammapy/pull/4853) - Atreyee
+     * At DL5 : [#4867](https://github.com/gammapy/gammapy/pull/4867) - Bruno
+ * Remaining effort for v1.2
+ * New PRs, new issues. See below.
+
+# Report on last week activity
 ### PRs opened last week (less than 8 days ago): 
 * [#5015](https://github.com/gammapy/gammapy/pull/5015) Examples of radially asymmetric IRFs - Atreyee Sinha
 * [#5014](https://github.com/gammapy/gammapy/pull/5014) Fixing None objects in `Parameters.to_table()` - REGEARD Maxime
