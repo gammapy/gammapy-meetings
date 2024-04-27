@@ -1,7 +1,7 @@
 A# Gammapy CodiOAng Sprint, May 2024
 
-* Start: Monday, May 27th, 2024 at 2 pm
-* End: Friday, May 31th, 2024 at noon
+* Start: Monday, June 10th, 2024 at 2 pm
+* End: Friday, June 14th, 2024 at noon
 * Location: MPIK (Heidelberg, Germany)
 * Contacts: [QRemy](https://github.com/QRemy), [registerrier](https://https://github.com/github.com/registerrier)
 
