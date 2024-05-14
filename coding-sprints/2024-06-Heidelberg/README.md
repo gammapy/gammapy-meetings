@@ -1,4 +1,4 @@
-A# Gammapy CodiOAng Sprint, May 2024
+# Gammapy Coding Sprint, May 2024
 
 * Start: Monday, June 10th, 2024 at 2 pm
 * End: Friday, June 14th, 2024 at noon
@@ -40,7 +40,8 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 2. Régis Terrier, APC Paris, France ([registerrier](https://github.com/registerrier))
 3. Kirsty Feijen, APC Paris, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 4. Claudio Galelli, LUTh Meudon, France ([cgalelli](https://github.com/cgalelli))
-5. Atreyee Sinha, UCM/IPARCOS Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
+5. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
+6. Atreyee Sinha, UCM/IPARCOS Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 
 X. Please add your name and GitHub name here...
 
