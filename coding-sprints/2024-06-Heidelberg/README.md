@@ -47,4 +47,4 @@ X. Please add your name and GitHub name here...
 
 ### Online
 
-X. Please add your name and GitHub name here
+1. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
