@@ -42,6 +42,8 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 4. Claudio Galelli, LUTh Meudon, France ([cgalelli](https://github.com/cgalelli))
 5. Bruno Khélifi, APC Paris, France ([bkhelifi](https://github.com/bkhelifi))
 6. Atreyee Sinha, UCM/IPARCOS Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
+7. Georg Schwefer, MPIK, Heidelberg, Germany ([gschwefer](https://github.com/gschwefer))
+8. Laura Olivera Nieto, MPIK, Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
 
 X. Please add your name and GitHub name here...
 
