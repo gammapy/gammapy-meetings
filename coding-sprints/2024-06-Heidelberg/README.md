@@ -22,6 +22,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
+gammapy usage in SWGO (Laura)
 
 ### Tuesday
 
