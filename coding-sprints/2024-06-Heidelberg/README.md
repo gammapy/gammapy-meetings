@@ -51,3 +51,4 @@ X. Please add your name and GitHub name here...
 ### Online
 
 1. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
+2. Daniel Morcuende, IAA-CSIC Granada, Spain ([morcuended](https://github.com/morcuended))
