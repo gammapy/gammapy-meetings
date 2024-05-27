@@ -45,6 +45,7 @@ gammapy usage in SWGO (Laura)
 6. Atreyee Sinha, UCM/IPARCOS Madrid, Spain ([AtreyeeS](https://github.com/AtreyeeS))
 7. Georg Schwefer, MPIK, Heidelberg, Germany ([gschwefer](https://github.com/gschwefer))
 8. Laura Olivera Nieto, MPIK, Heidelberg, Germany ([LauraOlivera](https://github.com/LauraOlivera))
+9. Alessandro Montanari, LSW, Heidelberg, Germany ([A_Montanari](https://github.com/alessandromontanari))
 
 X. Please add your name and GitHub name here...
 
