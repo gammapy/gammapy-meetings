@@ -54,4 +54,5 @@ X. Please add your name and GitHub name here...
 1. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 2. Daniel Morcuende, IAA-CSIC Granada, Spain ([morcuended](https://github.com/morcuended))
 3. Tim Unbehaun, FAU Erlangen, Germany ([tunbehaun273](https://github.com/tunbehaun273))
-4. Katharina Egg, FAU Erlangen, Germany ([k-egg](https://github.com/k-egg))
+4. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
+5. Katharina Egg, FAU Erlangen, Germany ([k-egg](https://github.com/k-egg))
