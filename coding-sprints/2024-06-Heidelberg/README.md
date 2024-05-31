@@ -26,6 +26,8 @@ gammapy usage in SWGO (Laura)
 
 ### Tuesday
 
+11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
+
 ### Wednesday
 
 ### Thursday 
