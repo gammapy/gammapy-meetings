@@ -23,12 +23,15 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
 gammapy usage in SWGO (Laura)
+Modeling and fittign API (Axel)
 
 ### Tuesday
 
 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
 
 ### Wednesday
+
+2:00 pm : Co-working / hacking on Jax for Gammapy
 
 ### Thursday 
 
