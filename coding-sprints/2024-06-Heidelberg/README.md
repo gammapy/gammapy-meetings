@@ -35,6 +35,8 @@ Modeling and fittign API (Axel)
 
 ### Thursday 
 
+3:00 pm : Fermi-LAT analysis - issues etc (Fabio Acero)
+
 ### Friday 
 
 
