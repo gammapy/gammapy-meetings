@@ -22,7 +22,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
-- Introduction - Objectives of the week
+- Introduction - Objectives of the week (Régis) [slides](coding_sprint_intro.pdf)
 - Gammapy usage in SWGO (Laura) [slides](gammapy-swgo-coding-sprint.pdf)
 - Thoughts / ideas on Jax for Gammapy (Axel)
 - Remaining issues with covariance handling (Atreyee)
