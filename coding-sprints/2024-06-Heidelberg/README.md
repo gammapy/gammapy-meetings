@@ -27,17 +27,18 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 - Introduction - Objectives of the week (Régis) [slides](coding_sprint_intro.pdf)
 - Gammapy usage in SWGO (Laura) [slides](gammapy-swgo-coding-sprint.pdf)
 - Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](gammapy-jax.pdf)
-- Remaining issues with covariance handling (Atreyee)
 - Using Gammapy with e-Rosita data? (Katharina)
 - Pulsar analysis tools - update (Maxime)
-- LST-1 data access update (Daniel)
-- Time variability update (Claudio)
 
 ### Tuesday
 
+- LST-1 data access update (Daniel)
+- Time variability update (Claudio)
+
 - 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
 - 2:00 pm : Co-working / hacking on Jax for Gammapy
-
+- 4:00 pm : Remaining issues with covariance handling (Atreyee)
+- 
 ### Wednesday
 
 - 2:00 pm : Missing features for joint analyses (Quentin)
