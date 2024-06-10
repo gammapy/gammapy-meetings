@@ -28,7 +28,6 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 - Gammapy usage in SWGO (Laura) [slides](gammapy-swgo-coding-sprint.pdf)
 - Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](gammapy-jax.pdf)
 - Remaining issues with covariance handling (Atreyee)
-- Missing features for joint analyses (Quentin)
 - Using Gammapy with e-Rosita data? (Katharina)
 - Pulsar analysis tools - update (Maxime)
 - LST-1 data access update (Daniel) 
@@ -36,6 +35,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ### Tuesday
 
 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
+2:00 pm : Missing features for joint analyses (Quentin)
 
 ### Wednesday
 
