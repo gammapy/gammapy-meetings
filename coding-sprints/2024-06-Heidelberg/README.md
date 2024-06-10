@@ -36,11 +36,11 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ### Tuesday
 
 - 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
-- 2:00 pm : Missing features for joint analyses (Quentin)
+- 2:00 pm : Co-working / hacking on Jax for Gammapy
 
 ### Wednesday
 
-- 2:00 pm : Co-working / hacking on Jax for Gammapy
+- 2:00 pm : Missing features for joint analyses (Quentin)
 
 ### Thursday 
 
