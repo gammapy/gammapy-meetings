@@ -30,7 +30,8 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 - Remaining issues with covariance handling (Atreyee)
 - Using Gammapy with e-Rosita data? (Katharina)
 - Pulsar analysis tools - update (Maxime)
-- LST-1 data access update (Daniel) 
+- LST-1 data access update (Daniel)
+- Time variability update (Claudio)
 
 ### Tuesday
 
