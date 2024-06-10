@@ -23,7 +23,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 ### Monday 
 ##### Afternoon session (2 pm): Kick-off
 - Introduction - Objectives of the week
-- Gammapy usage in SWGO (Laura)
+- Gammapy usage in SWGO (Laura) [slides](gammapy-swgo-coding-sprint.pdf)
 - Thoughts / ideas on Jax for Gammapy (Axel)
 - Remaining issues with covariance handling (Atreyee)
 - Missing features for joint analyses (Quentin)
