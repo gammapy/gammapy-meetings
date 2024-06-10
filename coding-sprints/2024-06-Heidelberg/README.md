@@ -39,11 +39,11 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 ### Wednesday
 
-2:00 pm : Co-working / hacking on Jax for Gammapy
+- 2:00 pm : Co-working / hacking on Jax for Gammapy
 
 ### Thursday 
 
-3:00 pm : Fermi-LAT analysis - issues etc (Fabio Acero)
+- 3:00 pm : Fermi-LAT analysis - issues etc (Fabio Acero)
 
 ### Friday 
 
