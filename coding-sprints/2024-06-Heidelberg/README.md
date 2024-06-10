@@ -29,6 +29,7 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 - Missing features for joint analyses (Quentin)
 - Using Gammapy with e-Rosita data? (Katharina)
 - Pulsar analysis tools - update (Maxime)
+- LST-1 data access update (Daniel) 
 
 ### Tuesday
 
