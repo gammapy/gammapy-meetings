@@ -68,3 +68,4 @@ X. Please add your name and GitHub name here...
 4. Katharina Egg, FAU Erlangen, Germany ([k-egg](https://github.com/k-egg))
 5. Maxime Regeard, APC, Paris, France ([MRegeard](https://github.com/MRegeard))
 6. Axel Donath, CfA, Cambrige MA, US ([adonath](https://github.com/adonath))
+7. Matthias Fuessling, CTAO ([MatthiasFuessling](https://github.com/MatthiasFuessling))
