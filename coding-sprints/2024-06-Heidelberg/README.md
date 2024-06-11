@@ -26,7 +26,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ##### Afternoon session (2 pm): Kick-off
 - Introduction - Objectives of the week (Régis) [slides](slides/coding_sprint_intro.pdf)
 - Gammapy usage in SWGO (Laura) [slides](slides/gammapy-swgo-coding-sprint.pdf)
-- Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](slides/ammapy-jax.pdf)
+- Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](slides/gammapy-jax.pdf)
 - Using Gammapy with e-Rosita data? (Katharina)
 - Pulsar analysis tools - update (Maxime)[slides](slides/pulsar_status.pdf)
 
