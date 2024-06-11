@@ -14,7 +14,7 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 The usual Zoom room of the dev calls will be open the full week.
 https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
-Github project for the coding sprint : https://github.com/orgs/gammapy/projects/15/views/1 
+Github project for the coding sprint : https://github.com/orgs/gammapy/projects/15/views/1
 
 ## Local Logistics
 
@@ -22,32 +22,32 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ## Agenda
 
 
-### Monday 
+### Monday
 ##### Afternoon session (2 pm): Kick-off
-- Introduction - Objectives of the week (Régis) [slides](coding_sprint_intro.pdf)
-- Gammapy usage in SWGO (Laura) [slides](gammapy-swgo-coding-sprint.pdf)
-- Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](gammapy-jax.pdf)
+- Introduction - Objectives of the week (Régis) [slides](slides/coding_sprint_intro.pdf)
+- Gammapy usage in SWGO (Laura) [slides](slides/gammapy-swgo-coding-sprint.pdf)
+- Thoughts / ideas on Jax for Gammapy (Axel) [thoughts](slides/ammapy-jax.pdf)
 - Using Gammapy with e-Rosita data? (Katharina)
-- Pulsar analysis tools - update (Maxime)
+- Pulsar analysis tools - update (Maxime)[slides](slides/pulsar_status.pdf)
 
 ### Tuesday
 
 - LST-1 data access update (Daniel)
 - Time variability update (Claudio)
 
-- 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan 
+- 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan
 - 2:00 pm : Co-working / hacking on Jax for Gammapy
 - 4:00 pm : Remaining issues with covariance handling (Atreyee)
-- 
+-
 ### Wednesday
 
 - 2:00 pm : Missing features for joint analyses (Quentin)
 
-### Thursday 
+### Thursday
 
 - 3:00 pm : Fermi-LAT analysis - issues etc (Fabio Acero)
 
-### Friday 
+### Friday
 
 
 ## Participants
