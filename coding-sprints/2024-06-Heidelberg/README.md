@@ -49,6 +49,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 ### Friday
 
+- 10:30 : Quick look at the slides for CRIS-MAC (Claudio)
 
 ## Participants
 
