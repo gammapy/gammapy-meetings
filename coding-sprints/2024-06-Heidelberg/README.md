@@ -33,7 +33,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ### Tuesday
 
 - LST-1 data access update (Daniel)
-- Time variability update (Claudio)
+- Time variability update (Claudio)[slides](slides/Variability_Gammapy_coding_sprint.pdf)
 
 - 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan
 - 2:00 pm : Co-working / hacking on Jax for Gammapy
