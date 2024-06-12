@@ -43,7 +43,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 - 10:30 am : Co-working on I/O for DL3 and CTAO observations
 - 2:00 pm : Missing features for joint analyses (Quentin)
-- 4:00 pm : Remaining issues with covariance handling (Atreyee)
+- 2:00 pm : Remaining issues with covariance handling (Atreyee)
   
 ### Thursday
 
