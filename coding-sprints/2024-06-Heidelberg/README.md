@@ -45,6 +45,9 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 - 10:30 am : Co-working on I/O for DL3 and CTAO observations
 - 2:00 pm : Remaining issues with covariance handling (Atreyee)
+  - covariance setter necessary on `CompoundSpectralModel` https://github.com/gammapy/gammapy/issues/5218#issuecomment-2163275732
+  - Access only `FitResult.models`. Expose this consistently in the tutorials (https://github.com/gammapy/gammapy/issues/5306)
+  - An individual `Parameter` object is handled correctly between multiple datasets, that should be passed to `fit.stat_contour` rather than accessing it through `datasets.parameters`. Clarify in the documentation (https://github.com/gammapy/gammapy/issues/5291)
 - 3:00 pm : Improve performance of PSFkernel computations
   - energy dependent kernel max width and upsampling factor (Quentin)
   - allows MapEvaluator to accept a PSFkernel and precompute it on the dataset (Quentin)
