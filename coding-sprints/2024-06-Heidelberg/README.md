@@ -37,6 +37,8 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 - 11:00 am : Discussion on events types with Juan Bernette and Tarek Hasan
 - 2:00 pm : Co-working / hacking on Jax for Gammapy
+  - build a 1D fit from scratch with JAX [Notebook](notes/jax-gammapy-from-scratch.ipynb) (Axel, Max, Fabio)
+  - Get NPred as JAX array [PR #5302](https://github.com/gammapy/gammapy/pull/5302) (Atreyee, Claudio, Alessandro)
 
 -
 ### Wednesday
