@@ -56,7 +56,8 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
   
 ### Thursday
 
-- 2:00 pm : Missing features for joint analyses (Quentin)
+- 2:00 pm : Issues and missing features for joint analyses (Quentin)
+  - https://github.com/gammapy/gammapy/discussions/5307
 - 3:00 pm : Fermi-LAT analysis - issues etc (Fabio Acero)
 
 ### Friday
