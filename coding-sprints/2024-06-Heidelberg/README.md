@@ -18,6 +18,11 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 ## Local Logistics
 
+## Group Photo
+
+
+![coding-sprin-group-picture](https://github.com/gammapy/gammapy-meetings/assets/3715928/9a503c9f-aeb5-466b-8cc0-d67ec039603b)
+
 
 ## Agenda
 
