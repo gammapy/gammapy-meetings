@@ -55,6 +55,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
   
 ### Thursday
+- 10 am : A possible approach for DL3 IO classes. See draft PR [#5313](https://github.com/gammapy/gammapy/pull/5313)
 
 - 2:00 pm : Issues and missing features for joint analyses (Quentin)
   - https://github.com/gammapy/gammapy/discussions/5307
@@ -63,7 +64,13 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 ### Friday
 
 - 10:30 : Quick look at the slides for CRIS-MAC (Claudio)
-
+- 11:00 : short wrap-up
+  - a prototype for CTAO-like observation handling
+    - see the [repo](https://github.com/gammapy/ctao_data_model/)
+    - An example [notebook](https://github.com/gammapy/ctao_data_model/blob/main/data_reduction_4D.ipynb)
+   
+- 2:00 pm: final discussion
+  
 ## Participants
 
 ### On-site
