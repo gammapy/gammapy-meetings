@@ -39,6 +39,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 - 2:00 pm : Co-working / hacking on Jax for Gammapy
   - build a 1D fit from scratch with JAX [Notebook](notes/jax-gammapy-from-scratch.ipynb) (Axel, Max, Fabio)
   - Get NPred as JAX array [PR #5302](https://github.com/gammapy/gammapy/pull/5302) (Atreyee, Claudio, Alessandro)
+  - Trying to adapt the Map framework to JAX arrays [PR #5318](https://github.com/gammapy/gammapy/pull/5318) and [notebook](notes/map_with_jax.ipynb) (Régis, Kirsty) 
 
 -
 ### Wednesday
