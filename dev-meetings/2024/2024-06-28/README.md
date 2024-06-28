@@ -3,6 +3,8 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+* Jax gamma-ray analysis prototype status report (Axel)
+
 ### PRs opened last week (less than 8 days ago): 
 * [#5353](https://github.com/gammapy/gammapy/pull/5353) Add support for joint TSmap estimation - Quentin Remy
 * [#5347](https://github.com/gammapy/gammapy/pull/5347) Modify API fitting tutorial - Astro-Kirsty
