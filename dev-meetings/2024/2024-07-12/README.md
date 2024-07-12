@@ -3,6 +3,8 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+* Presentation of an ongoing work for a joint fit from Swif-UVOT+XRT, NuSTAR, and Fermi-LAT (1 eV to 1e11 eV !) of the OP313 flare
+
 ### PRs opened last week (less than 8 days ago): 
 * [#5361](https://github.com/gammapy/gammapy/pull/5361) Add stat_sum_asimov on MapDataset and MapDatasetOnOff - Atreyee Sinha
 
