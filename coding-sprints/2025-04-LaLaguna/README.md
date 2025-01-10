@@ -5,7 +5,7 @@
 * Location: IAC (La Laguna, Spain)
 * Contacts: [facero](https://github.com/facero)
 
-This meeting is a "coding sprint" for people that **want to work on the development** of Gammapy
+This meeting is a "coding sprint" for people that **are interested to work on the development** of Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
 Gammapy yet. But note that this is **not** a workshop on how to use Gammapy.
 
@@ -18,14 +18,16 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 ## Local Logistics
 
+The meeting will take place at IAC (Instituto de Astrofisica de Canarias) is located in the island of Tenerife (Gmap link)[https://maps.app.goo.gl/T1GSm5owLfRmhF17A] in the city of La Laguna.
+
 You can arrive either at Tenerife North airport (TFN) or South (TFS).  TFN is 15mn away from La Laguna and TFS is ~1h by bus. 
-However TFN only has national flights (Madrid, Barcelona, etc) so no direct flights from Europe. TFS has direct flights from most European capitals via low cost companies like EasyJet, Vueling, Transavia, Ryanair, etc
+However TFN only has national flights (Madrid, Barcelona, etc) so no direct flights from outside Spain. TFS has direct flights from most European capitals via low cost companies like EasyJet, Vueling, Transavia, Ryanair, etc
 
 Good to know: in case you plan and extra weekend to visit LaPalma and the CTAO-Northern site  you can imagine landing at Tenerife and going back home from LaPalma (LaPalma -> Madrid/BCN -> Home).  
 A one-way ticket from TFN -> LaPalma costs ~70-100e for a 30mn flight (a bit expensive) so book early.
 
 
-Hotel : I would recommend to look for hotels in the city of La Laguna which is a world heritage site [https://whc.unesco.org/fr/list/929/gallery/](UNESCO) and walkable distance to the IAC (15-20mn) or 10mn via Tram.
+Hotel : I would recommend to look for hotels in the city of La Laguna which is a world heritage site [UNESCO](https://whc.unesco.org/fr/list/929/gallery/) and walkable distance to the IAC (15-20mn) or 10mn via Tram.
 
 
 ## Group Photo
