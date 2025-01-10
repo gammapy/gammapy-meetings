@@ -1,4 +1,4 @@
-# Gammapy Coding Sprint, May 2024
+# Gammapy Coding Sprint, April 2025
 
 * Start: Monday, April 7th, 2025 
 * End: Friday, April 11th, 2025
