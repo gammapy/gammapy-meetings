@@ -18,7 +18,7 @@ Github project for the coding sprint : https://github.com/orgs/gammapy/projects/
 
 ## Local Logistics
 
-The meeting will take place at IAC (Instituto de Astrofisica de Canarias) is located in the island of Tenerife (Gmap link)[https://maps.app.goo.gl/T1GSm5owLfRmhF17A] in the city of La Laguna.
+The meeting will take place at IAC (Instituto de Astrofisica de Canarias) is located in the island of Tenerife [Gmap link](https://maps.app.goo.gl/T1GSm5owLfRmhF17A) in the city of La Laguna.
 
 You can arrive either at Tenerife North airport (TFN) or South (TFS).  TFN is 15mn away from La Laguna and TFS is ~1h by bus. 
 However TFN only has national flights (Madrid, Barcelona, etc) so no direct flights from outside Spain. TFS has direct flights from most European capitals via low cost companies like EasyJet, Vueling, Transavia, Ryanair, etc
@@ -27,7 +27,7 @@ Good to know: in case you plan and extra weekend to visit LaPalma and the CTAO-N
 A one-way ticket from TFN -> LaPalma costs ~70-100e for a 30mn flight (a bit expensive) so book early.
 
 
-Hotel : I would recommend to look for hotels in the city of La Laguna which is a world heritage site [UNESCO](https://whc.unesco.org/fr/list/929/gallery/) and walkable distance to the IAC (15-20mn) or 10mn via Tram.
+Hotels : I would recommend to look for hotels in the city of La Laguna which is a world heritage [UNESCO](https://whc.unesco.org/fr/list/929/gallery/) site and walkable distance to the IAC (15-20mn) or 10mn via Tram.
 
 
 ## Group Photo
