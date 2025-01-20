@@ -7,16 +7,16 @@ opened or merged, as well as issues which have been opened since the previous me
 
 import os
 import os
-from dotenv import load_dotenv
-
-# Load .env file
-load_dotenv()
-
-token = os.getenv("SUPER_SECRET")
-if not token:
-    raise EnvironmentError("SUPER_SECRET environment variable is not set or could not be found.")
-
-print("Token successfully loaded.")
+# from dotenv import load_dotenv
+#
+# # Load .env file
+# load_dotenv()
+#
+# token = os.getenv("SUPER_SECRET")
+# if not token:
+#     raise EnvironmentError("SUPER_SECRET environment variable is not set or could not be found.")
+#
+# print("Token successfully loaded.")
 
 from datetime import datetime, timedelta
 import pytz
@@ -40,7 +40,7 @@ report_footer = f'\n report created at {time_now}'
 
 # ***************** connecting to the repository of gammapy with token ***************
 
-#token = os.environ["SUPER_SECRET"]
+token = os.environ["SUPER_SECRET"]
 gh = Github(token, per_page=200)
 repo_gammapy = gh.get_repo("gammapy/gammapy")
 
