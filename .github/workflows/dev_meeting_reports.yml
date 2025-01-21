@@ -5,7 +5,7 @@ name : create meeting report
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   get_repo:
     runs-on: ubuntu-latest
