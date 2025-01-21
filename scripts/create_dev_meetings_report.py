@@ -5,18 +5,18 @@ with cron syntax) to create a Gammapy Developer Meeting Report containing pull r
 opened or merged, as well as issues which have been opened since the previous meeting
 """
 
+
 import os
-import os
-# from dotenv import load_dotenv
-#
-# # Load .env file
-# load_dotenv()
-#
-# token = os.getenv("SUPER_SECRET")
-# if not token:
-#     raise EnvironmentError("SUPER_SECRET environment variable is not set or could not be found.")
-#
-# print("Token successfully loaded.")
+from dotenv import load_dotenv
+
+# Load .env file
+load_dotenv()
+
+token = os.getenv("SECRET_GITHUB_TOKEN")
+if not token:
+    raise EnvironmentError("SECRET_GITHUB_TOKEN environment variable is not set or could not be found.")
+
+print("Token successfully loaded.")
 
 from datetime import datetime, timedelta
 import pytz
@@ -40,7 +40,7 @@ report_footer = f'\n report created at {time_now}'
 
 # ***************** connecting to the repository of gammapy with token ***************
 
-token = os.environ["SUPER_SECRET"]
+token = os.environ["SECRET_GITHUB_TOKEN"]
 gh = Github(token, per_page=200)
 repo_gammapy = gh.get_repo("gammapy/gammapy")
 

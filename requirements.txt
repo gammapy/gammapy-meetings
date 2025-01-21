@@ -1,11 +1,12 @@
-astropy
-bokeh
-matplotlib
-numpy
-PyGithub
-pytz
-scipy
+astropy==5.3.4
+bokeh==3.3.0
+matplotlib==3.8.0
+numpy==1.24.2
+PyGithub==2.1.1
+pytz==2023.3.post1
+scipy==1.11.3
 
+#
 # astropy==5.3.4
 # bokeh==3.3.0
 # matplotlib==3.8.0
