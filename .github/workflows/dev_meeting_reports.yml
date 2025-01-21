@@ -19,7 +19,7 @@ jobs:
         with:
             python-version: 3.11
       - name: do action checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: get github repository
         env:
           SECRET2: ${{ secrets.SECRET2 }}
