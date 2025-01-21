@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v2
       - name: get github repository
         env:
-          SUPER_SECRET: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          SUPER_SECRET: ${{ secrets.SECRET2 }}
         run: |
           python -m pip install --upgrade setuptools wheel
           python -m pip install numpy==1.24.2

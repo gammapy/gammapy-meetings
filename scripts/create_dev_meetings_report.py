@@ -12,9 +12,9 @@ import os
 # # Load .env file
 # load_dotenv()
 #
-# token = os.getenv("SECRET_GITHUB_TOKEN")
+# token = os.getenv("SECRET2")
 # if not token:
-#     raise EnvironmentError("SECRET_GITHUB_TOKEN environment variable is not set or could not be found.")
+#     raise EnvironmentError("SECRET2 environment variable is not set or could not be found.")
 #
 # print("Token successfully loaded.")
 
@@ -40,7 +40,7 @@ report_footer = f'\n report created at {time_now}'
 
 # ***************** connecting to the repository of gammapy with token ***************
 
-token = os.environ["SECRET_GITHUB_TOKEN"]
+token = os.environ["SECRET2"]
 gh = Github(token, per_page=200)
 repo_gammapy = gh.get_repo("gammapy/gammapy")
 
