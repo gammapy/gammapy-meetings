@@ -7,16 +7,16 @@ opened or merged, as well as issues which have been opened since the previous me
 
 
 import os
-from dotenv import load_dotenv
-
-# Load .env file
-load_dotenv()
-
-token = os.getenv("SECRET_GITHUB_TOKEN")
-if not token:
-    raise EnvironmentError("SECRET_GITHUB_TOKEN environment variable is not set or could not be found.")
-
-print("Token successfully loaded.")
+# from dotenv import load_dotenv
+#
+# # Load .env file
+# load_dotenv()
+#
+# token = os.getenv("SECRET_GITHUB_TOKEN")
+# if not token:
+#     raise EnvironmentError("SECRET_GITHUB_TOKEN environment variable is not set or could not be found.")
+#
+# print("Token successfully loaded.")
 
 from datetime import datetime, timedelta
 import pytz
