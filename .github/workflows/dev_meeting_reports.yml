@@ -1,7 +1,7 @@
 name : create meeting report
 on:
   schedule:
-    - cron:  '*/10 7 * * 2' #  Test. In general, create at 8 am on Friday (0 7 * * 5)
+    - cron:  '*/40 7 * * 2' #  Test. In general, create at 8 am on Friday (0 7 * * 5)
 jobs:
   get_repo:
     runs-on: ubuntu-latest
