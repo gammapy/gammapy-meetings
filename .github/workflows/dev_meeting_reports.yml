@@ -26,7 +26,6 @@ jobs:
         run: |
           if [ -z "$SECRET2" ]; then echo "SECRET2 is not set!"; exit 1; else echo "SECRET2 is set!"; fi
           python -m pip install --upgrade setuptools wheel
-          python -m pip install numpy==1.24.2
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           python scripts/create_dev_meetings_report.py
       - name: check for changes
