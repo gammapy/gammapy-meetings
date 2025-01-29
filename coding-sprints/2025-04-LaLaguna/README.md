@@ -63,7 +63,8 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 2. Bruno Khélifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
 3. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 4. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
-5. Quentin Remy, MPIK, Germany, ([QRemy](https://github.com/QRemy))
+5. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
+
 X. Please add your name and GitHub name here...
 
 ### Remote
