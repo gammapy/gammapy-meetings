@@ -61,6 +61,7 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 
 1. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
 2. Bruno Khélifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
+3. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 
 X. Please add your name and GitHub name here...
 
