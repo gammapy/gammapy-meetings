@@ -3,7 +3,7 @@
 Users call take place on Zoom.
 
 [Next meeting:]()
- * To be announced
+ * [2025-02-20](2025/2025-02-20/README.md)
 
 [Previous meetings:]()
 * 2022 :
