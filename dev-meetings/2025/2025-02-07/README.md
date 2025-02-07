@@ -3,6 +3,65 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+## General points
+- Register for [coding sprint](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2025-04-LaLaguna)
+- Plans for gammapy presentations in conferences this year
+
+## Status of prototypes
+Heres is a list of current draft/protoype PRs open. 
+
+#### Maps
+- [Support for array valued regions](https://github.com/gammapy/gammapy/pull/5420) Axel
+  - Use case: energy dependent ON region size
+    
+#### DL3 data handling
+- [Draft example of a possible event read write with validation](https://github.com/gammapy/gammapy/pull/5313) Régis
+- [introducing union support in ObservationFilter](https://github.com/gammapy/gammapy/pull/4616) Maxime
+- [Potential modifications to support a future format](https://github.com/gammapy/gammapy/pull/5687) Quentin
+
+#### Dataset 
+- [Introduce LazyDatasets](https://github.com/gammapy/gammapy/pull/5450) Régis
+  - Use case: Create a lazy `Datasets` object where datasets are created when needed. This can help e.g. creating lightcurves for very long time windows
+- [1st implementation of the `EventDataset`](https://github.com/gammapy/gammapy/pull/5677) Maxime
+#### Separation of Dataset and FitStatistic
+- [Implement FitStatistics / Priors ideas.](https://github.com/gammapy/gammapy/pull/4237) Noah
+- [Introduce Fit Statistic classes](https://github.com/gammapy/gammapy/pull/5688) Régis
+- [Introducing FitStatistic: a different approach](https://github.com/gammapy/gammapy/pull/5696) Régis
+#### Fit Statistic penalties, regularized FP, multiparameters priors 
+- [Multi-dimension prior](https://github.com/gammapy/gammapy/pull/5468) Kirsty
+- [A regularized flux points estimator](https://github.com/gammapy/gammapy/pull/5625) Régis
+#### DL4 and IRFs structures
+- [Implement PSFKernelMap](https://github.com/gammapy/gammapy/pull/3689) Laura
+- [Improve DL4 irfs support in gammapy.makers](https://github.com/gammapy/gammapy/pull/5632) Quentin
+#### DL5 data structures
+- [Introduction of a new specialized class for lightcurves](https://github.com/gammapy/gammapy/pull/5174) Claudio
+	- use case: Clarify usage of time dependent flux points with specific `LightCurve` container
+	  ```python
+	    lc = LightCurveEstimator().run(datasets)
+	    print(f"Doubling time = {lc.doubling_time()}")
+	    lc.write(outfile)
+	    
+	    ```
+#### Iterating on Fit/Estimators
+- [ResolvedEstimator to fit models on datasets in bins defined by an axis.](https://github.com/gammapy/gammapy/pull/5444) Claudio
+- [Introduction of the FitResults container class for lists of FitResult objects and axes](https://github.com/gammapy/gammapy/pull/5443) Claudio
+	- use case: Repeat a modeling/fitting or estimator operation over an axis (e.g. time)
+		```python
+			fits_results = ResolvedEstimator(axis=time_axis).run(datasets)
+  ```
+
+#### Improved access to FitResult
+- [Visualisation function to plot stat profile](https://github.com/gammapy/gammapy/pull/5678) Maxime
+	- use case: Simple visualization of some `Fit` results
+		```python
+		result = Fit().stat_profile(datasets, amplitude)
+		result.profile.plot()
+		```
+		
+
+
+## Report
+
 ### PRs opened last week (less than 8 days ago): 
 * [#5696](https://github.com/gammapy/gammapy/pull/5696) [PROTOYPE] Introducing FitStatistic: a different approach - Régis Terrier
 * [#5694](https://github.com/gammapy/gammapy/pull/5694) `e_peak` on `SuperExpCutoffPowerLaw4FGLDR3SpectralModel` - REGEARD Maxime
