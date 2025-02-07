@@ -68,4 +68,5 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 X. Please add your name and GitHub name here...
 
 ### Remote
+1. Fabio Pintore, INAF/IASF, Italy ([fabiopintore](https://github.com/fabiopintore))
 
