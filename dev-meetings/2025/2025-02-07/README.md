@@ -12,13 +12,11 @@ Heres is a list of current draft/protoype PRs open.
 
 #### Maps
 - [Support for array valued regions](https://github.com/gammapy/gammapy/pull/5420) Axel
-  - Use case: energy dependent ON region size
-    
+  - Use case: energy dependent ON region size    
 #### DL3 data handling
 - [Draft example of a possible event read write with validation](https://github.com/gammapy/gammapy/pull/5313) Régis
 - [introducing union support in ObservationFilter](https://github.com/gammapy/gammapy/pull/4616) Maxime
 - [Potential modifications to support a future format](https://github.com/gammapy/gammapy/pull/5687) Quentin
-
 #### Dataset 
 - [Introduce LazyDatasets](https://github.com/gammapy/gammapy/pull/5450) Régis
   - Use case: Create a lazy `Datasets` object where datasets are created when needed. This can help e.g. creating lightcurves for very long time windows
@@ -39,26 +37,22 @@ Heres is a list of current draft/protoype PRs open.
 	  ```python
 	    lc = LightCurveEstimator().run(datasets)
 	    print(f"Doubling time = {lc.doubling_time()}")
-	    lc.write(outfile)
-	    
-	    ```
+	    lc.write(outfile)	    
+	  ```
 #### Iterating on Fit/Estimators
 - [ResolvedEstimator to fit models on datasets in bins defined by an axis.](https://github.com/gammapy/gammapy/pull/5444) Claudio
 - [Introduction of the FitResults container class for lists of FitResult objects and axes](https://github.com/gammapy/gammapy/pull/5443) Claudio
-	- use case: Repeat a modeling/fitting or estimator operation over an axis (e.g. time)
-		```python
-			fits_results = ResolvedEstimator(axis=time_axis).run(datasets)
-  ```
-
+  - use case: Repeat a modeling/fitting or estimator operation over an axis (e.g. time)
+	```python
+		fits_results = ResolvedEstimator(axis=time_axis).run(datasets)
+	```
 #### Improved access to FitResult
 - [Visualisation function to plot stat profile](https://github.com/gammapy/gammapy/pull/5678) Maxime
-	- use case: Simple visualization of some `Fit` results
-		```python
-		result = Fit().stat_profile(datasets, amplitude)
-		result.profile.plot()
-		```
-		
-
+  - use case: Simple visualization of some `Fit` results
+	```python
+	result = Fit().stat_profile(datasets, amplitude)
+	result.profile.plot()
+	```
 
 ## Report
 
