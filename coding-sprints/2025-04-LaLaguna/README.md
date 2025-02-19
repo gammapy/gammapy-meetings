@@ -65,6 +65,7 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 4. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 5. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
 6. Edgar Molina, IAC, Spain ([emolinlu](https://github.com/emolinlu))
+7. Mireia Nievas, IAC, Spain ([mireianievas](https://github.com/mireianievas))
 
 X. Please add your name and GitHub name here...
 
