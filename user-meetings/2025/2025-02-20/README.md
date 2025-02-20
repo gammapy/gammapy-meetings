@@ -6,6 +6,6 @@
 # Agenda
 
 * Brief update from Gammapy developers: ~5 min
-* Multiwavelength analysis workflow with Gammapy:  Mireia Nievas- ~20min ([slides]())
+* Multiwavelength analysis workflow with Gammapy:  Mireia Nievas- ~20min ([slides](Gammapy_MWL_user_call_mnievas.pdf))
 * LST1 3D analysis status: Marcel Strzys- ~30min ([slides]()) 
 * Discussions
