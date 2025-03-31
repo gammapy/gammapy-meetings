@@ -49,7 +49,7 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
   
 ### Thursday
 
-
+Visit to ASTRI and THEMIS solar telescope
 
 ### Friday
 
