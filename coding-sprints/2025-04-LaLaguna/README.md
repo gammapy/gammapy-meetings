@@ -16,6 +16,10 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 Github project for the coding sprint : https://github.com/orgs/gammapy/projects/15/views/1
 
+Wiki for discussions of the week : 
+
+https://github.com/gammapy/gammapy/wiki/Preparation-of-March-2025-coding-sprint
+
 ## Local Logistics
 
 The meeting will take place at IAC (Instituto de Astrofisica de Canarias) is located in the island of Tenerife [Gmap link](https://maps.app.goo.gl/T1GSm5owLfRmhF17A) in the city of La Laguna.
@@ -38,9 +42,11 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 
 
 ### Monday
-##### Afternoon session (2 pm): Kick-off
+Room Pleiades (from Monday to Thursday). 
+
 
 ### Tuesday
+
 
 
 ### Wednesday
@@ -49,10 +55,14 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
   
 ### Thursday
 
-Visit to ASTRI and THEMIS solar telescope   
+Visit to ASTRI and THEMIS solar telescope this afternoon.    
 Maybe have dinner in the Parador restaurant ?
 
 ### Friday
+
+Not at IAC this day.  
+At IACtec in the big meeting room.
+Main entrance to IACtec is [here](https://maps.app.goo.gl/9cF4rHbycY6kUzac6) 
 
 
 ## Participants
