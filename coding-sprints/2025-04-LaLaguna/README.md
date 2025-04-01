@@ -68,7 +68,8 @@ Maybe have dinner in the Parador restaurant ?
 6. Edgar Molina, IAC, Spain ([emolinlu](https://github.com/emolinlu))
 7. Mireia Nievas, IAC, Spain ([mireianievas](https://github.com/mireianievas))
 8. Tora Arnesen, IAC, Spain([ToraTherese](https://github.com/ToraTherese))
-9. Luis , IAC, Spain ([alu0101454412](https://github.com/alu0101454412)) 
+9. Luis , IAC, Spain ([alu0101454412](https://github.com/alu0101454412))
+10. Alberto Bonollo, Italy/Spain ([albertobonollo](https://github.com//albertobonollo))
 
 X. Please add your name and GitHub name here...
 
