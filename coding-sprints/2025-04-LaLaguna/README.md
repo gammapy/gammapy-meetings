@@ -44,17 +44,23 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 ### Monday
 Room Pleiades (from Monday to Thursday). 
 
+Coffee starting at 9:30 am.  
+Meeting starting at 10 am.
+For non-IACs, we'll meet at 9:30am at IAC main entrance [here](https://maps.app.goo.gl/R82vvDhMeSgoZ5Re6) (in front of the museum).  
+You'll need to bring an ID everyday to get a badge.
 
 ### Tuesday
-
+Room Pleiades
 
 
 ### Wednesday
-
+Room Pleiades
 
   
 ### Thursday
+Room Pleiades
 
+Afternoon :   
 Visit to ASTRI and THEMIS solar telescope this afternoon.    
 Maybe have dinner in the Parador restaurant ?
 
@@ -62,7 +68,7 @@ Maybe have dinner in the Parador restaurant ?
 
 Not at IAC this day.  
 At IACtec in the big meeting room.
-Main entrance to IACtec is [here](https://maps.app.goo.gl/9cF4rHbycY6kUzac6) 
+Let's meet at 9:30am at the entrance to IACtec is [here](https://maps.app.goo.gl/9cF4rHbycY6kUzac6) 
 
 
 ## Participants
