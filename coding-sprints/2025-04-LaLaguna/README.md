@@ -110,4 +110,5 @@ X. Please add your name and GitHub name here...
 2. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
 3. Katharina Egg, ECAP, FAU Erlangen-Nürnberg, Germany ([k-egg](https://github.com/k-egg))
 4. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling))
+5. Maxime Regeard, APC, France ([MRegeard](https://github.com/MRegeard))
 
