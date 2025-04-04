@@ -109,4 +109,5 @@ X. Please add your name and GitHub name here...
 1. Fabio Pintore, INAF/IASF, Italy ([fabiopintore](https://github.com/fabiopintore))
 2. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
 3. Katharina Egg, ECAP, FAU Erlangen-Nürnberg, Germany ([k-egg](https://github.com/k-egg))
+4. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling))
 
