@@ -36,7 +36,9 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 
 ## Group Photo
 
+## GitHub Project
 
+See [link](https://github.com/orgs/gammapy/projects/28/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Linked+pull+requests%22%2C%22Type%22%2C%22Labels%22%5D)
 
 ## Agenda
 
