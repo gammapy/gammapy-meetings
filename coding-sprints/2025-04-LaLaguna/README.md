@@ -49,6 +49,20 @@ Meeting starting at 10 am.
 For non-IACs, we'll meet at 9:30am at IAC main entrance [here](https://maps.app.goo.gl/R82vvDhMeSgoZ5Re6) (in front of the museum).  
 You'll need to bring an ID everyday to get a badge.
 
+#### 10 am: start
+- status report: registerrier
+- brief overview of recent science results: mireia
+- Gammapy & e-Rosita data : Katharina Egg
+- overview of CTAO integration & verification: Daniel Morcuende
+- documentation: Kirsty 
+- new features/tutorials: Fabio Acero
+- plans for the week, bugs and feature requests for v2.0: all
+
+#### 3pm : additional points
+- plans for new HLI:  Quentin Remy
+- plotters?
+- gammapy-mwl?
+
 ### Tuesday
 Room Pleiades
 
