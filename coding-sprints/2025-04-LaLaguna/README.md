@@ -63,15 +63,15 @@ You'll need to bring an ID everyday to get a badge.
 #### 3pm (UTC+1): additional points
 - plans for new HLI:  Quentin Remy
 - plotters?
-- gammapy-mwl?
 
 ### Tuesday
 Room Pleiades
-
+#### 11 am (UTC+1): rapid status
 
 ### Wednesday
 Room Pleiades
 
+#### 10am (UTC+1): gammapy-mwl
   
 ### Thursday
 Room Pleiades
