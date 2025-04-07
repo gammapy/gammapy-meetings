@@ -55,7 +55,7 @@ You'll need to bring an ID everyday to get a badge.
 - status report: registerrier
 - brief overview of recent science results: mireia
 - Gammapy & e-Rosita data : Katharina Egg
-- overview of CTAO integration & verification: Daniel Morcuende
+- overview of CTAO integration & verification: Daniel Morcuende [slides](slides/Gammapy-CTAO-SAT-AIV.pdf)
 - documentation: Kirsty 
 - new features/tutorials: Fabio Acero
 - plans for the week, bugs and feature requests for v2.0: all
