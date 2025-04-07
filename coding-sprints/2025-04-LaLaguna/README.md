@@ -14,7 +14,7 @@ Ideally all participants can dedicate most of their time to work on Gammapy duri
 The usual Zoom room of the dev calls will be open the full week.
 https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
-Github project for the coding sprint : https://github.com/orgs/gammapy/projects/15/views/1
+Github project for the coding sprint : https://github.com/orgs/gammapy/projects/28/views/1
 
 Wiki for discussions of the week : 
 
