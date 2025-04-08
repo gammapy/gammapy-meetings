@@ -73,6 +73,9 @@ Room Pleiades
 Room Pleiades
 
 #### 10am (UTC+1): gammapy-mwl
+#### 11am (UTC+1): plans for new HLI:  Quentin Remy
+
+#### ~2pm (UTC+1): status update 
   
 ### Thursday
 Room Pleiades
