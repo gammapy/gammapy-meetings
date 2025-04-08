@@ -53,7 +53,7 @@ You'll need to bring an ID everyday to get a badge.
 
 #### 10 am (UTC+1): start
 - status report: registerrier [slides](slides/coding_sprint_IAC_intro.pdf)
-- brief overview of recent science results: mireia
+- brief overview of recent science results: mireia [slides](https://github.com/gammapy/gammapy-meetings/blob/6ee5dba216f174add2ebb309c7044d9bdb3d86dd/user-meetings/2025/2025-02-20/Gammapy_MWL_user_call_mnievas.pdf)
 - Gammapy & e-Rosita data : Katharina Egg
 - overview of CTAO integration & verification: Daniel Morcuende [slides](slides/Gammapy-CTAO-SAT-AIV.pdf)
 - documentation: Kirsty 
