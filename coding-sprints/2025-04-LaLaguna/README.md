@@ -67,6 +67,7 @@ You'll need to bring an ID everyday to get a badge.
 ### Tuesday
 Room Pleiades
 #### 11 am (UTC+1): rapid status
+#### 11:30 am (UTC+1): user feedback
 
 ### Wednesday
 Room Pleiades
