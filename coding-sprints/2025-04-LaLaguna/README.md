@@ -3,7 +3,7 @@
 * Start: Monday, April 7th, 2025 
 * End: Friday, April 11th, 2025
 * Location: IAC (La Laguna, Spain)
-* Contacts: [facero](https://github.com/facero)
+* Contact: [facero](https://github.com/facero)
 
 This meeting is a "coding sprint" for people that **are interested to work on the development** of Gammapy
 (http://gammapy.org/). You're very welcome if you're new to coding or haven't contributed to
@@ -35,6 +35,9 @@ Hotels : I would recommend to look for hotels in the city of La Laguna which is 
 
 
 ## Group Photo
+
+![image](https://github.com/user-attachments/assets/99ea5316-64ac-4ec2-8a57-54820b2e2e36)
+
 
 ## GitHub Project
 
@@ -77,11 +80,12 @@ Room Pleiades
 - See discussion on the gammapy-mwl [wiki](https://github.com/gammapy/gammapy-mwl/wiki/Coding-sprint-April-9th-2025)
 
 #### 2:30pm (UTC+1): status update 
-#### 3pm (UTC+1): plans for new HLI:  Quentin Remy
 
   
 ### Thursday
 Room Pleiades
+
+#### 10am (UTC+1): plans for new HLI:  Quentin Remy
 
 Afternoon :   
 Visit to ASTRI and THEMIS solar telescope this afternoon.    
