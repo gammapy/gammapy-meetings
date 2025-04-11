@@ -1,5 +1,5 @@
 # Gammapy Developer Meeting 
- * Friday, April 11, 2025, at 2 pm (CET) 
+ * Friday, April 11, 2025, at 2:30 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
