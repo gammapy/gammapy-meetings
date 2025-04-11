@@ -99,6 +99,19 @@ Let's meet at 9:30am at the entrance to IACtec is [here](https://maps.app.goo.gl
 
 #### 1:30 pm (UTC+1): Wrap-up session
 
+- 32 PRs opened this week!
+- 10 already merged (3 closed)
+- 20 closed issues
+
+##### Documentation
+- feedback from internal SDC
+- sampling tutorial 
+##### Bowtie plots
+##### Issues with upper limits 
+##### DL3 internal data model
+##### High level interface
+##### Validation
+##### Sensitivity
 
 ## Participants
 
