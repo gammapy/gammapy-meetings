@@ -97,6 +97,8 @@ Not at IAC this day.
 At IACtec in the big meeting room.
 Let's meet at 9:30am at the entrance to IACtec is [here](https://maps.app.goo.gl/9cF4rHbycY6kUzac6) 
 
+#### 1:30 pm (UTC+1): Wrap-up session
+
 
 ## Participants
 
