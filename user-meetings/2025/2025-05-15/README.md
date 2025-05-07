@@ -1,6 +1,6 @@
 # Gammapy General User Call : 
 
-* **Thursday, 15th May, 2025 at 1700 CEST**
+* **Thursday, 15th May, 2025 at 17:00 CEST (11:00 EST/15:00 GMT)**
 * Zoom meeting link:
   
 # Agenda
