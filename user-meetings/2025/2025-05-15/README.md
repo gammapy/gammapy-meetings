@@ -2,6 +2,8 @@
 
 * **Thursday, 15th May, 2025 at 17:00 CEST (11:00 EST/15:00 GMT)**
 * Zoom meeting link:
+  * [https://u-paris.zoom.us/j/86872749069?pwd=2kmoEp2NpsHwezZAYQMZQIGGhgkqvE.1](https://u-paris.zoom.us/j/86872749069?pwd=2kmoEp2NpsHwezZAYQMZQIGGhgkqvE.1)
+  * meeting ID: 868 7274 9069 - passwd: 634153   
   
 # Agenda
 
