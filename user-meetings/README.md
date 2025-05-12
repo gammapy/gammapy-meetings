@@ -3,9 +3,11 @@
 Users call take place on Zoom. Everyone welcome!
 
 Next meeting:
- * [2025-02-20](2025/2025-02-20/README.md)
+ * [2025-05-15](2025/2025-05-15/README.md)
 
 Previous meetings:
+* 2025 :
+  *  [2025-02-20](2025/2025-02-20/README.md)
 * 2022 :
   * [2022-07-27](2022/2022-07-27/README.md)
   * [2022-01-20](2022/2022-01-20/README.md)
