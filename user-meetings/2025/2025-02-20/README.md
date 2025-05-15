@@ -16,4 +16,4 @@
 
 # Meeting record
 
-* Here: [recording](https://sdrive.cnrs.fr/s/fTfxqp7TQ2eNKZH)
+* Here: [recording](https://sdrive.cnrs.fr/s/2qZpSzsj3iALCcS)
