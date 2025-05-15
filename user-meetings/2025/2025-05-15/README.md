@@ -14,4 +14,4 @@
 
 # Attendies
 
-* 26 participants
+* 27 participants
