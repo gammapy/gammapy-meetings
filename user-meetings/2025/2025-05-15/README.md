@@ -8,6 +8,6 @@
 # Agenda
 
 * Brief update from Gammapy developers: ~5 min ([slides])
-* Using gammapy for VERITAS high-level analysis:  Samantha Wong ~20min ([slides])
+* Using gammapy for VERITAS high-level analysis:  Samantha Wong ~20min ([slides](swong_usercall.pdf))
 * eROSITA data analysis with Gammapy: Katharina Egg ~20min ([slides](Katharina_Egg_eROSITA_data_analysis_with_Gammapy.pdf)) 
 * Discussions
