@@ -31,4 +31,31 @@
 * [#5891](https://github.com/gammapy/gammapy/issues/5891) Asimov TS to Sigma conversion wrong - Stefan Fröse
 * [#5887](https://github.com/gammapy/gammapy/issues/5887) Make a technical tutorial about metadata handling - Bruno Khélifi
 
- report created at 06/06/2025, 07:23:55
+# Minutes
+
+* Regis presented a PR introducing a FoVFrame to simplify internal API and demonstrated how this could potentially support drift-mode observations.
+ [#5860](https://github.com/gammapy/gammapy/pull/5860)
+* Kirsty opened several PRs that add docstrings to several `.run()` functions as well as improving some docs, reviews welcome.
+* Atreyee raised the issue that the HOWTO section is hard to navigate, some suggested solutions emerged
+    * Remove some HOWTOS
+    * Split up into subsections
+    * Create a separate "Example" category
+* Quentin fixed a regression for Astropy 7.1, which required regenerating some test datafiles. 
+* Kirsty provided a PR for function default labels but was not entirely happy with the solution. It was accepted as good enough for now, but a porper plotting class could be created in the future.
+* Samantha will present the Veritas gammapy tutorial next week.
+
+## Upper limit calculations
+Samantha Wong and Matthew Lundy has had problems getting upper limits when trying to place differential limits on what is likely empty fields, the issue arises when the excess happens to be negative. In that case the reference flux calculated is negative which breaks hardcoded assumptions and limits aren't produced.
+
+It is somewhat surprising that this issue has not been highligted previously, it could be because Veritas is trying to use gammapy for all analysis while in other experiments it as been applied mainly to fields where there is some signal.
+
+Discussion on how to handle it produces two suggestions
+* Emit a warning whenever the reference model has a negative norm to let the user know they need to make a choice
+* Update the code so it produces upper limits also when the norm is negative (even if this is perhaps not the most apropriate Upper Limit)
+
+## Workflow step PR
+The analysis class is being refactored into a workflow composed of several steps, hopefully this will allow for more parallelism.
+
+The PR [#5900](https://github.com/gammapy/gammapy/issues/5900) introduces a `Product` class to store intermediate results in the steps instead of storing them inside the worflow class, making for looser coupling easing paralell execution of separate steps.
+
+This work will now be split into several smaller PRs because the current one is a bit hard to follow.
