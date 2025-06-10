@@ -45,7 +45,7 @@
 * Samantha will present the Veritas gammapy tutorial next week.
 
 ## Upper limit calculations
-Samantha Wong and Matthew Lundy has had problems getting upper limits when trying to place differential limits on what is likely empty fields, the issue arrises when the excess happens to be negative. In that case the reference flux calculated is negative which breaks hardcoded assumptions and limits aren't produced.
+Samantha Wong and Matthew Lundy has had problems getting upper limits when trying to place differential limits on what is likely empty fields, the issue arises when the excess happens to be negative. In that case the reference flux calculated is negative which breaks hardcoded assumptions and limits aren't produced.
 
 It is somewhat surprising that this issue has not been highligted previously, it could be because Veritas is trying to use gammapy for all analysis while in other experiments it as been applied mainly to fields where there is some signal.
 
