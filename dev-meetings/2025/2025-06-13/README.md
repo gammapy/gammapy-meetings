@@ -1,7 +1,14 @@
 # Gammapy Developer Meeting 
  * Friday, June 13, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-# Agenda
+## Agenda
+- Presentation on Veritas gammapy tutorial - Samantha Wong
+- Discussion on organization - All
+- Activity report - All 
+
+## Minutes
+
+## Activity report 
 
 ### PRs opened last week (less than 8 days ago): 
 * [#5910](https://github.com/gammapy/gammapy/pull/5910) Change argument name in ul - Kirsty Feijen
