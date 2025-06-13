@@ -23,7 +23,7 @@
 
     - ongoing projects (sensi, HLI, MWL, etc)
 
-     - open issues
+    - open issues
 
     - validation & benchmarks
 
