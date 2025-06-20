@@ -10,16 +10,16 @@
 ### Gammapy organisation
 
 * unordered list:
-- bug
-- doc
-- devops
-- ongoing projects
-  - sensi
-  - HLI
-  - MWL
-  - AoB
-- open issues
-- validation & benchmark
+  - Open issues
+  - Bugs
+  - Documentation
+  - DevOps
+  - Validation & benchmark
+  - Ongoing projects:
+    - sensi
+    - HLI
+    - MWL
+    - AoB
 
 ### PRs opened last week (less than 8 days ago): 
 * [#5936](https://github.com/gammapy/gammapy/pull/5936) Update of the user guide documentation of `Modelling and Fitting` - Bruno Khélifi
