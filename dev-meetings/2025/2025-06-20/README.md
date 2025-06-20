@@ -41,3 +41,15 @@
 * [#5917](https://github.com/gammapy/gammapy/issues/5917) Remove deprecations for v2.1 - Régis Terrier
 
  report created at 20/06/2025, 07:24:22
+
+
+
+### Documentation
+* There were a number of PRs opened (some merged) in a general clean up of the documentation
+* We should make a decision on the following:
+   * Proposal for re-ordering the tutorials [#5796](https://github.com/gammapy/gammapy/issues/5796)
+   * Removing the setup in every tutorial [#5816](https://github.com/gammapy/gammapy/issues/5816)
+
+### Features
+* How to support the default plot labels [#5894](https://github.com/gammapy/gammapy/pull/5894)
+* How to correctly test the stacking functionality for LightCurveEstimator [#5898](https://github.com/gammapy/gammapy/pull/5898)
