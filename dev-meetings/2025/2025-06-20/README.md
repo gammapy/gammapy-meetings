@@ -4,7 +4,7 @@
 
 ## Participants 
 (Zoom display names, zoom chosen order)
-Bruno Khelifi, Tomas Bylund, Nathan Pigoux, Quentin Remy, Atreyee Sinha, Fabio Pintore, Daniel Morcuende, Kirsty Feijen, Fabio Acero, Hanna, DonathA, Jean-Philippe Lenain, Régis Terrier, Samantha Wong.
+Bruno Khelifi, Tomas Bylund, Natthan Pigoux, Quentin Remy, Atreyee Sinha, Fabio Pintore, Daniel Morcuende, Kirsty Feijen, Fabio Acero, Hanna Stapel, Axel Donath, Jean-Philippe Lenain, Régis Terrier, Samantha Wong.
 
 # Agenda
 
@@ -63,7 +63,7 @@ Bruno Khelifi, Tomas Bylund, Nathan Pigoux, Quentin Remy, Atreyee Sinha, Fabio P
 
 ## VERITAS tutorial
 * Samantha presents her draft tutorial showing VERITAS users how to use gammapy to make a real analysis
-* Samantha found she needs to use a local start catalogue file, because queries to Simbad tended to crash; this filed would be hosted in gammapy-data.
+* Samantha found she needs to use a local star catalogue file, because queries to Simbad tended to crash; this filed would be hosted in gammapy-data.
 * Still some questions regarding licensing left to be clarified, but Samantha is not expecting any problems and think that it will be resolved today.
 * Regis remarks that it is anyway good practice to not have network lookups in the documentation because that regularly causes CI jobs to fail when the lookups timeout.
 * Samantha reports she is working a bit on getting the VERITAS catalogue uploaded.
@@ -77,12 +77,12 @@ Bruno Khelifi, Tomas Bylund, Nathan Pigoux, Quentin Remy, Atreyee Sinha, Fabio P
 * Kirsty reports that several PRs about documentation have been created, some of which has been merged.
 * In the discussion about whether the tutorials should reordered, Regis stated he thinks the reorder should happen in time for version 2.0
 * The decision for the new structure is postponed to next week
-* Kirsty asks if the `check_setup()` part of every tutorial really _needs_ to be part of precisely every tutorial. After much discussion the conclusion is it is kept (the `check_setup` command automatically downloads the gammapy data if it is missing). It is further suggested that `gammapy info` could print a message along the lines of "congratualtions, everything works".
+* Kirsty asks if the `check_setup()` part of every tutorial really _needs_ to be part of precisely every tutorial. After much discussion the conclusion is it is kept (the `check_setup` command automatically downloads the gammapy data if it is missing). It is further suggested that `gammapy info` could print a message along the lines of "congratulations, everything works".
 * Kirsty highlighted #5922 where `inter_kwargs` are used for two different purposes, which makes it unclear how to document it.
 * Atreyee shows the new tutorial on upper limits. It was concluded that it would be more appropriate to split the tutorial into two different tutorials.
 
 ## Project management
-* Regis has created a project on github for coordinating the work remaining on Gammapy 2.0. He highlights the need to start working on the changelog and the authorlist now.
+* Regis has created a [project on github for coordinating the work remaining on Gammapy 2.0](https://github.com/orgs/gammapy/projects/30/views/1). He highlights the need to start working on the changelog and the authorlist now.
 
 ## Activity report 
 
