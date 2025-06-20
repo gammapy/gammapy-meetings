@@ -1,7 +1,25 @@
 # Gammapy Developer Meeting 
  * Friday, June 20, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
+
 # Agenda
+
+### SAT IKC latest news
+* [presentation](./DevCall_IKC_20250620_v1.pdf)
+
+### Gammapy organisation
+
+* unordered list:
+- bug
+- doc
+- devops
+- ongoing projects
+  - sensi
+  - HLI
+  - MWL
+  - AoB
+- open issues
+- validation & benchmark
 
 ### PRs opened last week (less than 8 days ago): 
 * [#5936](https://github.com/gammapy/gammapy/pull/5936) Update of the user guide documentation of `Modelling and Fitting` - Bruno Khélifi
