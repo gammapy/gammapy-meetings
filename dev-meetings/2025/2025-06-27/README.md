@@ -1,6 +1,11 @@
 # Gammapy Developer Meeting 
  * Friday, June 27, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
+
+## Participants 
+(Zoom display names, zoom chosen order)
+Axel Donath, Tomas Bylund, Hanna Stapel, Régis Terrier, Kirsty Feijen, Samantha Wong, Matthias Fuessling, Claudio Galelli, Katharina Egg, Daniel Morcuende 
+
 # Agenda
 
 ## Information
