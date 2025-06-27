@@ -3,6 +3,18 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+## Recurring items
+  - Open issues
+  - Bugs
+  - Documentation
+  - DevOps
+  - Validation & benchmark
+  - Ongoing projects:
+    - sensi
+    - HLI
+    - MWL
+    - AoB
+
 ### PRs opened last week (less than 8 days ago): 
 * [#5947](https://github.com/gammapy/gammapy/pull/5947) [PIG] Systematics Modifier API - Stefan Fröse
 * [#5945](https://github.com/gammapy/gammapy/pull/5945) Create exclusion.py - Samantha Wong
