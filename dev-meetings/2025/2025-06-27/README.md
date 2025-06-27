@@ -44,9 +44,9 @@ A PR that allows for skipping parts of the CI process is ready to review
 ### Validation & benchmark
 Daniel has created an issue reporting that the lightcurve validation seems to be broken, he will investigate.
 
-We also found that the benchmarks have not been produced for all minor releases since 1.1, these should be produced and an instruction about it will be added to the developer documentation (in the release section presumably?)
+We also found that the benchmarks have not been tagged for all minor releases since 1.1, these should be produced and an instruction about it will be added to the developer documentation in the release section)
 
-Kirsty ask how the stacking functionality to the LightCurveEstimator should be tested. Regis replied but I didn't follow.
+Kirsty ask how the stacking functionality to the LightCurveEstimator should be tested. Regis replied to make sure that a lightcurve produced from pre-stacked datasets yields the same result as a lightcurve produced with stack option.
 
 ### Ongoing projects:
     - sensi
