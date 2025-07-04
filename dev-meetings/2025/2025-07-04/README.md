@@ -25,23 +25,23 @@ R.T.: Did we assign someone for recurring items yet?
 
 ### Open issues
 
-1. Issue: test class not properly initialized, corrected by A.S., merged today by R.T.
+1. Issue: `EnergyDependentEstimator` test class not properly initialized, corrected by A.S., merged today by R.T. 
 2. Issue: Deprecation, R.T.: PR already open for deprecation, still work todo in this PR -> but issue can be removed.
 3. Issue: Repetitive wording of recurring exercises, A.S. did PR to remove this section. -> can be closed.
 4. Issue: TSMapEstimator failing, Q.R. open PR to solve it, wait for Lauras feedback. A.S. tested it, Q.R. iterated, seems to work -> R.T. Wait for Lauras confirmation.
-5: Issue: already discussed, not relevant for now
+5: Issue [#5948](https://github.com/gammapy/gammapy/issues/5948) : already discussed, not relevant for now
 
 ### Bugs
 
-A.S. made list showing the status. Question regarding which bugs to fix dependent on label, R.T. Is postponing a problem, but sim for data challenge in first part of 2026, thereby solve later ok. A.S. asks Fabio (?)
+A.S. made list showing the status. Question regarding which bugs to fix dependent on label, R.T. proposes to postpone [#5549](https://github.com/gammapy/gammapy/issues/5549) since simulations for data challenge should take place in first part of 2026, thereby solve later ok. A.S. asks Fabio to confirm.
 
-BUG #
+BUG [#5783](https://github.com/gammapy/gammapy/issues/5783)
 T.B.: Standard flux units? R.T. For plotting yes, but not for writing table. -> solution to add it here, T.B. assigned.
 
-BUG # Negative models/amplitudes 
+BUG [#5906](https://github.com/gammapy/gammapy/issues/5906) Negative models/amplitudes and flux points
 A.S.: Open PR with warning if index is negative, for now. R.T.: Alternative, evaluate spectral model of interest at center of energyrange to check if pos. or neg.
 
-R.T.: On good track, just check when to solve, next weak or later.
+R.T.: On good track, just check when to solve, next week or later.
 
 ### Documentation
 
@@ -61,12 +61,8 @@ Assignees:
 - Issue? : A.S.
 (corresponding PR from R.T. discussed in more detail)
 
-- ? : Q.R.
-- Fit Statistics: - decision due
-- ? : R.T.
-- ? : R.T.
+- Fit Statistics penalty: a decision must be taken here. do we merge?
 - DM Issue -> postponed. A.S.: Colleague could maybe do PR for it, maybe for v2.1.
-- ? : ?
 
 ### DevOps
 
@@ -77,17 +73,14 @@ Assignees:
 - nothing specific for now
 
 ### Ongoing projects:
-    - sensi
-    - HLI R.T.: postpone for later.
+    - sensitivity: tutorial is missing. IS it required for v2.0. Do we postpone?
+    - HLI: What can go in, what do we postpone for later?
     - MWL
-No report
-
-R.T.: Needed for v2, or postpone?
 
 ## Any other Business
 
 #Adding people on slack
-A.S.: How to add people on Slack? R.T.: What could be the principle? A.S.: Someone from GP needs to invite. R.T.: Alternative with emailadress to write to for being added? Create contact-address for GP. A.S. agrees. R.T.: Discuss with B.K.
+A.S.: How to add people on Slack? R.T.: What could be the principle? A.S.: Someone from GP needs to invite. R.T.: Alternative with email address to write to for being added? Create contact-address for GP. A.S. agrees. R.T.: Discuss with B.K.
 
 ## Automatic activity report
 
