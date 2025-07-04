@@ -1,7 +1,88 @@
 # Gammapy Developer Meeting 
- * Friday, July 04, 2025, at 2 pm (CET) 
- * Gammapy Developer Meeting on Zoom (direct link on Slack) 
+ * Friday, July 04, 2025, at 2 pm (CET) - 15:14 pm
+ * Gammapy Developer Meeting on Zoom (direct link on Slack)
+ * Attendees: Régis Terrier (R.T.), Atreyee Sinha (A.S.), Tomas Bylund (B.S.), Samantha Wong (S.W.), Katharina Egg (K.E.), Mireia Nievas Rosillo (M.N.R.), Leander Schlegel (L.S.)
+
 # Agenda
+
+* Time for codefreeze (branch that contains v2, stop introducing features):   
+AS: Before September, R.T.: Decide on time next week. Initially next Friday, prob. postponed.
+
+* Contrib. Samantha Wong (S.W.):
+RT: Tutorial content fine, move new function to utils.regions. 
+SW: Could make function flexible, but needed or better specific? 
+RT: Not decided if instrument specific functions into GP, so far not. Rely on regions for the function instead of utils. Extract_bright_star_region_list? 
+SW: Try to implement it today!
+A.S. question to R.T. regarding this: 
+S.W.: Regular exclusion code (notebook), extra function. For crab scenario very bright star falls in region.
+Try up to finish everything today in order for codefreeze.
+
+## Information
+
+## Recurring items
+
+R.T.: Did we assign someone for recurring items yet?
+
+### Open issues
+
+1. Issue: `EnergyDependentEstimator` test class not properly initialized, corrected by A.S., merged today by R.T. 
+2. Issue: Deprecation, R.T.: PR already open for deprecation, still work todo in this PR -> but issue can be removed.
+3. Issue: Repetitive wording of recurring exercises, A.S. did PR to remove this section. -> can be closed.
+4. Issue: TSMapEstimator failing, Q.R. open PR to solve it, wait for Lauras feedback. A.S. tested it, Q.R. iterated, seems to work -> R.T. Wait for Lauras confirmation.
+5: Issue [#5948](https://github.com/gammapy/gammapy/issues/5948) : already discussed, not relevant for now
+
+### Bugs
+
+A.S. made list showing the status. Question regarding which bugs to fix dependent on label, R.T. proposes to postpone [#5549](https://github.com/gammapy/gammapy/issues/5549) since simulations for data challenge should take place in first part of 2026, thereby solve later ok. A.S. asks Fabio to confirm.
+
+BUG [#5783](https://github.com/gammapy/gammapy/issues/5783)
+T.B.: Standard flux units? R.T. For plotting yes, but not for writing table. -> solution to add it here, T.B. assigned.
+
+BUG [#5906](https://github.com/gammapy/gammapy/issues/5906) Negative models/amplitudes and flux points
+A.S.: Open PR with warning if index is negative, for now. R.T.: Alternative, evaluate spectral model of interest at center of energyrange to check if pos. or neg.
+
+R.T.: On good track, just check when to solve, next week or later.
+
+### Documentation
+
+R.T.: Documentation PR merging will take a lot of time -> assign PRs to different people. Assigned is not the person opening the PR, but a reviewer checking that everything works (CI, etc) and merges in the end.
+
+Assignees:
+- "Tutorial cleanup" parts 1,2,3 (#5966,#5967,#5968): A.S.
+- "Fix for #5943" (#5943): R.T.
+- "simple fix to problem with EventList printing" (#5923) :A.S. (Issue discussed with R.T., T.B.)
+- "Add tutorial for non-detected sources" (#5969) : R.T.
+- "Energy edges instead of center for aeff-max in SafeMaskMaker" (#5960): T.B.
+- ! "Adapt tutorial order" (#5949) -> postponed to assign!
+- "Tutorial setup command line option" (#5941): R.T.
+- "ci: allow to ci to skep ci step using PR labels" (#5938): R.T.
+- "Update of the user guide documentation of Modeling and Fitting" #5936 :T.B. 
+
+- Issue? : A.S.
+(corresponding PR from R.T. discussed in more detail)
+
+- Fit Statistics penalty: a decision must be taken here. do we merge?
+- DM Issue -> postponed. A.S.: Colleague could maybe do PR for it, maybe for v2.1.
+
+### DevOps
+
+- nothing specific for now
+
+### Validation & benchmark
+
+- nothing specific for now
+
+### Ongoing projects:
+    - sensitivity: tutorial is missing. IS it required for v2.0. Do we postpone?
+    - HLI: What can go in, what do we postpone for later?
+    - MWL
+
+## Any other Business
+
+#Adding people on slack
+A.S.: How to add people on Slack? R.T.: What could be the principle? A.S.: Someone from GP needs to invite. R.T.: Alternative with email address to write to for being added? Create contact-address for GP. A.S. agrees. R.T.: Discuss with B.K.
+
+## Automatic activity report
 
 ### PRs opened last week (less than 8 days ago): 
 * [#5969](https://github.com/gammapy/gammapy/pull/5969) Add tutorial for non-detected sources - Atreyee Sinha
