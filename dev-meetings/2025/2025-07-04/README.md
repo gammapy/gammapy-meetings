@@ -1,14 +1,14 @@
 # Gammapy Developer Meeting 
  * Friday, July 04, 2025, at 2 pm (CET) - 15:14 pm
  * Gammapy Developer Meeting on Zoom (direct link on Slack)
- * Attendees: Régis Terrier (R.T.), Atreyee Sinha (A.S.), Tomas Bylund (B.S.), Samantha Wong (S.W.), Katharina Egg (K.E.), Mireia Nievas Rosillo (M.N.R.), Leander Schlegel (L.S.)
+ * Attendees: Régis Terrier (R.T.), Atreyee Sinha (A.S.), Tomas Bylund (T.B.), Samantha Wong (S.W.), Katharina Egg (K.E.), Mireia Nievas Rosillo (M.N.R.), Leander Schlegel (L.S.)
 
 # Agenda
 
 * Time for codefreeze (branch that contains v2, stop introducing features):   
 AS: Before September, R.T.: Decide on time next week. Initially next Friday, prob. postponed.
 
-* Contrib. Samantha Wong (S.W.):
+* Contrib. Samantha Wong:
 RT: Tutorial content fine, move new function to utils.regions. 
 SW: Could make function flexible, but needed or better specific? 
 RT: Not decided if instrument specific functions into GP, so far not. Rely on regions for the function instead of utils. Extract_bright_star_region_list? 
@@ -79,7 +79,7 @@ Assignees:
 
 ## Any other Business
 
-#Adding people on slack
+### Adding people on slack
 A.S.: How to add people on Slack? R.T.: What could be the principle? A.S.: Someone from GP needs to invite. R.T.: Alternative with email address to write to for being added? Create contact-address for GP. A.S. agrees. R.T.: Discuss with B.K.
 
 ## Automatic activity report
