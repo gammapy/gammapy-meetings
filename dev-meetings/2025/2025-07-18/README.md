@@ -3,6 +3,8 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+- Short report from the Scipy 2025 conference (Axel)
+  
 ### Documentation
 - general updates made to tutorials to be formatted correctly
 - added documentation on skipping github actions to the dev how to
