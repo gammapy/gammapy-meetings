@@ -8,6 +8,7 @@
 - added documentation on skipping github actions to the dev how to
 
 Outstanding:
+- can we merge? [#5886](https://github.com/gammapy/gammapy/pull/5886/)
 - need to make a decision on the tutorial ordering adaptions [#5949](https://github.com/gammapy/gammapy/pull/5949)
 - to add descriptions to the various `peek` functions -- delegation of tasks [#5961](https://github.com/gammapy/gammapy/pull/5961)
 - command line option for tutorial setup -- should we remove from all other tutorials now too? [#5941](https://github.com/gammapy/gammapy/pull/5941/)
