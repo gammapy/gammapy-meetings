@@ -3,6 +3,19 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+### Documentation
+- general updates made to tutorials to be formatted correctly
+- added documentation on skipping github actions to the dev how to
+
+Outstanding:
+- need to make a decision on the tutorial ordering adaptions [#5949](https://github.com/gammapy/gammapy/pull/5949)
+- to add descriptions to the various `peek` functions -- delegation of tasks [#5961](https://github.com/gammapy/gammapy/pull/5961)
+- command line option for tutorial setup -- should we remove from all other tutorials now too? [#5941](https://github.com/gammapy/gammapy/pull/5941/)
+- tutorial on upper limits [#5933](https://github.com/gammapy/gammapy/pull/5933)
+- tutorial for non-detection [#5969](https://github.com/gammapy/gammapy/pull/5969)
+- VERITAS tutorial [#5918](https://github.com/gammapy/gammapy/pull/5918)
+
+
 ### PRs opened last week (less than 8 days ago): 
 * [#5984](https://github.com/gammapy/gammapy/pull/5984) Coherent checksum behavior in the IO function of `Datasets` - Bruno Khélifi
 * [#5982](https://github.com/gammapy/gammapy/pull/5982) Add class instance caching for WcsGeom and HpxGeom - Quentin Remy
