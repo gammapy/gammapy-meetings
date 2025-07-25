@@ -3,6 +3,14 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+### Open PRs for v2.0
+
+https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0
+
+### Open issues for v2.0
+
+https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.0
+
 ### PRs opened last week (less than 8 days ago): 
 * [#6010](https://github.com/gammapy/gammapy/pull/6010) Changelog for 2.0 - Atreyee Sinha
 * [#6009](https://github.com/gammapy/gammapy/pull/6009) Update dev docs to mention utility scripts available for a release - Atreyee Sinha
