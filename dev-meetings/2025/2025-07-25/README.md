@@ -15,7 +15,7 @@ Attendees: Atreyee Sinha (AS), Kirsty Feijen (KF), Daniel Morcuende (DM), Axel D
   
 In 2.0 we bring two communities together (a lot work with VERITAS). MAGIC now also publishes public data.
 In "Data analysis" - section add at least short MAGIC analysis tutorial. AS: agrees, MAGIC-tut for now was hidden in 1d-analysis.
-Maybe 60 percent of work for 2.0 done yet, a bit behind.
+AD: Maybe 60 percent of work for 2.0 done yet, a bit behind.
 BK: SWGO not founded yet, maybe not on webpage, but for changelog okay. AD: Yes, people in SWGO should be informed, that gammapy can be used.
 AD: Dedicated call for changelog?
 AS: When Régis comes back. Next week I'm not there.
