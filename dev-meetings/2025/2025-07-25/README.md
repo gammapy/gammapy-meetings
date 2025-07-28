@@ -21,7 +21,7 @@ AD: Dedicated call for changelog?
 AS: When Régis comes back. Next week I'm not there.
 AS: Am I missing important features we want to mention in the highlights?
 
-- Emailadress to be used to send requests to, to sign up to gammapy? BK agrees, should be received by lead-devs. Can be done fast.
+- Email address to be used to send requests to, to sign up to gammapy? BK agrees, should be received by lead-devs. Can be done fast.
 
 - QR agrees to lead meeting next time, as RT not back and AS can only stay for half an hour approximately.
 
@@ -40,14 +40,14 @@ KF assigned.
 
 - #5775: BK: Needed for data challenge analysis, we have a bit of time. QR: Missing to link output of parser to select observation, one last thing was missing. I can finish it. QR assigned.
 
-- #5745: KF explains, can update docstring. AS: You could look at tutorial if it satisfies ??? KF agrees.
+- #5745: KF explains, can update docstring. AS: You could look at tutorial if it satisfies the PR. KF agrees, and can add links to the tutorial in the docstring.
 
-- #5737 "Adapt SensitivityEstimator to Cowan approach" : AS, QR discuss it. QR: We can do that, a flux point that does it ???. AS: Question of documentation. ??? AS: We need more discussion. BK: Add to userguide section for sensitivity computation. AS: Pointsource tutorial (CTA 1d)? Agree that flux point is not well exposed. BK: It is not 1D, can be 3D, we need upgrade in the documentation. Show what are statistical differences, what is the physical meaning. AS: Not a tutorial but userguide. BK: It is in the middle, I think we need a dedicated documentation here.
+- #5737 "Adapt SensitivityEstimator to Cowan approach" : AS, QR discuss it. QR: We can do that, a flux point that does it AS: Question of documentation.  AS: We need more discussion. BK: Add to userguide section for sensitivity computation. AS: Pointsource tutorial (CTA 1d)? Agree that flux point is not well exposed. BK: It is not 1D, can be 3D, we need upgrade in the documentation. Show what are statistical differences, what is the physical meaning. AS: Not a tutorial but userguide. BK: It is in the middle, I think we need a dedicated documentation here.
 AS: Put it to 2.0 if someone has time to put documentation in, no one assigned.
-QK: We could make new class Joint Sensitivity/Fluxpoint (???) Estimator?
+QK: We could make new class Joint Sensitivity Estimator? That would combine the steps to do this. Currently it is tied with points estimators.
 AS: Question of documentation.
 
-- #5728: AS: More or less necessary. QR: PR for 2.1 ???
+- #5728: AS: More or less necessary. QR: PR moved to 2.1, need time for proper reviews.
 
 - #5713 "Adapt reoptimize option for FluxPointEstimator":  AS,QR discuss. Expose in doc that user can config. parameters to fit before running estimator. AS comments in Issue.
 
@@ -63,14 +63,14 @@ QR agrees, would be better if we do not need to add models for other people.
 
 - #5598: BK: 2.1, still a lot of work to do.
 
-- #5587: "Enhance CI": FK: Can be moved to 2.1. You can check preview docs in PR and use labels to skip jobs. Main things remain if we want to rebuild CI completely. ??? DM assigned, for 2.1.
+- #5587: "Enhance CI": KF: Can be moved to 2.1. You can check preview docs in PR and use labels to skip jobs. Main things remain if we want to rebuild CI completely, which would involved something like CircleCI. DM assigned, for 2.1.
 
 - #5552: BK: 2.1.
 
 - #5494: AS: What is state? No failing tests? QR: 2.1, we can simplify tests maybe.
 
-- #5484: BK: Issue that it is super slow, it works. QK: Testdata was not good? BK: We have to check to have proper evaluation.
-QR and BK discuss. AS: Cant we update our HAWC-tutorial? QR: Not really the same. FK: Not really a place in the tut. for this. BK: Thereby adding tutorial. AS: No public data for this. QR: I check in the tutorial. Internally histogram is fitted and sometimes fit is terrible.
+- #5484: BK: Issue that it is super slow, it works. QR: Test data was not good? BK: We have to check to have proper evaluation.
+QR and BK discuss. AS: Cant we update our HAWC-tutorial? QR: Not really the same. KF: Not really a place in the tutorial for this. BK: Thereby adding tutorial. AS: No public data for this. QR: I check in the tutorial. Internally histogram is fitted and sometimes fit is terrible.
 BK: Do we have benchmark on SWGO? QR: Not in gammapy. BK: Could be interesting in gammapy. BK: 2.1
 
 - #4712: AS: Set to 2.1
@@ -100,7 +100,7 @@ https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0
 QR: Would be good to have in for 2.0, is deactivated by default, so will not cause problems.
 AS: AD, you suggested to do benchmarks, where it helps, can you do review on this?
 AD: Yes, sure!
-BK asks about details, suggests to make a reminder for it ???
+BK asks about details, suggests to make a reminder for it 
 
 * [5965] Non-detected sources
 
@@ -124,7 +124,7 @@ KF: Suggestion from first entry in Issue #5796, BK agrees. KF: I'm open to sugge
 AS: "Mask" as advanced options?
 
 KF: Maybe really splitting it, do it as suggested in bottom of first entry of Issue #5796.
-QR: EBL, Pulsars, DM, Energy-dep morph. into astrophysics section. Nested sampling should not go in, not astroph. use case (QR), as it is fitting ??? (BK).
+QR: EBL, Pulsars, DM, Energy-dep morph. into astrophysics section. Nested sampling should not go in, not astroph. use case (QR), as it is fitting and already exposed in the user guide under fitting (BK).
 AS: Second section "Detailed explanations" (How to use estimators, catalogs,...)
 BK: agrees.
 
@@ -135,7 +135,7 @@ AS explains. Get minima from interpolated profile.
 KF: Unclear why test fails, as only in one case.
 AS: Different interplation to be more stable, but consistent to use different ones? 
 LS: Can type of polynomials have an effect, probably preventing finding minimum properly by artifacts?
-QR anwers: Yes, but here shape of interpolant similar to expected shape.
+QR answers: Yes, but here shape of interpolant similar to expected shape.
 
 
 ### PRs opened last week (less than 8 days ago): 
@@ -147,7 +147,7 @@ QR anwers: Yes, but here shape of interpolant similar to expected shape.
 * [#6009](https://github.com/gammapy/gammapy/pull/6009) Update dev docs to mention utility scripts available for a release - Atreyee Sinha
 
 - AS: Where does metadata reside in workflow? BK, AD answer. AD recommends to run it, see what diff is and if it is reasonable.
-- AS: What does file prepare-release.py? AD: Updates release-date and version in citation.cff. Suggests to run it and see diff. AS: Before or after release? AD: Before the release. BK: After or before release-candidate is made? AD: Not sure it matters. As release candidate does not go to zenodo but only PyPI. ???
+- AS: What does file prepare-release.py? AD: Updates release-date and version in citation.cff. Suggests to run it and see diff. AS: Before or after release? AD: Before the release. BK: After or before release-candidate is made? AD: Not sure it matters. As release candidate does not go to zenodo but only PyPI. 
 - KF: We should merge your PR, AS.
 
 * [#6008](https://github.com/gammapy/gammapy/pull/6008) Description for data peek functions - Kirsty Feijen
@@ -224,7 +224,7 @@ QR: We can make compound-model work, should be feasible.
 
 AS, QR: is about, how should the weights go in. For 2.0 we can keep it like this, but we need to clarify purpose of weight. Two different cases, QR explains. AD: From stat. perspective, it corresponds to variance (at least for Gaussian case). For Gaussian prior already in, as you define variance of prior. Question if you want to support this in more uniform way. For uniform prior also in, once you define bounds of uniform prior. Some degree of overlap between definitions, matter of documentation? 
 QR: For now, only defined as multiplicative factor.
-AD: Documentation, have one example where we show how to do this. Should be possible to handle with definition of variance ???
+AD: Documentation, have one example where we show how to do this. Should be possible to handle with definition of variance
 AS: We can put it to 2.1.
 QR: We dont use weights as it is implemented, we can see later what we do about it.
 
