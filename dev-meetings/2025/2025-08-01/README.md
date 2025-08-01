@@ -3,6 +3,14 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+### Open PRs for v2.0
+
+https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0
+
+### Open issues for v2.0
+
+https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.0
+
 ### PRs opened last week (less than 8 days ago): 
 * [#6038](https://github.com/gammapy/gammapy/pull/6038) Vectorized error evaluation of flux uncertainties based on samples - Quentin Remy
 * [#6031](https://github.com/gammapy/gammapy/pull/6031) Exposing `AnalysisConfig` better - Kirsty Feijen
