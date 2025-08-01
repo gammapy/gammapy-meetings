@@ -5,35 +5,32 @@
 Attendees: Régis Terrier (RT), Hanna (H), Quentin Remy (QR), Daniel Morcuende (DM), Kirsty Feijen (KF), Atreyee Sinha (AS), Katharina Egg (KE), Axel Donath (AD), Leander Schlegel (LS)
 # Agenda
 
-- RT: Yesterday we had extra meeting. Look at list of open PRs for v.2.0.
+- RT: Yesterday we had extra meeting. Look at list of open PRs for v 2.0.
 
  #5954: "Separate internal EventList data model from gadf format" 
  -------
  - RT: I Can quickly give the status. Now there is internal model for table. Conversion to and from GADF done in IO class    (EventListReader/Writer). One issue from validation error that made test fail, now added something for this: On read the reader opens table and it is checked that minimal columns are present, not a full validation but that minimal four columns are there. If not, error is raised. Otherwise, proceed building the objects and build table, add additional optional columns.
  - QR: Can we still read the SWGO data?
- - RT: I think it works, because the test was running on my machine. There is a test for this specific functionality. If you try to acces events, it would raise a ValueError (in case it fails ???).
+ - RT: I think it works, because the test was running on my machine. If you try to access poorly formatted events, it would raise a ValueError, though.
  - I will look at the test again, then it should be done, please review afterwards.
 
  #5859 "Remove deprecated code in FixedPointingInfo"
  ------
- - RT: Removes deprecated code in FixedPointingInfo. Deprecation warning has been there for a long while, now resolved. Changes remove quite a bit of code. Location has now explicitly to be passed to the projection function (???). Change that QR added.
+ - RT: Removes deprecated code in FixedPointingInfo. Deprecation warning has been there for a long while, now this is resolved. Changes remove quite a bit of code. Location has now explicitly to be passed to the irf projection functions (in gammapy.makers.utils). This change was added by QR.
  - QR: I have a fail that is not visible on CI. Maybe someone can try if they see the same. RT: I will check. Modulo this issue, should be ready soon.
 
   #5898 "Add stacking functionality to LightCurveEstimator"
   ---------
-  - RT: Kirsty can you comment?
-  - KF: Yes, currently we have a test failing, when name of dataset is changed. Not sure yet what causes this, AS had a look, but was not sure either.
-  - AS: I started looking into this but I still did not saw why.
-  - AD: WCS reference coordinate is None.
-  - AS and AD discuss. AS: Strange that it fails afters stacking was introduced. I can take a look.
+  - KF: Currently we have a test failing, when name of dataset is changed. Not sure yet what causes this, AS had a look, but was not sure either.
+  - AD: note that WCS reference coordinate is None.
   - QR: Might be a precision error?
   - AS: Yes, might we need to add tolerance? I could do a PR with which we see which line is failing.
   - RT: Maybe dataset name is not the same and could lead to a problem?
   - AS: Yes that is the only point I found. Why it works for non-stacking case is confusing me.
   - AD: Depends on which axis you stack. For data axis it gives new names, along the energy axis it fails. First thing I would do is improve error message here to see where it is thrown. Info currently not enough. If axis are not aligned, the code should tell us why this is.
-  - AS: I have already a solution for this and will do a PR.
-  - RT: Maybe say in docu that it is not advised to do with regular MapDatset? Discussion with AS.
-  - RT: We have this issue to be solved, take a decision next week, AS gives update on Monday, RT agrees.
+  - AS: possible issue with `reoptimize` option.
+  - RT: Maybe say in docu that it is not advised to use this new option with regular MapDataset? 
+  - RT: This stacking issue has to be solved, take a decision next week, AS gives update on Monday.
 
  #6029 "Standardized implementation prior_stat_sum"
  --------
@@ -63,24 +60,19 @@ RT: Then we are through with higher prioritity.
 
 #6002 "Update of plot functions for the colour bar"
 ----
-- AS: Colorbar was in middle of plot, we need this before release.
-- QR: Can we find generic solution?
-- AS: It was fine before #599? ??? DM, KF, do you have an idea?
-- DM: Maybe it was tight_layout aplied, that is what BK removes.
-- AD: Yes, we should this not call internally in gammapy, only users outside. In tutorial fine, but not in production code.
-- DM: I will have a look later.
-- KF: For v. 1.3 we added more functionality for colorbar, so why previous PR needed, what happened between 1.3 and now, does anyone know?
-- AS: We should add this to high priority list.
+- AS: Colorbar is in middle of plot, we need this solved before release. It was fine before #5992 
+- DM: Maybe it was tight_layout applied, that is what this PR removes.
+- AD: Yes, we should this not call internally in gammapy, only users outside. In tutorial fine, but not in production code. For peek functions one can tune the `figsize` when the layout is changed.
 - AD, KF, RT, AS agree: we should revert #5992.
-- RT, AD discuss: Complex to do certain plots. We should aim at 80 percent for nice plots, 100 percent is much of work. If nicer plot needed for your toturial, code could be added there.
-- AS: For VERITAS it happens, not for other tutorials (HESS).
-- AD: Revert 5992, then introduce solution for 5991.
-- RT: Agree, we revert. General comment: Difficult task for many commit, because the right one has to be found.
-  AD, RT: Revert whole PR / revert merge commit? AD: I can try, RT agrees.
-- RT, KF, discussion over general concept/strategy for method (oversquash?) to adjust number of commits per PR ??? KF: Then one main branch just final product, DM: History cleaner. KF, RT, AD agree.
+- RT, AD discuss: Complex to do certain plots. We should aim at 80 percent for nice plots, 100 percent is much of work. If nicer plot needed for your tutorial, code could be added there.
+
+ ### Discussion on merging strategy regarding revert changes
+
+-  Reverting can be a difficult task for many commit, because the right one has to be found. Reverting the whole PR should be possible by reverting the merge commit? 
+- Discussion over general concept/strategy for method (squash and merge) to limit number of commits per PR 
+   - KF: Then one main branch just final product
+   - DM: History cleaner. KF, RT, AD agree.
 - AD: Checked that direct revert not possible, requires fixing conflicts.
-- RT: Comment in 6002 that it is better to keep it simple, especially for peek function.
-- AD: Have to leave in 2 mins, but can do the revert.
 
 #6031 "Exposing AnalysisConfig better"
 -----
@@ -99,9 +91,9 @@ RT, KF, AS discuss.
 KF explains, is a small change.
 
 
-#???? ""
+#6027 "Fix the setup of the workflow running tutorials with jupytext"
 --------
-DM explains. RT: Comes from old issue from Max, KF agrees.
+DM explains that the workflow it misses some installation steps before running the actual command. RT: Comes from old issue from Max, KF agrees.
 
 
 RT: Through with open PRs, Changelog and Citation.cff remain and open Issues. Much less than before.
