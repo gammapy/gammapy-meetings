@@ -1,7 +1,108 @@
 # Gammapy Developer Meeting 
- * Friday, August 01, 2025, at 2 pm (CET) 
- * Gammapy Developer Meeting on Zoom (direct link on Slack) 
+ * Friday, August 01, 2025, at 2 pm (CET) 14:05 - 15:17
+ * Gammapy Developer Meeting on Zoom (direct link on Slack)
+
+Attendees: Régis Terrier (RT), Hanna (H), Quentin Remy (QR), Daniel Morcuende (DM), Kirsty Feijen (KF), Atreyee Sinha (AS), Katharina Egg (KE), Axel Donath (AD), Leander Schlegel (LS)
 # Agenda
+
+- RT: Yesterday we had extra meeting. Look at list of open PRs for v 2.0.
+
+ #5954: "Separate internal EventList data model from gadf format" 
+ -------
+ - RT: I Can quickly give the status. Now there is internal model for table. Conversion to and from GADF done in IO class    (EventListReader/Writer). One issue from validation error that made test fail, now added something for this: On read the reader opens table and it is checked that minimal columns are present, not a full validation but that minimal four columns are there. If not, error is raised. Otherwise, proceed building the objects and build table, add additional optional columns.
+ - QR: Can we still read the SWGO data?
+ - RT: I think it works, because the test was running on my machine. If you try to access poorly formatted events, it would raise a ValueError, though.
+ - I will look at the test again, then it should be done, please review afterwards.
+
+ #5859 "Remove deprecated code in FixedPointingInfo"
+ ------
+ - RT: Removes deprecated code in FixedPointingInfo. Deprecation warning has been there for a long while, now this is resolved. Changes remove quite a bit of code. Location has now explicitly to be passed to the irf projection functions (in gammapy.makers.utils). This change was added by QR.
+ - QR: I have a fail that is not visible on CI. Maybe someone can try if they see the same. RT: I will check. Modulo this issue, should be ready soon.
+
+  #5898 "Add stacking functionality to LightCurveEstimator"
+  ---------
+  - KF: Currently we have a test failing, when name of dataset is changed. Not sure yet what causes this, AS had a look, but was not sure either.
+  - AD: note that WCS reference coordinate is None.
+  - QR: Might be a precision error?
+  - AS: Yes, might we need to add tolerance? I could do a PR with which we see which line is failing.
+  - RT: Maybe dataset name is not the same and could lead to a problem?
+  - AS: Yes that is the only point I found. Why it works for non-stacking case is confusing me.
+  - AD: Depends on which axis you stack. For data axis it gives new names, along the energy axis it fails. First thing I would do is improve error message here to see where it is thrown. Info currently not enough. If axis are not aligned, the code should tell us why this is.
+  - AS: possible issue with `reoptimize` option.
+  - RT: Maybe say in docu that it is not advised to use this new option with regular MapDataset? 
+  - RT: This stacking issue has to be solved, take a decision next week, AS gives update on Monday.
+
+ #6029 "Standardized implementation prior_stat_sum"
+ --------
+ - QT: Old uniform prior penalized. Will modify the notebook, but should already not contain term "prior" in that case (???).
+ We do not show weight system.
+ - RT: We will have to work on solution in general for penalties instead of priors. Not being bound to API like it is.
+ - AD: Agree, introducing new penalty API requires a bit more work. Is it possible to have custom priors? Then we could fully move the whole definition in the documentation/notebook (Example how to do it custom) then not part of gammapy-API. I think it would be the safest thing to do. QR agrees.
+ - AD: If it works technically, preferable solution, because then we do not introduce new API.
+ - RT: Idea would be to start with custom prior, then use it for penalized? ???
+ - AD: You could even call it "non normalized prior".
+   Tutorial on implementing a custom prior discussed by RT, AS, AD, QR.
+- RT: Do we deprecate attribute of prior?
+- AS: Entire unfiorm prior deprecated?
+- QR: Additional usecase ???
+- AD: If we do 3D fit we have alot of pixels, and sum the liklihood of those pixesl. Question is, if we maybe have to take mean. This reweighting per pixel, how many measurements, etc... generic way is global way to scale likelihood back to the prior. I think we need it. For the Poisson-Likelihood I ended up using the mean, gave a more stable parametrization with respect to the prior. Requires generic/adhoc handling if unexperienced with the data. What is the value to expect from a Cash-Likelihood for a given dataset, for example. For millions of pixel, prior on single parameter does not do much. In practice handle needed. Also, results can differ for different weights. 
+Prior taken to certain power should (under certain properties) still be normalized, still in the Map regime.
+- RT: OK, We keep the weight for now and will see how the framework evolves for the penalties. QR you introduced the random variable, if we want to have sampling we need something similar ??? QR agrees, I can add a line.
+
+#6038 "Vectorized error evaluation of flux uncertainties based on samples"
+-----
+- QR: Now it is fully working. Every thing is vectorized, when the model can not, there is a fallback, then loop over samples is done. I removed change it naima ???. I tried to parallize it, there was no gain, kept it like this, simple loop. Possibility to give sample directly as attribute ??? For now, samples given as list of arrays in specific order of parameters.
+- RT: No specific tests, probably test for vectorized spectrum that you could use, so that it is tested independently. Question reg. typical number of samples: Since it is parallelized more than 3000 x N_parameters.
+- QR: 3500 x N_Parameter. For powerlaw 10000, for more complex model it will be more. The larger param-space, the more points you need to sample it correctly. RT agrees.
+- RT: Adding independent class for this type of calculation may be good. Maybe cleaner refactoring, but not urgent. Maybe you could make some tests for vectorized version, otherwise looks fine, reviews needed. QR agrees to add tests.
+
+RT: Then we are through with higher prioritity. 
+
+#6002 "Update of plot functions for the colour bar"
+----
+- AS: Colorbar is in middle of plot, we need this solved before release. It was fine before #5992 
+- DM: Maybe it was tight_layout applied, that is what this PR removes.
+- AD: Yes, we should this not call internally in gammapy, only users outside. In tutorial fine, but not in production code. For peek functions one can tune the `figsize` when the layout is changed.
+- AD, KF, RT, AS agree: we should revert #5992.
+- RT, AD discuss: Complex to do certain plots. We should aim at 80 percent for nice plots, 100 percent is much of work. If nicer plot needed for your tutorial, code could be added there.
+
+ ### Discussion on merging strategy regarding revert changes
+
+-  Reverting can be a difficult task for many commit, because the right one has to be found. Reverting the whole PR should be possible by reverting the merge commit? 
+- Discussion over general concept/strategy for method (squash and merge) to limit number of commits per PR 
+   - KF: Then one main branch just final product
+   - DM: History cleaner. KF, RT, AD agree.
+- AD: Checked that direct revert not possible, requires fixing conflicts.
+
+#6031 "Exposing AnalysisConfig better"
+-----
+- KF (shares screen): Current documentation quite messy and confusing to look at. Thereby, I implemented in PR change of settings, to make it nicer (suppress parts). Question how to proceed: Two options are to either in each of these parameters specify input, or adjust docstring of those classes?
+- RT: AnalysisConfig based on pydantic?
+- KF: Yes, this is why I had to add this specific setting.
+RT, KF, AS discuss.
+- AS: Explaining manually kind of equivalent to exposing all.
+- KF: If we do not expose, all the configs not needed.
+- RT: New analysis high-level interface not ready now, but will be at some point. Question is, shall we do correct exosition now, if we have to deprecate soon?
+- AS: Is class much used?
+- RT: Probably not as only exposed in two points in tutorials. Is there way to get rid of all pydantic specific functions? Strong objection to exposing the ??? Otherwise proceed.
+
+#6043 "Fix docstrings"
+------
+KF explains, is a small change.
+
+
+#6027 "Fix the setup of the workflow running tutorials with jupytext"
+--------
+DM explains that the workflow it misses some installation steps before running the actual command. RT: Comes from old issue from Max, KF agrees.
+
+
+RT: Through with open PRs, Changelog and Citation.cff remain and open Issues. Much less than before.
+- AS: Yes, we postponed the ones open for more than 2 years, as they can not be high priority. RT agrees.
+- RT: For the remaining ones, we postpone the ones with feature requests. No bugs so far, no documentation, we could postpone everything.
+We postpone them and check on remaining PRs next week. Ideally branching next week, I can join for that at some point, but will be mostly away. QR, AS?
+- RT, QR, AS agree to do it together.
+- RT: Branching, finalizing citation and changelog remain. If branching next week, rest maybe before 15 of August, then final checks. ???
+We are close to be done with 2.0, thank you for the hard work! :)
 
 ### Open PRs for v2.0
 
