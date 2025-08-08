@@ -3,6 +3,15 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+
+### Open PRs for v2.0
+
+https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0
+
+### Open issues for v2.0
+
+https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.0
+
 ### PRs opened last week (less than 8 days ago): 
 * [#6067](https://github.com/gammapy/gammapy/pull/6067) Docstring formatting part 3 - Kirsty Feijen
 * [#6066](https://github.com/gammapy/gammapy/pull/6066) Fix recompute_ul for masked arrays - Quentin Remy
