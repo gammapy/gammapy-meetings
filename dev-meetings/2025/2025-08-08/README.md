@@ -27,7 +27,7 @@ QR: Other PR only infrastructure.
 AD: Resolved most things already, maybe for bugfixes we should tell exactly, what details are, so people can see if they are affected or not.
 Left some inline comments, summary reads good now, that was most important part.
 
-#5939 "Update Citation.cff vor v 2.0"
+#5939 "Update Citation.cff for v2.0"
 ------
 QR: We can do this after the branching (???).
 
@@ -44,8 +44,8 @@ QR opens discussion of the remaining issues:
 -----
 KF: What is analysis 2?
 QR: It is the "Low-level API"-tutorial.
-KF: IF we leave high-level interface, we should also leave low-level interface and come back for 2.1.
-QR: Do it after v2.0, Maybe we could add a link at the end, showing other tutorials that use HESS-data, would be a way to show, how to do the full analysis, I will leave a comment in the issue.
+KF: If we leave high-level interface, we should also leave low-level interface and come back for 2.1.
+QR: Do it after v2.0, Maybe we could add a link at the end, showing other tutorials that use HESS-data, would be a way to show, how to do the full analysis. QR writes comment in issue.
 
 #5775 "Add conditions for multiple selections in DataStore.obs_table"
 -----
@@ -73,7 +73,7 @@ QR: Is for the user to determine what is relevant for the analysis. Postponed fo
 
 #5282 "Simplify the Sensitivity Estimator Notebook"
 ------
-QR: Not clear if this is only rel. to documentation of if this requires more in the code as well? We can wait for AS to discuss it.
+QR: Not clear if this is only rel. to documentation or if this requires more in the code as well? We can wait for AS to discuss it.
 
 #5344 "Task list for Sensitivity Estimation"
 ------
