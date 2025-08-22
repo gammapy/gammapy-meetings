@@ -29,7 +29,7 @@ Left some inline comments, summary reads good now, that was most important part.
 
 #5939 "Update Citation.cff for v2.0"
 ------
-QR: We can do this after the branching (???).
+QR: We can do this after the branching.
 
 
 #6048 "Update minimal dependencies for 2.0"
