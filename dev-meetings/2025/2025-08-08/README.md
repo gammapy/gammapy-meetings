@@ -53,7 +53,7 @@ QR: Should miss just simple thing, can be fixed easily.
 
 #5737 "Adapt SensitivityEstimator to Cowan approach"
 ------
-AD: I can briefly comment, was only put in place like prelim. safety-measure, as not much experience at the time. One would (???) need to change to different criteria, that e.g. E-axis is aligned to certain degree, should be solvable.
+AD: I can briefly comment, was only put in place like prelim. safety-measure, as not much experience at the time. One would need to change to different criteria, that e.g. E-axis is aligned to certain degree, should be solvable.
 QR: I checked alignment of E-axis already, but fluxpoint in certain bin with different meaning of ??? does not make sense.
 AD agrees. We were rather cautious with this. Could be loosened a bit.
 QR: We could have option "strict"=True/False to allow this, or not. I would postpone this for 2.1.
