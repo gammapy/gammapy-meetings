@@ -34,7 +34,7 @@ QR: We can do this after the branching.
 
 #6048 "Update minimal dependencies for 2.0"
 ------
-QR: Maybe we could test if it works with latest version of Matplotlib and ??? now, if it does, it is okay.
+QR: Maybe we could test if it works with latest version of Matplotlib, if it does, it is okay.
 
 
 
