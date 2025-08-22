@@ -77,7 +77,7 @@ QR: Not clear if this is only rel. to documentation or if this requires more in 
 
 #5344 "Task list for Sensitivity Estimation"
 ------
-QR: Can postpone it, as related to other PR. ???
+QR: Can postpone it, as related to other PR.
 
 
 #4563: "Improve error traceback for DatasetsMaker"
