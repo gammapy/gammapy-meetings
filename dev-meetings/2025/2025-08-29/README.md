@@ -32,7 +32,7 @@ RT: Have to prepare text for announcement mails. After mails are sent, there sho
 RT: It was a long time to make this release, probably the roadmap was too ambitious.
 
 AS: Gabriel Emery was missed for the contributor list somehow, but he is in the author list. Unclear how this happened. Is it worth to update the docs to ensure he is included?
-RT: Probably not, rebuilding the docs is complicated.
+RT: Probably not (now ???), rebuilding the docs is complicated, as it will be fixed soon probably in any case.
 
 ### Introduction of AG: 
 
@@ -72,7 +72,7 @@ AS: Next user-call probably in November.
 
 RT: Should be okay, more important, that most people related to it are around.
 
-AG: I can take a look at open options and try to fix them.
+AG: I can take a look at open issues and try to fix them.
 
 ### Organising the development cycle
 RT: Try to establish main projects that drive the timing of the release cycle.
