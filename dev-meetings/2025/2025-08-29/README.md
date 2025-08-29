@@ -38,7 +38,6 @@ RT: Probably not before next bugfix as manually rebuilding the docs is complicat
 
 AG introduces themselves: Research on phenomenology of dark matter (theory), accretion od DM in compact objects (neutron stars, white dwarfs). Aim to understand and help on DM frontier with gammapy. 
 
-Theoretical predictions fluxes below observed fluxes (???), 
 
 -Theory background: 
 In models, DM could be thermalized or non-thermalized. Dark sector with 1 particle, major portion of DM today is non-rel/cold. DM models provide: Velocity averaged annihilation cross-section for annihilation of DM and DM mass. The DM annihilates into standard particles, that go into pions and finally gamma rays. Different models exist (e.g. with dark sector). Possible that no annihilation at threshold is expected, missing in most codes today.
