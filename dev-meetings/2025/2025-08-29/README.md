@@ -81,9 +81,7 @@ Need to think more carefully about how to set milestones for PRs and issues, the
 
 MF: Congratulations to Gammapy 2.0! We will give you room to present this release in depth at October CTAO-meeting and hope some of you that worked hard on it, can be there.
 Should make sure this leads to a proper release of the Science Analysis Tools, which would be a major milestone for the Science tools work package. 
-Reminds us that the SAT is supposed to serve for the science data challenge, in particular Gammapy 2.1 will be used to generate the simulation for the SDC, and so it is important to check ahead of time that all features needed for the SDC are present in Gammapy.
-Do not know how long it takes to prepare 2.1. (???) 
-Will discuss with David Green next week about list of science cases.
+Reminds us that the SAT is supposed to serve for the science data challenge, in particular Gammapy 2.1 will be used to generate the simulation for the SDC, and so it is important to check ahead of time that all features needed for the SDC are present in Gammapy. We will discuss with David Green next week about the list of science cases in order to give input for the planning of release 2.1 during the first weeks of the new development cycle.
 
 ### Next user call
 AS: Can I announce 22.9 for the next User-Call? I asked QR and FP. 
