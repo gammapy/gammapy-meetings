@@ -2,6 +2,28 @@
  * Friday, August 29, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
+## General information
+
+## Open issues
+
+## Bugs
+
+## Documentation
+
+## DevOps
+
+## Validation & benchmark
+
+## Ongoing projects:
+### sensi
+
+### HLI
+
+### MWL
+
+## Any other buisiness
+
+# Automatic activity report
 
 ### PRs opened last week (less than 8 days ago): 
 * [#6116](https://github.com/gammapy/gammapy/pull/6116) Add missing contributor in release notes for v2.0 - Gabriel Emery
