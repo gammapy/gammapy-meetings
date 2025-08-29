@@ -50,7 +50,7 @@ We did work which predicts neutrino line, it would be very interesting to see ho
 Would like to help with these points for DM.
 
 RT: Very interesting view. We include some tables that have part of the channels. Question if we should provide models directly in Gammapy or simply create an interface into which theorists could insert their models. 
-View as developer: We have had contributions for DM at points, but difficult to get team in the long run set on DM (???)
+View as developer: We have had contributions for DM at points, but difficult to get a team in the long run set on DM 
 Dark matter analysis could also be interesting topic for a User call, could try to have one before the end of the year. 
 
 AS: I'm sure there will be enough people interested.
