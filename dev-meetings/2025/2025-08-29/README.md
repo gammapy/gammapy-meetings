@@ -32,7 +32,7 @@ RT: Have to prepare text for announcement mails. After mails are sent, there sho
 RT: It was a long time to make this release, probably the roadmap was too ambitious.
 
 AS: Gabriel Emery was missed for the contributor list somehow, but he is in the author list. Unclear how this happened. Is it worth to update the docs to ensure he is included?
-RT: Probably not (now ???), rebuilding the docs is complicated, as it will be fixed soon probably in any case.
+RT: Probably not before next bugfix as manually rebuilding the docs is complicated, as it will be fixed soon probably in any case.
 
 ### Introduction of AG: 
 
