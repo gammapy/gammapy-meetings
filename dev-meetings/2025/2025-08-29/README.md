@@ -45,7 +45,7 @@ In models, DM could be thermalized or non-thermalized. Dark sector with 1 partic
 -Possible observations: Diffuse flux or smoking gun signatures in form of lines. Line signatures require good calculation of background, but models that provide line predictions are interesting. 
 In non-thermal DM we can not rely on direct detection. Line sig. and diffuse photon flux give opportunity for DM frontier (???) 
 
-We did work which predicts neutrino line, it would be very interesting to see how to work on it from observation side. (???)
+We did work which predicts neutrino line, it would be very interesting to see how to work on it from observation side. 
 
 Would like to help with these points for DM.
 
