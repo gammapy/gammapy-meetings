@@ -45,7 +45,7 @@ AS: KF started to do a major cleanup of gammapy tests, was planned for a long ti
 Then a test from sherpa was breaking, I tried to do a constrained fit, prob. not correct way of doing it. Best value less then y-min. Good to merge.
 
 AS: General comment about all our open issues. Now RT moved everything to either wishlist or no milestone (?) associated to any of them. RT and me will sit together next week to find good ideas for 2.1 release. Roadmap for 2.0 had very ambitious list of things we wanted to do and we did not make much progress. This time we want to be more concrete/ have more specific projects. Maybe DM; if you want to work more on infrastructure, or everybody has an idea on what they want to work on, to have some directions.
-DM: MF mentioned last week, that the standard needed for science data challenge have to be tackled in 2.1, giving priorities to these issues as well. (???)
+DM: MF mentioned last week, that the standard needed for science data challenge have to be tackled in 2.1, giving priorities to these issues as well. Follow-up discussion will happen here: https://github.com/gammapy/gammapy/issues/6131
 Looking at label "SAT req.". DM: Probably a bit outdated, Matthias and I are in contact with David Green to compile the list of science analysis use cases SAT should support, with focus in the upcoming SDC.
 AS: D you have a list?
 DM: We have prelim. list of science cases but still have to go through it.
