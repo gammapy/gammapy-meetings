@@ -132,7 +132,7 @@ RT: DM commented that towncrier prob. complains if nothing is in.
 AS: #6097 can be merged independently of towncrier.
 
 
-#6093 "Suppress pedantic warnings"
+#6093 "Suppress pydantic warnings"
 ---------
 KF: AD approved it, can go in. We had a line that was repeated twice, changed a few settings and this fixed it.
 AS and KF look through it.
