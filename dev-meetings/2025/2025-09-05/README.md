@@ -17,7 +17,7 @@ AS: We have to use the free version? DM: We can use the purchased version, that 
 AS: Is there any conflict?
 DM: Have not tested it yet, would not expect any problem with it.
 AS: We have to fix, what are the checks. 
-DM: For the twoncrier, KF started doing it. Idea is to not do all the changelog manually before each release, but we have a system that for every PR with significant changes, you already describe what is a change and the towncrier integrates it automatically in a changelog.
+DM: For the twoncrier, KF started doing it [in this PR](https://github.com/gammapy/gammapy/pull/6130). Idea is to not do all the changelog manually before each release, but we have a system that for every PR with significant changes, you already describe what is a change and the towncrier integrates it automatically in a changelog. RT later on this: if we want towncrier to make the changelog for 2.1 we should have it at the begining of the development cycle, see discussion below.
 AS: Very nice as preparing changelog is significant work usually. Do we have to be more carefully about what we write when doing a PR now?
 DM: Yes, every PR now needs a Changelog-section.
 
