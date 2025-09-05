@@ -33,8 +33,20 @@ isExist = os.path.exists(today_report)
 
 title = f'# Gammapy Developer Meeting \n'
 report_heading = f' * {today_long}, at 2 pm (CET) \n ' \
-                 '* Gammapy Developer Meeting on Zoom (direct link on Slack) \n' \
-                 '# Agenda\n'
+    '* Gammapy Developer Meeting on Zoom (direct link on Slack) \n' \
+    '# Agenda\n' \
+    '## General information\n\n' \
+    '## Open issues\n\n' \
+    '## Bugs\n\n' \
+    '## Documentation\n\n' \
+    '## DevOps\n\n' \
+    '## Validation & benchmark\n\n' \
+    '## Ongoing projects:\n\n' \
+    '### sensi\n\n' \
+    '### HLI\n\n' \
+    '### MWL\n\n' \
+    '## Any other buisiness\n\n' \
+    '# Automatic activity report\n'
 
 report_footer = f'\n report created at {time_now}'
 
