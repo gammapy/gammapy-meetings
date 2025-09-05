@@ -13,7 +13,7 @@ There have been some PRs, one related to towncrier. DM, do you want to comment o
 #6121
 -------------------------
 DM reports: Quality gate. All software projects within CTAO use SonarQube. similar to what codacy does, the quality gate that is currently integrated with gammapy. It should be good to have also Gammapy using SonarQube for consistency with the rest of the projects. Action item: we have a first test with SonarQube, see how it goes, Daniel can help with this. Then compare the quality report with what Codacy reports. CTAO recently purchased a license for SonarQube, developer version, with has some more features. Follow-up discussion: https://github.com/gammapy/gammapy/issues/6121
-AS: We have to use the free version? DM: We can use the purchased version, that CTAO recently got. For SAT (???) it is done already, but for GitHub ???
+AS: We have to use the free version? DM: We can use the purchased version, that CTAO recently got. For SAT hosted in GitLab it is done already, but the question is whether to also trigger the check of Gammapy itself.
 AS: Is there any conflict?
 DM: Have not tested it yet, would not expect any problem with it.
 AS: We have to fix, what are the checks. 
