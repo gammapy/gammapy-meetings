@@ -82,7 +82,7 @@ AS: 4 open PIG and all are listed. Senistivity Estimation we are almost there. S
 KF: Agree, even though 5 points, some are minimal.
 
 AS: Maybe Handbook of Gammaray astronomy. We do not know what it would mean, which journal/book. AD do you think it is a good/feasible idea?
-AD: KF mentioned X-ray data (Gamma-ray primer like they have with X-ray), is a very good idea. X-ray primer very good reference, doing something like this. Recently there was a book (???) chapter on data analysis, probably not complete, could be some reference.
+AD: KF mentioned X-ray data (Gamma-ray primer like they have with X-ray), is a very good idea. X-ray primer very good reference, doing something like this. Recently there was a book chapter on data analysis, probably not complete, could be some reference.
 AS: Maybe nice to have also something related to how Gammapy evolves. Instead of having one static pdf, something you can update, something citable and updatable? Can be more than Gammapy and include details about IRFs, etc. 
 RT: Regarding CTAO school, we could suggest something as a way to prepare already some gammaray primer, maybe could organize something in CTAO. Maybe to have a place were these things a really explained.
 KF: https://cxc.harvard.edu(cdo/xray_primer.pdf
@@ -109,7 +109,7 @@ RT: Probably we can discuss in a few weeks on the status.
 RT: We managed to get more organized. Discussion on open PR in Dev-Call are maybe not the best way, as they take maybe too much time and are not of interest to everyone. Instead maybe concentrate on projects and discuss specific issues, but not whole list of PRs. First thing, associate PR to specific project (technical part) and we need to have people committed to some projects (human part). Not clear how to do it, one possibility: Create one issue to gather elements and people assign to it, then create projects.
 Maybe calls become unproductive if not many people discuss. Opinions and propositions abut this?
 
-TB: List of projects, useful for many people, maybe not for one single person. Write down who is in a project and structure how a project organizes itself. First thing to do, (???) to be in a project.
+TB: List of projects, useful for many people, maybe not for one single person. Write down who is in a project and structure how a project organizes itself. First thing to do, people should assign project(s).
 RT: Yes we can create a page with list of projects, then one per project and people are listed there.
 TB: We should try to collect agenda items ahead of meeting. Tried to write down fixed points, but are not alway relevant for every meeting.
 RT: Maybe call in advance for contributions, e.g. Thursday sending a message to everyone asking for contributions?
@@ -143,7 +143,7 @@ If there are people, we could try to work on it during September, on one Friday.
 
 RT: AOB?
 AS: Next user call is next Monday.
-RT: We could send reminder on general channel. We have to discuss what we present for the gammapy team besides demonstration tutorials (???). AS: I can make some slides, keep it very short. RT: 10 min? AS agrees.
+RT: We could send reminder on general channel. We have to discuss what we present for the gammapy team besides demonstration tutorials. AS: I can make some slides, keep it very short. RT: 10 min? AS agrees.
 
 RT ends the meeting.
 
