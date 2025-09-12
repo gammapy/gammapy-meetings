@@ -2,7 +2,7 @@
  * Friday, September 12, 2025, at 2 pm (CET)  (14:06-15:25)
  * Gammapy Developer Meeting on Zoom (direct link on Slack)
  
- Attendees: Régis Terrier (RT), Hanna (H), Matthias Fuessling (MF), Atreyee Sinha (AS), Fabio Pintore (FP), Tomas Bylund (TB), Aritra Gupta (AG), Kirsty Feijen (KF), Leander Schlegel (LS), Axel Donath (AD), Claudio Galelli (CG), Daniel Morcuende (DM)
+ Attendees: Régis Terrier (RT), Hanna Stapel (HS), Matthias Fuessling (MF), Atreyee Sinha (AS), Fabio Pintore (FP), Tomas Bylund (TB), Aritra Gupta (AG), Kirsty Feijen (KF), Leander Schlegel (LS), Axel Donath (AD), Claudio Galelli (CG), Daniel Morcuende (DM)
  
 # Agenda
 ## General information
@@ -44,12 +44,12 @@ We have already discussed different penalties, in June with Lucas Gréaux. Maybe
 
 Geometry based fitting (AS, CG)
 -------------------
-Way to gather temporal and time resolved / space resolved analysis. Work by Claudio to build a container, we have a prototype, not worked on since a few month, we should revive it and do some decisions on what we want to do on this. Use cases: Time resolved study of variable source, (???).... the cases don't share the same geometry but the same problematic.
+Way to gather temporal and time resolved / space resolved analysis. Work by Claudio to build a container, we have a prototype, not worked on since a few month, we should revive it and do some decisions on what we want to do on this. Use cases: Time resolved study of variable source, spatially resolved spectral analysis. The cases don't share the same geometry but the same problematic.
 
 
 Unbinned analysis (TB)
 ----------------
-Giacomo and Tim (???) both worked on writing a PIG. Prototype exists. Main outcome was: if we want to redo typical analysis in unbinned way, a lot of computational effort has to be paid, but not much is gained. E.g. 3D unbinned model evaluation. Probably really important regarding time domain analysis. We don't take time axis into account clearly, split into datasets and use GTI (???). The way to go would be to have approach that is focused to some specific use cases, try to make progress this way. TB is looking into it.
+Giacomo and Tim both worked on writing a PIG. Prototype exists. Main outcome was: if we want to redo typical analysis in unbinned way, a lot of computational effort has to be paid, but not much is gained. E.g. 3D unbinned model evaluation. Probably really important regarding time domain analysis. We don't take time axis into account clearly. Currently observation is split into datasets and GTI is used to perform time integration. The way to go would be to have approach that is focused to some specific use cases, try to make progress this way. TB is looking into it.
 
 
 Dark matter utilities
@@ -63,7 +63,7 @@ This is the first approach to prioritize. We should discuss, is anything missing
 RT opens the discussion:
 
 AS: Thanks RT for this. We realized looking at doc, that this is a point, where we have achieved everything we intended for 2.0, credit goes to KF, she took initiative to do one topic. If "Not so urgent", not for 2.1 but we should plan it, as no of these things can happen in 6 month cycle.
-RT: One thing not mentioned is DevOps, which is a long standing issue.
+RT: One thing not mentioned is DevOps, which is a long term task.
 
 #### Metadata
 TB: About metadata: there is the CTAO build-meeting coming up. Did you plan to ask people building science data portal, what they require? Some sort of coordination with SDC task-force?
@@ -91,15 +91,14 @@ FP leaves.
 
 
 ### Dark matter
-AG: I looked at some DM stuff from Gammapy and have some queries and confusions. May I share my screen?
-#5734 (???)
-I played around with Gammapy utilities and checked if definitions are on the same page, took PPPC paper (arXiv 1012.4515). There are some benchmark points in paper and I checked them against Gammapy.
+AG looked at some DM stuff from Gammapy and have some queries. AG played around with Gammapy utilities and checked if definitions are on the same page, took PPPC paper (arXiv 1012.4515). There are some benchmark points in paper and I checked them against Gammapy.
 
 - For annihilation they use eq. 34 and scale density with r_sun,  they have a table on p.35. First I wanted to check, that Theta is equal to Theta in the Gammapy code. I check it and they match up.
-- Paper from H.E.S.S. (arXiv 1607.08142) has some J-factor calculations, table on p.10. I have code where I try to do the PPPC stuff and compare to Gammapy. For small angle, the difference is order 0.1,0.2. More or less match at order of mag. level. But for angle 0-1,0-2 degree, then there is a huge discrepancy between both codes. Not clear why. Rectangular region B x L. Finding a lot of discrepancies and went through the code. In PR #5296, utils.py, l.63. For the angle between GC and point of annihilation and observer (???) simplifying assumption of right angle triangle done, that may explain differences. 
-RT: That is interesting and good to see you have already ideas, where it is coming from. But probably we can't discuss it in detail here. Interesting approach to try to understand what is correct and what is not. Some kind of validation of the package to see if it reproduces results from PPPC paper, is a good approach. Maybe you could create a wiki-page on this or a global issue on this. Probably creating a set of validating calculations, that could be automatized. We have unit tests, but they do not necessarily check validity of assumptions.
+- Paper from H.E.S.S. (arXiv 1607.08142) has some J-factor calculations, table on p.10. I have code where I try to do the PPPC stuff and compare to Gammapy. For small angle, the difference is order 0.1,0.2. More or less match at order of mag. level. But for angle 0-1,0-2 degree, then there is a huge discrepancy between both codes. Not clear why. Rectangular region B x L. Finding a lot of discrepancies and went through the code. In PR #5296, utils.py, l.63. For the angle between GC and point of annihilation and observer  simplifying assumption of right angle triangle done, that may explain differences. 
+RT: That is interesting and good to see you have already ideas, where it is coming from. But probably we can't discuss it in detail here. Interesting approach to have some kind of validation of the package to see if it reproduces results from PPPC paper. Maybe you could create a wiki-page on this or a global issue on this. Probably creating a set of validating calculations, that could be automatized. We have unit tests, but they do not necessarily check validity of assumptions.
+DM: Opened issue #174 on gammapy-benchmarks, the issue needs more details.
 AS: Maybe you could summarize your findings in the issue, that would be very helpful.
-RT: If issues are deeper in the code, maybe call with people who contributed to this code could be helpful. Then we could try to understand all the assumptions. Maybe a dedicated session in the coming weeks, once we find people who did the code. Stefan Fröse made some additions on this, maybe we can discuss with him. Also Judith (???) (PhD student at the time).
+RT: If issues are deeper in the code, maybe call with people who contributed to this code could be helpful. Then we could try to understand all the assumptions. Maybe a dedicated session in the coming weeks, once we find people who did the code. Stefan Fröse made some additions on this, maybe we can discuss with him. Also Judith (PhD student at the time).
 DM: I spoke with Judith one year ago and she was interested trying to followup on DM in Gammapy, but do not know the status. Maybe we can contact her and see if interested in followup. I will write her.
 RT to AG: Maybe script to compare base-branch and modified branch is clearest solution. AS agrees to help.
 RT: Probably we can discuss in a few weeks on the status.
@@ -118,7 +117,7 @@ TB: At least before lunch we could ask people if they are stuck with something/h
 AS: We had this plan but in the end did not filled the agenda and stuck with autogeneration with PRs.
 TB: I created a PR to put at least fixed points on the agenda every time.
 RT: Yes, I commented, is a good idea. I think we still need people to say in advance that they want to say something about specific issue/aspect of their project.
-AS: Is list boring or useful? (???)
+AS: Is list boring or useful? 
 TB: If just want to get overview summarize instead of list? Right now, it gets very long. Agree with DM, if you have something and need help with it, it is good to go over the issue. Or ask everyone, are you stuck or not, review would be quick. Don't know if there is perfect solution.
 RT: In general we need to discuss new issues, to make sure they are clearly identified, assigned to someone or a project. For PRs it depends if someone is assigned to it. 
 
@@ -149,7 +148,7 @@ RT: We could send reminder on general channel. We have to discuss what we presen
 RT ends the meeting.
 
 ## Open issues
-DM: Opened issue #174, the issue needs more details.
+
 
 
 # Automatic activity report
