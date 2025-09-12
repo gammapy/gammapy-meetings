@@ -40,7 +40,7 @@ Long standing issue of moving away of current MapEvaluator, maybe most complex p
 
 Penalties and priors
 -------------
-We have already discussed different penalties, in June with Lucas Gréaux. Maybe some clarification is important, specific usage like regularization might require some fit-statistic penalties. There is a PR on how to implement it. Needs to be done, but not needed for first ???-release.
+We have already discussed different penalties, in June with Lucas Gréaux. Maybe some clarification is important, specific usage like regularization might require some fit-statistic penalties. There is a PR on how to implement it. Needs to be done, but not necessarily needed for next release.
 
 Geometry based fitting (AS, CG)
 -------------------
