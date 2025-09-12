@@ -99,7 +99,7 @@ RT: That is interesting and good to see you have already ideas, where it is comi
 DM: Opened issue #174 on gammapy-benchmarks, the issue needs more details.
 AS: Maybe you could summarize your findings in the issue, that would be very helpful.
 RT: If issues are deeper in the code, maybe call with people who contributed to this code could be helpful. Then we could try to understand all the assumptions. Maybe a dedicated session in the coming weeks, once we find people who did the code. Stefan Fröse made some additions on this, maybe we can discuss with him. Also Judith (PhD student at the time).
-DM: I spoke with Judith one year ago and she was interested trying to followup on DM in Gammapy, but do not know the status. Maybe we can contact her and see if interested in followup. I will write her.
+DM: I spoke with Judith, now postdoc at IFPU, Trieste and Nova Gorica U.,  one year ago and she was interested trying to followup on DM in Gammapy, but do not know the status now. Maybe we can contact her and see if interested in followup. I will write her.
 RT to AG: Maybe script to compare base-branch and modified branch is clearest solution. AS agrees to help.
 RT: Probably we can discuss in a few weeks on the status.
 
