@@ -25,7 +25,7 @@ Sensitivity estimation (mostly finishing existing efforts) (AS)
 
 Metadata  (TB)
 -------------
-      We still need full propagation of metadata.
+We still need full propagation of metadata.
       
 Visualisations
 ------------
@@ -38,7 +38,7 @@ Model refactoring
 ------------
 Long standing issue of moving away of current MapEvaluator, maybe most complex piece of code in Gammapy. Make it more readable and flexible for design of fit-statistics. Associated to this, question of API. Prototype by AD exists.
 Penalties and priors
-We have already discussed different penalties, in June with Lucas Greaux. Maybe some clarification is important, specific usage like regularization might require some fit-statistic penalties. There is a PR on how to implement it. Needs to be done, but not needed for first ???-release.
+We have already discussed different penalties, in June with Lucas Gréaux. Maybe some clarification is important, specific usage like regularization might require some fit-statistic penalties. There is a PR on how to implement it. Needs to be done, but not needed for first ???-release.
 
 Geometry based fitting (AS, CG)
 -------------------
