@@ -12,23 +12,41 @@ AG and RT have started looking over the list of open issues and tried to organis
 
 RT:
 Initial proposal lists five projects as urgent:
-Separation of internal data model and data formats (LS)
-Effort started in version 1.0 but still not completely done. For the Observation Table we have a prototype by        LS. We need proper reader/writer for the interface.
+
+Separation of internal data model and data formats
+---------
+Effort started in version 1.0 but still not completely done. For the Observation Table we have a prototype by LS. We need proper reader/writer for the interface.
+
 Implementing Bayesian frameworks in GP (mostly finishing existing efforts)
+-----------
+
 Sensitivity estimation (mostly finishing existing efforts) (AS)
+-------------
+
 Metadata  (TB)
+-------------
       We still need full propagation of metadata.
+      
 Visualisations
+------------
 Not clear if really urgent, but we can probably refactor and simplify. Separate plotting code from core of the code, maybe we can come up with a better design in general. An example prototype exists.
+
+
 After that six projects are listed as not so urgent:
     
 Model refactoring
+------------
 Long standing issue of moving away of current MapEvaluator, maybe most complex piece of code in Gammapy. Make it more readable and flexible for design of fit-statistics. Associated to this, question of API. Prototype by AD exists.
 Penalties and priors
 We have already discussed different penalties, in June with Lucas Greaux. Maybe some clarification is important, specific usage like regularization might require some fit-statistic penalties. There is a PR on how to implement it. Needs to be done, but not needed for first ???-release.
+
 Geometry based fitting (AS, CG)
+-------------------
 Way to gather temporal and time resolved / space resolved analysis. Work by Claudio to build a container, left a s prototype, not worked on since a few month, we should revive it and do some decisions on what we want to do on this. Use cases: Time resolved study of variable source, .... the cases don't share the same geometry but  the same problematic.
+
+
 Unbinned analysis (TB)
+----------------
 Giacomo and Tim (???) both worked on writing a PIG. Prototype exists. Main outcome was if we want to redo typical  analysis in unbinned way, a lot of computational effort has to be paid, but not much is gained. E.G. 3D unbanned model evaluation. Probably really important regarding time domain analysis. We don't take time axis into account clearly, split into datasets and use GTI (???). The way to go would be to have approach that is focused to some specific use cases, try to make progress this way. TB is looking into it.
 Dark matter utilities
 We have a number of issues and things that lack behind, need to build a working group to follow up and progress.
