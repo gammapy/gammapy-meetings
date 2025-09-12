@@ -144,7 +144,7 @@ If there are people, we could try to work on it during September, on one Friday.
 
 RT: AOB?
 AS: Next user call is next Monday.
-RT: We could send reminder on general channel. We have to discuss what we present for the gammapy team besides demonstration tutorials (???). AS: I can make some slides, keep it very short. RT: 10 min? As agrees.
+RT: We could send reminder on general channel. We have to discuss what we present for the gammapy team besides demonstration tutorials (???). AS: I can make some slides, keep it very short. RT: 10 min? AS agrees.
 
 RT ends the meeting.
 
