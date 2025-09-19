@@ -5,7 +5,7 @@
 
 ## News
 - SAT-SDC-Gammapy discussion on Friday Sept 26th. 9:30 CEST
-- gammapy-recipes working session on Friday Oct 6th, 10am CEST
+- gammapy-recipes working session on Friday Oct 3rd, 10am CEST
 
 ## Preparation of user call
 
