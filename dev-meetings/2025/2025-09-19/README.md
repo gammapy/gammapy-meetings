@@ -21,7 +21,7 @@ RT points out that as current release is new milestone, amount of work between L
 
 A discussion about the possibility of asking for user input on the priorities for further features. However, not entirely simple to have right balance. 
 RT summarises the message should be: that we are prioritising among too many features being requested, and if people want something on low priority they are encouraged to contribute code themselves. But users can contact us to receive support and guidance
-There will be a tutorial on bayesian sampling by Fabio Pintore and one on Fermi-analysis by QR.
+There will be a tutorial on bayesian sampling by Fabio Acero and one on Fermi-analysis by QR.
 
 ## Minutes
 RT: We should make summary for the minutes-taking after discussions.
@@ -42,18 +42,18 @@ RT has created several github projects to organise the bug tracking, the devops 
 
 ### [DevOps](https://github.com/orgs/gammapy/projects/31)
 #### Using sonarcube for quality assurance
-DM is working on adding a sonarcube workflow to the gammapy existing CI system. Hopefully done by next week.
+DM is working on adding a sonarcube workflow to the gammapy existing CI system [#6150](https://github.com/gammapy/gammapy/pull/6150). Hopefully done by next week.
 
-#### Discussion on how we want to proceed with towncrier (Draft PR #6130). 
+#### Discussion on how we want to proceed with towncrier (Draft PR [#6130](https://github.com/gammapy/gammapy/pull/6130)). 
 By making developers create changelog files following a specific format, towncrier can automatically generate a well formatted changelog, including grouping several changes into sections. 
 
 KF reports: Implementation will try to follow as closely as possible how the manually created changelogs currently look. For each PR, now rst-file has to be added. Naming-scheme: "Number of PR . Name. rst", e.g.: "1.infrastructure.rst".
 KF thinks there needs to be some discussion on how we want to group changes, as this determines the naming scheme developers have to follow.
 QR asks about case of multiple tags on an PR: either the developer decides which single tag to use when naming the rst-file, or you add several files, but it is not clear that actually works.
 
-RT summarises: We stick with 'improvement'-, 'bugfix'-, 'performance'- entries as currently, decided that should have changelog workflow 
+RT summarises: We stick with 'improvement'-, 'bugfix'-, 'performance'- entries as currently, we also should have a changelog workflow to make sure PRs requiring a changelog entry actually have one. One can use a dedicated label to mark them.
 
-Feature, bug, api change are all labels that will require a changelog, all others will need changelogs as needed.
+Conversely, considering that `feature`, `bug`, `api-change` are all labels that will require a changelog entry we could use the presence of one of these on a PR to trigger the workflow. PRs with different labels  others will need changelogs on a case by case basis.
 
 ### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
