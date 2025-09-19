@@ -14,6 +14,7 @@
 #### [Bug Tracker](https://github.com/orgs/gammapy/projects/36/views/1)
 
 #### [DevOps](https://github.com/orgs/gammapy/projects/31)
+- discussion on how we want to proceed with towncrier
 
 #### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
