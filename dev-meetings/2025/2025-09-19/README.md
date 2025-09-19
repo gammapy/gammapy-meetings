@@ -49,7 +49,7 @@ By making developers create changelog files following a specific format, towncri
 
 KF reports: Implementation will try to follow as closely as possible how the manually created changelogs currently look. For each PR, now rst-file has to be added. Naming-scheme: "Number of PR . Name. rst", e.g.: "1.infrastructure.rst".
 KF thinks there needs to be some discussion on how we want to group changes, as this determines the naming scheme developers have to follow.
-QT ask about case of multiple tags on an PR: either the developer decides which single tag to use when naming the rst-file, or you add several files, but it is not clear that actually works.
+QR asks about case of multiple tags on an PR: either the developer decides which single tag to use when naming the rst-file, or you add several files, but it is not clear that actually works.
 
 RT summarises: We stick with 'improvement'-, 'bugfix'-, 'performance'- entries as currently, decided that should have changelog workflow 
 
@@ -62,7 +62,7 @@ AG gives update on #174 "Validate dark matter analysis". Two standard references
 Update on #6102: Maybe reason for discrepancy is, that approximation of right angle triangle not fulfilled. Will check if this is main reason for discrepancy and update.
 
 ## Backports 
-QT and RT agree that backports should be done also for documentation, to avoid problems later when PRs touch documentation. We have to be careful with notable changes in docs. Do not forget to change milestone of open PR on target branch, so that they are counted properly, e.g. 2.1 -> 2.0.1. If PR already merged, comment "@meeseeksdev back port to [BRANCHNAME]". 
+QR and RT agree that backports should be done also for documentation, to avoid problems later when PRs touch documentation. We have to be careful with notable changes in docs. Do not forget to change milestone of open PR on target branch, so that they are counted properly, e.g. 2.1 -> 2.0.1. If PR already merged, comment "@meeseeksdev back port to [BRANCHNAME]". 
 
 ## Towncrier
 Fragments have to be there on 2.0.x branch, have to take decision soon. Examples for fragment in e.g. astropy. KF adds links.
