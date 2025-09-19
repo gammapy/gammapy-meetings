@@ -7,13 +7,15 @@
 - SAT-SDC-Gammapy discussion on Friday Sept 26th. 9:30 CEST
 - gammapy-recipes working session on Friday Oct 6th, 10am CEST
 
+## Preparation of user call
+
 ## Reports
 
-### [Bug Tracker](https://github.com/orgs/gammapy/projects/36/views/1)
+#### [Bug Tracker](https://github.com/orgs/gammapy/projects/36/views/1)
 
-### [DevOps](https://github.com/orgs/gammapy/projects/31)
+#### [DevOps](https://github.com/orgs/gammapy/projects/31)
 
-### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+#### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ### PRs opened last week (less than 8 days ago): 
 * [#6146](https://github.com/gammapy/gammapy/pull/6146) Remove dev docs dispatch workflow - Régis Terrier
