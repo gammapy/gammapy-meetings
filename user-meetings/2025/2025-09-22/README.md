@@ -8,9 +8,9 @@
 # Agenda
 
 * Introducing Gammapy 2.0: ~10 min ([slides](Gammapy_usercall.pdf))
-* Bayesian Sampling with Gammapy:  Fabio Acero ~20min ([slides])
+* Bayesian Sampling with Gammapy:  Fabio Acero ~20min ([slides](Nested-Sampling-gammapy-introduction.pdf))
 * Fermi-LAT data analysis with Gammapy:  Quentin Remy ~20min ([notebook](fermi_lat_tutorial.ipynb)) 
 * Discussions
 
-# Attendies
+# Attendees
 
