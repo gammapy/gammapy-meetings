@@ -14,3 +14,4 @@
 
 # Attendees
 
+* 43 participants
