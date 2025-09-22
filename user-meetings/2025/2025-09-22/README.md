@@ -9,7 +9,7 @@
 
 * Introducing Gammapy 2.0: ~10 min ([slides](Gammapy_usercall.pdf))
 * Bayesian Sampling with Gammapy:  Fabio Acero ~20min ([slides])
-* Fermi-LAT data analysis with Gammapy:  Quentin Remy ~20min ([slides]) 
+* Fermi-LAT data analysis with Gammapy:  Quentin Remy ~20min ([notebook](fermi_lat_tutorial.ipynb)) 
 * Discussions
 
 # Attendies
