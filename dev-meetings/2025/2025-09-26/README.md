@@ -31,7 +31,7 @@ BK will be part of IRF validation work. There are discussions about adding syste
 Suggestion is to vary the background normalisation and also of varying the effective area.
 
 SAT will likely use Gammapy release 2.1 in early 2026. RT is confident that we are good in most points, might need effort to support additional model for DL3-data, a preliminary format close to, but different to GADF, that contains additional metadata. Karl Kosack is working on it. Not clear if ready for 2.1 or if it takes longer.
-Promises that before end of year there will be a document specifying a GADF-variant specific for the SDC, basically some extra metadata added (SDC Format, consisting of GADF + CTAO metadata). Will be needed for v 2.1. Add of metadata for DL4 and DL5 planned for v.2.2.
+Promises that before end of year there will be a document specifying a GADF-variant specific for the SDC, basically some extra metadata added (SDC Format, consisting of GADF + CTAO metadata). Will be needed for v 2.1. Addition of metadata for DL4 and DL5 planned for v2.2.
 
 Gammapy devs should expect to review some documentation and tutorials created by CTAO for the Science Data Challenge, currently no date for when that will happen.
 
