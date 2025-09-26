@@ -42,10 +42,7 @@ report_heading = f' * {today_long}, at 2 pm (CET) \n ' \
     '## Documentation\n\n' \
     '## DevOps\n\n' \
     '## Validation & benchmark\n\n' \
-    '## Ongoing projects:\n\n' \
-    '### Sensi\n\n' \
-    '### HLI\n\n' \
-    '### MWL\n\n' \
+    '## Ongoing projects\n\n' \
     '## Any other business\n\n' \
     '# Automatic activity report\n'
 
