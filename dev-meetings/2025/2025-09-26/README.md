@@ -1,7 +1,7 @@
 # Gammapy Developer Meeting 
  * Friday, September 26, 2025, at 2 pm (CET) approx. 14:00-15:30
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: Leander Schlegel (LS), Tomas Bylund (TB), Quentin Remy (QR),  Bruno Khelifi (BK), Atreyee Sinha (AS), Kirsty Feijen (KF), Katharina Egg (KE), Nathan Pigoux (NP), Régis Terrier (RT), Fabio Pintore (FP)
+Attendees: Leander Schlegel (LS), Tomas Bylund (TB), Quentin Remy (QR),  Bruno Khélifi (BK), Atreyee Sinha (AS), Kirsty Feijen (KF), Katharina Egg (KE), Nathan Pigoux (NP), Régis Terrier (RT), Fabio Pintore (FP)
 
 # Agenda
 
