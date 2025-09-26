@@ -12,8 +12,11 @@
 ### [devops](https://github.com/orgs/gammapy/projects/31)
 
 - Sonarqube integration [#6150](https://github.com/gammapy/gammapy/pull/6150)
+- Town crier [#6130](https://github.com/gammapy/gammapy/pull/6130)
 
 ### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+- Thanks to @leander for making a number of useful cleanup changes to the docs
 
 
 ## Report from last week
