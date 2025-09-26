@@ -6,7 +6,7 @@ Attendees: Leander Schlegel (LS), Tomas Bylund (TB), Quentin Remy (QR),  Bruno K
 # Agenda
 
 ## User call September 22
-Around 43 attendants, some people have contacted AS expressing interest in working on the Dark Matter module, AS have added them to the slack. Stefan Fröse reached out, but independent to the call.
+Around 43 attendants, some people have contacted AS expressing interest in working on the Dark Matter module, AS have added them to the slack. Others reached out, but independent to the call.
 
 Some users have asked if it is now safe to do Fermi analysis with Gammapy, as previous versions warned it is not safe/preliminary.  Probably we were overcautious and it is more safe now. We should advertise that we now have Fermidataset-reader. Maybe add a notice to the Fermi tutorial to highlight new capabilities.
 
