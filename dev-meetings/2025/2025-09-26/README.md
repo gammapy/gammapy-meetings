@@ -18,6 +18,8 @@
 
 - Thanks to @leander for making a number of useful cleanup changes to the docs
 
+### [Internal data model](https://github.com/orgs/gammapy/projects/7/views/2)
+
 
 ## Report from last week
 
