@@ -30,9 +30,8 @@ BK will be part of IRF validation work. There are discussions about adding syste
 
 Suggestion is to vary the background normalisation and also of varying the effective area.
 
-Promises that before end of year there will be a document specifying a  GADF-variant specific for the SDC, basically some extra metadata added (SDC Format, consisting of GADF + CTAO metadata). Will be needed for v 2.1. Add of metadata for DL4 and DL5 planned for v.2.2.
-
 SAT will likely use Gammapy release 2.1 in early 2026. RT is confident that we are good in most points, might need effort to support additional model for DL3-data, a preliminary format close to, but different to GADF, that contains additional metadata. Karl Kosack is working on it. Not clear if ready for 2.1 or if it takes longer.
+Promises that before end of year there will be a document specifying a GADF-variant specific for the SDC, basically some extra metadata added (SDC Format, consisting of GADF + CTAO metadata). Will be needed for v 2.1. Add of metadata for DL4 and DL5 planned for v.2.2.
 
 Gammapy devs should expect to review some documentation and tutorials created by CTAO for the Science Data Challenge, currently no date for when that will happen.
 
@@ -68,11 +67,11 @@ Workflow added by KF, works for this PR. Maybe test by adding changelog label an
 - Separation of internal data format from GADF
 LS works on two PRs, the first one introducing a reader+converter functionality from gadf to the internal format and a second PR, in which this reader+converter will be interfaced from a reworked observation table class, to make the separation of the internal data format and gadf.
 
-- [#6168] https://github.com/gammapy/gammapy/pull/6168 TB, simple quality of life feature to the EventList
+- [#6168] https://github.com/gammapy/gammapy/pull/6168 TB, simple quality of life feature to the EventList.
 
 ### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
-LS went through user guide, small PR #6162 together with KF was merged.
+LS went through user guide, small PR #6162 together with KF, making cleanup changes, was merged.
 
 ### Other Issues
 - [#6165] https://github.com/gammapy/gammapy/issues/6165 New feature request about adding normalisation option to the Reflected Background, but not clear how this is best done. Possibly the user could be asked to provide an initial prototype.
