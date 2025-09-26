@@ -3,6 +3,19 @@
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 # Agenda
 
+## Feedback SAT-SDC-Gammapy meeting
+
+## Projects
+
+### [BugTracker](https://github.com/orgs/gammapy/projects/36/views/1)
+
+### [devops](https://github.com/orgs/gammapy/projects/31)
+
+- Sonarqube integration [#6150](https://github.com/gammapy/gammapy/pull/6150)
+
+### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+
 ### PRs opened last week (less than 8 days ago): 
 * [#6164](https://github.com/gammapy/gammapy/pull/6164) Fix division in error calculations for compute_flux_doubling - Pierre Pichard
 * [#6162](https://github.com/gammapy/gammapy/pull/6162) Fix small formatting issues in user guide - Leander Schlegel
