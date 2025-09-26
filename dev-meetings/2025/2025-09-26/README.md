@@ -16,6 +16,8 @@
 ### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 
+## Report from last week
+
 ### PRs opened last week (less than 8 days ago): 
 * [#6164](https://github.com/gammapy/gammapy/pull/6164) Fix division in error calculations for compute_flux_doubling - Pierre Pichard
 * [#6162](https://github.com/gammapy/gammapy/pull/6162) Fix small formatting issues in user guide - Leander Schlegel
