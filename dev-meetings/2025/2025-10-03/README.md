@@ -10,9 +10,20 @@ Attendees:
 
 ## Bugs
 
+- error in PhaseCurve should be fixed by [#6182](https://github.com/gammapy/gammapy/pull/6182)
+
 ## Documentation
 
+- checklist for PR reviews added [#6179](https://github.com/gammapy/gammapy/pull/6179)
+
+
+
 ## DevOps
+
+- towncrier PR needs reviews [#6130](https://github.com/gammapy/gammapy/pull/6130)
+  - fragment files added for PRs where it was missed (discussion on this)
+- sonarqube also needs reviews [#6150](https://github.com/gammapy/gammapy/pull/6150)
+- moving from setup.cfg to pyproject.toml PR has been begun [#6176](https://github.com/gammapy/gammapy/pull/6176)
 
 ## Validation & benchmark
 
