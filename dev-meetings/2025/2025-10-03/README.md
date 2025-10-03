@@ -1,34 +1,59 @@
 # Gammapy Developer Meeting 
  * Friday, October 03, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Régis Terrier (RT), Quentin Remy (QR), Kirsty Feijen (KF), Leander Schlegel (LS), Natthan Pigoux (NP), Tomas Bylund (TB), Claudio Galelli (CG), Axel Donath (AD)
 
 # Agenda
 ## General information
-- update on recipes
+
+AS can not attend today and will present the plotters PIG next week.
+
+RT reports on progress with Gammapy recipes this morning. The problem is, that the CI doesn't publish changes even as PRs are merged. Current setup is a bit complex and is not simply a Sphinx build, but requires extra scripts to generate all the pages.
+
+Each recipe needs a yaml-file for the environment.
+Suggestion was to use pixi. One file contains for each recipe the dependencies. pixi can generate with few commands the rst-files, that are then processed by Sphinx.
+
+Hope with switching to pixi is, that it will be easier to build  the final Sphinx documentation out of the Jupyter notebooks that currently implement the recipes, even as it adds a new system. There exists a PR and RT encourages it to be merged quickly, AD took a look and thinks it looks good, NP reports good experience with pixi for Gammapy.
+
 
 ## Open issues
 
 ## Bugs
 
 - error in PhaseCurve should be fixed by [#6182](https://github.com/gammapy/gammapy/pull/6182)
+  
+Maybe additional test is missing, but current change does not break existing test.
+Plan is to finish review of integration in PR, merge it and then maybe introduce a boolean option to normalize the phase curve or not (Modification of automatic normalization of phase curve introduced in 1.3), with a second PR. Question is if it can be merged as a bugfix or not, RT thinks it can and nobody objected.
 
 ## Documentation
 
 - checklist for PR reviews added [#6179](https://github.com/gammapy/gammapy/pull/6179)
-
+  
+RT suggests to restructure the list, first milestones and labels, then functionality, then code style, then docstrings+examples. Two additional points suggested by RT and QR: Code should be understandable by reading it + It should be checked that the CI and tests pass. LS will fix broken links and implement changes and KF will add note for towncrier.
 
 
 ## DevOps
 
 - towncrier PR needs reviews [#6130](https://github.com/gammapy/gammapy/pull/6130)
-  - fragment files added for PRs where it was missed (discussion on this)
+- fragment files added for PRs where it was missed (discussion on this)
 - sonarqube also needs reviews [#6150](https://github.com/gammapy/gammapy/pull/6150)
-- moving from setup.cfg to pyproject.toml PR has been begun [#6176](https://github.com/gammapy/gammapy/pull/6176)
+- moving from setup.cfg to pyproject.toml PR has been begun [#6176](https://github.com/gammapy/gammapy/pull/6176) (NP)
+  
+ RT cautions that `codestyle` should not be removed without first ensuring some other program takes over this task even for edits made directly via the github web interface. This change might also fix a problem that the citation file not properly found when doing a release.
+
+- ND reports he has started work on transitioning Gammapy to use pixi
 
 ## Validation & benchmark
 - Follow up on the failure of the benchmark run on September 27
+  
+Just the sherpa install that failed because the servers were down
+
 ## Ongoing projects
+[#6170](https://github.com/gammapy/gammapy/pull/6170) Introduce ObservationTableReader and Converter between GADF and internal format - Leander Schlegel
+
+Most points from reviews have been addressed. LS reports on two open points, how to best proceed with the deprecated feature in astropy and if the try-except statements capturing a potential wrong dimension of the time-columns and raising a warning in this case, can be checked.
+Decision is to take test for not found HDU-extension out, as the default is to not specify it (hdu=None) and in most cases the observation table file will also not contain more than one HDU-extension, so that no failure or deprecation warning happens in most cases.
+With this, final review can be done and PR can be merged soon. Then a second PR introducing the new data format to the observation-table itself is planned. For the next step, RT plans that we add a proper writer.
 
 ## Any other business
 
