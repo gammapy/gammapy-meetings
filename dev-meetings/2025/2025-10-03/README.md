@@ -27,7 +27,7 @@ Attendees:
 - moving from setup.cfg to pyproject.toml PR has been begun [#6176](https://github.com/gammapy/gammapy/pull/6176)
 
 ## Validation & benchmark
-
+- Follow up on the failure of the benchmark run on September 27
 ## Ongoing projects
 
 ## Any other business
