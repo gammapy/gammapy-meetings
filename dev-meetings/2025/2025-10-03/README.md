@@ -5,6 +5,7 @@ Attendees:
 
 # Agenda
 ## General information
+- update on recipes
 
 ## Open issues
 
