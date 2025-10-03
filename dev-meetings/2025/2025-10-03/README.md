@@ -13,7 +13,7 @@ RT reports on progress with Gammapy recipes this morning. The problem is, that t
 Each recipe needs a yaml-file for the environment.
 Suggestion was to use pixi. One file contains for each recipe the dependencies. pixi can generate with few commands the rst-files, that are then processed by Sphinx.
 
-Hope with switching to pixi is, that it will be easier to build  the final Sphinx documentation out of the Jupyter notebooks that currently implement the recipes, even as it adds a new system. There exists a PR and RT encourages it to be merged quickly, AD took a look and thinks it looks good, ND reports good experience with pixi for Gammapy.
+Hope with switching to pixi is, that it will be easier to build  the final Sphinx documentation out of the Jupyter notebooks that currently implement the recipes, even as it adds a new system. There exists a PR and RT encourages it to be merged quickly, AD took a look and thinks it looks good, NP reports good experience with pixi for Gammapy.
 
 
 ## Open issues
