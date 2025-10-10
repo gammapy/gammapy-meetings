@@ -14,6 +14,8 @@ Attendees:
 
 ## DevOps
 
+-  small discussion on towncrier PR #6130
+
 ## Validation & benchmark
 
 ## Ongoing projects
