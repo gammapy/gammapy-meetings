@@ -1,16 +1,20 @@
 # Gammapy Developer Meeting 
  * Friday, October 17, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Quentin Remy (QR), Tomas Bylund (TB),  Katharina Egg (KE),  Kirsty Feijen (KF),  Daniel Morcuende (DM), Fabio Pintore (FP),  Claudio Galelli (CG), Natthan PIGOUX (NP)
 
 # Agenda
-## General information
+## New PRs
+* [#6194](https://github.com/gammapy/gammapy/pull/6194) Add fix to skip making cutouts if observation is far away from target, a crash happens in the HLI if a run is too far away from the target region. KF is surprised the crash happens at all since, expecting the offset_max maker to take care of it. QR suggest using a try catch instead of an explicit if test. 
+* [#6193](https://github.com/gammapy/gammapy/pull/6193) Unbinned 1d analysis using reflected background 
+QR thinks it would be good to have a call with all people working on Unbinned analysis as there is already another recent draft PR. 
+
 
 ## Open issues
+* [#6195](https://github.com/gammapy/gammapy/issues/6195) Error from CompoundSpectralModel.evaluate() args for TemplateNDSpectralModel.  Assigned to QR
 
 ## Bugs
 https://github.com/orgs/gammapy/projects/36
-
 
 ## Documentation
 https://github.com/orgs/gammapy/projects/27/views/2
@@ -20,8 +24,16 @@ https://github.com/gammapy/gammapy/pull/6179
 
 ## DevOps
 https://github.com/orgs/gammapy/projects/31/views/1
+### Towncrier
+Just needs a final review, then people shoud look at the draft fragments for the PRs merged since latest release.
+Also need to update the `github_summary.py` file now that towncrier will be used to generate the changelog
 
-- update the `github_summary.py` file now that towncrier will be used
+### Sonarcube
+DM reports that the integration is close to being finished 
+
+### Moving away from setup.cfg
+PR #6176 implements the move to pyproject.toml style, needs review
+
 
 ## Validation & benchmark
 
