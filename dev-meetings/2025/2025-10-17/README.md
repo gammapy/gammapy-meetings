@@ -9,10 +9,19 @@ Attendees:
 ## Open issues
 
 ## Bugs
+https://github.com/orgs/gammapy/projects/36
+
 
 ## Documentation
+https://github.com/orgs/gammapy/projects/27/views/2
+
+Ready for merge:
+https://github.com/gammapy/gammapy/pull/6179
 
 ## DevOps
+https://github.com/orgs/gammapy/projects/31/views/1
+
+- update the `github_summary.py` file now that towncrier will be used
 
 ## Validation & benchmark
 
