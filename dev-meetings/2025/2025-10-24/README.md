@@ -50,7 +50,7 @@ DM tried running gammapy with 3.14 and encountered some problems, so suggests ad
 RT notes that the conda builds are also failing for 3.14
 
 ### dev-deps breaking
-The CI job phydon-devdeps has been failing the last few days for reasons that are not understood yet. 
+The CI job [ubuntu-latest, devdeps](https://github.com/gammapy/gammapy/actions/runs/18776236450/job/53571409793?pr=6184#logs) has been failing the last few days for reasons that are not understood yet. Probably related to new numpy release 2.4.0.dev being used
 RT: Need to understand this before making the bug release 
 
 ### Pre-commit and pypproject.toml
