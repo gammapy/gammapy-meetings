@@ -6,19 +6,27 @@ Attendees:
 # Agenda
 ## General information
 
-## Open issues
 
-## Bugs
+## [Open issues](https://github.com/gammapy/gammapy/issues)
 
-## Documentation
+## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
-## DevOps
+## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+### Towncrier 
+- Still need final reviews [#6130](https://github.com/gammapy/gammapy/pull/6130)
+- Need reviews for the fragments, and we probably have more since this! [#6173](https://github.com/gammapy/gammapy/pull/6173)
+
+### Sonarcube
 
 ## Validation & benchmark
 
 ## Ongoing projects
 
 ## Any other business
+- decision needs to made about the API for the `size_factor` [#6137](https://github.com/gammapy/gammapy/pull/6137)
 
 # Automatic activity report
 
