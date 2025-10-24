@@ -70,7 +70,7 @@ Need to have a discussion about the existing drafts for adding unbinned analysis
 
 ### Priority for next release
 CTAO SAT requirements: some metadata need to be cleaned up (waiting for feedback from the Data Model group) but otherwise no strong outside constraints. All functionality in place to support SDC other than sorting out the CTAO metadata.
-The Science Data Portal will probably create constraints for the High level interface; RT will create a draft PIG and send it to QR for review. 
+The Science Analysis Tool preparation requires a more modular High level interface. The Workflow API that has been introduced by QR can be a solid basis. We have to clarify missing requirements (e.g. provenance, configuration). RT will prepare a draft PIG and send it to QR for review. 
 
 For other points there prioritisation work has not been concluded.
 
