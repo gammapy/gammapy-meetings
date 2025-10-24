@@ -54,7 +54,7 @@ The CI job [ubuntu-latest, devdeps](https://github.com/gammapy/gammapy/actions/r
 RT: Need to understand this before making the bug release 
 
 ### Pre-commit and pypproject.toml
-Should merge the pre-commit job before the pyproject PR. 
+Should merge the pre-commit job before the pyproject.toml migration PR. 
 
 Adjust the pre-commit PR so the pre-commit runs on all files only periodically and not on every PR.
 
