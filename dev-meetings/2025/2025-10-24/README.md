@@ -69,7 +69,7 @@ Adjust the pre-commit PR so the pre-commit runs on all files only periodically a
 Need to have a discussion about the existing drafts for adding unbinned analysis. RT will try to contact Guillaume to see when they are available to talke, which will determine if discussion happens on seperate call or at the weekly dev-call.
 
 ### Priority for next release
-For CTAO some metadata need to be cleaned up but otherwise no strong outside constraints. 
+CTAO SAT requirements: some metadata need to be cleaned up (waiting for feedback from the Data Model group) but otherwise no strong outside constraints. All functionality in place to support SDC other than sorting out the CTAO metadata.
 The Science Data Portal will probably create constraints for the High level interface; RT will create a draft PIG and send it to QR for review. 
 
 For other points there prioritisation work has not been concluded.
