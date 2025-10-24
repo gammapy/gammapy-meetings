@@ -46,7 +46,7 @@ No update
 Main building blocks for getting it working again are there, still needs some work to get the sphinx related parts going again.
 
 ### Python 3.14
-DM tried running gammapy with 3.14 and encountered some problems, so suggests adding this version to the CI to check it properly.
+DM tried installing gammapy with 3.14 and encountered some dependency incompatibilities, so suggests adding this version to the CI to check it and add python 3.14 support.
 RT notes that the conda builds are also failing for 3.14
 
 ### dev-deps breaking
