@@ -1,9 +1,7 @@
 # Gammapy Developer Meeting 
  * Friday, October 24, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: Tomas Bylund (TB),  Claudio Galelli (CG), Kirsty Feijen (KF),  Daniel Morcuende (DM),  Régis Terrier (RT),  Matthias Fuessling (MF),  Atreyee Sinha (AS), Bruno Khélifi (BK), Lisa Nikolic´ (LN), Abhishek Abhishek (AA), Katharina Egg (KE), Mireia Nievas Rosillo (MNR), Quentin Remy (QR),
-
- Fabio Pintore (FP),   Natthan PIGOUX (NP)
+Attendees: Tomas Bylund (TB),  Claudio Galelli (CG), Kirsty Feijen (KF),  Daniel Morcuende (DM),  Régis Terrier (RT),  Matthias Fuessling (MF),  Atreyee Sinha (AS), Bruno Khélifi (BK), Lisa Nikolić (LN), Abhishek Abhishek (AA), Katharina Egg (KE), Mireia Nievas Rosillo (MNR), Quentin Remy (QR),
 
 # Agenda
 ## General information
