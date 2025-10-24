@@ -22,7 +22,7 @@ In gammapy the preferred way of making more complex models is by composing sever
 
 RT suggests that LN and AA check whether the existing GeneralisedGaussian serves their needs, as well as trying adding more sky models for each flare to fit multiple flares. RT suggests that if successful they create a notebook that could be used as a tutorial demonstrating this use case.
 
-Some discussion about adding a new method that allows for masking some time bins without having to create new datasets.
+LN and AA also discuss possible addition of time dependent Dataset with temporal mask allowing  masking some time bins without having to create new datasets. The `Datasets` container object already has the capability to select datasets in a given time range. A possible approach could be to have indices of datasets to mask.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 No update
