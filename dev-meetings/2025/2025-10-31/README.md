@@ -8,13 +8,14 @@ Attendees:
 
 - After PR on pre-commit was merged, you might need to run `pre-commit clean` followed by `pre-commit install` locally to be able to commit changes to a branch locally.
 
-## Open issues
 
-## Bugs
+## [Open issues](https://github.com/gammapy/gammapy/issues)
 
-## Documentation
+## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
-## DevOps
+## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
 
 ## Validation & benchmark
 
