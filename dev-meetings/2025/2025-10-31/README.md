@@ -1,27 +1,52 @@
 # Gammapy Developer Meeting 
  * Friday, October 31, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Régis Terrier (RT), Tomas Bylund (TB), Atreyee Sinha (AS), Fabio Pintore (FP), Katharina Egg (KE), Aritra (A ), Quentin Remy (QR),
 
 # Agenda
 ## General information
 
-- After PR on pre-commit was merged, you might need to run `pre-commit clean` followed by `pre-commit install` locally to be able to commit changes to a branch locally.
+### Benchmarks and validations actions fail
+AS reports the failure for LST1 data download happening sometimes, Gets resolved on rerunning the actions.
+ RT mentions we need better method instead of downloading from zenodo
 
+### Minutes
+Look into options for zoom AI note taking
+
+### Pre-commit
+- After PR on pre-commit was merged, you might need to run `pre-commit clean` followed by `pre-commit install` locally to be able to commit changes to a branch locally.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
+- Issue #6204 
+(connected to Nukri's reported error on slack for BrokenPowerLaw)
+QR: Do as we do for naima,  ``  kwargs = {name: q for name, q in zip(self.default_parameters.names, args)}``
+
+For bpl, line 1412 cond<energy breaks. 
+Energy needs to be broadcasted to have same dim as the parameters.
+
+RT: Are we lacking tests to catch these issues?
+TestSpectralModelErrorPropagation Needs to test for all SpectralModels in Registry systematically. Assigned QR.
+
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
+None
+
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+- [#6205](https://github.com/gammapy/gammapy/pull/6202): Apply codespell, a PR that runs codespell on the repo and caught many typos, we should probably ensure codespell is run more frequently
+- Test version of CTAO SAT in progress on gitlab.
+
 
 ## Validation & benchmark
 
 ## Ongoing projects
 
 ## Any other business
+
+Unbinned analysis discussion on 19th Nov at 14:00 CET
 
 # Automatic activity report
 
@@ -39,3 +64,4 @@ Attendees:
 * [#6200](https://github.com/gammapy/gammapy/issues/6200) Introduce AsymmetricGaussianTemporalModel - None
 
  report created at 31/10/2025, 07:23:22
+
