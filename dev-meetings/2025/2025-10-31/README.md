@@ -6,6 +6,8 @@ Attendees:
 # Agenda
 ## General information
 
+- After PR on pre-commit was merged, you might need to run `pre-commit clean` followed by `pre-commit install` locally to be able to commit changes to a branch locally.
+
 ## Open issues
 
 ## Bugs
