@@ -7,7 +7,7 @@ Attendees: Régis Terrier (RT), Tomas Bylund (TB), Atreyee Sinha (AS), Fabio Pin
 ## General information
 
 ### Benchmarks and validations actions fail
-AS reports the failure for LST1 data download happening sometimes, Gets resolved on rerunning the actions.
+AS reports the failure for LST1 data download happening sometimes. Gets resolved on rerunning the actions.
  RT mentions we need better method instead of downloading from zenodo
 
 ### Minutes
