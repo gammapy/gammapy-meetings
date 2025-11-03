@@ -1,7 +1,7 @@
 # Gammapy Developer Meeting 
  * Friday, October 31, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: Régis Terrier (RT), Tomas Bylund (TB), Atreyee Sinha (AS), Fabio Pintore (FP), Katharina Egg (KE), Aritra (A ), Quentin Remy (QR),
+Attendees: Régis Terrier (RT), Tomas Bylund (TB), Atreyee Sinha (AS), Fabio Pintore (FP), Katharina Egg (KE), Aritra Gupta (AG), Quentin Remy (QR),
 
 # Agenda
 ## General information
