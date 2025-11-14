@@ -2,29 +2,37 @@
  * Friday, November 14, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 Attendees: 
+Katarina Egg (KE), Kirsty Feijen (KF), Aritra Gupta (AG), Daniel Morcuende (DM), Quentin Remy (QR), Atreyee Sinha (AS), Régis Terrier (RT)
 
 # Agenda
 ## General information
-
+- next week several dark matter package users will attend and present their plans
+- towncrier PR has been merged. Now we need to ensure it is working. And also to include any missing fragments [#6173](https://github.com/gammapy/gammapy/pull/6173)
+  - All changes don't have their fragments yet. Need to add them.
+  - Must separate bugs from features to allow proper backporting.
+- Decision to go for the v2.0.1 bugfix release on Dec 15. Meeting planned at 10 am CET.
+  
 ## Open issues
 
 ## Bugs
-
+- Sorting bugs for the coming bugfix. 
+  
 ## Documentation
 
 * small PR from BK [#6213](https://github.com/gammapy/gammapy/pull/6213), but that is all
 
 ## DevOps
-
+- pre-commit: now that we apply it only on modified files, we need a monthly check. Should it open a PR with the changes? See issue [#6219](https://github.com/gammapy/gammapy/issues/6219)
+  
 ## Validation & benchmark
 
-* towncrier PR has been merged, now we need to ensure it is working. And also to include any missing fragments [#6173](https://github.com/gammapy/gammapy/pull/6173)
 * KF is working on this [#6192](https://github.com/gammapy/gammapy/issues/6192) and should have a PR today/next week
 
 ## Ongoing projects
-
+- Data model and format separation: ObservationTable PR is now merged. Protoype PR is closed.
+  
 ## Any other business
-
+- 
 # Automatic activity report
 
 ### PRs opened last week (less than 8 days ago): 
