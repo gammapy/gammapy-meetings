@@ -15,7 +15,10 @@ Katarina Egg (KE), Kirsty Feijen (KF), Aritra Gupta (AG), Daniel Morcuende (DM),
 ## Open issues
 
 ## Bugs
-- Sorting bugs for the coming bugfix. 
+- Sorting bugs for the coming bugfix.
+- Discussion about [#6194](https://github.com/gammapy/gammapy/pull/6194).
+  - The role of the `SafeMaskMaker` is discussed. It can protect agianst the issue, but this might depend on the order of calls to observations
+  - Should `DatasetsMaker` skip silently an observation outside geometry or fail? Currently list should have the same size to perform re-ordering of Datasets in multi-rpocessing.
   
 ## Documentation
 
