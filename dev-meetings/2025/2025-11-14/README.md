@@ -12,9 +12,14 @@ Attendees:
 
 ## Documentation
 
+* small PR from BK [#6213](https://github.com/gammapy/gammapy/pull/6213), but that is all
+
 ## DevOps
 
 ## Validation & benchmark
+
+* towncrier PR has been merged, now we need to ensure it is working. And also to include any missing fragments [#6173](https://github.com/gammapy/gammapy/pull/6173)
+* KF is working on this [#6192](https://github.com/gammapy/gammapy/issues/6192) and should have a PR today/next week
 
 ## Ongoing projects
 
