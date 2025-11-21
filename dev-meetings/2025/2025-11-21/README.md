@@ -1,7 +1,7 @@
 # Gammapy Developer Meeting 
  * Friday, November 21, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack)
- * Attendees:  Régis Terrier, Tomas Bylund, Daniel Morcuende, Kirsty Feijen, Fabio Acero, Claudio Galelli, Katharina Egg, Aritra Gupta, Bruno Khelifi, Viviana Gammaldi, Judit Perez-Romero, JAume Zuriaga-Puig
+ * Attendees:  Régis Terrier, Tomas Bylund, Daniel Morcuende, Kirsty Feijen, Fabio Acero, Claudio Galelli, Katharina Egg, Aritra Gupta, Bruno Khelifi, Viviana Gammaldi, Judit Perez-Romero, Jaume Zuriaga-Puig
 
 # Agenda
 ## General information
