@@ -14,7 +14,7 @@
 - Kirsty suggests organizing weekly meetings (rather than fortnightly) for advancing with the paper - we have a poll for that on the channel
 
 ### Provenance
-- provenance tracking is inspired by ctapipe (have a singleton that keeps track of everything in a big log)
+- Tomas proposes a prototype for provenance tracking is inspired by ctapipe : a singleton that keeps track of everything in a big log
 - Tomas presents an example for tracking the data reduction; being able to set the tracker on makers, observations, and datasets, for example
 - do we really want to track provenance in user scripts or at the workflow level?
 
