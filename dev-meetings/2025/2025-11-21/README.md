@@ -1,10 +1,57 @@
 # Gammapy Developer Meeting 
  * Friday, November 21, 2025, at 2 pm (CET) 
- * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+ * Gammapy Developer Meeting on Zoom (direct link on Slack)
+ * Attendees:  Régis Terrier, Tomas Bylund, Daniel Morcuende, Kirsty Feijen, Fabio Acero, Claudio Galelli, Katharina Egg, Aritra Gupta, Bruno Khelifi, Viviana Gammaldi, Judit Perez-Romero, Jaume Zuriaga-Puig
 
 # Agenda
 ## General information
+
+### Gammapy v2.0 paper
+
+- Should consider reviving the effort for the v2.0 paper. Regis redid the joint crab with the nested sampling for the CADS school, so we could include that in the paper.
+- we have elements from the school which could make it easier to have the outline for the paper
+- sidenote: SILK project ideas won't be published until next year, so we should mention the new functionalities but leave more extended discussion for that publication
+- Kirsty suggests organizing weekly meetings (rather than fortnightly) for advancing with the paper - we have a poll for that on the channel
+
+### Provenance
+- Tomas proposes a prototype for provenance tracking is inspired by ctapipe : a singleton that keeps track of everything in a big log
+- Tomas presents an example for tracking the data reduction; being able to set the tracker on makers, observations, and datasets, for example
+- do we really want to track provenance in user scripts or at the workflow level?
+
+    - Régis suggests to have it at the workflow level for the work that Quentin has done
+
+    - it is harder to track at the notebook level, so we need to have a clear strategy going forward
+
+- currently prototyping work, so we should keep track of the discussions on this
+
+    - decided to create a sub repo for this 
+
+
+
+### Dark matter discussion
+with Viviana Gammaldi, Juame Zuriaga-Puig, Judit Pérez-Romero and Aritra Gupta
+
+- Aritra: summary of what we need to do in [#174](https://github.com/gammapy/gammapy-benchmarks/issues/174) but specifically has been working on fixing the j-factors
+- PrimaryFlux contains all the tables from the PPPC4 paper
+
+    - Judit already checked that the tables are correct: when there is a strong cutoff there was an error, but there was a correction. One of the nice aspects of gammapy is the spectral model incorporated by Judit (DarkMatterAnnihilationSpectralModel). Computation of j-factors is very different for the type of objects (density profile) etc but all of this is incorporated in a more complex code called [CLUMPY](https://clumpy.gitlab.io/CLUMPY/v3.1.1/)
+
+- The main idea we had is to make sure what we currently have is correct
+
+    - we have simple j-factor calculations but do not want to incorporate too much and repeat what is already out there, so we could think of having an interface to CLUMPY?
+
+- Should we have any j-factor in gammapy?
+
+    - it could be nice for some toy examples, but it is hard to incorporate all the source types needed
+
+    - instead need to have an interface that can handle the outputs of CLUMPY (and possibly for CosmiXs)
+
+- There is a new code for the calculation similar to PPPC4 called [CosmiXs](https://github.com/ajueid/CosmiXs)
+
+    - Can be used to calculate various aspects with the new updated spectra given to the community
+
+- channel created on slack dark-matter
+- Will fix a date for another meeting to have a summary
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
@@ -13,6 +60,8 @@ Attendees:
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+- SonarQube will be merged and then we can go ahead with the pyproject toml
 
 ## Validation & benchmark
 
