@@ -6,7 +6,7 @@ Attendees: Régis Terrier (RT), Tomas Bylund (TB), Atreyee Sinha (AS), Fabio Pin
 # Agenda
 ## General information
 
-### CADAS 2025
+### CDAS 2025
 Overall a success; one of the lecturers got sick and gave their lecture over zoom and people were very busy before the school so the notebooks for the hands on sessions were updated quite rushed and uncoordinated.
 
 During the final question session we had questions both about the technical details on gammapy analysis, and also more conceptual questions about science and statistics methods.
