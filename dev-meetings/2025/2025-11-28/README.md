@@ -25,7 +25,7 @@ No update. Need to more clearly establish meeting times.
 ### Dark matter 
 There is a new channel on slack dedicated to dark matter development: #dark-matter.
 
-RACC has created [#6232](https://github.com/gammapy/gammapy/pull/6232)  to add support for a new dark matter spectral source. Currently the PR proposes shipping a CosmiXs production file as part of GAMMAPY_DATA, the feasibility of this needs to be investigated further.
+AC has created [#6232](https://github.com/gammapy/gammapy/pull/6232)  to add support for a new dark matter spectral source. Currently the PR proposes shipping a CosmiXs production file as part of GAMMAPY_DATA, the feasibility of this needs to be investigated further. Discussion with the authors of CosmiXs is necessary to see what is acceptable. AC will contact them.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 Maxime REGEARD has found bug in the `plot_error` method of `SpectralModel`, reported in [#6228](https://github.com/gammapy/gammapy/issues/6228). Models with values close to parameter boundaries can generate samples outside the allowed range, and these "forbidden" samples are not handled properly. 
