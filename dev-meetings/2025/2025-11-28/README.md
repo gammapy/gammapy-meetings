@@ -1,19 +1,20 @@
 # Gammapy Developer Meeting 
  * Friday, November 28, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: Régis Terrier, Tomas Bylund, Kirsty Feijen, Quentin Remy, Daniel Morcuende, Fabio Pintore, Matthias Fuessling, Atreyee Sinha, Roberto Alexander Cerviñio Cortinez, Bruno Khelifi, Aritra
+Attendees: Régis Terrier, Tomas Bylund, Kirsty Feijen, Quentin Remy, Daniel Morcuende, Fabio Pintore, Matthias Fuessling, Atreyee Sinha, Roberto Alexander Cerviñio Cortinez, Bruno Khelifi, Aritra Gupta
 
 # Agenda
 ## General information
 
 ### Conferences 
 * [SPIE 2026 conference](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation/presenters) (Copenhagen, 5-10 July): the abstract submission deadline is December, 3rd. KF is potentially interested to present Gammapy there.
-* Numerical methods conf in greece. AS will submit abstract soon (deadline is Monday 1 December)
+* Numerical methods conference in Greece. AS will submit Gammapy abstract soon (deadline is Monday 1 December)
 * Indian multimessenger community organisation starting up, AS will present Gammapy there next week.
+
 BK reminds everyone there is a dedicated repository to collect presentations about Gammapy.
 
 ### Gammapy 2.0 paper
-Bi-weekly meetings on Fridays at 10:30. Next meeting 12:th of December. Everyone is invited to look at the existing draft in a [dedicated repository](https://github.com/gammapy/gammapy-2.0-paper/wiki/Possible-skeleton-for-the-paper).
+Bi-weekly meetings on Fridays at 10:30. Next meeting 12th of December. Everyone is invited to look at the existing draft in a [dedicated repository](https://github.com/gammapy/gammapy-2.0-paper/wiki/Possible-skeleton-for-the-paper) and assign themselves if they wish.
 
 ### Bruno said something needs to be run manually??
 Didn't catch it.
@@ -27,7 +28,7 @@ There is a new channel on slack dedicated to dark matter development: #dark-matt
 RACC has created [#6232](https://github.com/gammapy/gammapy/pull/6232)  to add support for a new dark matter spectral source. Currently the PR proposes shipping a CosmiXs production file as part of GAMMAPY_DATA, the feasibility of this needs to be investigated further.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
-Maxime REGEARD has found a problem with `plot_error` method of `SpectralModel`, reported in [#6228](https://github.com/gammapy/gammapy/issues/6228), where models with values close to parameter boundaries can generate samples outside the allowed range, and these "forbidden" samples are not handled properly. 
+Maxime REGEARD has found bug in the `plot_error` method of `SpectralModel`, reported in [#6228](https://github.com/gammapy/gammapy/issues/6228). Models with values close to parameter boundaries can generate samples outside the allowed range, and these "forbidden" samples are not handled properly. 
 
 In the reported example these samples resulted in NaNs, which then prevented the use of the samples when making the plot, making the call fail.
 
@@ -42,14 +43,14 @@ DM also suggest using tox-uv to improve performance of the CI jobs.
 
 RT opened  [#6239](https://github.com/gammapy/gammapy/issues/6239) to track the status of all the issues that sonarqube has flagged, and opened PR [#6240](https://github.com/gammapy/gammapy/pull/6240)  to solve some of the flagged issues.
 
-KF calls attention to PR #[6223](https://github.com/gammapy/gammapy/pull/6223) that updates the script for generating the list of contributors to a certain release. It is ready for review.
+KF calls attention to PR [#6223](https://github.com/gammapy/gammapy/pull/6223) that updates the script for generating the list of contributors to a certain release. It is ready for review.
 
 ## Validation & benchmark
 
 ## Ongoing projects
 
 ## Any other business
-AS raises a question about the 1d Spectrum simulation tutorial, where the faking example uses no containment correction but also disregards the psf. Nobody is certain if this entirely correct, AS  will open an issue.
+AS raises a question about the 1D Spectrum simulation tutorial, where the faking example uses no containment correction but also disregards the PSF. Nobody is certain if this entirely correct, AS  will open an issue.
 
 # Automatic activity report
 
