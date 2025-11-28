@@ -16,8 +16,8 @@ BK reminds everyone there is a dedicated repository to collect presentations abo
 ### Gammapy 2.0 paper
 Bi-weekly meetings on Fridays at 10:30. Next meeting 12th of December. Everyone is invited to look at the existing draft in a [dedicated repository](https://github.com/gammapy/gammapy-2.0-paper/wiki/Possible-skeleton-for-the-paper) and assign themselves if they wish.
 
-### Bruno said something needs to be run manually??
-Didn't catch it.
+### Zenodo release of v2.0
+Needs to be done manually. BK will look into it.
 
 ### Unbinned analysis
 No update. Need to more clearly establish meeting times.
