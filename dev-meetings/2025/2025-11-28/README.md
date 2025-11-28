@@ -6,6 +6,8 @@ Attendees:
 # Agenda
 ## General information
 
+[SPIE 2026 conference](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation/presenters) (Copenhagen, 5-10 July): the abstract submission deadline is December, 3rd
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
