@@ -1,18 +1,30 @@
 # Gammapy Developer Meeting 
  * Friday, December 05, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Katharina Egg, Claudio Galelli, Atreyee Sinha, Tomas Bylund, Natthan PIGOUX, MatthiasFuessling, Daniel Morcuende, Fabio Pintore, Quentin Remy
 
 # Agenda
 ## General information
+### Zenodo release for 2.0 ready
+Can be found at https://doi.org/10.5281/zenodo.17814297
+
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
+* PRs [#6256](https://github.com/gammapy/gammapy/pull/6256) and [#6255](https://github.com/gammapy/gammapy/pull/6255) were inspected.
+
+* TB reported an issue where the entire laptop crashed when using multiprocessing and using a dataset located outside the geom.
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
+* KE has filed Issue  [#6258](https://github.com/gammapy/gammapy/issues/6258)  and the proposed a solution submitted as [#6259](https://github.com/gammapy/gammapy/pull/6259) was reviewed.
+* QR submitted [#6254](https://github.com/gammapy/gammapy/pull/6254), [#6252](https://github.com/gammapy/gammapy/pull/6252) , and [#6253](https://github.com/gammapy/gammapy/pull/6253) to fix various issues, these were looked over.
 
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+DM is progressing on going trough the list of issues that codecov found on being run for the first time.
+
+DM is working on speeding up the runtime of the CI, the work is documented in [#6238](https://github.com/gammapy/gammapy/issues/6238)
 
 ## Validation & benchmark
 
