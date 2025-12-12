@@ -1,18 +1,32 @@
 # Gammapy Developer Meeting 
  * Friday, December 12, 2025, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+
+Attendees: Régis Terrier, Tomas Bylund, Kirsty Feijen, Claudio Galelli, Natthan PIGOUX, Katharina Egg, Fabio Acero, Atreyee Sinha,   Quentin Remy
 
 # Agenda
+
 ## General information
+- Bug fix is expected next week. Discussion monday at 10am. It will probably require a release candidate to make sure everything works.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
+- [#6258](https://github.com/gammapy/gammapy/issues/6258) See discussion below on #6259.
+
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
+
+- [#6254](https://github.com/gammapy/gammapy/pull/6254)  Discussion on the possible effect of stacking int on float. Q.R. notes that this PR harmonizes with current behavior of `HpxNDMap` and `RegionNDMap`. Decision to keep PR as is.
+- [#6248](https://github.com/gammapy/gammapy/pull/6248) Decision to go for this and open reminder issue to uniformize `interp_by_coord` on `HpxNDMap` and `RegionNDMap`.
+- [#6270]{https://github.com/gammapy/gammapy/pull/6270) Make `normalize` a `kwargs` in the init function to not break API. Turn into bug and include in the coming release.
+- [#6259](https://github.com/gammapy/gammapy/pull/6259) In connection to issue #6258. Discussion on expected behaviour for a `SpectrumDataset`. RT recalls past choice of keeping PSF on a `MapDataset` with `RegionGeom`, while droping it if converted to a regular `SpectrumDataset`. `MapDataset.to_spectrum_Dataset()` drops the PSF. Decision to follow this logic and remove PSF from `SpectrumDataset.create()`. RT suggests to override `MapDataset.create()` to limit if else statements in the parent class. KE will try to update PR for inclusion in 2.0.1.
 
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
+- [#6272](https://github.com/gammapy/gammapy/pull/6272) This is in fact documentation rather than bug. Add a fragment as this is more than a small fix.
+
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+- [#6176](https://github.com/gammapy/gammapy/pull/6176) REady to be merged. Check locally by cloning the current branch. Decision to merge today and include as part of bugfix. Significant change compared to v2.0 but transparent to the user. In the long run, it is not possible to maintain setup.cfg on v2.0.x and pyproject.toml on main.
 
 ## Validation & benchmark
 
