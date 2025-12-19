@@ -6,6 +6,28 @@ Attendees:
 # Agenda
 ## General information
 
+### Feedback of v2.0.1 release - A.S
+- A release candidate was done this time
+- No serious issue. But 
+	- towncrier fragments are not specific to a version. Need to produce changelog on target branch and commit result on main (and backport). Not ideal. 
+	- bugfix release isntructions incomplete. A.S. has opened a PR to clarify
+	- Zenodo webhook failed again. Zenodo support contacted. 
+- gammapy-documentation was cleaned up. But the artefact is still more than 2 GB.
+- validation was successfully run. Benchmark profiling failed for unclear reasons.
+- Discussion on a possible action to trigger validation when a release trigger is sent
+
+### Next user call
+- A.S. will organize one for end January. Will contact people after the break. The proposed topic could be background creation and handling.
+
+### Gamma-ray analysis primer?
+- The previous point triggers a discussion on how to communicate on good practices beyond what is in the doc. 
+- M.F. recalls the proposed gamma-ray primer document. The coming SDC release could be a nice milestone for a first version.
+- Gammapy team has already numerous elements. We need to have a careful look, discuss opinions and contact people that could contribute. R.T. will organize a dedicated meeting in January.
+- Q.R. shows that current LLMs already provide very good discussions on what to be done for an analysis. We have to adapt content and efforts to this situation.
+
+
+
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
@@ -16,7 +38,18 @@ Attendees:
 
 ## Validation & benchmark
 
+### Prototype validation for confidence interval coverage 
+- R.T presents a draft of validation script for `gammapy-benchmarks` to check if the coverage of flux points confidence intervals is valid for different situations [#178](https://github.com/gammapy/gammapy-benchmarks/pull/178)
+- This will help understand in which cases  the error and UL evaluation is uncertain and requires more advanced tools
+
 ## Ongoing projects
+
+### Regularized Flux Points  for multiple sources
+- Q.R. discusses new prototype PR using penalized fit statistics to estimate "flux points" for a set of sources
+	- [[Prototype] Multi-source regularized flux points](https://github.com/gammapy/gammapy/pull/6296)
+- Allows to obtain combined flux points for different components in a source. Q.R. reminds that our flux points, being independently extracted will have similar fluctuations in overlapping components making their combination unreliable.
+- The algorithm needs tuning of the penalty weight hyper-parameter
+- Result is a model enveloppe more than flux points
 
 ## Any other business
 
