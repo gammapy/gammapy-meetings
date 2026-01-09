@@ -1,12 +1,24 @@
 # Gammapy Developer Meeting 
  * Friday, January 09, 2026, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Atreyee Sinha (AS), Claudio Galelli (CG), Bruno Khelifi (BK), Quentin Remy (QR), Régis Terrier (RT) 
 
 # Agenda
 ## General information
+- Next user call: AS will find a slot at end of January, early February. Possible agenda items:
+	 - BaccMod and other bkg modeling frameworks
+ 	- Talk from a DM WG person to discuss requirements and missing items
+	 - from the gammapy team side: updates on 2.0.1 and possibly a discussion on bkg corrections strategies
+- Next coding sprint:
+	- BK proposes the week following the CTAO meeting in Paris (i.e. Apr 20th)
+	- AS might be around the week after MM conf in Greece (i.e. March 9th)
+ - CG likely busy during these periods. QR timescale unclear for first half of 2026.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
+- Discussion on [New method for the FoVBackgroundMaker: PieceWise+PL](https://github.com/gammapy/gammapy/issues/6297)
+  - QR suggests that the proposed behavior is feasible with simple piecewise. Need to check with existing piecewise+pl implementations.
+  - Do we need a model in the library? Do we need specific documentation for this approach?
+  - In general piecewise approach to FoVBackgroundMAker require adjustements of the `mask_fit` depending on available counts. Can this be done internally as a helper method for users?
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
@@ -16,7 +28,14 @@ Attendees:
 
 ## Validation & benchmark
 
+- Repeated issues with Zenodo download of LST-1 data. Can we find viable solution?
+
 ## Ongoing projects
+
+### Extraction of flux points for multiple sources 
+- QR presents new developments for `FluxPointsCollection` with and without fit statistic penalty
+  - strong performance increase with caching (masking instead of slicing, converting to TemplateNPred models)
+  - Regularized flux points with multiple sources are computationnally heavy and require source per source tuning of the hyper parameter `lambda` that weights the contribution of the penalty. 
 
 ## Any other business
 
