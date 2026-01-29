@@ -21,10 +21,10 @@ Initially scheduled for next week, timed to have an version ready for the CTAO S
 RT requests proposals on what should go into 2.1 to decide on what is an appropriate new date.
 - QR nominates the Bayesian model selection, estimated as needing 1 month.
 
-RT Suggest feature freeze on 27:th of February, and next release March 12.
+RT Suggest feature freeze on 27th of February, and next release the 12th of March.
 
 ### Summer of code
-The Google and European summer of code project applications are due quite soon, is anyone interested in submitting a proposal? RT has one idea about making an ASDF reader.
+The Google and European summer of code project applications are due quite soon, is anyone interested in submitting a proposal? RT has one idea about making an ASDF reader, that was an idea from RT and KF from last year. Will likely resubmit it.
 
 ### Paris Gammapy school
 Planned for 2-6 of November
@@ -33,7 +33,7 @@ Planned for 2-6 of November
 Submission deadlines for summer conferences are approaching, ex COSPAR has deadline 13 of February.
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
-KF has started working on cleaning up gammapy-data, work is being tracked in [#78](https://github.com/gammapy/gammapy-data/issues/78), things like standardisong  
+KF has started working on cleaning up gammapy-data, work is being tracked in [#78](https://github.com/gammapy/gammapy-data/issues/78), things like standardization  
 
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
@@ -44,7 +44,7 @@ BK reports that currently the sphinx build is failing for an unclear reason.
 
 ## Ongoing projects
 ### Unbinned analysis
-Guillaume has returned from the silence and opened 8 new PRs about his unbinned analysis prototype. A meeting for discussing this work is being scheduled via [doodle](https://www.when2meet.com/?34553083-8XKGT).
+Guillaume opened 8 new PRs about the unbinned analysis prototype. A meeting for discussing this work is being scheduled via [doodle](https://www.when2meet.com/?34553083-8XKGT).
 
 ## Any other business
 
