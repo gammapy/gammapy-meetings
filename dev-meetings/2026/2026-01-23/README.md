@@ -46,5 +46,4 @@ BK reports that currently the sphinx build is failing for an unclear reason.
 ### Unbinned analysis
 Guillaume opened 8 new PRs about the unbinned analysis prototype. A meeting for discussing this work is being scheduled via [doodle](https://www.when2meet.com/?34553083-8XKGT).
 
-## Any other business
 
