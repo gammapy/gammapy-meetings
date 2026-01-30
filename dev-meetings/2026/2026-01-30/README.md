@@ -46,7 +46,7 @@ Make a decision [here](github.com/gammapy/gammapy/pull/6339)
 - AS mentions that the point is to obtain the sensitivity of different instruments (i.e. to allow for joint sensitivity)
 - RT to say about creating a joint light curve as well
 - QR mentions the need to make sure we are not double counting events
-- the better option would be to raise the error still but there is an option to override the option (QR)
+- the better option would be to raise the error still but there is an option to override the behavior (QR)
 - we should also document this better and have clearer messages 
 - AS wonders if people will continually want joint light curves, RT says it is hard to know but we should make it a conscious decision by the user to allow the computation 
 - v2.1 solution is to add an argument (bool) to override this with a docstring that explains clearly that this is an experimental feature (from discussion of RT, KF, BK, QR and QS). 
