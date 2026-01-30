@@ -69,7 +69,7 @@ Currently 1 related PR: https://github.com/gammapy/gammapy/pull/6295
 
 We will keep track of SonarQube on the new issue [#6239](https://github.com/gammapy/gammapy/issues/6239)
 - need to make sure we keep track of these, BK will make sure his new PRs are marked as done
-- RT suggests that we fix the `blocker` list before the next release
+- RT suggests that we fix the `blocker` and `critical` list before the next release
 
 ## Validation & benchmark
 
