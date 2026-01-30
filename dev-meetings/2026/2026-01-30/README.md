@@ -26,7 +26,7 @@ Further discussions are occurring on this matter after the introduction of a num
 
 ### Workflow package
 
-QR has made a number of updates
+QR has made a number of updates. Some questions are raised regarding `Product` implementation and how to have some separation of concerns regarding containers and parallelism.
 
 
 ### Gammapy v2.1 discussions
