@@ -6,11 +6,19 @@ Attendees:
 # Agenda
 ## General information
 
+We should discuss what we need/want for 2.1 as the deadline is fast approaching:
+- [Current issues](https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.1)
+- [Current PRs](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.1)
+- [Plus these](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0.2)
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+Currently 1 related PR: https://github.com/gammapy/gammapy/pull/6295
+- And one issue but it should be solved by the corrections in the above: https://github.com/gammapy/gammapy/issues/6287
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
 
