@@ -75,7 +75,7 @@ We will keep track of SonarQube on the new issue [#6239](https://github.com/gamm
 
 Multiple fails occurring but RT has been working on this. 
 
-One solution has been the caching of the data (as these are several MB)
+One solution has been the caching of the data (as these are several hundred MB)
 - could be reused in other places also
 - the workflow will now check the last commit to see if the repo has changed, then the caching will occur (this is defined in `.github/workflows/scheduled.yml`)
 - if you don't find the cache it needs to be run and if it does it will just proceed -- this gives significant speed up (10mins vs 25mins)
