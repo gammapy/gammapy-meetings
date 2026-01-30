@@ -10,6 +10,7 @@ We should discuss what we need/want for 2.1 as the deadline is fast approaching:
 - [Current issues](https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.1)
 - [Current PRs](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.1)
 - [Plus these](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0.2)
+- make a decision [here](github.com/gammapy/gammapy/pull/6339)
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
