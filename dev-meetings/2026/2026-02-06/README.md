@@ -1,18 +1,41 @@
 # Gammapy Developer Meeting 
  * Friday, February 06, 2026, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Tomas Bylund (TB), Regis Terrier (RT), Bruno Khelifi (BK), Marie Carrasco (MC), Kirsty Feijen (KF), Atreyee Sinha (AS), Claudio Galelli (CG), Livia Silva Rocha (LR), Daniel Morcuende (DM), Matthias Fuessling (MF)
+ Katharina Egg (KE), Quentin Remy (QR), Fabio Pintore (FP), Fabio Acero (FA), Nathan Pigoux (NP)
 
 # Agenda
 ## General information
 
+### Google summer of code
+KF submitted proposal via Numfocus (realised too late to submit via Open Astronomy): project to add capability to serialise models to ASDF, RT and KF as mentors. 
+
+A bit unclear when we will know if the project is accepted. Then the next process is for the interns to apply to specific projects.
+
+AS was contacted by an interested computer science student asking if she can suggest a project that they will be able to apply with.
+
+### Next user call
+Mathieu de Bony interested in giving a talk, AS will propose a date. Will be held in the morning.
+
+### Next coding sprint
+LST inauguration and collaboration meeting week 42 (October 12-October 18) and the CTAO construction meeting week 43. Idea is to hold coding sprint around then.
+
+Possibly a spring sprint, in April or May. A doodle will be create in the dev-channel.
+
+Last coding sprint in Paris was in December 2022.
+
+### Design documents for the Critical design reviews
+We need to write them, unclear who will, when they will, and what they should contain. 
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
+ [#6375](https://github.com/gammapy/gammapy/issues/6375) reports an issue with the FermipyDatasetsReader, the primary suspect was the users config. We decided to request more information before doing anything else.
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+A lot of PRs have been opened and merged to fix issues highlighted by sonarcube.
 
 ## Validation & benchmark
 
