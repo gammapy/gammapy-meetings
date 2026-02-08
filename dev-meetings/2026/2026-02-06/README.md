@@ -10,7 +10,7 @@ Attendees: Tomas Bylund (TB), Regis Terrier (RT), Bruno Khelifi (BK), Marie Carr
 ### Google summer of code
 KF submitted proposal via Numfocus (realised too late to submit via Open Astronomy): project to add capability to serialise models to ASDF, RT and KF as mentors. 
 
-A bit unclear when we will know if we get any intern.
+A bit unclear when we will know if the project is accepted. Then the next process is for the interns to apply to specific projects.
 
 AS was contacted by an interested computer science student asking if there will be a 
 
