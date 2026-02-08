@@ -35,7 +35,7 @@ We need to write them, unclear who will, when they will, and what they should co
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
-A lof of PR has been opened and merged to fix issues highlighed by sonarcube.
+A lot of PRs have been opened and merged to fix issues highlighted by sonarcube.
 
 ## Validation & benchmark
 
