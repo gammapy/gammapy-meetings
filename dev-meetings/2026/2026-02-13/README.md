@@ -1,10 +1,21 @@
 # Gammapy Developer Meeting 
  * Friday, February 13, 2026, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Tomas Bylund (TB), Regis Terrier (RT), Bruno Khelifi (BK), Atreyee Sinha (AS), Basmala Hekal (BH), Daniel Morcuende (DM), Katharina Egg (KE), Matthias Fuessling (MF), Quentin Remy (QR), Fabio Pintore (FP)
 
 # Agenda
 ## General information
+### GSOC project
+BH is expressing interest in taking part of the GSOC, RT briefly presented the project and linked to the relevant [issue](https://github.com/gammapy/gammapy/issues/5709).
+
+### Date of coding sprint
+RT suggest two options March 30-April 3, and April 27 to 30. Aim is to have 2.1 released by mid-march.  The coding sprint could be devoted to preparing roadmap for 2.2. 
+
+A doodle will be sent.
+
+### Use of AI tools
+We are starting to see contributions that have clearly been partially made using LLM-type tools, how are we to keep track and properly disclose their use in papers and similar products?
+
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
@@ -13,6 +24,13 @@ Attendees:
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+A new PR [#6381](https://github.com/gammapy/gammapy/pull/6381) that adds GPU acceleration raises the issue of how to test GPU dependent code? On github running GPU workers require paying. BK reports that Nathan Pigoux will try setting up a test runner with GPU access on the Lyon cluster (IN2P3). 
+
+
+- The indexing behavior of get_image_by_idx is apparently confusing. Proposed modification in [#6385](https://github.com/gammapy/gammapy/pull/6385) might be too strong. We could document better the current behavior.
+- We have to clarify the expected convention regarding `pix` and `idx` in the various maps and axes [#6386](https://github.com/gammapy/gammapy/pull/6386)
+
 
 ## Validation & benchmark
 
