@@ -25,7 +25,7 @@ We are starting to see contributions that have clearly been partially made using
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
 
-A new PR [#6381](https://github.com/gammapy/gammapy/pull/6381) that adds GPU acceleration raises the issue of how to test GPU dependent code? On github running GPU workers require paying. BK reports that Nathan Pigoux will try setting up a test runner with GPU access on the Lyon cluster (IN2P?). 
+A new PR [#6381](https://github.com/gammapy/gammapy/pull/6381) that adds GPU acceleration raises the issue of how to test GPU dependent code? On github running GPU workers require paying. BK reports that Nathan Pigoux will try setting up a test runner with GPU access on the Lyon cluster (IN2P3). 
 
 
 This is ones of several PRs is written by a new contributor that is supposed to join CTAO, but unknown when or where.  The PRs seems to have been at least partially written by an LLM.
