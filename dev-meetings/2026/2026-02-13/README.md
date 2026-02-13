@@ -9,7 +9,7 @@ Attendees: Tomas Bylund (TB), Regis Terrier (RT), Bruno Khelifi (BK), Atreyee Si
 BH is expressing interest in taking part of the GSOC, RT briefly presented the project and linked to the relevant [issue](https://github.com/gammapy/gammapy/issues/5709).
 
 ### Date of coding sprint
-RT suggest two options March 30-April 3, and April 30 to ???. Aim is to have 2.1 released shortly before the coding sprint. 
+RT suggest two options March 30-April 3, and April 27 to 30. Aim is to have 2.1 released by mid-march.  The coding sprint could be devoted to preparing roadmap for 2.2. 
 
 A doodle will be sent.
 
