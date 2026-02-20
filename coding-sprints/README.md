@@ -4,10 +4,11 @@ We have regular coding sprints which typically last about one week.
 
 
 [Next meeting:]()
-* [2025-04](2025-04-LaLaguna) - Gammapy coding-sprint (April 10 - 14, IAC, La Laguna, Spain)
+* [2026-04](2026-04-APC) - Gammapy coding-sprint (April 27 - 30, APC, Paris, France)
 
 
 [Old meetings:]()
+* [2025-04](2025-04-LaLaguna) - Gammapy coding-sprint (April 10 - 14, IAC, La Laguna, Spain)
 * [2024-06](2024-06-Heidelberg) - Gammapy coding-sprint (June 10 - 14, MPIK, Heidelberg)
 * [2023-10](2023-10-Palermo) - Gammapy coding-sprint (October 16 - 20, INAF, Palermo)
 * [2023-03](2023-03-Madrid/README.md) - Gammapy coding-sprint (March 20 - 24, UCM, Madrid)
