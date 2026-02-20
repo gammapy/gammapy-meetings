@@ -6,6 +6,8 @@ Attendees:
 # Agenda
 ## General information
 
+- Next coding sprint: Paris, April 27 to 30th [See page](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2026-04-APC)
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
