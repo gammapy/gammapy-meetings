@@ -1,14 +1,19 @@
 # Gammapy Developer Meeting 
  * Friday, February 20, 2026, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Tomas Bylund (TB), Livia Silvia Rocha (LR),  Regis Terrier (RT), Daniel Morcuende (DM), Basmala Hekal (BH), Marie-Sophie Carrasco (MC), Natthan Pigoux (NP), Quentin Remy (QR), Bruno Khelifi (BK), Katharina Egg (KE)
 
 # Agenda
 ## General information
 
-- Next coding sprint: Paris, April 27 to 30th [See page](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2026-04-APC)
+### Next coding sprint
+Paris, April 27 to 30th [See page](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2026-04-APC)
+
+### Gammapy Release 2.1
+March 13, next week we will tag a release candidate. Many issues and PRs to solve before then!
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
+PR [#6409](https://github.com/gammapy/gammapy/pull/6409),  solving an issue where the minimiser could get beyond the bounds of the prior and then get irrecoverably stuck. However the automatic tests revealed an design issue where at serialisation time the priors are expected to have a prior because they are inheriting from `Parameter`. This needs a proper solution, in a separate PR. 
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
