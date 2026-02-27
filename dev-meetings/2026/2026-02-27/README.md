@@ -1,18 +1,24 @@
 # Gammapy Developer Meeting 
  * Friday, February 27, 2026, at 2 pm (CET) 
  * Gammapy Developer Meeting on Zoom (direct link on Slack) 
-Attendees: 
+Attendees: Regis Terrier (RT), Kirsty Feijen (KF), Atreyee Sinha (AS), Basmala Hekal (BH), Bruno Khelifi (BK), Claudio Galelli (CG), Daniel Morcuende (DM), Fabio Acero (FA), Fabio Pintore (FP), Katharina Egg (KE), Livia Rocha (LR), Marie Carrasco (MC), Quentin Remy (QR)
 
 # Agenda
 ## General information
 
 - gammapy recipes should be discussed/reviewed
+- discussion on the TSMapEstimator, QR will look into this bug
 
 ### Finalising of 2.1 
 
 [Current issues](https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.1)
 
+- modify project metadata for EU funded projects, this must be added if we want to publish on Zenodo, otherwise it is a manual release. MC will likely look into this issue to see if she can resolve it
+- discussion and adjusting of the various issues to see if we want them for 2.1
+
 [Current PRs](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.1)
+
+- DM mentions about #6425 to try to resolve a number of warnings
 
 
 
