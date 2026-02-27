@@ -6,6 +6,16 @@ Attendees:
 # Agenda
 ## General information
 
+- gammapy recipes should be discussed/reviewed
+
+### Finalising of 2.1 
+
+[Current issues](https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.1)
+
+[Current PRs](https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.1)
+
+
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
