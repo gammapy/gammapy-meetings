@@ -6,15 +6,19 @@ Attendees:
 # Agenda
 ## General information
 
-## [Open issues](https://github.com/gammapy/gammapy/issues)
+## [Open issues]
 
-## [Bugs](https://github.com/orgs/gammapy/projects/36)
+* For v2.1:https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.1
+* For v2.0.2:https://github.com/gammapy/gammapy/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A2.0.2
 
-## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+## [Open PRs]
 
-## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+* For v2.1: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.1
+* For v2.0.2: https://github.com/gammapy/gammapy/pulls?q=is%3Aopen+is%3Apr+milestone%3A2.0.2
 
 ## Validation & benchmark
+
+* Validation for v2.1 to be run manually? 
 
 ## Ongoing projects
 
