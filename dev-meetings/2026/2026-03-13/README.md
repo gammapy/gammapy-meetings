@@ -6,6 +6,8 @@ Attendees:
 # Agenda
 ## General information
 
+- discussion on [#6496](https://github.com/gammapy/gammapy/pull/6496)
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
