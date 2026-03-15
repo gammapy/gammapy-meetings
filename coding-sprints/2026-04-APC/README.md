@@ -54,6 +54,7 @@ See XXX
 3. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 4. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 5. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
+6. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
 
 X. Please add your name and GitHub name here...
 
