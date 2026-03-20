@@ -5,6 +5,7 @@ Attendees:
 
 # Agenda
 ## General information
+- [v2.1 releae checklist](https://github.com/orgs/gammapy/projects/39/views/1)
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
