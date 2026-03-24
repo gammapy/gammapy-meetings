@@ -7,7 +7,7 @@
 
 * Brief intro to Gammapy latest release 2.1:  Gammapy developers 10 min ([slides])
 * Background modelling with BAccMod:  Mathieu de Bony ~20min ([slides])
-* PWN models with Gammapy: Jason Alan ~ 20 min ([slides])
+* PWN models with Gammapy: Jason Alford ~ 20 min ([slides])
 * Discussions
 
 # Attendies 
