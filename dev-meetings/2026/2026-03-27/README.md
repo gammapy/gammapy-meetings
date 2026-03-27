@@ -6,6 +6,9 @@ Attendees:
 # Agenda
 ## General information
 
+- Reminer: Coding sprint April 27-30  in APC. See [page](https://github.com/gammapy/gammapy-meetings/tree/master/coding-sprints/2026-04-APC)
+- CI duration. How to reduce it? What tests could be removed? Skip docs as default?
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
