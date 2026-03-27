@@ -60,4 +60,5 @@ X. Please add your name and GitHub name here...
 ### Remote
 1. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling)) ??
 2. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
+3. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
 
