@@ -49,15 +49,15 @@ See XXX
 
 ### On-site
 
-1. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
-2. Bruno Khélifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
-3. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
-4. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
-5. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
-6. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
+1. Bruno Khélifi, APC, France ([bkhelifi](https://github.com/bkhelifi))
+2. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
+3. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
+4. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
+5. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
 
 X. Please add your name and GitHub name here...
 
 ### Remote
 1. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling)) ??
+2. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
 
