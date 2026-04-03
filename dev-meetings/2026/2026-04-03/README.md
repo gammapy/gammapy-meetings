@@ -6,6 +6,14 @@ Attendees:
 # Agenda
 ## General information
 
+### v2.1
+- It has been released yesterday. Checklist project complete and closed.
+- Issue with Zenodo deployment. One grant is not recognized
+  - Action for .zenodo.json validation introduced
+  - Zenodo support contacted to remove current entry
+  - Recreating the release on github from v2.1 tag should activate Zenodo webhook without trigerring pypi release
+- currently no Orcids in .zenodo.json. Can add a script to include them as well?
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
