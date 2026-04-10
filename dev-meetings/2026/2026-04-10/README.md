@@ -6,7 +6,7 @@ Attendees:
 # Agenda
 ## General information
 
-AS reports on the user call 
+- AS reports on the user call 
 	- try to have next one before summer
 - MF makes a status about CTAO open SDC
 	- next release will be the one used for the analysis
@@ -17,14 +17,26 @@ AS reports on the user call
 	- CTAO user documentation content will be discussed in the coming weeks 
 	- Updated data model (DL3) will be made available before summer. DL4/5 will come later depending on VODF progress
 - MF and D.M. discuss data volume calculation. A plausible solution is required. Differences between estimates should be understood
+- Possible topics for coming dev calls:
+  - a 3ML wrapper for gammapy datasets.
+  - Vectorized evaluations for 1D spectra
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
 
+- Issue with passing format to `Models.write()` [#6522](https://github.com/gammapy/gammapy/issues/6522)
+  - How to deal with heterogeneous datasets? `ogip` serialization is meant only for `SpectrumDatasetOnOff`.
+    
 ## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
+- Discussion on installation with uv and pixi as project based vs environment based. See :
+  - [Update installation instructions adding uv and pixi](https://github.com/gammapy/gammapy/pull/6539)
+
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+- Building contributors list can be simplified by using only git log within a given time range on a given branch
+  - See [Add script for getting contributors](https://github.com/gammapy/gammapy/pull/6589) 
 
 ## Validation & benchmark
 
