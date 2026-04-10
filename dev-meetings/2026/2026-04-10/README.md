@@ -6,6 +6,18 @@ Attendees:
 # Agenda
 ## General information
 
+AS reports on the user call 
+	- try to have next one before summer
+- MF makes a status about CTAO open SDC
+	- next release will be the one used for the analysis
+	- v2.2 will be the basis of first official CTAO SAT
+	- significant work required for technical documentation and validation
+		- focus on testing/validation/benchmarking
+		- effort needed to make gammapy-benchmarks output easily reviewable
+	- CTAO user documentation content will be discussed in the coming weeks 
+	- Updated data model (DL3) will be made available before summer. DL4/5 will come later depending on VODF progress
+- MF and D.M. discuss data volume calculation. A plausible solution is required. Differences between estimates should be understood
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
