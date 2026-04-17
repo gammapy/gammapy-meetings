@@ -6,6 +6,8 @@ Attendees:
 # Agenda
 ## General information
 
+- A vectorized likelihood evaluation for sampling (Lucas)
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
