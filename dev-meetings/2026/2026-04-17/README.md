@@ -7,6 +7,8 @@ Attendees:
 ## General information
 
 - A vectorized likelihood evaluation for sampling (Lucas)
+  - See the prototype [repository](https://github.com/gammapy/prototype_vectorized_stat_sum)
+  - [Slides]()
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
