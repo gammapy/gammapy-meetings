@@ -53,12 +53,11 @@ See XXX
 2. Kirsty Feijen, APC, France ([Astro-Kirsty](https://github.com/Astro-Kirsty))
 3. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 4. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
-5. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
-6. Natthan Pigoux, LUPM, France ([natthan-pigoux](https://github.com/natthan-pigoux))
+5. Natthan Pigoux, LUPM, France ([natthan-pigoux](https://github.com/natthan-pigoux))
 X. Please add your name and GitHub name here...
 
 ### Remote
 1. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling)) ??
 2. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
 3. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
-
+4. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
