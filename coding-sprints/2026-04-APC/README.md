@@ -54,6 +54,7 @@ See XXX
 3. Régis Terrier, APC, France ([registerrier](https://github.com/registerrier))
 4. Quentin Remy, MPIK, Germany ([QRemy](https://github.com/QRemy))
 5. Natthan Pigoux, LUPM, France ([natthan-pigoux](https://github.com/natthan-pigoux))
+5. Tomas Bylund, LUX, France ([tobychev](https://github.com/tobychev))
 
 X. Please add your name and GitHub name here...
 
