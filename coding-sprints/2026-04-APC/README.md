@@ -42,7 +42,16 @@ See XXX
 
 
 ### Monday
+#### Introduction 10am
 
+### Tuesday
+#### gammapy v2.0 paper - 11 am
+
+### Wednesday
+
+### Thursday
+
+#### Wrap-up 
 
 ## Participants
 
