@@ -41,15 +41,17 @@ See XXX
 ## Agenda
 
 
-### Monday
+### Monday - Room 631B
 #### Introduction 10am
 
-### Tuesday
+### Tuesday AM - Room 631B
 #### gammapy v2.0 paper - 11 am
 
-### Wednesday
+### Tuesday PM - Room 734A
 
-### Thursday
+### Wednesday - Room 631B
+
+### Thursday - Room 631B
 
 #### Wrap-up 
 
