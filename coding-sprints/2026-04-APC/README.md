@@ -44,6 +44,8 @@ See XXX
 ### Monday - Room 631B
 #### Introduction 10am
 
+#### SDC uses cases - 2pm
+
 ### Tuesday AM - Room 631B
 #### gammapy v2.0 paper - 11 am
 
