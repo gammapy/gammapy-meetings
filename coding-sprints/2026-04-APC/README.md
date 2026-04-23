@@ -52,7 +52,7 @@ See XXX
 
 ### Wednesday - Room 631B
 
-#### SDC uses cases - 2pm
+#### SDC uses cases - 3pm
 
 ### Thursday - Room 631B
 
