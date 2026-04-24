@@ -78,3 +78,4 @@ X. Please add your name and GitHub name here...
 3. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
 4. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
 5. Katharina Egg, ECAP, Germany ([k-egg](https://github.com/k-egg))
+5. Marie-Sophie Carrasco, APC, France ([MSCarrasco](https://github.com/MSCarrasco))
