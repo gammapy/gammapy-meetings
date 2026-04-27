@@ -42,13 +42,14 @@ See XXX
 
 
 ### Monday - Room 631B
-#### Introduction 10am
+- Introduction 10am
 
 
 ### Tuesday AM - Room 631B
-#### gammapy v2.0 paper - 11 am
+- Gammapy v2.0 paper - 11 am
 
 ### Tuesday PM - Room 734A
+- Metadata handling - 2 pm
 
 ### Wednesday - Room 631B
 
