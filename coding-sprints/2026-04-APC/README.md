@@ -43,7 +43,7 @@ See XXX
 
 ### Monday - Room 631B
 - Introduction 10am
-  - [slides](gammapy\ coding\ sprint.pdf)
+  - [slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2026-04-APC/gammapy%20coding%20sprint.pdf)
 
 - Roadmap - wrap-up : 4pm
 
