@@ -52,12 +52,10 @@ See XXX
 - Metadata handling - 2 pm
 
 ### Wednesday - Room 631B
-
-#### SDC uses cases - 3pm
+- SDC uses cases - 3pm
 
 ### Thursday - Room 631B
-
-#### Wrap-up 
+- Wrap-up 
 
 ## Participants
 
