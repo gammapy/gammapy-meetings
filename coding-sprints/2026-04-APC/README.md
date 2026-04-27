@@ -43,7 +43,7 @@ See XXX
 
 ### Monday - Room 631B
 - Introduction 10am
-  - [slides]()
+  - [slides](gammapy\ coding\ sprint.pdf)
 
 - Roadmap - wrap-up : 4pm
 
