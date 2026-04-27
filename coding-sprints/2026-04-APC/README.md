@@ -76,7 +76,7 @@ X. Please add your name and GitHub name here...
 1. Matthias Fuessling, CTAO, Germany ([MatthiasFuessling](https://github.com/MatthiasFuessling))
 2. Fabio ACERO, FSLAC/IAC, Spain  ([facero](https://github.com/facero))
 3. Daniel Morcuende, CTAO, Germany ([morcuended](https://github.com/morcuended))
-4. Atreyee Sinha, TIFR, Mumbai ([AtreyeeS](https://github.com/AtreyeeS))
+4. Atreyee Sinha, TIFR, India ([AtreyeeS](https://github.com/AtreyeeS))
 5. Katharina Egg, ECAP, Germany ([k-egg](https://github.com/k-egg))
 5. Marie-Sophie Carrasco, APC, France ([MSCarrasco](https://github.com/MSCarrasco))
 6. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
