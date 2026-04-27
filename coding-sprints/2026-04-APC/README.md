@@ -54,6 +54,7 @@ See XXX
 - Metadata handling - 2 pm
 
 ### Wednesday - Room 631B
+- Open PIGs discussion - 10 am
 - SDC uses cases - 3pm
 
 ### Thursday - Room 631B
