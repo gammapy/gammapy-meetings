@@ -43,7 +43,9 @@ See XXX
 
 ### Monday - Room 631B
 - Introduction 10am
+  - [slides]()
 
+- Roadmap - wrap-up : 4pm
 
 ### Tuesday AM - Room 631B
 - Gammapy v2.0 paper - 11 am
