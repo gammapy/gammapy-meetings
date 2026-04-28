@@ -63,7 +63,8 @@ See XXX
   - Browsing through the proposed changed, a number of additions will be necessary for the various data level products. For instance, a category of new metadata describing the activity resulting in the given product are proposed.  
   - Some work is still needed to determine what is expected in terms of metadata reduction for higher level products (e.g. list of obsids, a table etc)
   - The current framework and metadata model in gammapy is presented. The serialization functions registry is currently only supporting gadf header keywords. A registry of registries (or a multi-entry registry) will be needed to support multiple formats.
-  - Currently some of the serialization is spread in various places in the code, which make the handling of multiple formats and metadata types very complex. This has to be cleaned up see []#6624 []#6625.
+  - Currently some of the serialization is spread in various places in the code, which make the handling of multiple formats and metadata types very complex. This has to be cleaned up see [] #6624 [] #6625.
+  - Global issue for this is [] #6605 
 
 - @MSCarrasco presented a series of 1D analysis checks for preliminary SDC simulated data. Things seems to be working fine. Maybe some check on the 3D background could be useful.
    
