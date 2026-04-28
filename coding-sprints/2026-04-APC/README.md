@@ -46,6 +46,12 @@ See XXX
   - [slides](https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2026-04-APC/gammapy%20coding%20sprint.pdf)
 
 - Roadmap - wrap-up : 4pm
+  - Discussion of proposed issues to include in the roadmap
+  - In total:
+    - 26 issues in P0 (including bugs fix 2.0.2 milestone)
+    - 10 issues in P1
+    - 11 issues in P2
+  - Several P0 issues are large tasks rather than single issues. They will result in several subtasks that will have to be prioritized when defined.   
 
 ### Tuesday AM - Room 631B
 - Gammapy v2.0 paper - 11 am
