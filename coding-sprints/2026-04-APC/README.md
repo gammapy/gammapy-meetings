@@ -55,10 +55,18 @@ See XXX
 
 ### Tuesday AM - Room 631B
 - Gammapy v2.0 paper - 11 am
-
+- Discussion on issue #6522 [summary](https://github.com/gammapy/gammapy/issues/6522#issuecomment-4336705013)
+  
 ### Tuesday PM - Room 734A
 - Metadata handling - 2 pm
+  - A gadf+ format is in preparation that adds to the gadf specifications metadata to make the products FAIR compliant. A document specifying additions in in preparation both the CTAO data model and the HESS data archive. 
+  - Browsing through the proposed changed, a number of additions will be necessary for the various data level products. For instance, a category of new metadata describing the activity resulting in the given product are proposed.  
+  - Some work is still needed to determine what is expected in terms of metadata reduction for higher level products (e.g. list of obsids, a table etc)
+  - The current framework and metadata model in gammapy is presented. The serialization functions registry is currently only supporting gadf header keywords. A registry of registries (or a multi-entry registry) will be needed to support multiple formats.
+  - Currently some of the serialization is spread in various places in the code, which make the handling of multiple formats and metadata types very complex. This has to be cleaned up see []#6624 []#6625.
 
+- @MSCarrasco presented a series of 1D analysis checks for preliminary SDC simulated data. Things seems to be working fine. Maybe some check on the 3D background could be useful.
+   
 ### Wednesday - Room 631B
 - Open PIGs discussion - 10 am
 - SDC uses cases - 3pm
