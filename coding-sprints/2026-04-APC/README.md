@@ -73,8 +73,7 @@ See XXX
 - SDC uses cases - 3pm
 
 ### Thursday - Room 631B
-- Documentation and validation list for the SAT CDR - 11am
-- Wrap-up - Afternoon
+- Wrap-up - 11am
 
 ## Participants
 
