@@ -28,15 +28,10 @@ The meeting will take place at APC (AstroParticule et Cosmologie) that is locate
 ## Group Photo
 
 
-
-## GitHub Project
-
-See XXX
-
 ## Topics
 
 - Transmission of access rights of different entitities/repo to the new Lead Developers
-- 
+
 
 ## Agenda
 
