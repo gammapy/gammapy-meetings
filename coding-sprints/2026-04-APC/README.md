@@ -16,16 +16,14 @@ https://u-paris.zoom.us/j/83737925932?pwd=TTJnVkJQRGtTSEppODFjMFlVNkV0QT09
 
 Github project for the coding sprint : https://github.com/orgs/gammapy/projects/41/views/1
 
-Wiki for discussions of the week : XXX
-
 
 ## Local Logistics
 
 The meeting will take place at APC (AstroParticule et Cosmologie) that is located in Paris (https://apc.u-paris.fr/en/accescontact).
 
-
-
 ## Group Photo
+
+<img width="4080" height="3072" alt="PXL_20260430_102518304" src="https://github.com/user-attachments/assets/34b324dc-337f-42fc-8f7c-a30459dd766b" />
 
 
 ## Topics
