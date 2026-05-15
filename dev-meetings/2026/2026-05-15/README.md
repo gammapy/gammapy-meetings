@@ -6,7 +6,7 @@ Attendees:
 # Agenda
 ## General information
 
-* Tobi Pres: Gammapy plugin for 3ML [gammapy_dev_call_gammapy_plugin.pdf]
+* Tobi Pres: Gammapy plugin for 3ML ([slides](gammapy_dev_call_gammapy_plugin.pdf))
 * Basmala Hekal: ASDF serialisation
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
