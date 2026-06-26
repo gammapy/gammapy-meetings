@@ -29,7 +29,31 @@ Attendees:
 
 ## Ongoing projects
 
+### Map Dataset Downsampling 
+- Katharina presented a PR to extend `MapDataset.downsample()` to support axes beyond spatial (energy true, energy reco, etc.).
+- Key fixes included in the PR:
+  - IRF map downsampling was incorrectly summing over energy true — now correctly averages.
+  - For energy reco: sums; for spatial and energy true: averages.
+- **Decision**: For now, only support **energy true** as an additional axis name; throw an explicit error for unsupported axes rather than silently doing nothing.
+- Docstring needs a full rewrite (currently confusing).
+- A second follow-up PR could address non-integer downsampling factors (leftover bins) — possibly via reprojection.
+- PR remains a draft; tests for new axis behavior to be added.
+
+### Region 0.12 Compatibility Issue (Gammapy 2.1)
+- Fabio identified that Gammapy 2.1 specifies `regions >= 0.9` in `pyproject.toml`, meaning a fresh install today picks up `regions 0.12`, which breaks things (private function import removed without deprecation).
+- The dev version is unaffected, and 2.2 will not have this problem.
+- **No 2.1.1 release planned**, but documentation/environment file should warn users to pin `regions < 0.12` (and possibly SciPy/Astropy versions).
+- **Lesson**: avoid importing private functions from external libraries.
+
+### Multi-Region Analysis PR (`#6006`)
+- Atreyee updated this long-standing PR; it is now ready for review.
+
 ## Any other business
+
+- **Gammapy paper links**: Consensus to update paper references from 2.0 → **2.0.1** (minor bug-fix release); no need to explicitly mention bug fixes in the paper text.
+- **Nested model TS evaluation bug** (found at CTA school): Kirsty has not had time to investigate yet; delta-TS was not varying as expected when comparing point source vs. extended source models with an Asimov dataset. Still on the to-do list.
+- **User statistics badge** (inspired by Astropy's GitHub README): Fabio found a Python script (requires ADS + GitHub tokens) that auto-generates citation/PR/contributor stats as a PNG via CI, see [astropy repo_stats](https://github.com/astropy/repo_stats). A **low-priority issue** will be created to track implementing something similar for Gammapy.
+- **LACT using GammaPy**: A PhD student's seminar confirmed Gammapy is being used for LACT source simulations (SS 433 study). 
 
 # Automatic activity report
 
