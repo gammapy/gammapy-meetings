@@ -6,6 +6,10 @@ Attendees:
 # Agenda
 ## General information
 
+- **New lead developer**: The main website has been updated to reflect Kirsty arrival.
+- **Gammapy paper**: Sent to all co-authors with a deadline of **July 3rd** for comments. A couple of minor comments already received. Discussion around making the citation appear as "Gammapy team" in BibTeX/ADS — this is technically possible (as done by HESS and MAGIC collaborations). To be addressed after July 3rd.
+- **Dark matter activity**: Alexandro is busy this week but will attend the dev call next week to present ongoing work and clarify direction.
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
