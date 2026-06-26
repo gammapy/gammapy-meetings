@@ -18,6 +18,13 @@ Attendees:
 
 ## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
 
+- Several unrelated test failures observed, traced to recent releases of **Astropy** (v8+) and **SciPy**, both breaking things:
+  - SciPy broke observation clustering (a function was removed without deprecation warning).
+  - Astropy v8 broke string formatting of catalogue entries.
+- Workaround: pinned to previous versions for now; underlying issues still need fixing.
+- The "dev versions" CI job (which should have caught this early) was set to `allow_failure` and apparently not monitored — needs investigation.
+- **macOS-specific failure** on Kirsty's energy-dependent estimator PR: one value differs significantly (250 vs 190) on Python 3.13/3.14 with macOS latest. Cannot be reproduced locally. **Mac users are asked to run the branch locally to help debug.**
+
 ## Validation & benchmark
 
 ## Ongoing projects
