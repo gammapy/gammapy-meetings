@@ -21,8 +21,11 @@ Attendees: Régis Terrier, Bruno Khélifi, Daniel Morcuende (CTAO), Quentin Remy
 
 ## Ongoing projects
 
-### ASDF serialization (Basmala Hekal)
-- Basmala demoed her work serializing Gammapy Map objects (WCS and HpxNDMap) to ASDF format, including metadata, geometry, units, and Astropy quantities/time objects, with support for compressing large arrays into binary blocks. Open PRs cover WCSNDMap and HpxNDMap serialization. HEALPix partial-sky maps required extra care due to GADF convention subtleties. Quentin asked whether it could read FITS files not originally written by Gammapy — Basmala believes yes, since the WCS/FITS serialization already exists in ASDF. Next step: serializing higher-level objects (map datasets).
+### ASDF serialization 
+- Basmala demoed her work serializing Gammapy Map objects (WCS and HpxNDMap) to ASDF format, including metadata, geometry, units, and Astropy quantities/time objects, with support for compressing large arrays into binary blocks. Open PRs cover WCSNDMap and HpxNDMap serialization. HEALPix partial-sky maps required extra care due to GADF convention subtleties.
+- Quentin asked whether it could read FITS files not originally written by Gammapy
+  - Basmala believes yes, since the WCS/FITS serialization already exists in ASDF.
+- Next step: serializing higher-level objects (map datasets).
 
 ### Dark Matter
 - Alex : no major blockers, several PRs pending review from others; a single unified class for annihilation and decay cases is planned but will likely wait until after the summer break due to time constraints.
