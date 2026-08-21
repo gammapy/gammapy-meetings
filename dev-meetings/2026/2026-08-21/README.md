@@ -6,6 +6,22 @@ Attendees:
 # Agenda
 ## General information
 
+### How to communicate on known Issues 
+- Discussion prompted by a recurring problem where users report an issue that's already been fixed but not yet released (multiple duplicate issues were found, one recently closed by Kirsty).
+- Since the fix won't be visible until 2.2 (1–2 months out), the group discussed how to reduce duplicate reports in the meantime.
+- Agreed approach: use a pinned GitHub Discussion (versioned, e.g. "v2.1") as a "known issues" page, linked from the issue template and documentation, with an announcement   pinned in the Slack general/help channel.
+- Matthias suggested this should scale to cover known issues across multiple Gammapy versions, not just the latest.
+- Action items:
+  - Create/clean up the pinned discussion for known issues.
+  - Open an issue to track adding this step to the release procedure.
+  - Post a Slack announcement pointing to the new discussion-based mechanism.
+
+### Regions Library and Spherical Regions
+- regions v0.12 introduces spherical regions (independent of WCS), in addition to the existing pixel and sky region types.
+- This likely makes Gammapy's own CircleSkyRegion implementation obsolete. It could be deprecated in favor of the upstream spherical circle region, though not necessarily for 2.2 (more likely 2.3+, once regions 0.12 is a safe minimum dependency).
+- Broader question raised: should Gammapy adopt spherical regions more generally for region geometries, given they're WCS-independent (current implementation assumes a tangent projection at the region center)? Not all shapes have spherical equivalents (e.g. rectangle), though polygon does.  Some interesting new shapes (e.g. "lune," the intersection of two circles).
+- Conversion to pixel regions would still require a WCS, so reflected-region algorithms (which operate on pixel regions) would be largely unaffected for now.
+
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
 
 ## [Bugs](https://github.com/orgs/gammapy/projects/36)
@@ -17,6 +33,13 @@ Attendees:
 ## Validation & benchmark
 
 ## Ongoing projects
+
+### Energy-Dependent / Array-Valued Regions
+- Quentin revisited the old PR (originally from Axel) on array-valued/energy-dependent regions, motivated by energy-dependent RAD_MAX use cases (currently handled via a workaround treating the source as a point region, which loses information about the angular selection applied).
+- Testing showed the original example from Axel's PR was broken and needs fixes; not clearly generalizable yet.
+- Quentin noted a possible additional use case: energy-dependent safe masks for 3D analyses.
+- Open question: whether array-valued regions can be properly serialized (currently unclear/untested) as part of a RegionGeom.
+- Next step: Quentin will test serialization; if it doesn't work cleanly, the effort may not be worth continuing.
 
 ## Any other business
 
