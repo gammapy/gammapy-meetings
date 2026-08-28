@@ -1,23 +1,11 @@
 # Licensed under a 3-clause BSD style license - see LICENSE.rst
 """
-This script will run once a week (on Friday at 6 am? dev_meeting_reports.yml defines the time
-with cron syntax) to create a Gammapy Developer Meeting Report containing pull requests which have been
+This script is used to create a Gammapy Developer Meeting Report containing pull requests which have been
 opened or merged, as well as issues which have been opened since the previous meeting
 """
 
 
 import os
-# from dotenv import load_dotenv
-#
-# # Load .env file
-# load_dotenv()
-#
-# token = os.getenv("SECRET2")
-# if not token:
-#     raise EnvironmentError("SECRET2 environment variable is not set or could not be found.")
-#
-# print("Token successfully loaded.")
-
 from datetime import datetime, timedelta
 import pytz
 from github import Github
@@ -49,7 +37,6 @@ report_heading = f' * {today_long}, at 2 pm (CET) \n ' \
 report_footer = f'\n report created at {time_now}'
 
 # ***************** connecting to the repository of gammapy with token ***************
-
 token = os.environ["SECRET2"]
 gh = Github(token, per_page=200)
 repo_gammapy = gh.get_repo("gammapy/gammapy")
@@ -58,11 +45,10 @@ repo_gammapy = gh.get_repo("gammapy/gammapy")
 gammapy_pulls_all_open = repo_gammapy.get_pulls('open').get_page(0)
 gammapy_pulls_all_closed = repo_gammapy.get_pulls('closed').get_page(0)
 gammapy_issues = repo_gammapy.get_issues(state='open').get_page(0)
-#pulls_page1 = gammapy_pulls_all_open.get_page(0)
+
 # *************** one week long **********************
 days = 8
 d = datetime.today() - timedelta(days=days)
-
 
 def list_items(text, items, closed=False):
     for i in items:
