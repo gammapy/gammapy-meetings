@@ -1,11 +1,7 @@
 name : create meeting report
 on:
   schedule:
-    - cron:  '0 7 * * 5' #   Test. In general, create at 8 am on Friday (0 7 * * 5)
-#on:
-#  push:
-#    branches:
-#      - master
+    - cron:  '0 7 * * 5' #  Create at 7 am on Friday
 jobs:
   get_repo:
     runs-on: ubuntu-latest
@@ -34,8 +30,8 @@ jobs:
         run: git add .
       - name: email config
         run: | 
-          git config --global user.name "Hanna Stapel"
-          git config --global user.email "stapel@apc.in2p3.fr"
+          git config --global user.name "Kirsty Feijen"
+          git config --global user.email "astrokirsty@gmail.com"
       - name: commit changed files
         run: git commit -m 'auto create meeting report'
       - name: push changes
