@@ -1,21 +1,25 @@
 # Gammapy Developer Meeting 
  * Friday, August 28, 2026, at 2 pm (CET) 
- * Gammapy Developer Meeting on Zoom (direct link on Slack)
-   
-Attendees:  Atreyee Sinha, Kirsty Feijen, Tomas Bylund, Fabio Acero, Basmala Hekal
+ * Gammapy Developer Meeting on Zoom (direct link on Slack) 
 
-### Note: the activity report did not generate this week for some reason!
-KF looking into this -- fixed it!
-
-## [Open issues](https://github.com/gammapy/gammapy/issues)
+Attendees: 
 
 # Agenda
 ## General information
 
-- brief overview of the user call that we will plan to have. This will happen later in September (after 22nd)
-- AS mentions the introduction of an on off dataset maker which is a requirement of the SDC
- 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
+
+## [Bugs](https://github.com/orgs/gammapy/projects/36)
+
+## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+
+## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
+
+## Validation & benchmark
+
+## Ongoing projects
+
+## Any other business
 
 # Automatic activity report
 
@@ -37,4 +41,4 @@ KF looking into this -- fixed it!
 ### issues opened last week (less than 8 days ago): 
 * [#6829](https://github.com/gammapy/gammapy/issues/6829) ASDF serialization for IRFMap objects (PSFMap, RecoPSFMap, EDispMap, EDispKernelMap) - Basmala Hekal
 
- report created at 28/08/2026, 12:44:58
+ report created at 28/08/2026, 19:21:39
