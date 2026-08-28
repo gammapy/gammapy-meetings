@@ -10,10 +10,10 @@ jobs:
       - name: echo test
         run: |
           echo "start test"
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v4
+      - name: Set up Python 
+        uses: actions/setup-python@v7
         with:
-            python-version: 3.11
+            python-version: 3.12
       - name: do action checkout
         uses: actions/checkout@v3
       - name: get github repository
