@@ -19,6 +19,40 @@ Attendees:
 
 ## Ongoing projects
 
+### Dark Matter project Update
+
+Reported by: Alex 
+
+- Ongoing corrections/changes in PRs (mainly tutorials), driven by review feedback.
+- One PR is merged; the larger one still needs changes.
+- Additionally open PR from Julia regarding central-pixel handling in J-factor calculation — still under discussion.
+- No major new developments since the last call; team was largely on summer holidays.
+- The monthly DM sub-group meeting has not yet been organized. No date set yet.
+
+### ASDF Serialization Update
+
+Reported by: Basmala 
+
+- Merged: Good Time Intervals (GTI) serialization.
+- Currently open: IRFMap serialization PR.
+- Remaining scope: FluxPoints, FluxPointsDataset, MapDataset/MapDatasetOnOff, and Models.
+
+- Decisions taken:
+  - Priority order agreed: MapDataset / MapDatasetOnOff → Models are the most important pieces (arguably more important than FluxPoint datasets).
+  - For Models serialization: do not build a converter per model type (too many model types); instead, rely on generic dictionary-based serialization of models.
+  - For the IRFMap PR: add at least one or two tests using WcsGeom in addition to the existing RegionGeom-only tests (not necessary for every geometry type, but at least one alternate geometry should be covered).
+
+
+### [#6838](https://github.com/gammapy/gammapy/pull/6838) Catalog Deprecation Policy (2FHL / Fermi Catalogs)
+
+- Discussion: Atreyee raised that the 4FHL PR also proposes removing/deleting the 2FHL catalog files outright, rather than deprecating them. This conflicts with standard deprecation practice (deprecate = keep code/files but warn; here files would be deleted, making the deprecation warning meaningless).
+
+- Context raised: Gammapy does not support all historical catalog releases indefinitely, due to distribution size concerns.
+  FHL catalogs have inconsistent characteristics across versions. A 5th FHL catalog is expected soon, and a new low-energy Fermi catalog is also in preparation.
+
+- Decisions taken:
+  - None finalized. The inconsistency needs resolving: if a catalog is marked deprecated, its underlying files must be kept (you cannot deprecate something you've deleted). To be discussed and decided within PR discussion.
+
 ## Any other business
 
 # Automatic activity report
