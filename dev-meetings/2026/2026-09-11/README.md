@@ -82,19 +82,19 @@ Attendees:
   - Open: whether to continue down this path — Kirsty asked others to review the PR and comment with opinions.
 
 ## Action items
-[ ] Circulate Slack poll for Nov 9–10 / Dec 2–4 working-session availability	(Régis)
+- [x] Circulate Slack poll for Nov 9–10 / Dec 2–4 working-session availability	(Régis)
 - [ ] Fix a date (Oct 2 or Oct 9) for internal team discussion on IRF systematics	(Régis)	
 - [ ] Close user-call poll and send announcement (proposed: Tue 29th, 2–3pm Paris)	(Atreyee)
 - [ ] Restore removed deprecated catalogue file to fix CI 	
 - [ ] Open issue on catalog download strategy (on-demand, hosting, supported list)	(Atreyee)
-- [ ] Draft list of "good first issues" for Plotter refactor (start: IRF, Map)	
-- [ ] Open issue on deriving radial acceptance from exclusion region (early science)	Bruno	
-- [ ] Open issue on making the Asimov dataset public + share tutorial notebook	
-- [ ] Close unbinned-likelihood PIG	Régis	To do (no objections)
-- [ ] Review/comment on PR #6320 (pre-computed simulated datasets)	Team	Open — awaiting input
-- [ ] Review PR #6774 (DM full tutorial, updated)	Atreyee / reviewers	Ready for review
-- [ ] Full 2.2 roadmap review to reprioritize backlog (early October)	Régis / Team	Planned
-- [ ] Check individually assigned 2.2 roadmap issues	All	Ongoing
+- [ ] Draft list of "good first issues" for Plotter refactor 	
+- [ ] Open issue on deriving radial acceptance from exclusion region (early science)	(Bruno)	
+- [ ] Open issue on making the Asimov dataset public + share tutorial notebook (Atreyee)
+- [ ] Mark unbinned-likelihood PIG as withdrawn and merge	(Kirsty)
+- [ ] Review/comment on PR #6320 (pre-computed simulated datasets)	
+- [ ] Review PR #6774 (DM full tutorial, updated)	Atreyee / reviewers	
+- [ ] Full 2.2 roadmap review to reprioritize backlog (early October)	
+- [ ] Check individually assigned 2.2 roadmap issues	
  
 # Automatic activity report
 
