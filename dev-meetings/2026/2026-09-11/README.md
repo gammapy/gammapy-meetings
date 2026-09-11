@@ -82,7 +82,7 @@ Attendees:
   - Open: whether to continue down this path — Kirsty asked others to review the PR and comment with opinions.
 
 ## Action items
-- [ ] Circulate Slack poll for Nov 9–10 / Dec 2–4 working-session availability	(Régis)
+[ ] Circulate Slack poll for Nov 9–10 / Dec 2–4 working-session availability	(Régis)
 - [ ] Fix a date (Oct 2 or Oct 9) for internal team discussion on IRF systematics	(Régis)	
 - [ ] Close user-call poll and send announcement (proposed: Tue 29th, 2–3pm Paris)	(Atreyee)
 - [ ] Restore removed deprecated catalogue file to fix CI 	
