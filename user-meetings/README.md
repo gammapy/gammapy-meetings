@@ -3,7 +3,7 @@
 Users call take place on Zoom. Everyone welcome!
 
 Next meeting:
- * TBD
+ * [2026-09-29](2026/2026-09-29/README.md)
 
 Previous meetings:
 * 2026 :
