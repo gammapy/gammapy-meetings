@@ -1,7 +1,7 @@
 name : create meeting report
 on:
   schedule:
-    - cron:  '0 7 * * 5' #  Create at 7 am on Friday
+    - cron:  '0 2 * * 5' #  Create at 7 am on Friday
   workflow_dispatch:
 jobs:
   get_repo:
