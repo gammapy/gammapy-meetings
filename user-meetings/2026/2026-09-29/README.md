@@ -14,3 +14,9 @@
 *  Upper limit computations - methods and interpretation: Fabio Acero
 * Swift-XRT pileup modeling with Gammpy-mwl: Tora Anderson
 * Discussions
+
+# Participants
+20
+
+# Video recording
+
