@@ -8,17 +8,18 @@ Attendees:
 ## General information
 
 ### Report about user call
-	- few attendance - reached 20
-   - Need to distribute info better next times
- - Talks:
+
+- few attendance - reached 20
+	- Need to distribute info better next times
+- Talks:
   	- 3D usage for pile-up of Swift 
-	  - UL talks 
- - what have we learned about ULs?
-			- bug: if confidence fails success is still True
-			- documentation issue: stat-scan values not used for UL
-				 - might clarify tutorial
-			- 1 sided or 2 sided intervals might not be consistent everywhere
-			- some brazilian flag plot for SED could be useful
+	- UL talks 
+- what have we learned about ULs?
+	- bug: if confidence fails success is still True
+	- documentation issue: stat-scan values not used for UL
+		- might clarify tutorial
+	- 1 sided or 2 sided intervals might not be consistent everywhere
+	- some brazilian flag plot for SED could be useful
 
 
 ## [Open issues](https://github.com/gammapy/gammapy/issues)
@@ -36,37 +37,41 @@ Attendees:
 ### DM project
 
 #### HDM spectra in gammapy (Sruthi)
-	- Objective: Introduce support for Heavy Dark Matter models in Gammapy
- - photon yield depends on DM model
-	  - currently implementation relies on PrimaryFlux using AtProductionGamma file
-	- [HDMspectra](https://github.com/nickrodd/HDMSpectra) package uses data stored in hdf5
-		 - has its own interpolator
-	- option 1: build a AtProductionGamma file manually
-		 - pb: many more channels than other DM spectra
-	- option 2: call the HDMSpectra interpolator
-		 - pb: add a dependency
-		 - pb: list all allowed channels is different 
-	- QR: how efficient is calling the interpolator (called at each evaluation)?
-		 - vectorized energy call
-	- QR: try option 1 with the script in gammapy-data public 
-		 - file size?
-	- decision: test file size after conversion and take decision afterwards
+
+- Objective: Introduce support for Heavy Dark Matter models in Gammapy
+- photon yield depends on DM model
+	- currently implementation relies on PrimaryFlux using AtProductionGamma file
+- [HDMspectra](https://github.com/nickrodd/HDMSpectra) package uses data stored in hdf5
+	- has its own interpolator
+- option 1: build a AtProductionGamma file manually
+	- pb: many more channels than other DM spectra
+- option 2: call the HDMSpectra interpolator
+	- pb: add a dependency
+	- pb: list all allowed channels is different 
+- QR: how efficient is calling the interpolator (called at each evaluation)?
+	- vectorized energy call
+- QR: try option 1 with the script in gammapy-data public 
+	- file size?
+- decision: test file size after conversion and take decision afterwards
 
 #### discussion about priors needed for DM
-	- #6880: not a lognormal prior but a gaussian in log space
-		- gaussian prior for the log of a parameter
-		- not a real pdf 
-	- Question: need to clarify usage and the publicity?
-		- never explicitly called, keep private
+
+- #6880: not a lognormal prior but a gaussian in log space
+	- gaussian prior for the log of a parameter
+	- not a real pdf 
+- Question: need to clarify usage and the publicity?
+	- never explicitly called, keep private
 
  ### Energy dependent region
-	- becomes complex for serialization
-	- close PR but revert serialization commits
-	- Marie: similar usage in BaccMod
-	- decision: don't go for serialization
-		 - check if other solutions could work
+ 
+- becomes complex for serialization
+- close PR but revert serialization commits
+- Marie: similar usage in BaccMod
+- decision: don't go for serialization
+	 - check if other solutions could work
 
 ### Format validation & IO
+
 - simplified validator classes.
 - PIG should be ready by next week
 
