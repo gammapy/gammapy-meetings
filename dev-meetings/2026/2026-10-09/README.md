@@ -6,18 +6,58 @@ Attendees:
 
 # Agenda
 ## General information
+### Meeting notes
 
-## [Open issues](https://github.com/gammapy/gammapy/issues)
+- automatic notes & transcription has been disabled by University
+- need new tool for that
 
-## [Bugs](https://github.com/orgs/gammapy/projects/36)
+### Domain name
 
-## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
+- gammapy.org is still owned by Christoph
+- check how to transfer domain name
 
-## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
-
-## Validation & benchmark
+### New v2.2 release date
+- Decision:
+ - release on Nov 13th
+ - feature freeze Oct 30th
+- Note DM functionalities require #6880 #6876 to be merged
+- Review of v2.2 roadmap and sorting of priorites
+ - 7 issues remain TODO with P0 priority
+ - Non finished issues with lower priority will be postponed at feature freeze
+   
 
 ## Ongoing projects
+
+### Validation: PIG 33
+
+- [#6886](https://github.com/gammapy/gammapy/pull/6886) - Marie
+- new subpackage: gammapy.io.fits
+- 3 levels:
+ - format registry & `DefinitionValidator`
+	- `ValidationReport`  resolves HDU class and perform check and return a report
+	- applied on `DataStore`
+- example usage from existing prototype
+ - example validation report table for a datastore
+	- question on how to add a new format: few lines if few differences
+	- question on SDC format validation: done already for test data in combination with Karl's tool.
+- what about DL4/DL5 definition?
+ - need to organize discussions
+- have the format definition as json files to serve as documentation?
+- try to have comments quickly to implement fast
+  
+### Drift scan support:
+
+- immediate tasks for 2.2 is clear: [#6882](https://github.com/gammapy/gammapy/pull/6882)
+- later need further research to understand how to organize maker
+- Note: irf projection utilities are exposed in the tutorial.
+		- decision: rely instead on existing IRF Map objects.
+
+### DM
+  
+- use dwarves CTAO paper as reference in benchmarks/validation
+- question about [#6880](https://github.com/gammapy/gammapy/pull/6880)
+ - decision: keep private. remove from __init__
+	- remove fragment
 
 ## Any other business
 
