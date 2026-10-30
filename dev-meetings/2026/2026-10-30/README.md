@@ -6,19 +6,44 @@ Attendees:
 
 # Agenda
 ## General information
-
-## [Open issues](https://github.com/gammapy/gammapy/issues)
-
-## [Bugs](https://github.com/orgs/gammapy/projects/36)
-
-## [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
-
-## [DevOps](https://github.com/orgs/gammapy/projects/31/views/1)
-
-## Validation & benchmark
+- None
 
 ## Ongoing projects
 
+### Dark Matter
+- all necessary PRs are merged
+- the rest is postponed to v2.3
+- Action: prepare summary for changelog
+
+### ASDF
+- PR #6902 needs to be finished
+- But this depends on new issue #6834
+- Action: solve issue and merge #6902
+
+### Drift scan support
+- For v2.2: we need to have deprecation of makers/utils.py functions to create DL4 IRFs
+  - This is necessary to prepare drift scan support for v2.3
+  - This requires being able to create a FovFrame within the Observation, hence to always have an `EarthLocation` defined
+    - Needs to understand impact 
+- Some issues remain with edisp_map creation in #6906
+  - Check if the else clause is correct
+- Action: Finalize #6906 and add background too (Tomas)
+- Action: Decide whether to include or not next week (not a new feature)
+
+### Other 2.2 issues/PRs
+- Prod6 IRFs for the same Zenith angles have been added to gammapy-data. (Kirsty)
+	 - Action: add test for new IRFs
+	 - See PR #6942
+- PR #6916  (Kirsty)
+  - Needed for 2.2. Decision: raise for compound of compounds
+- Tutorial on UL to be updated (Atreyee)
+- More docs on stats issue #5854 (Kirsty)
+  - Add link to 1D spectral fit flux point fit
+- documenting FluxCollectionEstimator (Quentin)
+  - just for 1D spectrum for now. Example from CADS updated tutorial from Quentin
+- #6740 needs a last review and a merge
+- discussion about installation instructions
+  - ``all`` environment does not contain jupyterlab or ipython. This needs to be added 
 ## Any other business
 
 # Automatic activity report
