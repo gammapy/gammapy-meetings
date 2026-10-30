@@ -43,7 +43,17 @@ Attendees:
   - just for 1D spectrum for now. Example from CADS updated tutorial from Quentin
 - #6740 needs a last review and a merge
 - discussion about installation instructions
-  - ``all`` environment does not contain jupyterlab or ipython. This needs to be added 
+  - ``all`` environment does not contain jupyterlab or ipython. This needs to be added
+ 
+### v2.2 release
+- Branching to be done Monday 10am CET.
+- [Checklist project](https://github.com/orgs/gammapy/projects/46/views/1)
+  - Actions: Prepare author list and open CITATION.cff PR
+
+### v2.0.2 release
+- To be done in the coming 2 weeks.
+- Announce together with v2.2
+  
 ## Any other business
 
 # Automatic activity report
