@@ -3,10 +3,11 @@
 Users call take place on Zoom. Everyone welcome!
 
 Next meeting:
- * [2026-09-29](2026/2026-09-29/README.md)
+ * TBC
 
 Previous meetings:
 * 2026 :
+  * [2026-09-29](2026/2026-09-29/README.md)
   * [2026-04-07](2026/2026-04-07/README.md)
 * 2025 :
   * [2025-09-22](2025/2025-09-22/README.md)
