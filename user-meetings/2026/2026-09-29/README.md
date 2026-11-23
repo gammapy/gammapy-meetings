@@ -12,7 +12,7 @@
     - Gammapy 2.0 paper submitted to A&A; under review
     - Release candidate prepared for gammapy-mwl: Expected first release soon! 
 *  Upper limit computations - methods and interpretation: Fabio Acero
-* Swift-XRT pileup modeling with Gammpy-mwl: Tora Anderson
+* Swift-XRT pileup modeling with Gammpy-mwl: Tora Anderson ([slides](260929_XRT3D_GammapyUserCall_v1.pdf))
 * Discussions
 
 # Participants
